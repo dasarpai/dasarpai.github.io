@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development Lifecycle (SDLC) on </title>
+    <link>http://localhost:1313/tags/software-development-lifecycle-sdlc/</link>
+    <description>Recent content in Software Development Lifecycle (SDLC) on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-development-lifecycle-sdlc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Complete Ecosystem of Software Development</title>
+      <link>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;The Complete Ecosystem of Software Development 
+    &lt;div id=&#34;the-complete-ecosystem-of-software-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-complete-ecosystem-of-software-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Software processes are a fascinating area because they encapsulate not just the technical aspects but also the collaborative, creative, and even philosophical dimensions of how we build and deliver software. The discussion touches on everything from the foundational coding practices to advanced topics like sustainability, emerging technologies, and human dynamics within development teams. The list of processes, subprocesses, and tools makes sense for those who have been in the software development and maintenance business for quite some time. Even with decades of experience, you will find this list interesting to read, showing how far we have come from the early 80&amp;rsquo;s or 90&amp;rsquo;s software development.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python Software Development and Distribution</title>
+      <link>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</link>
+      <pubDate>Thu, 30 Sep 2021 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Software Distribution 
+    &lt;div id=&#34;software-distribution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#software-distribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;We don’t develop any good and valuable piece of software from scratch. We use pieces of code written by others. This piece of code can be a service running on another machine or software written but kept in a repository. This service may be created by some other company, individual, our company, our team, or ourselves. So any software has two components, one, which is created by us, and we are responsible for the maintenance of that. Another component is a piece of software that is created by someone else, and we are not responsible for the maintenance of that.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

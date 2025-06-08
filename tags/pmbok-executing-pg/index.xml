@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PMBOK Executing PG on </title>
+    <link>http://localhost:1313/tags/pmbok-executing-pg/</link>
+    <description>Recent content in PMBOK Executing PG on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sun, 14 Feb 2021 18:21:32 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmbok-executing-pg/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Manage Stakeholder Engagement</title>
+      <link>http://localhost:1313/pmbok6/Manage-Stakeholder-Engagement/</link>
+      <pubDate>Sun, 14 Feb 2021 18:21:32 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Manage-Stakeholder-Engagement/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Manage Stakeholder Engagement (Process Summary) 
+    &lt;div id=&#34;manage-stakeholder-engagement-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#manage-stakeholder-engagement-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org/&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors&#34;&gt;Enterprise Environmental Factors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/communication-skills&#34;&gt;Communication Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/ground-rules&#34;&gt;Ground Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/meetings&#34;&gt;Meetings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/expert-judgement&#34;&gt;Expert Judgement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan-updates&#34;&gt;Project Management Plan Updates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Implement Risk Responses</title>
+      <link>http://localhost:1313/pmbok6/Implement-Risk-Responses/</link>
+      <pubDate>Sun, 14 Feb 2021 17:13:17 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Implement-Risk-Responses/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Implement Risk Responses (Process Summary) 
+    &lt;div id=&#34;implement-risk-responses-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#implement-risk-responses-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-information-system&#34;&gt;Project Management Information System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/expert-judgement&#34;&gt;Expert Judgement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Acquire Resources</title>
+      <link>http://localhost:1313/pmbok6/Acquire-Resources/</link>
+      <pubDate>Sun, 14 Feb 2021 17:10:22 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Acquire-Resources/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Acquire Resources (Process Summary) 
+    &lt;div id=&#34;acquire-resources-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#acquire-resources-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/decision-making&#34;&gt;Decision Making&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/pre-assignment&#34;&gt;Pre-Assignment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/virtual-teams&#34;&gt;Virtual Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors-updates&#34;&gt;Enterprise Environmental Factors Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets-updates&#34;&gt;Organizational Process Assets Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/physical-resource-assignments&#34;&gt;Physical Resource Assignments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan-updates&#34;&gt;Project Management Plan Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-team-assignments&#34;&gt;Project Team Assignments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/resource-calendars&#34;&gt;Resource Calendars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Manage Project Knowledge</title>
+      <link>http://localhost:1313/pmbok6/Manage-Project-Knowledge/</link>
+      <pubDate>Sun, 14 Feb 2021 17:08:15 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Manage-Project-Knowledge/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Manage Project Knowledge 
+    &lt;div id=&#34;manage-project-knowledge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#manage-project-knowledge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;We know the OPA (Organizational Process Assets) of the organizations contains precious knowledge but the problem is how to use that knowledge that is lying on some servers? &lt;strong&gt;Manage Project Knowledge&lt;/strong&gt; process enables that knowledge so that it is easily able to the project team. You may have noticed that somebody creates some document/ template/ guide with a great effort hoping that other people will be able to use it or I will reuse this in the future, but when we/our team need that document we spend more time in searching than it took to create! Either we want to access the knowledge created by others in the organization or we want to access our own knowledge base we need a system where it is easy to engage with the content provider, creator. It should be accessible in human natural language rather than depending upon exact metadata keywords.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Conduct Procurements</title>
+      <link>http://localhost:1313/pmbok6/Conduct-Procurements/</link>
+      <pubDate>Sun, 14 Feb 2021 16:49:26 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Conduct-Procurements/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Conduct Procurements (Process Summary) 
+    &lt;div id=&#34;conduct-procurements-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#conduct-procurements-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors&#34;&gt;Enterprise Environmental Factors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/procurement-documentation&#34;&gt;Procurement Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/seller-proposals&#34;&gt;Seller Proposals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/advertising&#34;&gt;Advertising&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/bidder-conferences&#34;&gt;Bidder Conferences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/data-analysis&#34;&gt;Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/expert-judgement&#34;&gt;Expert Judgement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/agreements&#34;&gt;Agreements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets-updates&#34;&gt;Organizational Process Assets Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan-updates&#34;&gt;Project Management Plan Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/selected-sellers&#34;&gt;Selected Sellers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;../../pmbok6/process-groups-and-processes-in-pmbok6/&#34;&gt;&lt;strong&gt;PMBOK 6th Edition Process Summary Table&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Manage Communications</title>
+      <link>http://localhost:1313/pmbok6/Manage-Communications/</link>
+      <pubDate>Sun, 14 Feb 2021 16:16:31 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Manage-Communications/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Manage Communications (Process Summary) 
+    &lt;div id=&#34;manage-communications-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#manage-communications-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https:/www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors&#34;&gt;Enterprise Environmental Factors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/work-performance-reports&#34;&gt;Work Performance Reports&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/communication-methods&#34;&gt;Communication Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/communication-skills&#34;&gt;Communication Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/communication-technology&#34;&gt;Communication Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/meetings&#34;&gt;Meetings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-information-system&#34;&gt;Project Management Information System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-reporting&#34;&gt;Project Reporting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets-updates&#34;&gt;Organizational Process Assets Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-communications&#34;&gt;Project Communications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan-updates&#34;&gt;Project Management Plan Updates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Develop Team</title>
+      <link>http://localhost:1313/pmbok6/Develop-Team/</link>
+      <pubDate>Sun, 14 Feb 2021 13:18:06 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Develop-Team/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Develop Team (Process Summary) 
+    &lt;div id=&#34;develop-team-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#develop-team-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors&#34;&gt;Enterprise Environmental Factors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/colocation&#34;&gt;Colocation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/communication-technology&#34;&gt;Communication Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/individual-and-team-assessments&#34;&gt;Individual And Team Assessments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/meetings&#34;&gt;Meetings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/recognition-and-rewards&#34;&gt;Recognition And Rewards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/training&#34;&gt;Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/virtual-teams&#34;&gt;Virtual Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors-updates&#34;&gt;Enterprise Environmental Factors Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets-updates&#34;&gt;Organizational Process Assets Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan-updates&#34;&gt;Project Management Plan Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/team-performance-assessments&#34;&gt;Team Performance Assessments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Manage Team</title>
+      <link>http://localhost:1313/pmbok6/Manage-Team/</link>
+      <pubDate>Sun, 14 Feb 2021 13:15:11 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Manage-Team/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Manage Team (Process Summary) 
+    &lt;div id=&#34;manage-team-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#manage-team-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https:/www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Inputs&lt;/strong&gt; 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors&#34;&gt;Enterprise Environmental Factors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/team-performance-assessments&#34;&gt;Team Performance Assessments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/work-performance-reports&#34;&gt;Work Performance Reports&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Tools &amp;amp; Techniques&lt;/strong&gt; 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/interpersonal-and-team-skills&#34;&gt;Interpersonal And Team Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-information-system&#34;&gt;Project Management Information System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Outputs&lt;/strong&gt; 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/enterprise-environmental-factors-updates&#34;&gt;Enterprise Environmental Factors Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-documents-updates&#34;&gt;Project Documents Updates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-management-plan-updates&#34;&gt;Project Management Plan Updates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;../../pmbok6/process-groups-and-processes-in-pmbok6&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Direct and Manage Project Work</title>
+      <link>http://localhost:1313/pmbok6/Direct-and-Manage-Project-Work/</link>
+      <pubDate>Sun, 14 Feb 2021 11:21:23 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6/Direct-and-Manage-Project-Work/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Direct and Manage Project Work 
+    &lt;div id=&#34;direct-and-manage-project-work&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#direct-and-manage-project-work&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The process of leading and performing the Work defined in the project management plan and implementing approved change requests to achieve the project’s objectives.&lt;/p&gt;
+&lt;p&gt;Following activities need to be performed under this process.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform activities planned to accomplish project’s objective&lt;/li&gt;
+&lt;li&gt;Create project deliverables&lt;/li&gt;
+&lt;li&gt;Staff, train and manage the team members&lt;/li&gt;
+&lt;li&gt;Acquire resources (people, tool, equipments, material) and manage their usage&lt;/li&gt;
+&lt;li&gt;Implement planned methods and standards&lt;/li&gt;
+&lt;li&gt;Establish and manage communication channels&lt;/li&gt;
+&lt;li&gt;Record project data related to project’s scope, cost, quality, schedule etc&lt;/li&gt;
+&lt;li&gt;Initiate change requests&lt;/li&gt;
+&lt;li&gt;Implement approved change requests&lt;/li&gt;
+&lt;li&gt;Manage risks and implement risk responses&lt;/li&gt;
+&lt;li&gt;Manage sellers and suppliers&lt;/li&gt;
+&lt;li&gt;Collect and document lessons learned, implement approved process improvements&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Direct and Manage Project Work (Process Summary) 
+    &lt;div id=&#34;direct-and-manage-project-work-process-summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#direct-and-manage-project-work-process-summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org/&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

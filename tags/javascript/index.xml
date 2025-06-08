@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on </title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exploring Reactjs Library</title>
+      <link>http://localhost:1313/dsblog/exploring-reactjs-library/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-reactjs-library/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6241-Exploring-Reactjs-Library.jpg&#34; alt=&#34;React Logo&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Why this another article around React? 
+    &lt;div id=&#34;why-this-another-article-around-react&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-this-another-article-around-react&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There is no dearth of React tutorial and guide on the internet then why this article?&lt;/p&gt;
+&lt;p&gt;The learning process can be quite diverse, and people come from different backgrounds and experiences. Some may prefer a more structured approach, while others may enjoy exploring concepts through Q&amp;amp;A formats. This article aims to provide a concise introduction to React.js, also known as React, by exploring the most common questions people have about this popular JavaScript library. Whether you&amp;rsquo;re a beginner looking to learn the basics or an experienced developer wanting to know more about React, this article should provide you with a solid foundation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating Python Ecosystem</title>
+      <link>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating Python Ecosystem 
+    &lt;div id=&#34;navigating-python-ecosystem&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-python-ecosystem&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;1. &lt;strong&gt;History of Python Development&lt;/strong&gt; 
+    &lt;div id=&#34;1-history-of-python-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-history-of-python-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Python was created by &lt;strong&gt;Guido van Rossum&lt;/strong&gt; and was first released in 1991. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code compared to other languages like C++ or Java. Significant milestones in Python’s development include:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Processors for HTML CSS JS Code</title>
+      <link>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg&#34; alt=&#34;Processors for HTML CSS JS Code&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Processors for HTML, CSS, and JS Code 
+    &lt;div id=&#34;processors-for-html-css-and-js-code&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#processors-for-html-css-and-js-code&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What are HTML Processors? 
+    &lt;div id=&#34;what-are-html-processors&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-are-html-processors&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;HTML processors (or preprocessors) extend HTML functionality by adding new features like templating, reusable components, loops, conditionals, and more. They simplify development by generating standard HTML with enhanced capabilities. Below are some of the most popular HTML processors and what they do:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating the JavaScript Ecosystem</title>
+      <link>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg&#34; alt=&#34;Navigating the JavaScript Ecosystem&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More 
+    &lt;div id=&#34;navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;This article is trying to answer following questions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Evoluation of Javascript and Relationship with Java.&lt;/li&gt;
+&lt;li&gt;What are popular javascript libraries?&lt;/li&gt;
+&lt;li&gt;What is Node and Node.js?&lt;/li&gt;
+&lt;li&gt;Key Features of Node.js.&lt;/li&gt;
+&lt;li&gt;How are Node and Node.js Related?&lt;/li&gt;
+&lt;li&gt;What are the Central Repositories of Javascript Packages?&lt;/li&gt;
+&lt;li&gt;What is the difference between npm and npx?&lt;/li&gt;
+&lt;li&gt;What are important npx commands?&lt;/li&gt;
+&lt;li&gt;What is the &amp;rsquo;export&amp;rsquo; keyword in javascript?&lt;/li&gt;
+&lt;li&gt;How to Use the Exported Function?&lt;/li&gt;
+&lt;li&gt;What is the meaning of workspace in Yarn pacakge manager?&lt;/li&gt;
+&lt;li&gt;Key Features of Yarn Workspaces.&lt;/li&gt;
+&lt;li&gt;How to Set Up Yarn Workspaces?&lt;/li&gt;
+&lt;li&gt;Can I use multiple package managers in my Javascript project?&lt;/li&gt;
+&lt;li&gt;What are other Important Languages and their primary purpose?&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Evoluation of Javascript and Relationship with Java. 
+    &lt;div id=&#34;evoluation-of-javascript-and-relationship-with-java&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#evoluation-of-javascript-and-relationship-with-java&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There is no relationship between Java and JavaScript.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

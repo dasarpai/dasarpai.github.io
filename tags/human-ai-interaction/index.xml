@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human-AI Interaction on </title>
+    <link>http://localhost:1313/tags/human-ai-interaction/</link>
+    <description>Recent content in Human-AI Interaction on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/human-ai-interaction/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Transfer Learning Key AI Techniques Explained</title>
+      <link>http://localhost:1313/dsblog/Transfer-Learning-Key-AI-Techniques-Explained/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Transfer-Learning-Key-AI-Techniques-Explained/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg&#34; alt=&#34;Transfer Learning Key AI Techniques Explained&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Transfer Learning Key AI Techniques Explained 
+    &lt;div id=&#34;transfer-learning-key-ai-techniques-explained&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#transfer-learning-key-ai-techniques-explained&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In this article we will understand some important concepts used within machine learning.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is in-context Learning?&lt;/li&gt;
+&lt;li&gt;What is Prompt-Engineering?&lt;/li&gt;
+&lt;li&gt;What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li&gt;
+&lt;li&gt;What is Zero-shot learning?&lt;/li&gt;
+&lt;li&gt;How Zero-shot learning is different from In-context Learning?&lt;/li&gt;
+&lt;li&gt;What is Meta-Learning?&lt;/li&gt;
+&lt;li&gt;What is Few-shot learning?&lt;/li&gt;
+&lt;li&gt;Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li&gt;
+&lt;li&gt;What is transfer learning?&lt;/li&gt;
+&lt;li&gt;How do we do transfer learning from existing model?&lt;/li&gt;
+&lt;li&gt;What is finetuning?&lt;/li&gt;
+&lt;li&gt;Which layers to update, what weight to update during finetuning?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Prompt Engineering, In Context Learning and Zero-shot Learning 
+    &lt;div id=&#34;prompt-engineering-in-context-learning-and-zero-shot-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#prompt-engineering-in-context-learning-and-zero-shot-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;What is in-context Learning? 
+    &lt;div id=&#34;what-is-in-context-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-in-context-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating the JavaScript Ecosystem</title>
+      <link>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg&#34; alt=&#34;Navigating the JavaScript Ecosystem&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More 
+    &lt;div id=&#34;navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;This article is trying to answer following questions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Evoluation of Javascript and Relationship with Java.&lt;/li&gt;
+&lt;li&gt;What are popular javascript libraries?&lt;/li&gt;
+&lt;li&gt;What is Node and Node.js?&lt;/li&gt;
+&lt;li&gt;Key Features of Node.js.&lt;/li&gt;
+&lt;li&gt;How are Node and Node.js Related?&lt;/li&gt;
+&lt;li&gt;What are the Central Repositories of Javascript Packages?&lt;/li&gt;
+&lt;li&gt;What is the difference between npm and npx?&lt;/li&gt;
+&lt;li&gt;What are important npx commands?&lt;/li&gt;
+&lt;li&gt;What is the &amp;rsquo;export&amp;rsquo; keyword in javascript?&lt;/li&gt;
+&lt;li&gt;How to Use the Exported Function?&lt;/li&gt;
+&lt;li&gt;What is the meaning of workspace in Yarn pacakge manager?&lt;/li&gt;
+&lt;li&gt;Key Features of Yarn Workspaces.&lt;/li&gt;
+&lt;li&gt;How to Set Up Yarn Workspaces?&lt;/li&gt;
+&lt;li&gt;Can I use multiple package managers in my Javascript project?&lt;/li&gt;
+&lt;li&gt;What are other Important Languages and their primary purpose?&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Evoluation of Javascript and Relationship with Java. 
+    &lt;div id=&#34;evoluation-of-javascript-and-relationship-with-java&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#evoluation-of-javascript-and-relationship-with-java&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There is no relationship between Java and JavaScript.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Applications of GenAI</title>
+      <link>http://localhost:1313/dsblog/Applications-of-GenAI/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Applications-of-GenAI/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6169-Applications-of-GenAI.jpg&#34; alt=&#34;Applications of GenAI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Application of Generative AI (GenAI) 
+    &lt;div id=&#34;application-of-generative-ai-genai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#application-of-generative-ai-genai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Generative AI (GenAI) is transforming how we interact with technology by producing human-like text, images, audio, and even code. Leveraging advanced models, especially large language models (LLMs), GenAI offers a wide range of applications across industries and data types. Let&amp;rsquo;s explore some of the key use cases and how different sectors are benefiting from this technology.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Prompt Engineering</title>
+      <link>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Introduction to Prompt Best Engineering 
+    &lt;div id=&#34;introduction-to-prompt-best-engineering&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-prompt-best-engineering&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Prompts can contain questions, instructions, contextual information, examples, and partial input for the model to complete or continue. After the model receives a prompt, depending on the type of model being used, it can generate text, embeddings, code, images, videos, music, and more. Below are &lt;strong&gt;14 examples of good prompts&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Will AI Replace Human?</title>
+      <link>http://localhost:1313/dsblog/Will-AI-Replace-Human/</link>
+      <pubDate>Thu, 19 Jan 2023 08:33:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Will-AI-Replace-Human/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Artificial Intelligence can Replace Human? 
+    &lt;div id=&#34;artificial-intelligence-can-replace-human&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#artificial-intelligence-can-replace-human&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;The Success of ChatGPT has taken the world by storm. Unless you are not living in some cave you already know what is happening. People are asking questions like will AI replace humans? What will happen to our jobs? What are the challenges? I thought let me write my thought on this. There was significant overlap between these phases, so don&amp;rsquo;t assume that when one phase was over then only the second started.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

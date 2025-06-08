@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on </title>
+    <link>http://localhost:1313/tags/docker/</link>
+    <description>Recent content in Docker on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title>
+      <link>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Integrating Ollama AI Models and Open WebUI on Docker 
+    &lt;div id=&#34;integrating-ollama-ai-models-and-open-webui-on-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#integrating-ollama-ai-models-and-open-webui-on-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ollama, Opensource LLM Framework from Meta, provides a powerful way to work with large language models (LLMs) efficiently. While Open WebUI is a user-friendly interface that simplifies interaction with Ollama-hosted AI models. You can host Ollama and WebUI on your local machine. By using Docker, we can containerize these components, ensuring a seamless and reproducible setup across different environments. This guide will walk you through integrating Ollama and Open WebUI within Docker.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Setting Up a Development Environment with Windows 11, WSL2 and Docker</title>
+      <link>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Setting Development Environment with WSL2, Docker and Github 
+    &lt;div id=&#34;setting-development-environment-with-wsl2-docker-and-github&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#setting-development-environment-with-wsl2-docker-and-github&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;This quick tutorial is about setting Up a Development Environment with Windows 11, WSL 2, Docker and Github&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Like any other operating system, Windows has its strengths and weaknesses. But what if you believe that the democratization of technology is best achieved through open-source solutions, and that Linux is the key to this future? What’s the next step for you?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Container Registry</title>
+      <link>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Introduction to Container Registry 
+    &lt;div id=&#34;introduction-to-container-registry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-container-registry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Container Registry? 
+    &lt;div id=&#34;what-is-container-registry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-container-registry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A container registry is a central store or service where container images are stored, managed and distributed. Container images are packaged applications that include the code, dependencies, libraries and configuration to run in any environment that supports containerization, like Docker or Kubernetes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Docker and VS Code Integration</title>
+      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Docker and VS Code Integration 
+    &lt;div id=&#34;exploring-docker-and-vs-code-integration&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-docker-and-vs-code-integration&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are interested in docker, containers, VS Code and development and looking answers for the following questions then keep reading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: What is use of target in docker container&amp;rsquo;s volume?&lt;/li&gt;
+&lt;li&gt;Question: If I remove the contents of /vscode folder then what will happen?&lt;/li&gt;
+&lt;li&gt;Question: When I have VS Code installed on my machine then why I need &amp;ldquo;VS Code Remote - Containers&amp;rdquo;?&lt;/li&gt;
+&lt;li&gt;Question: Can I use &amp;ldquo;VS Code Remote - Containers&amp;rdquo; with local VS Code?&lt;/li&gt;
+&lt;li&gt;Question: Can I use &amp;ldquo;VS Code Remote - Containers&amp;rdquo; without local VS Code?&lt;/li&gt;
+&lt;li&gt;Question: What are formatters, linters, debuggers, profiler etc other related terms?&lt;/li&gt;
+&lt;li&gt;Question: I have datasets on my local drive d:/project-datasets. How to access them from docker?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: What is use of target in docker container&amp;rsquo;s volume? 
+    &lt;div id=&#34;question-what-is-use-of-target-in-docker-containers-volume&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-is-use-of-target-in-docker-containers-volume&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I have a volume in container in docker. The volume name is minikube-config.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tensorflow GPU Setup on Local Machine</title>
+      <link>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Tensorflow GPU Setup on Local Machine 
+    &lt;div id=&#34;tensorflow-gpu-setup-on-local-machine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tensorflow-gpu-setup-on-local-machine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Tensorflow, pytorch are deep learning libraries or packages. Tensorflow is developed by google and pytorch is developed by Meta. There are some other but these are the most popular one among Machine Learning and Deep Learning Engineers. If you are doing anything significant in NLP, computer vision, voice processing you must have used this library. But the power of the these libraries lies in parallel metrics/tensor computation. For that they use hardwardes like GPU or TPU which has thousands of core and they designed purely for metrics/tensor processing. Intially they were used for gaming purpose but with the surge of AI these machines are in high use and used for model training and inference purpose.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Creating Docker Image</title>
+      <link>http://localhost:1313/dsblog/Creating-Docker-Image/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Creating-Docker-Image/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6122-Creating-Docker-Image.jpg&#34; alt=&#34;Creating-Docker-Image&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Creating Docker Image 
+    &lt;div id=&#34;creating-docker-image&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#creating-docker-image&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Docker? 
+    &lt;div id=&#34;what-is-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker is an open platform for developing, shipping, and running applications.&lt;/li&gt;
+&lt;li&gt;Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.&lt;/li&gt;
+&lt;li&gt;With Docker, you can manage your infrastructure in the same ways you manage your applications.&lt;/li&gt;
+&lt;li&gt;Docker provides the ability to package and run an application in a loosely isolated environment called a container.&lt;/li&gt;
+&lt;li&gt;The isolation and security lets you run many containers simultaneously on a given host.&lt;/li&gt;
+&lt;li&gt;Containers are lightweight and contain everything needed to run the application, so you don&amp;rsquo;t need to rely on what&amp;rsquo;s installed on the host.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Basics Terms Related to Docker 
+    &lt;div id=&#34;basics-terms-related-to-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basics-terms-related-to-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;The Docker daemon 
+    &lt;div id=&#34;the-docker-daemon&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-docker-daemon&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Decoding docker commands</title>
+      <link>http://localhost:1313/dsblog/Decoding-docker-commands/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Decoding-docker-commands/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Decoding docker commands 
+    &lt;div id=&#34;decoding-docker-commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#decoding-docker-commands&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are coming from IT Infrastructure background and have solid experience in containerization you can skip this. But if you are seeking to learn any of the following topic then keep reading.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Model Monitoring on </title>
+    <link>http://localhost:1313/tags/ai-model-monitoring/</link>
+    <description>Recent content in AI Model Monitoring on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-model-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MLOps Tools</title>
+      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;MLOps Tools 
+    &lt;div id=&#34;mlops-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mlops-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;MLOps (Machine Learning Operations) is a set of practices and tools designed to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from both DevOps (Development Operations) and machine learning to ensure that ML models are deployed efficiently, managed effectively, and maintained reliably throughout their lifecycle.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development Tools on </title>
+    <link>http://localhost:1313/tags/development-tools/</link>
+    <description>Recent content in Development Tools on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/development-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Software Development Toolsets Explained</title>
+      <link>http://localhost:1313/dsblog/software-development-toolsets-explained/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/software-development-toolsets-explained/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;34 Must-Know Software Development Toolsets Explained 
+    &lt;div id=&#34;34-must-know-software-development-toolsets-explained&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#34-must-know-software-development-toolsets-explained&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; 
+        src=&#34;https://www.youtube.com/embed/5ivBY3SS2pY&#34; 
+        title=&#34;Retrieval-Augmented Generation with Conflicting Evidence&#34; 
+        frameborder=&#34;0&#34; 
+        allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; 
+        allowfullscreen&gt;
+&lt;/iframe&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are coming from a background of software development then you might have heard of terms like SDK (Software Development Kit), Framework, API (Application Programming Interface), Library, Platform, Toolkit, Engine, Runtime, IDE (Integrated Development Environment), CLI (Command-Line Interface), Middleware, Boilerplate, Stack, Environment, Suite, DSL (Domain-Specific Language), Scaffold, Package, Module, Template, Generator, Container, Orchestrator, Bindings, Driver, Sandbox, and many more. Sometimes you might be beating your head to understand what is the difference between these terms and why people coin a new term every time.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring and Evaluating Integrated Development Environments (IDEs)</title>
+      <link>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring and Evaluating Integrated Development Environments (IDEs) 
+    &lt;div id=&#34;exploring-and-evaluating-integrated-development-environments-ides&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-and-evaluating-integrated-development-environments-ides&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In this article we will explore the history of IDEs and how they have evolved over time. Apart from this we will see how to evalute the best IDE for your needs and what are IDE in AI era.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;A Broad Timeline of IDE Development 
+    &lt;div id=&#34;a-broad-timeline-of-ide-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-broad-timeline-of-ide-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Efficiency (1970s–1980s)&lt;/strong&gt;: Focus on minimalism and raw functionality for basic coding tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhancement (1980s–1990s)&lt;/strong&gt;: Adding productivity tools and integration for growing complexity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration (1990s–2000s)&lt;/strong&gt;: Combining editing, debugging, and building into a cohesive environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration (2000s–2010s)&lt;/strong&gt;: Expanding accessibility and teamwork via cloud and networks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intelligence (2010s–Early 2020s)&lt;/strong&gt;: Leveraging AI for smarter, reactive assistance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agency (Mid-2020s)&lt;/strong&gt;: Shifting to proactive, context-aware systems that act as co-developers.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Features to Evaluate IDE 
+    &lt;div id=&#34;features-to-evaluate-ide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#features-to-evaluate-ide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To compare any Integrated Development Environment (IDE) we need a structured set of features that capture both traditional IDE capabilities and the advanced AI-driven functionalities. These features span core IDE functionality, AI-specific enhancements, usability, and integration, allowing for a fair evaluation competitors like windsurf, Cursor, VS Code with Copilot, JetBrains, or others. Currently I am using windsurf heavily so this feature list is influenced by windsurf.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Docker and VS Code Integration</title>
+      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Docker and VS Code Integration 
+    &lt;div id=&#34;exploring-docker-and-vs-code-integration&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-docker-and-vs-code-integration&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are interested in docker, containers, VS Code and development and looking answers for the following questions then keep reading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: What is use of target in docker container&amp;rsquo;s volume?&lt;/li&gt;
+&lt;li&gt;Question: If I remove the contents of /vscode folder then what will happen?&lt;/li&gt;
+&lt;li&gt;Question: When I have VS Code installed on my machine then why I need &amp;ldquo;VS Code Remote - Containers&amp;rdquo;?&lt;/li&gt;
+&lt;li&gt;Question: Can I use &amp;ldquo;VS Code Remote - Containers&amp;rdquo; with local VS Code?&lt;/li&gt;
+&lt;li&gt;Question: Can I use &amp;ldquo;VS Code Remote - Containers&amp;rdquo; without local VS Code?&lt;/li&gt;
+&lt;li&gt;Question: What are formatters, linters, debuggers, profiler etc other related terms?&lt;/li&gt;
+&lt;li&gt;Question: I have datasets on my local drive d:/project-datasets. How to access them from docker?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: What is use of target in docker container&amp;rsquo;s volume? 
+    &lt;div id=&#34;question-what-is-use-of-target-in-docker-containers-volume&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-is-use-of-target-in-docker-containers-volume&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I have a volume in container in docker. The volume name is minikube-config.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is Package Manager?</title>
+      <link>http://localhost:1313/dsblog/What-is-Package-Manager/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/What-is-Package-Manager/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Question: What is Package Manager? 
+    &lt;div id=&#34;question-what-is-package-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-is-package-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Package managers help simplify the process of software installation, updating, and dependency management on their respective platforms.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: Why are there so many package managers? 
+    &lt;div id=&#34;question-why-are-there-so-many-package-managers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-why-are-there-so-many-package-managers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The variety of package managers exists because different environments, languages, and operating systems have different needs for installing, updating, and managing software. The diversity of these ecosystems leads to specialized tools optimized for the specific challenges of each context. The key reasons for which there are so many package managers are:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Creating Docker Image</title>
+      <link>http://localhost:1313/dsblog/Creating-Docker-Image/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Creating-Docker-Image/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6122-Creating-Docker-Image.jpg&#34; alt=&#34;Creating-Docker-Image&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Creating Docker Image 
+    &lt;div id=&#34;creating-docker-image&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#creating-docker-image&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Docker? 
+    &lt;div id=&#34;what-is-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker is an open platform for developing, shipping, and running applications.&lt;/li&gt;
+&lt;li&gt;Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.&lt;/li&gt;
+&lt;li&gt;With Docker, you can manage your infrastructure in the same ways you manage your applications.&lt;/li&gt;
+&lt;li&gt;Docker provides the ability to package and run an application in a loosely isolated environment called a container.&lt;/li&gt;
+&lt;li&gt;The isolation and security lets you run many containers simultaneously on a given host.&lt;/li&gt;
+&lt;li&gt;Containers are lightweight and contain everything needed to run the application, so you don&amp;rsquo;t need to rely on what&amp;rsquo;s installed on the host.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Basics Terms Related to Docker 
+    &lt;div id=&#34;basics-terms-related-to-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basics-terms-related-to-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;The Docker daemon 
+    &lt;div id=&#34;the-docker-daemon&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-docker-daemon&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Decoding pip install operations</title>
+      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Decoding pip install operations 
+    &lt;div id=&#34;decoding-pip-install-operations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#decoding-pip-install-operations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Your draft provides useful insights into using &lt;code&gt;pip&lt;/code&gt; for Python package management. Here&amp;rsquo;s a refined version of your article with improved structure, grammar, and clarity:&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Managing Python Environments and Packages with &lt;code&gt;pip&lt;/code&gt; 
+    &lt;div id=&#34;managing-python-environments-and-packages-with-pip&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#managing-python-environments-and-packages-with-pip&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;In today&amp;rsquo;s technology landscape, where we deal with numerous programming languages, diverse hardware (CPU, GPU, TPU, etc.), various operating systems, and an extensive open-source community, building software from scratch can be quite challenging. Even when leveraging existing packages or solutions, there are still numerous challenges to consider, including security, safety, and privacy concerns.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Decoding docker commands</title>
+      <link>http://localhost:1313/dsblog/Decoding-docker-commands/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Decoding-docker-commands/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Decoding docker commands 
+    &lt;div id=&#34;decoding-docker-commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#decoding-docker-commands&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are coming from IT Infrastructure background and have solid experience in containerization you can skip this. But if you are seeking to learn any of the following topic then keep reading.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python APIs for Data</title>
+      <link>http://localhost:1313/dsblog/python-apis-for-data/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/python-apis-for-data/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Python APIs for Data 
+    &lt;div id=&#34;python-apis-for-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#python-apis-for-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bing.com/&#34; target=&#34;_blank&#34;&gt;Bing&lt;/a&gt; Bing is a search engine that brings together the best of search and people in your social networks to help you spend less time searching and more time doing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bing.com/dev/en-us/dev-center&#34; target=&#34;_blank&#34;&gt;Api Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/pybing/&#34; target=&#34;_blank&#34;&gt;Python wrapper for the Bing search API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.bitly.com/&#34; target=&#34;_blank&#34;&gt;Bitly&lt;/a&gt; URL shortening and bookmarking service&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dev.bitly.com/get_started.html&#34; target=&#34;_blank&#34;&gt;Api Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/python-bitly/&#34; target=&#34;_blank&#34;&gt;Python wrapper around the bit.ly API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogger.com/&#34; target=&#34;_blank&#34;&gt;Blogger&lt;/a&gt; Blog-publishing service&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>All Resources to Learn Data Science</title>
+      <link>http://localhost:1313/dsblog/all-resources-to-learn-data-science/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/all-resources-to-learn-data-science/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;All Resources to Learn Data Science 
+    &lt;div id=&#34;all-resources-to-learn-data-science&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#all-resources-to-learn-data-science&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Welcome to the AI ML Resources category page, where you&amp;rsquo;ll find a wealth of knowledge on various topics related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Mathematics and statistics required to learn Data Science. Each of the pages mentioned below brings together a wide range of articles, tutorials, and guides that delve into the fascinating world of AI and ML. Whether you&amp;rsquo;re a beginner seeking foundational knowledge or an experienced practitioner looking to expand your skills, these resources offer valuable insights and practical guidance. You need to go through these links one at time. As a master page you can book mark this page.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PMI ACP Courses on </title>
+    <link>http://localhost:1313/tags/pmi-acp-courses/</link>
+    <description>Recent content in PMI ACP Courses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmi-acp-courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PMI ACP Course</title>
+      <link>http://localhost:1313/management/pmi-acp/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/pmi-acp/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc502-pmi-acp.jpg&#34; alt=&#34;PMI ACP&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PMI-ACP Prep Course&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;About Course 
+    &lt;div id=&#34;about-course&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#about-course&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;PMI-ACP® Exam Prep course prepares each participant with all the knowledge required to pass the PMI-ACP® in the first attempt. In the course, we will explain to you the agile terminologies, processes, and skills to pass the course with the minimal post-course study. This course is based upon the PMI®-recommended reference materials on Agile, Scrum, XP, Lean, and other Agile methodologies.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

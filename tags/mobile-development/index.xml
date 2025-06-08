@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Development on </title>
+    <link>http://localhost:1313/tags/mobile-development/</link>
+    <description>Recent content in Mobile Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mobile-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building AI-Powered Flutter Apps: Best Practices for Folder Structure</title>
+      <link>http://localhost:1313/dsblog/Building-AI-Powered-Flutter-Apps/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Building-AI-Powered-Flutter-Apps/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Building AI-Powered Flutter Apps: Best Practices for Folder Structure 
+    &lt;div id=&#34;building-ai-powered-flutter-apps-best-practices-for-folder-structure&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#building-ai-powered-flutter-apps-best-practices-for-folder-structure&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for you? 
+    &lt;div id=&#34;is-this-article-for-you&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-you&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;You want to create a Flutter application but are unsure of which folders should be part of your project.&lt;/li&gt;
+&lt;li&gt;You’ve recently joined a Flutter project team and are struggling to understand why there are so many folders and what they contain. If you create a file, you’re not sure where it should go.&lt;/li&gt;
+&lt;li&gt;Your customer wants to add AI features to an existing Flutter project, and you don’t know where to place the ML models.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you want to add AI features to a Flutter app but don&amp;rsquo;t have an existing AI model, and your team or company is responsible for creating them, it&amp;rsquo;s recommended to keep AI model development separate from the Flutter project. Once the model is ready, you can either embed it within the Flutter app or consume it via an API.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Career on </title>
+    <link>http://localhost:1313/tags/machine-learning-career/</link>
+    <description>Recent content in Machine Learning Career on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/machine-learning-career/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Science Interview Question Answers</title>
+      <link>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Data Science Interview Question Answers 
+    &lt;div id=&#34;data-science-interview-question-answers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-science-interview-question-answers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python &amp;amp; Statistics. These questions are related to technology, architectures and solving business problem. &lt;a href=&#34;https://drive.google.com/drive/folders/1O9DcVhE5r0lBPpZd8bFjaA0FqPv94Vbm?usp=sharing&#34; target=&#34;_blank&#34;&gt;This gdrive link&lt;/a&gt; has 51 pdf files which contains the questions and answers.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

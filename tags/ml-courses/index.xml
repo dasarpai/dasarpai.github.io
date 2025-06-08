@@ -1,0 +1,2256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML Courses on </title>
+    <link>http://localhost:1313/tags/ml-courses/</link>
+    <description>Recent content in ML Courses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ml-courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Train Tensorflow Lite Models for Android</title>
+      <link>http://localhost:1313/dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg&#34; alt=&#34;Building and Deploying Generative AI with Amazon Bedrock&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Building and Deploying Generative AI with Amazon Bedrock 
+    &lt;div id=&#34;building-and-deploying-generative-ai-with-amazon-bedrock&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#building-and-deploying-generative-ai-with-amazon-bedrock&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Course Objective&lt;/strong&gt; 
+    &lt;div id=&#34;course-objective&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#course-objective&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This hands-on Amazon Bedrock workshop is designed to equip participants with in-depth knowledge and practical skills to harness the power of Amazon Bedrock for generative AI applications. Over the course of 2-3 days, participants will gain a foundational understanding of Bedrock&amp;rsquo;s services, learn to configure and integrate its APIs, and customize models to meet specific use cases. By the end of the workshop, participants will be able to build, deploy, and scale generative AI models, applying best practices for performance and cost-efficiency in real-world scenarios.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Design for Cloud Computing with GCP</title>
+      <link>http://localhost:1313/dscourses/Design-for-Cloud-Computing-with-GCP/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Design-for-Cloud-Computing-with-GCP/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg&#34; alt=&#34;Design for Cloud Computing with GCP&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Design for Cloud Computing with GCP 
+    &lt;div id=&#34;design-for-cloud-computing-with-gcp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#design-for-cloud-computing-with-gcp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Duration: 4 weeks : - 20 Days&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Pre-requisites: 
+    &lt;div id=&#34;pre-requisites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pre-requisites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;• Basic Understanding of Cloud Computing
+• Fundamentals of IT and Networking
+• Knowledge on Application development
+• Basic understanding of Linux and Command Line
+• Familiarity with DevOps concepts
+• Familiarity with Git&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Train Tensorflow Lite Models for Android</title>
+      <link>http://localhost:1313/dscourses/Train-Tensorflow-Lite-Models-for-Android/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Train-Tensorflow-Lite-Models-for-Android/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg&#34; alt=&#34;Train Tensorflow Lite Models for Android&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Train Tensorflow Lite Models for Android 
+    &lt;div id=&#34;train-tensorflow-lite-models-for-android&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#train-tensorflow-lite-models-for-android&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Course Overview:&lt;/strong&gt; 
+    &lt;div id=&#34;course-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#course-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ll begin by exploring the basics of Machine Learning and its various types, and then dive into the world of deep learning and artificial neural networks, which will serve as the foundation for training our machine learning models for Android.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>RDBMS</title>
+      <link>http://localhost:1313/dscourses/rdbms/</link>
+      <pubDate>Thu, 30 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/rdbms/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc316-RDBMS.jpg&#34; alt=&#34;RDBMS&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Relational Database Management Systems (RDBMS) 
+    &lt;div id=&#34;relational-database-management-systems-rdbms&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#relational-database-management-systems-rdbms&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this course is as below. This is 60 hours course, it is suggested to complete this course in 1 month.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;An introduction to Database 
+    &lt;div id=&#34;an-introduction-to-database&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#an-introduction-to-database&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction Database&lt;/li&gt;
+&lt;li&gt;RDBMS&lt;/li&gt;
+&lt;li&gt;SQL Database&lt;/li&gt;
+&lt;li&gt;No-SQL Databases&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Basics of SQL 
+    &lt;div id=&#34;basics-of-sql&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basics-of-sql&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Retrieval with SQL&lt;/li&gt;
+&lt;li&gt;Compound Functions and Relational Operators&lt;/li&gt;
+&lt;li&gt;Pattern Matching with Wildcards&lt;/li&gt;
+&lt;li&gt;Basics of Sorting&lt;/li&gt;
+&lt;li&gt;Session Summary&lt;/li&gt;
+&lt;li&gt;Order by Clause&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Advanced SQL 
+    &lt;div id=&#34;advanced-sql&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#advanced-sql&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aggregate Functions&lt;/li&gt;
+&lt;li&gt;Group by Clause &lt;/li&gt;
+&lt;li&gt;Having Clause&lt;/li&gt;
+&lt;li&gt;Nested Queries&lt;/li&gt;
+&lt;li&gt;Inner Join&lt;/li&gt;
+&lt;li&gt;Multi Join&lt;/li&gt;
+&lt;li&gt;Outer Join&lt;/li&gt;
+&lt;li&gt;Summary&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Database design 
+    &lt;div id=&#34;database-design&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#database-design&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Defining Data Warehouse&lt;/li&gt;
+&lt;li&gt;Structure of Data Warehouse&lt;/li&gt;
+&lt;li&gt;OLAP vs. OLTP&lt;/li&gt;
+&lt;li&gt;Star Schema&lt;/li&gt;
+&lt;li&gt;How to Use a Star Schema – A Demonstration&lt;/li&gt;
+&lt;li&gt;Data Warehouse Schema- Industry Example&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Updating Table 
+    &lt;div id=&#34;updating-table&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#updating-table&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Adding and Deleting Columns&lt;/li&gt;
+&lt;li&gt;Changing Column Name and Data Type&lt;/li&gt;
+&lt;li&gt;Creating Table from existing table&lt;/li&gt;
+&lt;li&gt;Changing Constraints (Primary key)&lt;/li&gt;
+&lt;li&gt;Changing Constraints (Foreign key)&lt;/li&gt;
+&lt;li&gt;String Manipulation&lt;/li&gt;
+&lt;li&gt;Date Manipulation&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Window Functions 
+    &lt;div id=&#34;window-functions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#window-functions&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Introduction to Windowing Functions&lt;/li&gt;
+&lt;li&gt;Frames&lt;/li&gt;
+&lt;li&gt;Named Windows&lt;/li&gt;
+&lt;li&gt;Window Functions’ Restrictions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;User Defined Functions and Stored Procedures 
+    &lt;div id=&#34;user-defined-functions-and-stored-procedures&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#user-defined-functions-and-stored-procedures&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Introduction to User defined Functions&lt;/li&gt;
+&lt;li&gt;User defined functions (Application)&lt;/li&gt;
+&lt;li&gt;Introduction to Stored Procedures&lt;/li&gt;
+&lt;li&gt;Stored Procedures (Application)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Query Optimisation 
+    &lt;div id=&#34;query-optimisation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#query-optimisation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Optimisation in Select Clause&lt;/li&gt;
+&lt;li&gt;Optimisation in Where Clause&lt;/li&gt;
+&lt;li&gt;Optimisation in Group by and Order by&lt;/li&gt;
+&lt;li&gt;Optimisation in Joins&lt;/li&gt;
+&lt;li&gt;Optimisation in Window Function&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>http://localhost:1313/dscourses/big-data/</link>
+      <pubDate>Wed, 29 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/big-data/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc315-Big-Data.jpg&#34; alt=&#34;Big Data&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Big Data Analytics 
+    &lt;div id=&#34;big-data-analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#big-data-analytics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Big Data Systems 
+    &lt;div id=&#34;big-data-systems&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#big-data-systems&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;What is Big Data&lt;/li&gt;
+&lt;li&gt;Data Warehouse, Data Lakes&lt;/li&gt;
+&lt;li&gt;Hadoop – Components&lt;/li&gt;
+&lt;li&gt;Storage – HDFS, Hbase&lt;/li&gt;
+&lt;li&gt;Resource Manager (MapReduce, YARN)&lt;/li&gt;
+&lt;li&gt;Types of data formats (JSON, ORC, Parquet, AVRO)&lt;/li&gt;
+&lt;li&gt;Scripting  (Hive, Pig)&lt;/li&gt;
+&lt;li&gt;Stream Processing&lt;/li&gt;
+&lt;li&gt;Massive Parallel Processing (Spark, Imapala, Mahout)&lt;/li&gt;
+&lt;li&gt;RDDs in Spark&lt;/li&gt;
+&lt;li&gt;Data Migration (Scoop/ Flume)&lt;/li&gt;
+&lt;li&gt;Schedular (Oozie)&lt;/li&gt;
+&lt;li&gt;Resource Negotiator (Zookeeper)&lt;/li&gt;
+&lt;li&gt;RDBMS Database&lt;/li&gt;
+&lt;li&gt;Columnar Database&lt;/li&gt;
+&lt;li&gt;Multimodel Database&lt;/li&gt;
+&lt;li&gt;NoSQL (HBase, Cassandra, MongoDB, DynamoDB)&lt;/li&gt;
+&lt;li&gt;RDBMS (MySQL, PostgreSQL)&lt;/li&gt;
+&lt;li&gt;CosmoDB&lt;/li&gt;
+&lt;li&gt;In memory database (Redis)&lt;/li&gt;
+&lt;li&gt;Spark SQL&lt;/li&gt;
+&lt;li&gt;Case Study&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Stream Processing &amp;amp; Analytics 
+    &lt;div id=&#34;stream-processing--analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#stream-processing--analytics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Real Time Streaming Architecture&lt;/li&gt;
+&lt;li&gt;Service Configuration and Coordination&lt;/li&gt;
+&lt;li&gt;Data Flow Management, Storing and Processing Streaming Data&lt;/li&gt;
+&lt;li&gt;Visualization Techniques for Real Time Streaming Data&lt;/li&gt;
+&lt;li&gt;Aggregation (Timed Counting, Multi Resolution Time Series Aggregation)&lt;/li&gt;
+&lt;li&gt;Statistical Approximation&lt;/li&gt;
+&lt;li&gt;Approximating with sketches&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;PySpark 
+    &lt;div id=&#34;pyspark&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pyspark&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Overview &amp;amp; Installation.&lt;/li&gt;
+&lt;li&gt;RDD&lt;/li&gt;
+&lt;li&gt;Dataframe.&lt;/li&gt;
+&lt;li&gt;Architecture.&lt;/li&gt;
+&lt;li&gt;MLLib&lt;/li&gt;
+&lt;li&gt;NLP&lt;/li&gt;
+&lt;li&gt;Linear regression&lt;/li&gt;
+&lt;li&gt;Logistic regression&lt;/li&gt;
+&lt;li&gt;Decision tree&lt;/li&gt;
+&lt;li&gt;Naive Bayes&lt;/li&gt;
+&lt;li&gt;XGBoost&lt;/li&gt;
+&lt;li&gt;Timeseries&lt;/li&gt;
+&lt;li&gt;Spark Job automation with Scheduler&lt;/li&gt;
+&lt;li&gt;NYC Parking Case Study: Apache Spark&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>http://localhost:1313/dscourses/tableau/</link>
+      <pubDate>Tue, 28 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/tableau/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc314-Tableau.jpg&#34; alt=&#34;Tableau&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Tableau Course 
+    &lt;div id=&#34;tableau-course&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tableau-course&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this Tableau course is as below. This is 16 hours course, it is suggested to complete this course in 1 week.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Basic Visualization using Tableau 
+    &lt;div id=&#34;basic-visualization-using-tableau&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basic-visualization-using-tableau&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Tableau&lt;/li&gt;
+&lt;li&gt;Introduction to UI Interface&lt;/li&gt;
+&lt;li&gt;What is Data Analytics?&lt;/li&gt;
+&lt;li&gt;Why Data Visualization?&lt;/li&gt;
+&lt;li&gt;Why Tableau?&lt;/li&gt;
+&lt;li&gt;Tableau vs Excel and Power BI&lt;/li&gt;
+&lt;li&gt;Exploratory vs Explanatory Analysis&lt;/li&gt;
+&lt;li&gt;Getting Started with Tableau&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction and installation 
+    &lt;div id=&#34;introduction-and-installation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-and-installation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dashboarding &amp;amp; storytelling using Tableau&lt;/li&gt;
+&lt;li&gt;Talking about Business Intelligence&lt;/li&gt;
+&lt;li&gt;Tools and Methodologies used in BI&lt;/li&gt;
+&lt;li&gt;Why Visualization is getting more popular&lt;/li&gt;
+&lt;li&gt;Tableau Products&lt;/li&gt;
+&lt;li&gt;Tableau Architecture&lt;/li&gt;
+&lt;li&gt;BI Project Execution&lt;/li&gt;
+&lt;li&gt;Tableau Installation in local system&lt;/li&gt;
+&lt;li&gt;Introduction to Tableau Prep&lt;/li&gt;
+&lt;li&gt;Tableau Prep Builder User Interface&lt;/li&gt;
+&lt;li&gt;Data Preparation techniques using Tableau Prep Builder tool&lt;/li&gt;
+&lt;li&gt;How to connect Tableau with different data source&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Visualizing and Analyzing Data with Tableau 
+    &lt;div id=&#34;visualizing-and-analyzing-data-with-tableau&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#visualizing-and-analyzing-data-with-tableau&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Bar Charts&lt;/li&gt;
+&lt;li&gt;Line Charts and Filters&lt;/li&gt;
+&lt;li&gt;Area Charts&lt;/li&gt;
+&lt;li&gt;Box Plots and Pivoting&lt;/li&gt;
+&lt;li&gt;Maps and Hierarchies&lt;/li&gt;
+&lt;li&gt;Pie Charts&lt;/li&gt;
+&lt;li&gt;Treemaps and Grouping&lt;/li&gt;
+&lt;li&gt;Dashboards – I&lt;/li&gt;
+&lt;li&gt;Visual Segments&lt;/li&gt;
+&lt;li&gt;Visual Analytics in depth&lt;/li&gt;
+&lt;li&gt;Filters, Parameters &amp;amp; Sets&lt;/li&gt;
+&lt;li&gt;Tableau Calculations using functions&lt;/li&gt;
+&lt;li&gt;Tableau Joins&lt;/li&gt;
+&lt;li&gt;Working with multiple data source (Data Blending)&lt;/li&gt;
+&lt;li&gt;Building Predictive Models&lt;/li&gt;
+&lt;li&gt;Dynamic Dashboards and Stories&lt;/li&gt;
+&lt;li&gt;Sharing your Reports&lt;/li&gt;
+&lt;li&gt;Tableau Server&lt;/li&gt;
+&lt;li&gt;User Security&lt;/li&gt;
+&lt;li&gt;Scheduling&lt;/li&gt;
+&lt;li&gt;Joins and Splits&lt;/li&gt;
+&lt;li&gt;Numeric and String Functions&lt;/li&gt;
+&lt;li&gt;Logical and Date Functions&lt;/li&gt;
+&lt;li&gt;Histograms and Parameters&lt;/li&gt;
+&lt;li&gt;Scatter Plots&lt;/li&gt;
+&lt;li&gt;Dual Axis Charts&lt;/li&gt;
+&lt;li&gt;Top N Parameters and Calculated Fields&lt;/li&gt;
+&lt;li&gt;Stacked Bar Charts&lt;/li&gt;
+&lt;li&gt;Dashboards – II and Filter Actions&lt;/li&gt;
+&lt;li&gt;Storytelling&lt;/li&gt;
+&lt;li&gt;Batting Performance Analysis&lt;/li&gt;
+&lt;li&gt;Additional Reading&lt;/li&gt;
+&lt;li&gt;Connecting to MySQL Workbench&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;LOD (Level of Details) 
+    &lt;div id=&#34;lod-level-of-details&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lod-level-of-details&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Mining With Tableau 
+    &lt;div id=&#34;data-mining-with-tableau&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-mining-with-tableau&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Get the Dataset + Project Overview&lt;/li&gt;
+&lt;li&gt;Connecting Tableau to an Excel File&lt;/li&gt;
+&lt;li&gt;How to visualize an ad-hoc A-B test in Tableau&lt;/li&gt;
+&lt;li&gt;Working with Aliases&lt;/li&gt;
+&lt;li&gt;Adding a Reference Line&lt;/li&gt;
+&lt;li&gt;Looking for anomalies&lt;/li&gt;
+&lt;li&gt;Handy trick to validate your approach / data&lt;/li&gt;
+&lt;li&gt;Creating bins &amp;amp; Visualizing distributions&lt;/li&gt;
+&lt;li&gt;Creating a classification test for a numeric variable&lt;/li&gt;
+&lt;li&gt;Combining two charts and working with them in Tableau&lt;/li&gt;
+&lt;li&gt;Validating Tableau Data Mining with a Chi-Squared test&lt;/li&gt;
+&lt;li&gt;Chi-Squared test when there is more than 2 categories&lt;/li&gt;
+&lt;li&gt;Visualising Balance and Estimated Salary distribution&lt;/li&gt;
+&lt;li&gt;Chi-Squared Test&lt;/li&gt;
+&lt;li&gt;Section Recap&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Storytelling 
+    &lt;div id=&#34;data-storytelling&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-storytelling&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Data Storytelling&lt;/li&gt;
+&lt;li&gt;Introduction to the Module&lt;/li&gt;
+&lt;li&gt;Pre-Read Assignment&lt;/li&gt;
+&lt;li&gt;What is Data Storytelling?&lt;/li&gt;
+&lt;li&gt;Importance of Data Storytelling&lt;/li&gt;
+&lt;li&gt;Characteristics of a Good Story with Data&lt;/li&gt;
+&lt;li&gt;What Makes Data Storytelling Difficult?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Components of a Good Story with Data 
+    &lt;div id=&#34;components-of-a-good-story-with-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#components-of-a-good-story-with-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Essential Components of a Good Story with Data&lt;/li&gt;
+&lt;li&gt;Importance of Objective and Agenda&lt;/li&gt;
+&lt;li&gt;Five Patterns of Insights&lt;/li&gt;
+&lt;li&gt;Analysis Approach: Deriving New Columns&lt;/li&gt;
+&lt;li&gt;Analysis Approach: Summarizing Rows&lt;/li&gt;
+&lt;li&gt;Insight Overview&lt;/li&gt;
+&lt;li&gt;Structure and Flow&lt;/li&gt;
+&lt;li&gt;Pyramid Principle&lt;/li&gt;
+&lt;li&gt;Visuals&lt;/li&gt;
+&lt;li&gt;Importance of Visualization&lt;/li&gt;
+&lt;li&gt;Visualization of Quantitative Data&lt;/li&gt;
+&lt;li&gt;Visualization of Qualitative Variables&lt;/li&gt;
+&lt;li&gt;Visualization of Other Types of Information&lt;/li&gt;
+&lt;li&gt;Visualization of Advanced Analytical Techniques&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Golden Rules for an Effective Data Storytelling 
+    &lt;div id=&#34;golden-rules-for-an-effective-data-storytelling&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#golden-rules-for-an-effective-data-storytelling&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Visual Design Principles and Storyboarding&lt;/li&gt;
+&lt;li&gt;Best Practices for Data Storytelling&lt;/li&gt;
+&lt;li&gt;Ideal Solution for the Home Loans Case Study&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>http://localhost:1313/dscourses/power-bi/</link>
+      <pubDate>Mon, 27 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/power-bi/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc313-Power-BI.jpg&#34; alt=&#34;Power BI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Power BI Course 
+    &lt;div id=&#34;microsoft-power-bi-course&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-power-bi-course&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this Power BI course is as below. This is 16 hours course, it is suggested to complete this course within 1 week.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction and Installation 
+    &lt;div id=&#34;introduction-and-installation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-and-installation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Power BI introduction and overview&lt;/li&gt;
+&lt;li&gt;Key Benefits of Power BI&lt;/li&gt;
+&lt;li&gt;Power BI Architecture&lt;/li&gt;
+&lt;li&gt;Power BI – Building Blocks&lt;/li&gt;
+&lt;li&gt;Power BI vs other BI tools&lt;/li&gt;
+&lt;li&gt;Power Installation&lt;/li&gt;
+&lt;li&gt;Overview of Power BI Desktop&lt;/li&gt;
+&lt;li&gt;Power BI Mobile&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction to Interface 
+    &lt;div id=&#34;introduction-to-interface&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-interface&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Sources in Power BI Desktop&lt;/li&gt;
+&lt;li&gt;Connecting to a data Sources&lt;/li&gt;
+&lt;li&gt;Query Editor in Power BI&lt;/li&gt;
+&lt;li&gt;Views in Power BI&lt;/li&gt;
+&lt;li&gt;Field Pane&lt;/li&gt;
+&lt;li&gt;Visual Pane&lt;/li&gt;
+&lt;li&gt;Custom Visual Option&lt;/li&gt;
+&lt;li&gt;Filters &lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Connecting to Different Sources 
+    &lt;div id=&#34;connecting-to-different-sources&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#connecting-to-different-sources&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to using Excel data in Power BI&lt;/li&gt;
+&lt;li&gt;Import Power View and Power Pivot to Power BI&lt;/li&gt;
+&lt;li&gt;Import data from various sources into PowerBI&lt;/li&gt;
+&lt;li&gt;Exploring live connections to data with Power BI&lt;/li&gt;
+&lt;li&gt;Connecting directly to SQL Azure, HD Spark, SQL Server Analysis Services/ My SQL&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Building Reports in Power BI 
+    &lt;div id=&#34;building-reports-in-power-bi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#building-reports-in-power-bi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Power Query Introduction&lt;/li&gt;
+&lt;li&gt;Query Editor Interface&lt;/li&gt;
+&lt;li&gt;Clean and Transform your data with Query Editor&lt;/li&gt;
+&lt;li&gt;Data Type&lt;/li&gt;
+&lt;li&gt;Column Transformations vs Adding Colums&lt;/li&gt;
+&lt;li&gt;Text Transformations&lt;/li&gt;
+&lt;li&gt;Cleaning irregularly formatted data -Transpose&lt;/li&gt;
+&lt;li&gt;Date and Time Calculations&lt;/li&gt;
+&lt;li&gt;Advance editor: Use Case&lt;/li&gt;
+&lt;li&gt;Query Level Parameters&lt;/li&gt;
+&lt;li&gt;Combining Data – Merging and Appending&lt;/li&gt;
+&lt;li&gt;Time Intelligence Functions&lt;/li&gt;
+&lt;li&gt;Types of visualization in a Power BI report&lt;/li&gt;
+&lt;li&gt;Custom visualization to a Power BI report&lt;/li&gt;
+&lt;li&gt;Matrices and tables&lt;/li&gt;
+&lt;li&gt;Getting started with color formatting and axis properties&lt;/li&gt;
+&lt;li&gt;Change how a chart is sorted in a Power BI report&lt;/li&gt;
+&lt;li&gt;Move, resize, and pop out a visualization in a Power BI report&lt;/li&gt;
+&lt;li&gt;Drill down in a visualization in Power BI&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;DAX &amp;amp; PowerBI 
+    &lt;div id=&#34;dax--powerbi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dax--powerbi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What is DAX?&lt;/li&gt;
+&lt;li&gt;Why is DAX important?&lt;/li&gt;
+&lt;li&gt;Calculated Columns&lt;/li&gt;
+&lt;li&gt;Measures/New Quick Measures&lt;/li&gt;
+&lt;li&gt;Calculated Tables&lt;/li&gt;
+&lt;li&gt;Optimizing Data Models&lt;/li&gt;
+&lt;li&gt;Row Context vs Set Context&lt;/li&gt;
+&lt;li&gt;Cross Filter Direction&lt;/li&gt;
+&lt;li&gt;Advanced calculations using Calculate functions&lt;/li&gt;
+&lt;li&gt;DAX queries&lt;/li&gt;
+&lt;li&gt;DAX Parameter Naming&lt;/li&gt;
+&lt;li&gt;Data Acquisition and Transformation in Power BI&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;PowerBI Online 
+    &lt;div id=&#34;powerbi-online&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#powerbi-online&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Power BI Service&lt;/li&gt;
+&lt;li&gt;Power BI Workspace&lt;/li&gt;
+&lt;li&gt;Power BI Publish&lt;/li&gt;
+&lt;li&gt;Reports in Power BI Service&lt;/li&gt;
+&lt;li&gt;Creating Dashboards&lt;/li&gt;
+&lt;li&gt;Publishing Reports and Scheduling Data Refresh&lt;/li&gt;
+&lt;li&gt;Security, Share PowerBI Reports, Dashboards.&lt;/li&gt;
+&lt;li&gt;Accessing Power BI on Mobile&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Modelling with PowerBI 
+    &lt;div id=&#34;data-modelling-with-powerbi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-modelling-with-powerbi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Manage Data Relationship 
+    &lt;div id=&#34;manage-data-relationship&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#manage-data-relationship&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Best Practices in Power BI 
+    &lt;div id=&#34;best-practices-in-power-bi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#best-practices-in-power-bi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>http://localhost:1313/dscourses/reinforcement-learning/</link>
+      <pubDate>Sun, 26 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/reinforcement-learning/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc312-Reinforcement-Learning.jpg&#34; alt=&#34;Reinforcement Learning&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Reinforcement Learning 
+    &lt;div id=&#34;reinforcement-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#reinforcement-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Classical Reinforcement Learning 
+    &lt;div id=&#34;classical-reinforcement-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#classical-reinforcement-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Markov Decision Process 
+    &lt;div id=&#34;markov-decision-process&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#markov-decision-process&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;What is Reinforcement Learning?&lt;/li&gt;
+&lt;li&gt;Agent-Environment Interaction&lt;/li&gt;
+&lt;li&gt;State Vectors&lt;/li&gt;
+&lt;li&gt;Objective of RL Agent&lt;/li&gt;
+&lt;li&gt;Actions &amp;amp; Policy&lt;/li&gt;
+&lt;li&gt;Exploration vs Exploitation&lt;/li&gt;
+&lt;li&gt;Markov State&lt;/li&gt;
+&lt;li&gt;Markov Decision Process (MDP)&lt;/li&gt;
+&lt;li&gt;Value Function&lt;/li&gt;
+&lt;li&gt;Optimal Policy&lt;/li&gt;
+&lt;li&gt;Model of the Environment&lt;/li&gt;
+&lt;li&gt;RL vs Supervised Learning&lt;/li&gt;
+&lt;li&gt;Inventory Management (MDP)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Fundamental Equations in RL 
+    &lt;div id=&#34;fundamental-equations-in-rl&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fundamental-equations-in-rl&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;RL Equations – State Value Function&lt;/li&gt;
+&lt;li&gt;RL Equations – Action Value Function&lt;/li&gt;
+&lt;li&gt;Understanding the RL Equations&lt;/li&gt;
+&lt;li&gt;Bellman Equations of Optimality&lt;/li&gt;
+&lt;li&gt;Policy Improvement&lt;/li&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Model-Based Method – Dynamic Programming 
+    &lt;div id=&#34;model-based-method--dynamic-programming&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#model-based-method--dynamic-programming&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dynamic Programming&lt;/li&gt;
+&lt;li&gt;Policy Iteration – Algorithm&lt;/li&gt;
+&lt;li&gt;Policy Evaluation – Prediction&lt;/li&gt;
+&lt;li&gt;Policy Improvement – Control&lt;/li&gt;
+&lt;li&gt;Policy Iteration – GridWorld&lt;/li&gt;
+&lt;li&gt;Value Iteration&lt;/li&gt;
+&lt;li&gt;Generalised Policy Iteration (GPI)&lt;/li&gt;
+&lt;li&gt;Ad Placement Optimization (Demo)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Model-Free Methods 
+    &lt;div id=&#34;model-free-methods&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#model-free-methods&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Intuition behind Monte-Carlo Methods&lt;/li&gt;
+&lt;li&gt;Monte-Carlo Prediction &amp;amp; Demo&lt;/li&gt;
+&lt;li&gt;Monte-Carlo Control&lt;/li&gt;
+&lt;li&gt;Off Policy&lt;/li&gt;
+&lt;li&gt;Temporal Difference&lt;/li&gt;
+&lt;li&gt;Q-Learning with Pseudocode&lt;/li&gt;
+&lt;li&gt;Cliff Walking Demo&lt;/li&gt;
+&lt;li&gt;Ad Placement Optimization Demo -Q Learning&lt;/li&gt;
+&lt;li&gt;OpenAI Gym -Taxi v2&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Inventory Management Demo 
+    &lt;div id=&#34;inventory-management-demo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inventory-management-demo&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Problem Statement&lt;/li&gt;
+&lt;li&gt;MDP code&lt;/li&gt;
+&lt;li&gt;Q-Learning code&lt;/li&gt;
+&lt;li&gt;Results&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Assignment -Classical Reinforcement Learning 
+    &lt;div id=&#34;assignment--classical-reinforcement-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assignment--classical-reinforcement-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Assignment – Tic-Tac-Toe 
+    &lt;div id=&#34;assignment--tic-tac-toe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assignment--tic-tac-toe&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Deep Reinforcement Learning 
+    &lt;div id=&#34;deep-reinforcement-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#deep-reinforcement-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Want to build your own Atari Game? Learn the Q-function or policy using the various Deep Reinforcement Learning algorithms: Deep Q Learning, Policy Gradient Methods, Actor-Critic method.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Explainable AI</title>
+      <link>http://localhost:1313/dscourses/explainable-ai/</link>
+      <pubDate>Sat, 25 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/explainable-ai/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc311-Explainable-AI.jpg&#34; alt=&#34;Explainable AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Explainable AI - XAI 
+    &lt;div id=&#34;explainable-ai---xai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#explainable-ai---xai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Please contant me via &lt;a href=&#34;mailto:hari@dasarpai.com&#34;&gt;hari@dasarpai.com&lt;/a&gt; or whatsapp +91 9 5 3 5 9 9 9 3 3 6 
+    &lt;div id=&#34;please-contant-me-via--or-whatsapp-91-9-5-3-5-9-9-9-3-3-6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#please-contant-me-via--or-whatsapp-91-9-5-3-5-9-9-9-3-3-6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Excel</title>
+      <link>http://localhost:1313/dscourses/microsoft-excel/</link>
+      <pubDate>Fri, 24 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/microsoft-excel/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc310-Microsoft-Excel.jpg&#34; alt=&#34;Microsoft Excel&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Excel 
+    &lt;div id=&#34;microsoft-excel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-excel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction to Excel 
+    &lt;div id=&#34;introduction-to-excel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-excel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Basic 
+    &lt;div id=&#34;basic&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basic&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft Excel Fundamentals&lt;/li&gt;
+&lt;li&gt;Introduction to Interface&lt;/li&gt;
+&lt;li&gt;Discovering Shortcuts&lt;/li&gt;
+&lt;li&gt;Entering and Editing Text and Formulas&lt;/li&gt;
+&lt;li&gt;Excel Data Validation&lt;/li&gt;
+&lt;li&gt;Excel List Functions&lt;/li&gt;
+&lt;li&gt;Slicing and Dicing Data – Sort and Filter&lt;/li&gt;
+&lt;li&gt;Cell Referencing and Text Functions&lt;/li&gt;
+&lt;li&gt;Passwords and Naming Files&lt;/li&gt;
+&lt;li&gt;Inserting Images and Shapes into an Excel Worksheet&lt;/li&gt;
+&lt;li&gt;Modifying an Excel Worksheet&lt;/li&gt;
+&lt;li&gt;Protecting Excel Worksheets and Workbooks&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Working with Cells 
+    &lt;div id=&#34;working-with-cells&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#working-with-cells&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cell Referencing and Text Functions&lt;/li&gt;
+&lt;li&gt;Common Errors in Excel&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Working with Formulae 
+    &lt;div id=&#34;working-with-formulae&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#working-with-formulae&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Formulae&lt;/li&gt;
+&lt;li&gt;Logical Formulae&lt;/li&gt;
+&lt;li&gt;Lookup Functions&lt;/li&gt;
+&lt;li&gt;Text Based Functions&lt;/li&gt;
+&lt;li&gt;Complex Functions&lt;/li&gt;
+&lt;li&gt;Conditional Functions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Working with Files 
+    &lt;div id=&#34;working-with-files&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#working-with-files&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Importing and Exporting Data&lt;/li&gt;
+&lt;li&gt;Importing Data from Text Files&lt;/li&gt;
+&lt;li&gt;Delimited Files&lt;/li&gt;
+&lt;li&gt;Auditing an Excel Worksheet&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Printing &amp;amp; Formatting 
+    &lt;div id=&#34;printing--formatting&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#printing--formatting&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Formatting Data in an Excel Worksheet&lt;/li&gt;
+&lt;li&gt;Preparing Weekly Report&lt;/li&gt;
+&lt;li&gt;Printing an Excel Worksheet&lt;/li&gt;
+&lt;li&gt;Printing and Page Layout&lt;/li&gt;
+&lt;li&gt;Report Making II: Conditional Formatting&lt;/li&gt;
+&lt;li&gt;Report Making III: Advanced Formatting&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Advance Excel 
+    &lt;div id=&#34;advance-excel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#advance-excel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Charts 
+    &lt;div id=&#34;charts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#charts&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Types of Charts&lt;/li&gt;
+&lt;li&gt;Charts&lt;/li&gt;
+&lt;li&gt;Creating Basic Charts in Excel&lt;/li&gt;
+&lt;li&gt;Creating and Formatting Charts&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Pivot 
+    &lt;div id=&#34;pivot&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pivot&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating a Pivot Table&lt;/li&gt;
+&lt;li&gt;Analyzing Data in a Pivot Table&lt;/li&gt;
+&lt;li&gt;Filtering Data in a Pivot Table&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Automation 
+    &lt;div id=&#34;automation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#automation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;VBA&lt;/li&gt;
+&lt;li&gt;Automating Repetitive Tasks in Excel with Macros&lt;/li&gt;
+&lt;li&gt;Preparing and Cleaning Up Data with VBA&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Analysis 
+    &lt;div id=&#34;analysis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#analysis&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mastering Excel “What If?” Tools&lt;/li&gt;
+&lt;li&gt;Working with Large Sets of Excel Data&lt;/li&gt;
+&lt;li&gt;VLOOKUP-Linking Data from Multiple Files &amp;amp; Tables&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Visualization and EDA in Excel 
+    &lt;div id=&#34;visualization-and-eda-in-excel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#visualization-and-eda-in-excel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Limitations of Excel 
+    &lt;div id=&#34;limitations-of-excel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#limitations-of-excel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>http://localhost:1313/dscourses/Data-Engineering/</link>
+      <pubDate>Thu, 23 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Data-Engineering/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc309-Data-Engineering.jpg&#34; alt=&#34;Data Engineering&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Data Engineering 
+    &lt;div id=&#34;data-engineering&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-engineering&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Exploratory Data Analysis (EDA) 
+    &lt;div id=&#34;exploratory-data-analysis-eda&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploratory-data-analysis-eda&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Data sourcing – public and private data&lt;/li&gt;
+&lt;li&gt;Data cleaning – handling missing values, handling invalid data, filtering data, standardization, etc.&lt;/li&gt;
+&lt;li&gt;Univariate analysis – unordered vs ordered categorical variables, quantitative variables &amp;amp; measures of central tendency&lt;/li&gt;
+&lt;li&gt;Segmented univariate analysis – basis of segmentation, comparison of averages and other metrics&lt;/li&gt;
+&lt;li&gt;Bivariate analysis – bivariate on quantitative and categorical variables, correlation&lt;/li&gt;
+&lt;li&gt;Derived metrics – introduction, type-driven metrics, business-driven metrics, data-driven metrics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examples&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature engineering and selection.&lt;/li&gt;
+&lt;li&gt;Analyzing bike sharing trends.&lt;/li&gt;
+&lt;li&gt;Analyzing movie reviews sentiment.&lt;/li&gt;
+&lt;li&gt;Customer segmentation and effective cross-selling.&lt;/li&gt;
+&lt;li&gt;Analyzing wine types and quality.&lt;/li&gt;
+&lt;li&gt;Analyzing music trends and recommendations.&lt;/li&gt;
+&lt;li&gt;Forecasting stock and commodity prices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Mining 
+    &lt;div id=&#34;data-mining&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-mining&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction: Definitions, Activities, Process, Key challenges&lt;/li&gt;
+&lt;li&gt;Understanding Data:  Data Types/ Attribute Types,  Statistical Descriptions of Data&lt;/li&gt;
+&lt;li&gt;Measuring Data Similarity and Dissimilarity&lt;/li&gt;
+&lt;li&gt;Data Pre-processing – Overview&lt;/li&gt;
+&lt;li&gt;Association Rule Mining&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Modelling 
+    &lt;div id=&#34;data-modelling&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-modelling&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Cleaning 
+    &lt;div id=&#34;data-cleaning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-cleaning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Visualization &amp;amp; Interpretation 
+    &lt;div id=&#34;data-visualization--interpretation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-visualization--interpretation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Information overload and issues in decision making&lt;/li&gt;
+&lt;li&gt;Design of visual encoding schemes to improve comprehension of data and their use in decision making&lt;/li&gt;
+&lt;li&gt;Presentation and visualization of data for effective communication&lt;/li&gt;
+&lt;li&gt;Elementary graphics programming, charts, graphs, animations, user interactivity, hierarchical layouts, and techniques for visualization of high dimensional data &amp;amp; discovered patterns&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;EDA Tools 
+    &lt;div id=&#34;eda-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#eda-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Pandas Profiling&lt;/li&gt;
+&lt;li&gt;Lux&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python For Data Science</title>
+      <link>http://localhost:1313/dscourses/python-for-data-science/</link>
+      <pubDate>Wed, 22 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/python-for-data-science/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc308-Python-For-Data-Science.jpg&#34; alt=&#34;Python For Data Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Python for Data Science 
+    &lt;div id=&#34;python-for-data-science&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#python-for-data-science&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this course is as below. This is 30 hours course, it is suggested to complete this course in 3 weeks. After the completion of this course, you will have a solid foundation in Python programming. Following that, you need to practice it consistently for a minimum of 6 months.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Pandas for Data Science</title>
+      <link>http://localhost:1313/dscourses/pandas-for-data-science/</link>
+      <pubDate>Tue, 21 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/pandas-for-data-science/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg&#34; alt=&#34;Pandas for Data Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Pandas for Data Science 
+    &lt;div id=&#34;pandas-for-data-science&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pandas-for-data-science&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this course is as below. This is 30 hours course, it is suggested to complete this course in 3 weeks. If you already know python enough, then you can skip the first 3 modules of this course. It will save you one week.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Statistics For Data Science</title>
+      <link>http://localhost:1313/dscourses/Statistics-For-Data-Science/</link>
+      <pubDate>Mon, 20 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Statistics-For-Data-Science/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg&#34; alt=&#34;Statistics For Data Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Statistics for Data Science 
+    &lt;div id=&#34;statistics-for-data-science&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#statistics-for-data-science&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this course is as below. This is 25 hours course, it is suggested to complete this course in 3 weeks.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction of Statistics for Data Scientist 
+    &lt;div id=&#34;introduction-of-statistics-for-data-scientist&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-of-statistics-for-data-scientist&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to basic statistics terms&lt;/li&gt;
+&lt;li&gt;Types of statistics&lt;/li&gt;
+&lt;li&gt;Types of data&lt;/li&gt;
+&lt;li&gt;Levels of measurement (nominal, ordinal, and interval/ratio)&lt;/li&gt;
+&lt;li&gt;Measures of central tendency&lt;/li&gt;
+&lt;li&gt;Measures of dispersion&lt;/li&gt;
+&lt;li&gt;Random variables&lt;/li&gt;
+&lt;li&gt;Concept of Set&lt;/li&gt;
+&lt;li&gt;Skewness, Kurtosis&lt;/li&gt;
+&lt;li&gt;Covariance and correlation&lt;/li&gt;
+&lt;li&gt;Data Visualization&lt;/li&gt;
+&lt;li&gt;Data summarization methods&lt;/li&gt;
+&lt;li&gt;Tables, Graphs, Charts, Histograms,&lt;/li&gt;
+&lt;li&gt;Frequency distributions&lt;/li&gt;
+&lt;li&gt;Box Plot&lt;/li&gt;
+&lt;li&gt;Chebychev’s Inequality on relationship&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Descriptive &amp;amp; Inferential Statistics for Data Scientist 
+    &lt;div id=&#34;descriptive--inferential-statistics-for-data-scientist&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#descriptive--inferential-statistics-for-data-scientist&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Type of Probability distributions – discrete vs continuous distributions,&lt;/li&gt;
+&lt;li&gt;Cumulative Probabilities, Normal &amp;amp; Standard Normal Distribution&lt;/li&gt;
+&lt;li&gt;Discrete Distributions&lt;/li&gt;
+&lt;li&gt;Binomial Distributions&lt;/li&gt;
+&lt;li&gt;Poisson Distribution&lt;/li&gt;
+&lt;li&gt;Continuous Distributions&lt;/li&gt;
+&lt;li&gt;Uniform Distribution&lt;/li&gt;
+&lt;li&gt;Normal Distribution&lt;/li&gt;
+&lt;li&gt;Standard Normal Distribution&lt;/li&gt;
+&lt;li&gt;Exponential Distribution&lt;/li&gt;
+&lt;li&gt;Sampling methods&lt;/li&gt;
+&lt;li&gt;Interval Estimation&lt;/li&gt;
+&lt;li&gt;Central limit theorem – sampling, sampling distribution, properties of sampling distribution, central limit theorem, estimating mean using CLT&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Hypothesis Testing for Data Scientist 
+    &lt;div id=&#34;hypothesis-testing-for-data-scientist&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hypothesis-testing-for-data-scientist&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Concepts of hypothesis testing – business relevance, framing hypotheses, hypothesis testing process and p-value&lt;/li&gt;
+&lt;li&gt;Types of hypothesis tests – left- and right-tailed tests, two-tailed tests, types of errors, hypothesis testing using T-distribution&lt;/li&gt;
+&lt;li&gt;Industry demos on hypothesis testing (Excel) – two-sample mean test, two-sample proportion test, A/B testing&lt;/li&gt;
+&lt;li&gt;Z-Test, normal standard distribution&lt;/li&gt;
+&lt;li&gt;T-Test, t-stats, Student t distribution&lt;/li&gt;
+&lt;li&gt;T-stats vs. Z-stats&lt;/li&gt;
+&lt;li&gt;Type 1 &amp;amp; type 2 error&lt;/li&gt;
+&lt;li&gt;Bayes statistics (Bayes theorem)&lt;/li&gt;
+&lt;li&gt;Confidence interval (CI),  margin of error&lt;/li&gt;
+&lt;li&gt;Interpreting confidence levels and confidence intervals&lt;/li&gt;
+&lt;li&gt;Chi-square test&lt;/li&gt;
+&lt;li&gt;Chi-square distribution using python&lt;/li&gt;
+&lt;li&gt;Chi-square for goodness of fit test&lt;/li&gt;
+&lt;li&gt;When to use which statistical distribution?&lt;/li&gt;
+&lt;li&gt;Analysis of variance (ANOVA)&lt;/li&gt;
+&lt;li&gt;Assumptions to use ANOVA&lt;/li&gt;
+&lt;li&gt;ANOVA three type&lt;/li&gt;
+&lt;li&gt;Partitioning of variance in the ANOVA&lt;/li&gt;
+&lt;li&gt;Calculating using python&lt;/li&gt;
+&lt;li&gt;F-distribution&lt;/li&gt;
+&lt;li&gt;F-test (variance ratio test)&lt;/li&gt;
+&lt;li&gt;Determining the values of f&lt;/li&gt;
+&lt;li&gt;F distribution using python&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Project &amp;amp; Resources 
+    &lt;div id=&#34;project--resources&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#project--resources&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Resources for practice&lt;/li&gt;
+&lt;li&gt;A Final Assignment&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematics for Data Scientist</title>
+      <link>http://localhost:1313/dscourses/Mathematics-for-Data-Scientist/</link>
+      <pubDate>Sun, 19 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Mathematics-for-Data-Scientist/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Mathematical for Data Scientist 
+    &lt;div id=&#34;mathematical-for-data-scientist&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mathematical-for-data-scientist&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;To excel in the field of data science, especially as a data scientist, I would recommend you have good command over the topics mentioned below. There are many YouTube channels that you can use for this purpose. Because this is 10+2 level mathematics, and it is just a matter of revision. So I am not offering any course unless there is a specific need for some group, organization.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deep Learning for Computer Vision</title>
+      <link>http://localhost:1313/dscourses/Deep-Learning-for-Computer-Vision/</link>
+      <pubDate>Sat, 18 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Deep-Learning-for-Computer-Vision/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg&#34; alt=&#34;Deep Learning for Computer Vision&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Deep Learning – Computer Vision 
+    &lt;div id=&#34;deep-learning--computer-vision&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#deep-learning--computer-vision&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Foundation of Computer Vision 
+    &lt;div id=&#34;foundation-of-computer-vision&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#foundation-of-computer-vision&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Common Architectural Principles of Deep Networks&lt;/li&gt;
+&lt;li&gt;Building Blocks of Deep Networks&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Networks (CNNs)&lt;/li&gt;
+&lt;li&gt;Recurrent Neural Networks&lt;/li&gt;
+&lt;li&gt;Recursive Neural Networks; Applications to Sequence Data&lt;/li&gt;
+&lt;li&gt;Anomaly Detection&lt;/li&gt;
+&lt;li&gt;Tuning Deep Networks&lt;/li&gt;
+&lt;li&gt;Vectorization&lt;/li&gt;
+&lt;li&gt;Data Mining (Pre-requisites)&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;CNN overview 
+    &lt;div id=&#34;cnn-overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#cnn-overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;CNN Definition&lt;/li&gt;
+&lt;li&gt;CNN based Architectures&lt;/li&gt;
+&lt;li&gt;End to end CNN network&lt;/li&gt;
+&lt;li&gt;Training CNN&lt;/li&gt;
+&lt;li&gt;Deployment in Azure Cloud&lt;/li&gt;
+&lt;li&gt;Performance tuning of CNN network&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Advance Computer Vision – Part 1 
+    &lt;div id=&#34;advance-computer-vision--part-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#advance-computer-vision--part-1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;CNN Architectures with research paper and mathematics&lt;/li&gt;
+&lt;li&gt;Resnet-5 variants with research paper and practical&lt;/li&gt;
+&lt;li&gt;AlexNet variants with research paper and practical&lt;/li&gt;
+&lt;li&gt;GoogleNet variants with research paper and practical&lt;/li&gt;
+&lt;li&gt;Transfer learning&lt;/li&gt;
+&lt;li&gt;VGGNet variants with research paper and practical&lt;/li&gt;
+&lt;li&gt;Inception net variants with research paper and practical&lt;/li&gt;
+&lt;li&gt;Darknet variants with research paper and practical&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Advance Computer Vision – Part 2 
+    &lt;div id=&#34;advance-computer-vision--part-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#advance-computer-vision--part-2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Object detection in-depth&lt;/li&gt;
+&lt;li&gt;Transfer learning&lt;/li&gt;
+&lt;li&gt;RCNN with research paper and practical&lt;/li&gt;
+&lt;li&gt;Fast RCNN with research paper and practical&lt;/li&gt;
+&lt;li&gt;Faster RCNN with research paper and practical&lt;/li&gt;
+&lt;li&gt;SSD with research paper and practical&lt;/li&gt;
+&lt;li&gt;SSD lite with research paper and practical&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Training of Custom Object Detection 
+    &lt;div id=&#34;training-of-custom-object-detection&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#training-of-custom-object-detection&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;TFOD introduction&lt;/li&gt;
+&lt;li&gt;Environment setup wtih TFOD&lt;/li&gt;
+&lt;li&gt;GPU vs TPU vs CPU&lt;/li&gt;
+&lt;li&gt;GPU Comparison&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Advance Computer Vision – Part 3 
+    &lt;div id=&#34;advance-computer-vision--part-3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#advance-computer-vision--part-3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Yolo v1 with research paper and practical&lt;/li&gt;
+&lt;li&gt;Retina net&lt;/li&gt;
+&lt;li&gt;Face net&lt;/li&gt;
+&lt;li&gt;Detectron2 with practical and live testing&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Object segmentation 
+    &lt;div id=&#34;object-segmentation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#object-segmentation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Semantic segmentation&lt;/li&gt;
+&lt;li&gt;Panoptic segmentation&lt;/li&gt;
+&lt;li&gt;Masked RCNN&lt;/li&gt;
+&lt;li&gt;Practical with Detectron&lt;/li&gt;
+&lt;li&gt;Practical with TFOD&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Object tracking 
+    &lt;div id=&#34;object-tracking&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#object-tracking&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Detail of object tracking&lt;/li&gt;
+&lt;li&gt;Kalman filtering&lt;/li&gt;
+&lt;li&gt;Sort&lt;/li&gt;
+&lt;li&gt;Deep sort&lt;/li&gt;
+&lt;li&gt;Object tracking live project with live camera testing&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;OCR 
+    &lt;div id=&#34;ocr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ocr&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to OCR&lt;/li&gt;
+&lt;li&gt;Various framework and API for OCR&lt;/li&gt;
+&lt;li&gt;Practical implementation of OCR&lt;/li&gt;
+&lt;li&gt;Live project deployment for bill parsing&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Image captioning 
+    &lt;div id=&#34;image-captioning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#image-captioning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Image captioning overview&lt;/li&gt;
+&lt;li&gt;Image captioning project with deployment&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>http://localhost:1313/dscourses/Natural-Language-Processing/</link>
+      <pubDate>Fri, 17 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Natural-Language-Processing/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc303-Natural-Language-Processing.jpg&#34; alt=&#34;Natural Language Processing&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Natural Language Processing (NLP) 
+    &lt;div id=&#34;natural-language-processing-nlp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#natural-language-processing-nlp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Foundation of Natural Language Processing 
+    &lt;div id=&#34;foundation-of-natural-language-processing&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#foundation-of-natural-language-processing&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview computational linguistic.&lt;/li&gt;
+&lt;li&gt;History of NLP&lt;/li&gt;
+&lt;li&gt;Why NLP&lt;/li&gt;
+&lt;li&gt;Use of NLP&lt;/li&gt;
+&lt;li&gt;Language modelling with N-gram&lt;/li&gt;
+&lt;li&gt;Spelling correction&lt;/li&gt;
+&lt;li&gt;Neural networks and neural language models&lt;/li&gt;
+&lt;li&gt;Parts-of-Speech tagging&lt;/li&gt;
+&lt;li&gt;Syntactic parsing&lt;/li&gt;
+&lt;li&gt;Language semantics&lt;/li&gt;
+&lt;li&gt;Computational semantics&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Text Analytics, Processing, and Predictive Modelling 
+    &lt;div id=&#34;text-analytics-processing-and-predictive-modelling&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#text-analytics-processing-and-predictive-modelling&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to text analytics (text encoding, regular expressions*, word frequencies &amp;amp; stop words, tokenization, bag-of-words representation, stemming &amp;amp; lemmatization, TF-IDF)&lt;/li&gt;
+&lt;li&gt;The Naive Bayes algorithm (Bayes’ theorem and its building blocks, Naive Bayes for text classification)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Text Processing Importing text. 
+    &lt;div id=&#34;text-processing-importing-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#text-processing-importing-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Web scrapping.&lt;/li&gt;
+&lt;li&gt;Text processing&lt;/li&gt;
+&lt;li&gt;Understanding regex.&lt;/li&gt;
+&lt;li&gt;Text normalization&lt;/li&gt;
+&lt;li&gt;Word count.&lt;/li&gt;
+&lt;li&gt;Frequency distribution.&lt;/li&gt;
+&lt;li&gt;Text annotation.&lt;/li&gt;
+&lt;li&gt;Use of annotator.&lt;/li&gt;
+&lt;li&gt;String tokenization&lt;/li&gt;
+&lt;li&gt;Annotator creation.&lt;/li&gt;
+&lt;li&gt;Sentence processing.&lt;/li&gt;
+&lt;li&gt;Lemmatization in text processing&lt;/li&gt;
+&lt;li&gt;POS.&lt;/li&gt;
+&lt;li&gt;Named entity recognition&lt;/li&gt;
+&lt;li&gt;Dependency parsing in text.&lt;/li&gt;
+&lt;li&gt;Sentimental analysis&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Word embedding 
+    &lt;div id=&#34;word-embedding&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#word-embedding&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Word embedding&lt;/li&gt;
+&lt;li&gt;Co-occurrence vectors&lt;/li&gt;
+&lt;li&gt;Word2vec&lt;/li&gt;
+&lt;li&gt;Doc2vec&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;RNN for NLP 
+    &lt;div id=&#34;rnn-for-nlp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rnn-for-nlp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Recurrent neural networks.&lt;/li&gt;
+&lt;li&gt;Long short term memory (LSTM)&lt;/li&gt;
+&lt;li&gt;Bi LSTM.&lt;/li&gt;
+&lt;li&gt;Stacked LSTM&lt;/li&gt;
+&lt;li&gt;GRU implementation.&lt;/li&gt;
+&lt;li&gt;Building a story writer using character level RNN.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Attention based model 
+    &lt;div id=&#34;attention-based-model&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#attention-based-model&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Seq2Seq.&lt;/li&gt;
+&lt;li&gt;Encoders and decoders.&lt;/li&gt;
+&lt;li&gt;Attention mechanism.&lt;/li&gt;
+&lt;li&gt;Attention neural networks&lt;/li&gt;
+&lt;li&gt;Self-attention&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Transfer learning in NLP 
+    &lt;div id=&#34;transfer-learning-in-nlp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#transfer-learning-in-nlp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to transformers.&lt;/li&gt;
+&lt;li&gt;Bert model.&lt;/li&gt;
+&lt;li&gt;Elmo model.&lt;/li&gt;
+&lt;li&gt;GPT2 model&lt;/li&gt;
+&lt;li&gt;GPT3 model.&lt;/li&gt;
+&lt;li&gt;Albert model.&lt;/li&gt;
+&lt;li&gt;Distilbert model&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Transformers for NLP 
+    &lt;div id=&#34;transformers-for-nlp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#transformers-for-nlp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GPT3&lt;/li&gt;
+&lt;li&gt;BERT&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;NLP Libraries 
+    &lt;div id=&#34;nlp-libraries&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#nlp-libraries&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Spacy 
+    &lt;div id=&#34;spacy&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#spacy&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spacy overview&lt;/li&gt;
+&lt;li&gt;Spacy function&lt;/li&gt;
+&lt;li&gt;Spacy function implementation in text processing.&lt;/li&gt;
+&lt;li&gt;Pos tagging, challenges and accuracy.&lt;/li&gt;
+&lt;li&gt;Entities and named entry recognition&lt;/li&gt;
+&lt;li&gt;Interpolation, language models&lt;/li&gt;
+&lt;li&gt;NLTK&lt;/li&gt;
+&lt;li&gt;Text blob&lt;/li&gt;
+&lt;li&gt;Stanford NLP&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning for Timeseries</title>
+      <link>http://localhost:1313/dscourses/Machine-Learning-for-Timeseries/</link>
+      <pubDate>Thu, 16 Sep 2021 15:46:43 -0400</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/Machine-Learning-for-Timeseries/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg&#34; alt=&#34;Machine Learning for Timeseries&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Machine Learning for Timeseries 
+    &lt;div id=&#34;machine-learning-for-timeseries&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#machine-learning-for-timeseries&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this course is as below. This is 24 hours course, it is suggested to complete this course in 3 weeks. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning Course</title>
+      <link>http://localhost:1313/dscourses/machine-learning/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dscourses/machine-learning/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc301-Machine-Learning.jpg&#34; alt=&#34;Machine Learning Course&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Machine Learning Courses 
+    &lt;div id=&#34;machine-learning-courses&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#machine-learning-courses&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A brief summary of the topics covered in this course is as below. This is 150 hours course, it is suggested to complete this course in 2 Months. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>PMI PMP Course</title>
+      <link>http://localhost:1313/management/pmi-pmp/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/pmi-pmp/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc501-pmi-pmp.jpg&#34; alt=&#34;PMI PMP&#34; /&gt;
+      
+    &lt;/figure&gt;
+
+&lt;strong&gt;PMI PMP Course&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;About Course 
+    &lt;div id=&#34;about-course&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#about-course&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;PMP® stands for Project Management Professional. The Project Management Professional certification is a globally reputed and recognized certification in the field of Project Management, and it is provided to project management professionals, who clear the PMP certification examination. The PMP certification is issued by the Project Management Institute (PMI), which is the world’s leading association of Project Management Professionals.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

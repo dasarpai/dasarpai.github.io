@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Analytics on </title>
+    <link>http://localhost:1313/tags/predictive-analytics/</link>
+    <description>Recent content in Predictive Analytics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Wed, 27 Dec 2023 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Science and Basics of Astrology</title>
+      <link>http://localhost:1313/dsblog/Basics-of-Astrology/</link>
+      <pubDate>Wed, 27 Dec 2023 08:33:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Basics-of-Astrology/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6108-Basics-of-Astrology.jpg&#34; alt=&#34;Basics of Astrology&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Basics of Jyotish 
+    &lt;div id=&#34;basics-of-jyotish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basics-of-jyotish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;In this article I am going to discuss the basics of astrology and the data science aspect of astrology. I am defending here a big case of model retraining and without retraining if we are doing prediction from the old model that won&amp;rsquo;t be effective. Although in today&amp;rsquo;s time of data privacy, secrecy, getting personal data to create a prediction model is very costly or impossible for any corporation. As of today whatever data corporations are using to create the model of health care or public good or promoting a product for that anonymized data can be used but to create astrology models we need actual data. Only the government can get this data but the public doesn&amp;rsquo;t trust the government to create this model for predicting their life. What will be the future of Astrology and Jyotish in the coming time depends upon many factors, one of which is trust between governments and the public. The government can creates astrology models for the well being of the society. Without this, whatever astrology or Jyotish we are doing today it is becoming less trustworthy everyday.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Timeseries Interview Questions</title>
+      <link>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</link>
+      <pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Timeseries Interview Questions 
+    &lt;div id=&#34;timeseries-interview-questions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#timeseries-interview-questions&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What are the characterstics of time series data? 
+    &lt;div id=&#34;what-are-the-characterstics-of-time-series-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-are-the-characterstics-of-time-series-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Time series data is a series of data points collected over time. Some characteristics of time series data include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time dependence: Time series data is typically collected at regular time intervals, and the values of the time series are often dependent on the time at which they were collected.&lt;/li&gt;
+&lt;li&gt;Equal duration gap between samples/ records&lt;/li&gt;
+&lt;li&gt;No missing record in between&lt;/li&gt;
+&lt;li&gt;Trend: Many time series exhibit a long-term trend, either upward or downward. This trend may be influenced by a variety of factors such as economic conditions, population growth, or technological changes.&lt;/li&gt;
+&lt;li&gt;Seasonality: Many time series exhibit regular fluctuations due to seasonal factors such as weather, holidays, or other events. For example, retail sales may be higher in the months leading up to Christmas due to holiday shopping.&lt;/li&gt;
+&lt;li&gt;Cyclicity: Time series may exhibit cyclical pattern. Like sales is highest in month start, body temprature is high at 6am, traffic is least on weekends etc.&lt;/li&gt;
+&lt;li&gt;Noise: Time series data may also be affected by random noise or error, which can make it difficult to accurately forecast future values.&lt;/li&gt;
+&lt;li&gt;Autocorrelation: Time series data may exhibit autocorrelation, which is the phenomenon of a value at a particular time being correlated with values at nearby times. This can make it challenging to model the time series, as the value at a given time may depend on the values at nearby times.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Example of time series data 
+    &lt;div id=&#34;example-of-time-series-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#example-of-time-series-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Sales (y)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-01-01&lt;/td&gt;
+          &lt;td&gt;1000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-02-01&lt;/td&gt;
+          &lt;td&gt;1100&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-03-01&lt;/td&gt;
+          &lt;td&gt;1200&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-04-01&lt;/td&gt;
+          &lt;td&gt;1100&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-05-01&lt;/td&gt;
+          &lt;td&gt;1000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-06-01&lt;/td&gt;
+          &lt;td&gt;900&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-07-01&lt;/td&gt;
+          &lt;td&gt;1200&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-08-01&lt;/td&gt;
+          &lt;td&gt;1400&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-09-01&lt;/td&gt;
+          &lt;td&gt;1300&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020-10-01&lt;/td&gt;
+          &lt;td&gt;1500&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This first column can be date or date or datetime. Interval between two rows must be equal. The unit of date or time or datetime may be milliosecond, or second, or minute, or hour, or day, week, month, quarter, year or dacade. This should be continuous without any gap.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Regression Interview Questions</title>
+      <link>http://localhost:1313/dsblog/Linear-Regression-Interview-Questions/</link>
+      <pubDate>Sat, 07 Jan 2023 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Linear-Regression-Interview-Questions/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg&#34; alt=&#34;Prompt Engineering for GPT4&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Linear Regression Interview Questions and Answers 
+    &lt;div id=&#34;linear-regression-interview-questions-and-answers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#linear-regression-interview-questions-and-answers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In this question-answer article, I will try that the start of every answer from example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question 1: What is linear regression? What is the difference between simple linear regression and multiple linear regression? 
+    &lt;div id=&#34;question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Linear regression is a statistical method used to model the linear relationship between a dependent variable and one or more independent variables. It is used to predict the value of the dependent variable based on the values of the independent variables.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PMBOK Initiating PG Hindi on </title>
+    <link>http://localhost:1313/tags/pmbok-initiating-pg-hindi/</link>
+    <description>Recent content in PMBOK Initiating PG Hindi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 19 Feb 2021 11:18:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmbok-initiating-pg-hindi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>हितधारकों की पहचान</title>
+      <link>http://localhost:1313/pmbok6hi/identify-stakeholders-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 11:18:29 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/identify-stakeholders-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;हितधारकों की पहचान (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%95-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%95-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org/&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-charter-hi&#34;&gt;परियोजना अधिकारपत्र&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Charter&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/business-documents-hi&#34;&gt;व्यापारिक दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Business-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/agreements-hi&#34;&gt;अनुबंध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Agreements&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/expert-judgement-hi&#34;&gt;विशेषज्ञ की राय&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Expert-Judgement&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-gathering-hi&#34;&gt;आंकड़े एकत्रीकरण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Gathering&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-analysis-hi&#34;&gt;आंकड़े विश्लेषण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Analysis&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-representation-hi&#34;&gt;आंकड़े निरुपण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Representation&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/meetings-hi&#34;&gt;बैठक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Meetings&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/stakeholder-register-hi&#34;&gt;हितधारक पंजिका&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Stakeholder-Register&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>परियोजना अधिकारपत्र विकास</title>
+      <link>http://localhost:1313/pmbok6hi/develop-project-charter-hi/</link>
+      <pubDate>Wed, 17 Feb 2021 09:03:18 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/develop-project-charter-hi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../assets/images/pmlogy/PMBOK-Process-DPC.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;परियोजना अधिकारपत्र विकास 
+    &lt;div id=&#34;%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%95%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%B0-%E0%A4%B5%E0%A4%95%E0%A4%B8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%95%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%B0-%E0%A4%B5%E0%A4%95%E0%A4%B8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;प्रोजेक्ट प्रायोजक द्वारा प्रोजेक्ट चार्टर प्रक्रिया का विकास किया जाता है। यह प्रक्रिया किसी भी परियोजना को शुरू करने की पहली प्रक्रिया है। इस प्रक्रिया का प्राथमिक आउटपुट प्रोजेक्ट चार्टर है। इस दस्तावेज़ के माध्यम से, परियोजना प्रायोजक औपचारिक रूप से एक परियोजना प्रबंधक को परियोजना या परियोजना चरण की सफलता के लिए संगठनात्मक संसाधनों को लागू करने के लिए अधिकृत करता है, जो कि परियोजना चार्टर का दायरा है। यदि प्रोजेक्ट चार्टर गायब है, तो प्रोजेक्ट मैनेजर के पास संगठन संसाधनों का उपयोग करने के लिए कोई जनादेश नहीं है, न ही वह जानता है कि मुसीबत के मामले में उसे कहां जाना चाहिए और उसे पैसा प्राप्त करने के लिए कहां जाना चाहिए।&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

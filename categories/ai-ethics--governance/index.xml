@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Ethics &amp; Governance on </title>
+    <link>http://localhost:1313/categories/ai-ethics--governance/</link>
+    <description>Recent content in AI Ethics &amp; Governance on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ai-ethics--governance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LLM Internal Encoding of Truthfulness and Hallucinations</title>
+      <link>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Paper Summary: LLM Internal Encoding of Truthfulness and Hallucinations 
+    &lt;div id=&#34;paper-summary-llm-internal-encoding-of-truthfulness-and-hallucinations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paper-summary-llm-internal-encoding-of-truthfulness-and-hallucinations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;The objective of this paper is to gain a deeper understanding of errors produced by large language models (LLMs) by examining their internal representations. The authors aim to reveal how information about the truthfulness of LLM outputs is encoded internally, going beyond extrinsic, behavioral analysis. They also seek to investigate the relationship between these internal representations and the external behavior of LLMs, including their tendency to produce inaccuracies or &amp;ldquo;hallucinations&amp;rdquo;. Furthermore, the paper intends to explore whether internal representations can be used to predict the types of errors LLMs make and to detect the correct answer even when the model generates an incorrect one.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cybersecurity Concepts in AI Age</title>
+      <link>http://localhost:1313/dsblog/cybersecurity-concepts-in-ai-age/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/cybersecurity-concepts-in-ai-age/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6258-cybersecurity-concepts-in-ai-age.jpg&#34; alt=&#34;cybersecurity-concepts-in-ai-age&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI and Cybersecurity: Threats, Attack Vectors, and Defense Mechanisms 
+    &lt;div id=&#34;ai-and-cybersecurity-threats-attack-vectors-and-defense-mechanisms&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-and-cybersecurity-threats-attack-vectors-and-defense-mechanisms&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;As artificial intelligence (AI) systems, particularly large language models (LLMs), become integral to cybersecurity frameworks, they offer innovative solutions while introducing novel vulnerabilities. This article explores prompt-based threats, LLM-specific attack vectors, broader cybersecurity concepts in the context of AI, and essential governance and defense tools, alongside emerging trends and considerations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title>
+      <link>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations 
+    &lt;div id=&#34;navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Software products, at their core, are solutions designed to address specific problems. Just as there are many ways to solve a problem in life, there are numerous ways to design software to tackle the same issue. In software development, you don’t always have to reinvent the wheel—open-source code and third-party APIs provide a wealth of solutions that can be integrated into your project. These resources, developed by various organizations, teams, and individuals over time, can range from generic solutions to highly specialized ones. However, integrating them into your product requires careful thought and consideration.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AI Imperialism: Western Dominance and the Future of Global Technology</title>
+      <link>http://localhost:1313/dsblog/AI-Imperialism/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AI-Imperialism/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI Imperialism: Western Dominance and the Future of Global Technology 
+    &lt;div id=&#34;ai-imperialism-western-dominance-and-the-future-of-global-technology&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-imperialism-western-dominance-and-the-future-of-global-technology&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In the rapidly evolving landscape of artificial intelligence (AI), the emergence of transformer models has marked a significant milestone. Among these, OpenAI&amp;rsquo;s GPT-3 stands out as a groundbreaking achievement, yet its dominance raises critical questions about the concentration of power, legal ambiguities, and global technological equity. This article delves into the phenomenon of AI imperialism, exploring how Western dominance shapes the future of global technology and the implications for developing nations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Security and Ethics Considerations</title>
+      <link>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg&#34; alt=&#34;LLM-Security-and-Ethics-Considerations&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;LLM Security and Ethics Considerations 
+    &lt;div id=&#34;llm-security-and-ethics-considerations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#llm-security-and-ethics-considerations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: For my client&amp;rsquo;s highly secured data like health industry data, banking, insurnace, internal security, etc. data can I use gpt4 for finetuning? 
+    &lt;div id=&#34;question-for-my-clients-highly-secured-data-like-health-industry-data-banking-insurnace-internal-security-etc-data-can-i-use-gpt4-for-finetuning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-for-my-clients-highly-secured-data-like-health-industry-data-banking-insurnace-internal-security-etc-data-can-i-use-gpt4-for-finetuning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;For highly sensitive data, such as health industry data, banking information, insurance details, and security data, using models like ChatGPT-3.5 or GPT-4 involves several considerations to ensure security and compliance:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Responsible AI</title>
+      <link>http://localhost:1313/dsblog/Responsible-AI/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Responsible-AI/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6047-Responsible-AI.jpg&#34; alt=&#34;Responsible-AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Responsible AI 
+    &lt;div id=&#34;responsible-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#responsible-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction: 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Artificial Intelligence (AI) is rapidly transforming the way we live, work, and interact with the world around us. As AI systems become increasingly sophisticated and ubiquitous, it is more important than ever to ensure that they are developed and deployed in a responsible and ethical manner. Responsible AI refers to the principles and practices of developing and using AI in a way that is safe, transparent, accountable, and aligned with human values. In this blog post, we will explore the different aspects of responsible AI, including ethics, safety, transparency, accountability, and societal impact.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is XAI?</title>
+      <link>http://localhost:1313/dsblog/What-is-XAI/</link>
+      <pubDate>Fri, 15 May 2020 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/What-is-XAI/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6003-XAI.jpg&#34; alt=&#34;XAI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is XAI? 
+    &lt;div id=&#34;what-is-xai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-xai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;XAI in Simple Language! 
+    &lt;div id=&#34;xai-in-simple-language&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#xai-in-simple-language&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The discipline of Data Science and AI has introduced many terms into discussions that might seem complicated at first. In reality, many of these terms are intuitive and straightforward when considered from a natural intelligence perspective. However, from a technological standpoint, they can be complex. To understand XAI, let’s explore a few examples.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PMBOK Executing PG Hindi on </title>
+    <link>http://localhost:1313/tags/pmbok-executing-pg-hindi/</link>
+    <description>Recent content in PMBOK Executing PG Hindi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 19 Feb 2021 11:25:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmbok-executing-pg-hindi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>हितधारक सहभागिता प्रबंधन</title>
+      <link>http://localhost:1313/pmbok6hi/manage-stakeholder-engagement-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 11:25:43 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/manage-stakeholder-engagement-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;हितधारक सहभागिता प्रबंधन (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org/&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/expert-judgement-hi&#34;&gt;विशेषज्ञ की राय&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Expert-Judgement&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/communication-skills-hi&#34;&gt;निरीक्षण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Communication-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;संचार कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/ground-rules-hi&#34;&gt;लोक व्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Ground-Rules&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/meetings-hi&#34;&gt;मूलभूत नियम&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Meetings&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>आपूर्ति संचालन</title>
+      <link>http://localhost:1313/pmbok6hi/conduct-procurements-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 11:05:40 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/conduct-procurements-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;आपूर्ति संचालन (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%B8%E0%A4%9A%E0%A4%B2%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%B8%E0%A4%9A%E0%A4%B2%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/procurement-documentation-hi&#34;&gt;आपूर्ति दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Procurement-Documentation&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/seller-proposals-hi&#34;&gt;विक्रेता के प्रस्ताव&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Seller-Proposals&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/expert-judgement-hi&#34;&gt;विशेषज्ञ की राय&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Expert-Judgement&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/advertising-hi&#34;&gt;विज्ञापन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Advertising&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/bidder-conferences-hi&#34;&gt;बोलीदाता सम्मेलन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Bidder-Conferences&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-analysis-hi&#34;&gt;आंकड़े विश्लेषण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Analysis&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;लोकव्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/selected-sellers-hi&#34;&gt;चयनित विक्रेता&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Selected-Sellers&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/agreements-hi&#34;&gt;अनुबंध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Agreements&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-updates-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>जोखिम प्रत्युत्तर क्रियान्वयन</title>
+      <link>http://localhost:1313/pmbok6hi/implement-risk-responses-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 08:55:46 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/implement-risk-responses-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;जोखिम प्रत्युत्तर क्रियान्वयन (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%A4%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%A8%E0%A4%B5%E0%A4%AF%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%A4%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%A8%E0%A4%B5%E0%A4%AF%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/expert-judgement-hi&#34;&gt;विशेषज्ञ की राय&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Expert-Judgement&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;लोकव्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-information-system-hi&#34;&gt;परियोजना प्रबंध सूचना प्रणाली&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Information-System&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>संचार प्रबंधन</title>
+      <link>http://localhost:1313/pmbok6hi/manage-communications-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 08:23:49 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/manage-communications-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;संचार प्रबंधन (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https:/www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/work-performance-reports-hi&#34;&gt;कार्य प्रदर्शन प्रतिवेदन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Work-Performance-Reports&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/communication-technology-hi&#34;&gt;संचार प्रौद्योगिकी&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Communication-Technology&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/communication-methods-hi&#34;&gt;संचार मॉडेल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Communication-Methods&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/communication-skills-hi&#34;&gt;संचार कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Communication-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-information-system-hi&#34;&gt;परियोजना प्रबंधन सूचना प्रणाली&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Information-System&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-reporting-hi&#34;&gt;परियोजना रिपोर्टिंग&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Reporting&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;लोक व्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/meetings-hi&#34;&gt;बैठकें&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Meetings&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-communications-hi&#34;&gt;परियोजना संचार&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Communications&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-updates-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>दल प्रबंधन</title>
+      <link>http://localhost:1313/pmbok6hi/manage-team-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 06:50:59 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/manage-team-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;दल प्रबंधन (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%A6%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%A6%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https:/www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/work-performance-reports-hi&#34;&gt;कार्य प्रदर्शन प्रतिवेदन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Work-Performance-Reports&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/team-performance-assessments-hi&#34;&gt;दल कार्यप्रदर्शन मूल्यांकन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Team-Performance-Assessments&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;लोकव्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-information-system-hi&#34;&gt;परियोजना प्रबंधन सूचना प्रणाली&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Information-System&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-updates-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>दल विकास</title>
+      <link>http://localhost:1313/pmbok6hi/develop-team-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 06:48:51 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/develop-team-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;दल विकास (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%A6%E0%A4%B2-%E0%A4%B5%E0%A4%95%E0%A4%B8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%A6%E0%A4%B2-%E0%A4%B5%E0%A4%95%E0%A4%B8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/colocation-hi&#34;&gt;सहस्थान&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Colocation&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/virtual-teams-hi&#34;&gt;आभासी दल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Virtual-Teams&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/communication-technology-hi&#34;&gt;संचार प्रौद्योगिकी&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Communication-Technology&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;लोकव्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/recognition-and-rewards-hi&#34;&gt;सम्मान एवं पुरस्कार&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Recognition-And-Rewards&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/training-hi&#34;&gt;प्रशिक्षण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Training&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/individual-and-team-assessments-hi&#34;&gt;व्यक्ति एवं दल नियुक्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Individual-And-Team-Assessments&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/meetings-hi&#34;&gt;बैठकें&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Meetings&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/team-performance-assessments-hi&#34;&gt;दल कार्यप्रदर्शन मूल्यांकन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Team-Performance-Assessments&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-updates-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-updates-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>संसाधन अधिग्रहण</title>
+      <link>http://localhost:1313/pmbok6hi/acquire-resources-hi/</link>
+      <pubDate>Fri, 19 Feb 2021 06:45:26 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/acquire-resources-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;संसाधन अधिग्रहण (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%97%E0%A4%B0%E0%A4%B9%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%97%E0%A4%B0%E0%A4%B9%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https://www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;व्यापार दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/decision-making-hi&#34;&gt;निर्णय लेना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Decision-Making&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/interpersonal-and-team-skills-hi&#34;&gt;लोकव्यवहार एवं दल कौशल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Interpersonal-And-Team-Skills&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/pre-assignment-hi&#34;&gt;पूर्व नियुक्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Pre-Assignment&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/virtual-teams-hi&#34;&gt;आभासी दल&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Virtual-Teams&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/physical-resource-assignments-hi&#34;&gt;भौतिक संसाधन नियुक्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Physical-Resource-Assignments&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-team-assignments-hi&#34;&gt;परियोजना दल नियुक्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Team-Assignments&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/resource-calendars-hi&#34;&gt;संसाधन कैलेंडर&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Resource-Calendars&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/enterprise-environmental-factors-updates-hi&#34;&gt;प्रतिष्ठान परिवेश के कारक अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Enterprise-Environmental-Factors-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-updates-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>गुणवत्ता प्रबंधन</title>
+      <link>http://localhost:1313/pmbok6hi/manage-quality-hi/</link>
+      <pubDate>Thu, 18 Feb 2021 18:06:29 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/manage-quality-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;गुणवत्ता प्रबंधन (प्रक्रिया सारांश) 
+    &lt;div id=&#34;%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This table is based on &lt;a href=&#34;https://www.pmi.org/pmbok-guide-standards&#34; target=&#34;_blank&#34;&gt;PMBOK&lt;/a&gt; 6th Edition of &lt;a href=&#34;https:/www.pmi.org&#34; target=&#34;_blank&#34;&gt;PMI&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Inputs 
+    &lt;div id=&#34;inputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-hi&#34;&gt;परियोजना प्रबंध योजना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-hi&#34;&gt;परियोजना दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/organizational-process-assets-hi&#34;&gt;संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Organizational-Process-Assets&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Tools &amp;amp; Techniques 
+    &lt;div id=&#34;tools--techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools--techniques&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-gathering-hi&#34;&gt;आंकड़े एकत्रीकरण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Gathering&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-analysis-hi&#34;&gt;आंकड़े विश्लेषण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Analysis&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/decision-making-hi&#34;&gt;निर्णय लेना&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Decision-Making&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/data-representation-hi&#34;&gt;आंकड़े निरुपण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Data-Representation&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/audits-hi&#34;&gt;अंकेक्षण&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Audits&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/design-for-x-hi&#34;&gt;X के लिए डिजाइन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Design-For-X&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/problem-solving-hi&#34;&gt;समस्या समाधान&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Problem-Solving&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/quality-improvement-methods-hi&#34;&gt;गुणवत्ता सुधार पद्धतियां&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Quality-Improvement-Methods&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Outputs 
+    &lt;div id=&#34;outputs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#outputs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/quality-reports-hi&#34;&gt;गुणवत्ता प्रतिवेदन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Quality-Reports&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/test-and-evaluation-documents-hi&#34;&gt;परीक्षण और मूल्यांकन दस्तावेज&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Test-And-Evaluation-Documents&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/change-requests-hi&#34;&gt;परिवर्तन अनुरोध&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Change-Requests&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-management-plan-updates-hi&#34;&gt;परियोजना प्रबंध योजना अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Management-Plan-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../pmbok6hi/project-documents-updates-hi&#34;&gt;परियोजना दस्तावेज अद्यतन&lt;/a&gt; &lt;a href=&#34;../../pmbok6/Project-Documents-Updates&#34;&gt;~English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;process-groups-and-processes-in-pmbok6/&#34;&gt;PMBOK 6th Edition Process Summary Table&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>परियोजना ज्ञान प्रबंधन</title>
+      <link>http://localhost:1313/pmbok6hi/manage-project-knowledge-hi/</link>
+      <pubDate>Thu, 18 Feb 2021 07:20:48 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/manage-project-knowledge-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;परियोजना ज्ञान प्रबंधन 
+    &lt;div id=&#34;%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%9C%E0%A4%9E%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%9C%E0%A4%9E%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;हम जानते हैं कि संगठनों के OPA (संगठनात्मक प्रक्रिया आस्तियों) में अनमोल ज्ञान है लेकिन समस्या यह है कि उस ज्ञान का उपयोग कैसे किया जाए जो कुछ सर्वरों में छुपा हुआ है? ‘परियोजना ज्ञान प्रबंधन’ प्रक्रिया उस ज्ञान को सक्षम बनाती है ताकि यह प्रोजेक्ट टीम के लिए आसानी से सक्षम हो सके। आपने देखा होगा कि कोई व्यक्ति किसी महान प्रयास के साथ कुछ दस्तावेज़ / टेम्प्लेट / गाइड बनाता है, यह उम्मीद करता है कि अन्य लोग इसका उपयोग कर पाएंगे या मैं भविष्य में इसका पुन: उपयोग कर पाऊंगा, लेकिन जब हमें / हमारी टीम को उस दस्तावेज़ की आवश्यकता होती है, तो हम इसे ढूढंने में, इसे बनाने की तुलना से अधिक समय लगा देते हैं। या तो हम संगठन में दूसरों द्वारा बनाए गए ज्ञान का उपयोग करना चाहते हैं या हम अपने स्वयं के ज्ञान के आधार तक पहुंचना चाहते हैं, हमें एक ऐसी प्रणाली की आवश्यकता है जहां ज्ञान प्रदाता, निर्माता के साथ जुड़ना आसान हो। यह मानव की प्राकृतिक भाषा में सुलभ होना चाहिए न कि मेटाडेटा कीवर्ड के आधार पर।&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>परियोजना कार्य का निर्देशन एवं प्रबंधन</title>
+      <link>http://localhost:1313/pmbok6hi/direct-and-manage-project-work-hi/</link>
+      <pubDate>Thu, 18 Feb 2021 07:10:40 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/pmbok6hi/direct-and-manage-project-work-hi/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Direct and Manage Project Work 
+    &lt;div id=&#34;direct-and-manage-project-work&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#direct-and-manage-project-work&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;परियोजना कार्य का निर्देशन एवं प्रबंधन 
+    &lt;div id=&#34;%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%95-%E0%A4%A8%E0%A4%B0%E0%A4%A6%E0%A4%B6%E0%A4%A8-%E0%A4%8F%E0%A4%B5-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%95-%E0%A4%A8%E0%A4%B0%E0%A4%A6%E0%A4%B6%E0%A4%A8-%E0%A4%8F%E0%A4%B5-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The process of leading and performing the Work defined in the project management plan and implementing approved change requests to achieve the project’s objectives.&lt;/p&gt;
+&lt;p&gt;Following activities need to be performed under this process.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

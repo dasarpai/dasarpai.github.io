@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Data Analysis (EDA) on </title>
+    <link>http://localhost:1313/tags/exploratory-data-analysis-eda/</link>
+    <description>Recent content in Exploratory Data Analysis (EDA) on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Mon, 24 Aug 2020 15:50:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/exploratory-data-analysis-eda/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EDA &amp; Feature Engineering 101</title>
+      <link>http://localhost:1313/dsblog/EDA-Feature-Engineering-101/</link>
+      <pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/EDA-Feature-Engineering-101/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6008-EDA101.jpg&#34; alt=&#34;EDA &amp;amp; Feature Engineering&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is EDA? 
+    &lt;div id=&#34;what-is-eda&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-eda&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What kind of data is this? (file format, volume of data, number of columns, metadata data of image/video/audio or some feedback in English or other languages, or tabular data, etc)&lt;/li&gt;
+&lt;li&gt;How complex is this data? (How many files are there? primary key? how these files are connected to each other? is nested data in some files? is some field having nested data, etc.)&lt;/li&gt;
+&lt;li&gt;Is this data sufficient for meeting our ultimate goal, i.e. Model building?&lt;/li&gt;
+&lt;li&gt;Is there any missing data? Data needed but not given by the business or not available at all or costly to get that data etc.&lt;/li&gt;
+&lt;li&gt;Are there any missing values? In the given dataset do we have complete information or some values are missing for some records or some columns?&lt;/li&gt;
+&lt;li&gt;What are different independent and dependent fields?&lt;/li&gt;
+&lt;li&gt;Is there any relationship between different independent variables of the dataset? If yes then how strong is that relationship?&lt;/li&gt;
+&lt;li&gt;Are observations independent or tightly coupled like we see in time-series data?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the data scient project lifecycle, EDA is not a sequential, one-time, isolated process. Till the time data is not ready for modeling we keep doing EDA and cleaning the data. So, EDA is followed by a list of decisions taken to clean the dataset, and finally, data cleaning steps are implemented. If the dataset is not in the good shape after the first iteration of EDA we continue EDA in the next cycle. In this article, I am not referring to EDA as just visualizing and understanding the dataset but all the steps required till the dataset is not ready for modeling.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

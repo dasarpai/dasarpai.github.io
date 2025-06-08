@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP Evaluation on </title>
+    <link>http://localhost:1313/tags/nlp-evaluation/</link>
+    <description>Recent content in NLP Evaluation on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Comprehensive Guide to Evaluate Generative Models</title>
+      <link>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;A Comprehensive Guide to Evaluate Generative Models 
+    &lt;div id=&#34;a-comprehensive-guide-to-evaluate-generative-models&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-comprehensive-guide-to-evaluate-generative-models&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;In the rapidly evolving landscape of artificial intelligence, generative models have emerged as powerful tools capable of creating lifelike images, coherent text narratives, and even realistic audio. From large language models (LLMs) like GPT, Gemini, and Claude to image generators like Stable Diffusion, these systems are reshaping creativity, communication, and problem-solving. However, their potential is only as good as our ability to evaluate them effectively.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>NLP BenchMarks</title>
+      <link>http://localhost:1313/dsblog/NLP-BenchMarks1/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/NLP-BenchMarks1/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6120-NLP-BenchMarks.jpg&#34; alt=&#34;NLP-BenchMarks&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;NLP BenchMarks 
+    &lt;div id=&#34;nlp-benchmarks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#nlp-benchmarks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Language Model? 
+    &lt;div id=&#34;what-is-language-model&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-language-model&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;language model&lt;/strong&gt; is a computational model that understands and generates human language. It learns the patterns and structure of a language by analyzing large amounts of text data, allowing it to predict the next word in a sequence or generate coherent text. Language models are used in applications like text generation, translation, speech recognition, chatbots, and sentiment analysis.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning Tasks and Model Evaluation</title>
+      <link>http://localhost:1313/dsblog/ml-tasks-and-model-evaluation/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ml-tasks-and-model-evaluation/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg&#34; alt=&#34;Deep Learning Tasks and Models&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Machine Learning Tasks and Model Evaluation 
+    &lt;div id=&#34;machine-learning-tasks-and-model-evaluation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#machine-learning-tasks-and-model-evaluation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Machine learning is a subject where we study how to create &amp;amp; evaluate machine learning models. To create these models, we need different types of data. We build models which can help us do various kinds of tasks. There are hundreds of model building techniques and researchers keep adding new techniques, and architectures as when need arises. But, the question is how do you evaluate these models which are output of the model trainings? To evaluate the performance of a model on structured data, or classification/regression/clustering models, we require one kind of metrics. But this becomes complicated when we are dealing with voice, text and audio data. How do you evaluate ten models which are responsible for translation, or locating an object in the image, transcribing voice into text, captioning an image? To solve this problem, standard databases are created and everyone needs to demonstrate the performance of their model, architecture, or approach against that dataset. But, even if you have a baseline dataset, how will you evaluate various NLP or deep learning tasks? For that GLUE, SuperGLUE benchmarks are created.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

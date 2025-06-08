@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps &amp; MLOps on </title>
+    <link>http://localhost:1313/categories/devops--mlops/</link>
+    <description>Recent content in DevOps &amp; MLOps on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/devops--mlops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title>
+      <link>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;CodeReview with CodeRabbit AI 
+    &lt;div id=&#34;codereview-with-coderabbit-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#codereview-with-coderabbit-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction: Why Developers Need CodeRabbit AI&lt;/strong&gt; 
+    &lt;div id=&#34;introduction-why-developers-need-coderabbit-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-why-developers-need-coderabbit-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Imagine you’re working on a fast-paced software project with a growing codebase. Your team is constantly pushing updates, but code reviews become a bottleneck. Senior developers are overloaded, and critical bugs slip through because there&amp;rsquo;s just not enough time for thorough manual reviews. One day, a crucial bug makes it to production, causing downtime and frustrated users. If only there were a way to automate and streamline code reviews without compromising quality…&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why Use Offline AI Models?</title>
+      <link>http://localhost:1313/dsblog/why-use-offline-ai-models/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/why-use-offline-ai-models/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg&#34; alt=&#34;Why to use Offline AI Models&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Why to use Offline AI Models? 
+    &lt;div id=&#34;why-to-use-offline-ai-models&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-to-use-offline-ai-models&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;There are dozens of AI companies offering cloud-based AI solutions, and prices have been steadily decreasing over time. These models generally produce high-quality results because they are built with billions or even trillions of parameters and are hosted on world-class infrastructure. Given these advantages, why should we consider offline AI models? In this article, we explore the reasons behind this choice.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring the Local Location of Ollama Models on WSL2</title>
+      <link>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring the Location of Ollama Models on Local Machine 
+    &lt;div id=&#34;exploring-the-location-of-ollama-models-on-local-machine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-the-location-of-ollama-models-on-local-machine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Objective 
+    &lt;div id=&#34;objective&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#objective&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Many times you may have a question like, I have installed ollama in wsl and download some ollama models. Ollama list shows me those models. I want to know where they are stored. Why it is needed? Because you want to use that location as volume in your docker container. And you don&amp;rsquo;t want to download the model everytime you start the container neither you want to have duplicate copy of the same model on your machine or network.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Make.com: A Comprehensive Guide to Automation and Its Alternatives</title>
+      <link>http://localhost:1313/dsblog/exploring-make-com-a-comprehensive-guide/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-make-com-a-comprehensive-guide/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg&#34; alt=&#34;Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives 
+    &lt;div id=&#34;exploring-makecom---a-comprehensive-guide-to-automation-and-its-alternatives&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-makecom---a-comprehensive-guide-to-automation-and-its-alternatives&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Make.com is an automation platform that allows users to create custom workflows between various apps and services. With its intuitive interface and powerful automation capabilities, Make.com is an excellent choice for automating tasks, streamlining processes, and increasing productivity. In this guide, we&amp;rsquo;ll explore the features and capabilities of Make.com and discuss its alternatives for automation and integration. Whether you&amp;rsquo;re a business owner, developer, or simply someone looking to automate tasks, this guide will provide you with a comprehensive overview of Make.com and its competitors.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless LLM Deployment Platform</title>
+      <link>http://localhost:1313/dsblog/serverless-llm-deployment/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/serverless-llm-deployment/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Serverless LLM Deployment Platform 
+    &lt;div id=&#34;serverless-llm-deployment-platform&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#serverless-llm-deployment-platform&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Microsoft&amp;rsquo;s Serverless LLM Deployment Platform&lt;/strong&gt; 
+    &lt;div id=&#34;microsoft&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; 
+    &lt;div id=&#34;azure-openai-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#azure-openai-service&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; is Microsoft&amp;rsquo;s answer to serverless LLM deployment. It provides access to powerful language models, including OpenAI&amp;rsquo;s GPT-4, GPT-3.5, Codex, and DALL-E, within the Azure ecosystem. It simplifies the process of integrating and deploying LLMs in a serverless manner.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Container Registry</title>
+      <link>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Introduction to Container Registry 
+    &lt;div id=&#34;introduction-to-container-registry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-container-registry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Container Registry? 
+    &lt;div id=&#34;what-is-container-registry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-container-registry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A container registry is a central store or service where container images are stored, managed and distributed. Container images are packaged applications that include the code, dependencies, libraries and configuration to run in any environment that supports containerization, like Docker or Kubernetes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Machine Learning</title>
+      <link>http://localhost:1313/dsblog/AutoML-Tools/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AutoML-Tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Automated Machine Learning 
+    &lt;div id=&#34;automated-machine-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#automated-machine-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This is article is for you, if you know&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;About Machine learning, ML models building&lt;/li&gt;
+&lt;li&gt;That machines are capable of building these models themselves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>MLOps Tools</title>
+      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;MLOps Tools 
+    &lt;div id=&#34;mlops-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mlops-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;MLOps (Machine Learning Operations) is a set of practices and tools designed to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from both DevOps (Development Operations) and machine learning to ensure that ML models are deployed efficiently, managed effectively, and maintained reliably throughout their lifecycle.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless databases</title>
+      <link>http://localhost:1313/dsblog/Serverless-databases/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Serverless-databases/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Serverless databases 
+    &lt;div id=&#34;serverless-databases&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#serverless-databases&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A &lt;strong&gt;serverless database&lt;/strong&gt; is a type of database service that automatically manages infrastructure and scaling, allowing developers to focus solely on building applications without having to worry about server provisioning, capacity planning, or database maintenance.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Key Characteristics of Serverless Databases: 
+    &lt;div id=&#34;key-characteristics-of-serverless-databases&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#key-characteristics-of-serverless-databases&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automatic Scaling&lt;/strong&gt;:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ML Model Respository from Pinto0309</title>
+      <link>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;ML Model Repository from Pinto0309 
+    &lt;div id=&#34;ml-model-repository-from-pinto0309&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ml-model-repository-from-pinto0309&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to ML Model Deployment</title>
+      <link>http://localhost:1313/dsblog/Introduction-to-ML-Model-deployment/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Introduction-to-ML-Model-deployment/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg&#34; alt=&#34;Introduction to AI Model Deployement&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Introduction to AI Model deployment 
+    &lt;div id=&#34;introduction-to-ai-model-deployment&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-ai-model-deployment&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Big Players 
+    &lt;div id=&#34;big-players&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#big-players&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon
+&lt;ul&gt;
+&lt;li&gt;Amazon has many products and one of their product is &lt;strong&gt;AWS Cloud&lt;/strong&gt;. Under this product they sell IT infrastructure (storage, memory, network, VM, webhosting etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amazon SageMaker&lt;/strong&gt; is Cloud based Machine Learning Platform, and this is one of the product under AWS Cloud.&lt;/li&gt;
+&lt;li&gt;Amazon SageMaker can be used to train AI model, host AI model, monitor the model and hosts many other services which any Data Science project need from data gathering to model serving.&lt;/li&gt;
+&lt;li&gt;AWS is oldest cloud service provider in the market.&lt;/li&gt;
+&lt;li&gt;AWS Sagemaker was launched in Nov&#39;17.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Google
+&lt;ul&gt;
+&lt;li&gt;Google has hundreds of products like gmail, youtube, google drive etc. One of their product is called &lt;strong&gt;Google Cloud&lt;/strong&gt;. Under this product they sell IT infrastrcture like Amazon sells under AWS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VertexAI&lt;/strong&gt; is Cloud based Machine Learning platform of Google. VertexAI is part of Google Cloud.&lt;/li&gt;
+&lt;li&gt;VertexAI can be used to train AI Model,host AI model, monitor the model etc.&lt;/li&gt;
+&lt;li&gt;VertexAI was launched in Jun&#39;21&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Microsoft
+&lt;ul&gt;
+&lt;li&gt;Like Amazon&amp;rsquo;s cloud platform which is called AWS Cloud, Microsoft&amp;rsquo;s cloud plateform is called &lt;strong&gt;Azure&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Microsoft&amp;rsquo;s AI product is called &lt;strong&gt;Azure Machine Learning&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Today (Jul&#39;23) Azure Machine Learning has has most of the capabilites than any other player&amp;rsquo;s AI product.&lt;/li&gt;
+&lt;li&gt;Azure Machine Learning was launched Feb&#39;14&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is GenAI? 
+    &lt;div id=&#34;what-is-genai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-genai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There are many kinds of AI models like classifier models, regressor models, clustering models, reinforcement models, etc. An AI model which has the ability to generate text, images, video, and music is called GenAI. They all take inspiration from the human brain, therefore they all have neural network (NN) architecture. There are dozens (if not hundreds) types of NN architecture that can be used to create different kinds of AI models. The type of NN architecture depends upon the data which is used for developing the model and the problem which we want to solve using AI model. Researchers in universities or big corporations like Google, Facebook, Amazon, and Microsoft keep developing new architecture, and using these architectures they develop the foundational models. Once foundational models are developed, they release a research paper. In this, they inform the world what architecture they used, what data they used, what parameters (weights &amp;amp; biases) the model has learned, what are the results of their product and compare that with other existing models. They can develop these foundational models with one set of hyperparameters, and they can release these foundational models of different sizes (it depends upon the number of parameters used). AI product builders pick up these foundational models and fine-tune these based on the exact business problem in their hands. Which foundational model do they choose, it also depends upon the size of the model, the kind of data it has used to create those foundational models, and what was the performance of the model on a similar task which the product developer want to solve.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Demystifying DevOps, MLOps, and DataOps</title>
+      <link>http://localhost:1313/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Demystifying DevOps, MLOps, and DataOps: 
+    &lt;div id=&#34;demystifying-devops-mlops-and-dataops&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#demystifying-devops-mlops-and-dataops&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Bridging the Gap between Software Development, Machine Learning, and Data Managemen&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is DevOps 
+    &lt;div id=&#34;what-is-devops&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-devops&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;DevOps, short for Development and Operations, is a set of practices, principles, and cultural philosophies that aim to improve collaboration and efficiency between software development teams and IT operations teams. It emphasizes the integration of software development and IT operations, breaking down traditional silos and fostering a collaborative approach throughout the entire software delivery lifecycle.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

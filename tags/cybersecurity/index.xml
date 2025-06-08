@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on </title>
+    <link>http://localhost:1313/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Implementing Secure Authentication and Authorization</title>
+      <link>http://localhost:1313/dsblog/implementing-secure-authentication-and-authorization/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/implementing-secure-authentication-and-authorization/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg&#34; alt=&#34;Implementing Secure Authentication and Authorization&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Implementing Secure Authentication and Authorization 
+    &lt;div id=&#34;implementing-secure-authentication-and-authorization&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#implementing-secure-authentication-and-authorization&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Imagine you&amp;rsquo;ve created a website that sells data science courses—a valuable resource for aspiring data scientists. To maximize its potential, you want to ensure that free courses are available to everyone, while paid courses are accessible only to those who have purchased them. To achieve this, you need a robust &lt;strong&gt;login system (authentication)&lt;/strong&gt; to verify users and an &lt;strong&gt;authorization system&lt;/strong&gt; to control access based on their purchases. However, building and maintaining these systems can be a significant challenge—a headache, even—for a variety of reasons. In this article, we&amp;rsquo;ll explore what authentication and authorization mean in this context, why maintaining them is so complex, and how you can implement effective solutions to protect your content and satisfy your users.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Everything About Developer Console</title>
+      <link>http://localhost:1313/dsblog/Everything-About-Developer-Console/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Everything-About-Developer-Console/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg&#34; alt=&#34;Everything About Developer Console&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Console Types Every Programmer Should Know 
+    &lt;div id=&#34;console-types-every-programmer-should-know&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#console-types-every-programmer-should-know&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are you confused about a term &amp;ldquo;console&amp;rdquo; which you heard at many places and in many context, and you want to know the following answers, then continue reading.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating Google Cloud Security: Key Components, Roles, and Best Practices</title>
+      <link>http://localhost:1313/dsblog/Google-Cloud-Security-Components/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Google-Cloud-Security-Components/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg&#34; alt=&#34;Navigating Google Cloud Security&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating Google Cloud Security 
+    &lt;div id=&#34;navigating-google-cloud-security&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-google-cloud-security&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are looking answers of these questions then continue reading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are various components of GCP security architecture?&lt;/li&gt;
+&lt;li&gt;What is overall hierarchy of GCP Security Components?&lt;/li&gt;
+&lt;li&gt;What are Principal, Permission, Roles and Policies in GCP and how are they interconnected?&lt;/li&gt;
+&lt;li&gt;Can you give examples of Permissions in GCP Security architecture?&lt;/li&gt;
+&lt;li&gt;What are different types of resources available on GCP?&lt;/li&gt;
+&lt;li&gt;Can you help me visualizing organization, folders and project of GCP?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: What are various components of GCP security architecture? 
+    &lt;div id=&#34;question-what-are-various-components-of-gcp-security-architecture&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-are-various-components-of-gcp-security-architecture&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Google Cloud Platform (GCP) has a complex security architecture that consists of various components. Here’s a list of key components and their hierarchy in GCP&amp;rsquo;s security model:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AI Usecases in Cybersecurity</title>
+      <link>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI Usecases in Cybersecurity 
+    &lt;div id=&#34;ai-usecases-in-cybersecurity&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-usecases-in-cybersecurity&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI in Cyber Security, Ethics Related Challenges and Usecases 
+    &lt;div id=&#34;ai-in-cyber-security-ethics-related-challenges-and-usecases&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-in-cyber-security-ethics-related-challenges-and-usecases&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;AI Usecases in Cyber Security 
+    &lt;div id=&#34;ai-usecases-in-cyber-security&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-usecases-in-cyber-security&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Threat Detection and Response
+AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Software Security Concepts</title>
+      <link>http://localhost:1313/dsblog/Software-Security-Concepts/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Software-Security-Concepts/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6132-Software-Security-Concepts.jpg&#34; alt=&#34;Software-Security-Concepts&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Software Security Concepts 
+    &lt;div id=&#34;software-security-concepts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#software-security-concepts&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;As of today, this article is answering following questions related to software security. In future, I will add more concepts here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the major ideas which we need to understand while creating security architecture of any app?&lt;/li&gt;
+&lt;li&gt;What is the difference between authentication and authorization?&lt;/li&gt;
+&lt;li&gt;What is OAuth?&lt;/li&gt;
+&lt;li&gt;Can you share popular Compliance and Regulatory Requirements around various industries?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What are the major ideas which we need to understand while creating security architecture of any app? 
+    &lt;div id=&#34;what-are-the-major-ideas-which-we-need-to-understand-while-creating-security-architecture-of-any-app&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-are-the-major-ideas-which-we-need-to-understand-while-creating-security-architecture-of-any-app&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The security architecture of an application encompasses various concepts and strategies designed to protect the application&amp;rsquo;s data, resources, and services from threats. Here are the main ideas and concepts typically involved:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>All about Hashing</title>
+      <link>http://localhost:1313/dsblog/All-about-Hashing/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/All-about-Hashing/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6123-All-about-Hashing.jpg&#34; alt=&#34;All-about-Hashing&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;All about Hashing 
+    &lt;div id=&#34;all-about-hashing&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#all-about-hashing&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Hashing function? 
+    &lt;div id=&#34;what-is-hashing-function&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-hashing-function&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A hashing function is a mathematical algorithm that converts an input (or &amp;ldquo;message&amp;rdquo;) into a fixed-size string of bytes, typically a hash code or hash value. This output is usually a short, unique representation of the input data. Examples of common hash functions include MD5, SHA-1, and SHA-256.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is CAPTCHA?</title>
+      <link>http://localhost:1313/dsblog/What-is-Captcha/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/What-is-Captcha/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6070-What-is-Captcha.jpg&#34; alt=&#34;What is CAPTCHA?&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is CAPTCHA? 
+    &lt;div id=&#34;what-is-captcha&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-captcha&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;CAPTCHA stands for &amp;ldquo;Completely Automated Public Turing test to tell Computers and Humans Apart.&amp;rdquo; It is a security mechanism used by websites to determine whether the user is a human or a computer program (bot). CAPTCHAs are typically implemented as tests or challenges presented to the user, which are easy for humans to solve but difficult for bots.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Dealing with Sensitive Data</title>
+      <link>http://localhost:1313/dsblog/Dealing-with-Sensitive-Data/</link>
+      <pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Dealing-with-Sensitive-Data/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg&#34; alt=&#34;XAI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Dealing with Sensitive Data 
+    &lt;div id=&#34;dealing-with-sensitive-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dealing-with-sensitive-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;One of the biggest problems for a Data Science project team is to protect the data. We know, data is the basic raw material for building any supervised or unsupervised models. We cannot make a without data. Let’s assume you are working for an eCommerce retail company like Amazon; or in the health domain with some big hospital chain or government hospital; or in the banking industry with some big bank like Bank of America, Standard Charted, SBI, or ICICI Bank. They have huge data. That data can be used to develop ML models. These models can help them to serve their customers or other stakeholders in a better and efficient way. To develop these models, data should be given to the Data Science team. When the data is moving out from the production environment to the project environment, there is no guarantee that data will not fall in the wrong hands and will not be misused during the project or post the project completion. When the data is moving within the same company, there are lesser chances of this disaster. But when the company is giving data to third parties or vendors, then there are high chances.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

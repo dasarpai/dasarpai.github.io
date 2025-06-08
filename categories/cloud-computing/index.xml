@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing on </title>
+    <link>http://localhost:1313/categories/cloud-computing/</link>
+    <description>Recent content in Cloud Computing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exploring Hosting Types</title>
+      <link>http://localhost:1313/dsblog/exploring-hosting-types/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-hosting-types/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6249-exploring-hosting-types.jpg&#34; alt=&#34;Exploring Hosting Types&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Hosting Types 
+    &lt;div id=&#34;exploring-hosting-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-hosting-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Hosting by Infrastructure Types 
+    &lt;div id=&#34;hosting-by-infrastructure-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hosting-by-infrastructure-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There are several &lt;strong&gt;types of hosting&lt;/strong&gt; available in the market, each suited to different needs, from small personal websites to large enterprise applications. Here&amp;rsquo;s a breakdown of the &lt;strong&gt;main types of hosting by Infrastructure&lt;/strong&gt;, along with the &lt;strong&gt;major players&lt;/strong&gt; in each category:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Rethinking AI Infrastructure: Advantages of On-Prem Over Cloud Solutions</title>
+      <link>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Rethinking AI Infrastructure: Advantages of On-Prem Over Cloud Solutions 
+    &lt;div id=&#34;rethinking-ai-infrastructure-advantages-of-on-prem-over-cloud-solutions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rethinking-ai-infrastructure-advantages-of-on-prem-over-cloud-solutions&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Why Not to Use Cloud AI Solutions? 
+    &lt;div id=&#34;why-not-to-use-cloud-ai-solutions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-not-to-use-cloud-ai-solutions&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There are valid reasons for considering alternatives to cloud-based infrastructure when developing AI products or working with sensitive organizational data. Here are some key factors:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless LLM Deployment Platform</title>
+      <link>http://localhost:1313/dsblog/serverless-llm-deployment/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/serverless-llm-deployment/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Serverless LLM Deployment Platform 
+    &lt;div id=&#34;serverless-llm-deployment-platform&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#serverless-llm-deployment-platform&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Microsoft&amp;rsquo;s Serverless LLM Deployment Platform&lt;/strong&gt; 
+    &lt;div id=&#34;microsoft&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; 
+    &lt;div id=&#34;azure-openai-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#azure-openai-service&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; is Microsoft&amp;rsquo;s answer to serverless LLM deployment. It provides access to powerful language models, including OpenAI&amp;rsquo;s GPT-4, GPT-3.5, Codex, and DALL-E, within the Azure ecosystem. It simplifies the process of integrating and deploying LLMs in a serverless manner.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft AI Products</title>
+      <link>http://localhost:1313/dsblog/microsoft-ai-products/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/microsoft-ai-products/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6184-Microsoft-AI-Products.jpg&#34; alt=&#34;Microsoft-AI-Products&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft AI Products 
+    &lt;div id=&#34;microsoft-ai-products&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-ai-products&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Microsoft offers several tools and platforms for AI and machine learning, comparable to Google&amp;rsquo;s Vertex AI and Google AI Studio. These tools are integrated within Microsoft Azure, its cloud computing platform, and are designed for various user profiles, ranging from data scientists and ML engineers to business analysts and citizen developers.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Google AI Studio vs Vertex AI</title>
+      <link>http://localhost:1313/dsblog/google-ai-studio-vs-vertexai/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/google-ai-studio-vs-vertexai/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg&#34; alt=&#34;Google AI Studio vs Vertex AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Google AI Studio vs Vertex AI 
+    &lt;div id=&#34;google-ai-studio-vs-vertex-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#google-ai-studio-vs-vertex-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;The difference between &lt;strong&gt;Vertex AI&lt;/strong&gt; and &lt;strong&gt;Google AI Studio&lt;/strong&gt; lies in their scope, functionality, and target audiences within Google&amp;rsquo;s suite of AI tools.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Vertex AI&lt;/strong&gt; 
+    &lt;div id=&#34;1-vertex-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-vertex-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Vertex AI&lt;/strong&gt; is Google&amp;rsquo;s &lt;strong&gt;end-to-end AI platform&lt;/strong&gt; for machine learning (ML) and AI model development, training, deployment, and management. It is designed for developers and data scientists who want a comprehensive environment to build, deploy, and scale ML models.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Container Registry</title>
+      <link>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Introduction to Container Registry 
+    &lt;div id=&#34;introduction-to-container-registry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-to-container-registry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Container Registry? 
+    &lt;div id=&#34;what-is-container-registry&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-container-registry&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A container registry is a central store or service where container images are stored, managed and distributed. Container images are packaged applications that include the code, dependencies, libraries and configuration to run in any environment that supports containerization, like Docker or Kubernetes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AI/ML with Oracle Cloud</title>
+      <link>http://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg&#34; alt=&#34;AI/ML with Oracle Cloud&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI/ML with Oracle Cloud 
+    &lt;div id=&#34;aiml-with-oracle-cloud&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#aiml-with-oracle-cloud&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/services.htm&#34; target=&#34;_blank&#34;&gt;Oracle Infrastructure Services&lt;/a&gt; 
+    &lt;div id=&#34;oracle-infrastructure-services&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#oracle-infrastructure-services&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Register for &lt;a href=&#34;https://www.oracle.com/cloud/free/?source=:ow:o:h:po:OHPPanel1nav0625&amp;amp;intcmp=:ow:o:h:po:OHPPanel1nav0625&#34; target=&#34;_blank&#34;&gt;Oracle Cloud Free Tier&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Oracle AI Main services 
+    &lt;div id=&#34;oracle-ai-main-services&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#oracle-ai-main-services&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.oracle.com/digital-assistant/oda-instances?region=ap-mumbai-1&#34; target=&#34;_blank&#34;&gt;Digital Assistant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/document-understanding/using/home.htm&#34; target=&#34;_blank&#34;&gt;Document Understanding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/language/using/pretrain-models.htm#lang-detect&#34; target=&#34;_blank&#34;&gt;Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/vision/using/pretrained-model-using-image.htm&#34; target=&#34;_blank&#34;&gt;Vision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/speech/home.htm&#34; target=&#34;_blank&#34;&gt;Speech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/Streaming/home.htm&#34; target=&#34;_blank&#34;&gt;Stream&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/process-automation/oci-process-automation/overview-oci-process-automation.html&#34; target=&#34;_blank&#34;&gt;Cloud Infra Automation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;a href=&#34;https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm&#34; target=&#34;_blank&#34;&gt;Generative AI&lt;/a&gt; 
+    &lt;div id=&#34;generative-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#generative-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Generative AI is a fully managed Oracle Cloud Infrastructure service that provides a set of state-of-the-art, customizable large language models (LLMs) that cover a wide range of use cases, including chat, text generation, summarization, and creating text embeddings.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Google Firebase</title>
+      <link>http://localhost:1313/dsblog/Exploring-Firebase/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Firebase/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6159-Exploring-Firebase.jpg&#34; alt=&#34;Exploring Firebase&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Firebase 
+    &lt;div id=&#34;exploring-firebase&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-firebase&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Firebase? 
+    &lt;div id=&#34;what-is-firebase&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-firebase&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Originally, Firebase started as a product called &lt;strong&gt;Envolve&lt;/strong&gt; in 2011, which was a real-time chat service. It was co-founded by &lt;strong&gt;James Tamplin&lt;/strong&gt; and &lt;strong&gt;Andrew Lee&lt;/strong&gt;. While developing Envolve, they realized that developers were using its real-time system to sync application data, not just chat messages. This led them to pivot and create Firebase as a real-time database product in 2012. Google acquired Firebase in &lt;strong&gt;2014&lt;/strong&gt; and integrated it into its broader ecosystem, expanding it into a full-fledged platform for app development.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating Google Cloud Security: Key Components, Roles, and Best Practices</title>
+      <link>http://localhost:1313/dsblog/Google-Cloud-Security-Components/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Google-Cloud-Security-Components/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg&#34; alt=&#34;Navigating Google Cloud Security&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating Google Cloud Security 
+    &lt;div id=&#34;navigating-google-cloud-security&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-google-cloud-security&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are looking answers of these questions then continue reading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are various components of GCP security architecture?&lt;/li&gt;
+&lt;li&gt;What is overall hierarchy of GCP Security Components?&lt;/li&gt;
+&lt;li&gt;What are Principal, Permission, Roles and Policies in GCP and how are they interconnected?&lt;/li&gt;
+&lt;li&gt;Can you give examples of Permissions in GCP Security architecture?&lt;/li&gt;
+&lt;li&gt;What are different types of resources available on GCP?&lt;/li&gt;
+&lt;li&gt;Can you help me visualizing organization, folders and project of GCP?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: What are various components of GCP security architecture? 
+    &lt;div id=&#34;question-what-are-various-components-of-gcp-security-architecture&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-are-various-components-of-gcp-security-architecture&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Google Cloud Platform (GCP) has a complex security architecture that consists of various components. Here’s a list of key components and their hierarchy in GCP&amp;rsquo;s security model:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>GenAI Capabilities from AWS, Azure and GCP</title>
+      <link>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;The Battle for AI Supremacy: GenAI Capabilities from AWS, Azure, and Google Cloud 
+    &lt;div id=&#34;the-battle-for-ai-supremacy-genai-capabilities-from-aws-azure-and-google-cloud&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-battle-for-ai-supremacy-genai-capabilities-from-aws-azure-and-google-cloud&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this Article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are looking for answer of following questions then this article is for you, else you can skip this.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless databases</title>
+      <link>http://localhost:1313/dsblog/Serverless-databases/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Serverless-databases/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Serverless databases 
+    &lt;div id=&#34;serverless-databases&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#serverless-databases&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;A &lt;strong&gt;serverless database&lt;/strong&gt; is a type of database service that automatically manages infrastructure and scaling, allowing developers to focus solely on building applications without having to worry about server provisioning, capacity planning, or database maintenance.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Key Characteristics of Serverless Databases: 
+    &lt;div id=&#34;key-characteristics-of-serverless-databases&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#key-characteristics-of-serverless-databases&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automatic Scaling&lt;/strong&gt;:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Google Cloud APIs</title>
+      <link>http://localhost:1313/dsblog/Google-Cloud-APIS/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Google-Cloud-APIS/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6082-Google-API-Services.jpg&#34; alt=&#34;Google Cloud APIs&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Google Cloud APIs 
+    &lt;div id=&#34;google-cloud-apis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#google-cloud-apis&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Hundreds of services from Google are available to consumers as API. Every API has a specific purpose. Over a period of time, google keeps clubbing these API endpoints (a url/place where a service is available), cleaning their code and improving the capabilities of these services. Therefore, sometimes it looks endpoint or pip package is the same, but its API name is different. Recently when google clubbed their many AI APIs they are moved under VertexAI and API endpoint changed to aiplatform.googleapi.com. To bring some clarity for my own sake and some of you may like this, I wrote this article.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Model Tuning with VertexAI</title>
+      <link>http://localhost:1313/dsblog/Model-Tuning-with-VertexAI/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Model-Tuning-with-VertexAI/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg&#34; alt=&#34;Model Tuning with VertexAI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Tuning Large Language Model with VertexAI 
+    &lt;div id=&#34;tuning-large-language-model-with-vertexai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tuning-large-language-model-with-vertexai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Why Model Tuning? 
+    &lt;div id=&#34;why-model-tuning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-model-tuning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Tuning is required when you want the model to learn something niche or specific that deviates from general language patterns.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Goal of Tuning 
+    &lt;div id=&#34;goal-of-tuning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#goal-of-tuning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Classification 
+    &lt;div id=&#34;classification&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#classification&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;prompt: &amp;ldquo;Classify the following text into one of the following classes: [business, entertainment].&amp;rdquo;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Database and Analytics Product Services from Google Azure AWS</title>
+      <link>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Database and Analytics Product Services from Google Azure AWS 
+    &lt;div id=&#34;database-and-analytics-product-services-from-google-azure-aws&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#database-and-analytics-product-services-from-google-azure-aws&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Database Tools/Services 
+    &lt;div id=&#34;database-toolsservices&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#database-toolsservices&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Sno&lt;/th&gt;
+          &lt;th&gt;Amazon&lt;/th&gt;
+          &lt;th&gt;Azure&lt;/th&gt;
+          &lt;th&gt;Microsoft&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/rds/aurora/?nc2=h_ql_prod_db_aa&#34; target=&#34;_blank&#34;&gt;Amazon Aurora : High performance managed relational database with full MySQL and PostgreSQL compatibility&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/sql?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;SQL : Managed MySQL, PostgreSQL, SQL Server&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/azure-sql/&#34; target=&#34;_blank&#34;&gt;Azure SQL : Migrate, modernize, and innovate on the modern SQL family of cloud databases&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/rds/aurora/serverless/?nc2=h_ql_prod_db_aav2&#34; target=&#34;_blank&#34;&gt;Amazon Aurora Serverless V2 : Instantly scale to &amp;gt;100,000 transactions per second&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/datastore?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Datastore : NoSQL database for your web and mobile apps&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/cosmos-db/&#34; target=&#34;_blank&#34;&gt;Azure Cosmos DB : Build or modernize scalable, high-performance apps&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/documentdb/?nc2=h_ql_prod_db_doc&#34; target=&#34;_blank&#34;&gt;Amazon DocumentDB (with MongoDB compatibility) : Fully managed document database&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/firestore?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Firestore : Serverless NoSQL document DB&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/azure-sql/database/&#34; target=&#34;_blank&#34;&gt;Azure SQL Database : Build apps that scale with managed and intelligent SQL database in the cloud&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/dynamodb/?nc2=h_ql_prod_db_ddb&#34; target=&#34;_blank&#34;&gt;Amazon DynamoDB : Managed NoSQL database&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/spanner?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Spanner : Horizontally scalable relational DB&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/postgresql/&#34; target=&#34;_blank&#34;&gt;Azure Database for PostgreSQL : Fully managed, intelligent, and scalable PostgreSQL&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/elasticache/?nc2=h_ql_prod_db_elc&#34; target=&#34;_blank&#34;&gt;Amazon ElastiCache : In-memory caching service&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/bigtable?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Bigtable : Petabyte-scale, low-latency, non-relational&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/azure-sql/managed-instance/&#34; target=&#34;_blank&#34;&gt;Azure SQL Managed Instance : Modernize SQL Server applications with a managed, always-up-to-date SQL instance in the cloud&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/keyspaces/?nc2=h_ql_prod_db_mcs&#34; target=&#34;_blank&#34;&gt;Amazon Keyspaces (for Apache Cassandra) : Managed Cassandra-compatible database&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/memorystore?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Memorystore : Managed Redis and Memcached&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/services/mysql/&#34; target=&#34;_blank&#34;&gt;Azure Database for MySQL : Fully managed, scalable MySQL Database&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/memorydb/?nc2=h_ql_prod_db_memdb&#34; target=&#34;_blank&#34;&gt;Amazon MemoryDB for Redis : Redis-compatible, durable, in-memory database that delivers ultra-fast performance&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/dbmigration?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Database Migration : Cloud SQL migrations simplified&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/&#34; target=&#34;_blank&#34;&gt;SQL Server on Azure Virtual Machines : Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/neptune/?nc2=h_ql_prod_db_nep&#34; target=&#34;_blank&#34;&gt;Amazon Neptune : Fully managed graph database service&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/marketplace/product/mongodb/mdb-atlas-self-service?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;MongoDB Atlas : JSON-like data models, querying, &amp;amp; scaling&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/cache/&#34; target=&#34;_blank&#34;&gt;Azure Cache for Redis : Accelerate apps with high-throughput, low-latency data caching&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/qldb/?nc2=h_ql_prod_db_qldb&#34; target=&#34;_blank&#34;&gt;Amazon Quantum Ledger Database (QLDB) : Fully managed ledger database&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/marketplace/product/endpoints/prod.n4gcp.neo4j.io?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Neo4j Aura : Integrated, fully managed graph databases&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/database-migration/&#34; target=&#34;_blank&#34;&gt;Azure Database Migration Service : Accelerate your data migration to Azure&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/rds/?nc2=h_ql_prod_db_rds&#34; target=&#34;_blank&#34;&gt;Amazon RDS : Managed relational database service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/marketplace/product/redis-marketplace-isaas/redis-enterprise-cloud-flexible-plan?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Redis Enterprise : Robust in-memory database platform&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/services/managed-instance-apache-cassandra/&#34; target=&#34;_blank&#34;&gt;Azure Managed Instance for Apache Cassandra : Modernize Cassandra data clusters with a managed instance in the cloud&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/rds/outposts/?nc2=h_ql_prod_db_rdsvm&#34; target=&#34;_blank&#34;&gt;Amazon RDS on Outposts : Automate on-premises database management&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;AlloyDB : Enterprise-grade, PostgreSQL-compatible databases&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/services/mariadb/&#34; target=&#34;_blank&#34;&gt;Azure Database for MariaDB : Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/redshift/?nc2=h_ql_prod_db_rs&#34; target=&#34;_blank&#34;&gt;Amazon Redshift : Fast, simple, cost-effective data warehousing&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/timestream/?nc2=h_ql_prod_db_ts&#34; target=&#34;_blank&#34;&gt;Amazon Timestream : Fully managed time series database&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/dms/?nc2=h_ql_prod_db_dbm&#34; target=&#34;_blank&#34;&gt;AWS Database Migration Service : Migrate databases with minimal downtime&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Data Analytics Tools/Services 
+    &lt;div id=&#34;data-analytics-toolsservices&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-analytics-toolsservices&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Sno&lt;/th&gt;
+          &lt;th&gt;Amazon&lt;/th&gt;
+          &lt;th&gt;Azure&lt;/th&gt;
+          &lt;th&gt;Microsoft&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/athena/?nc2=h_ql_prod_an_ath&#34; target=&#34;_blank&#34;&gt;Amazon Athena : Query data in S3 using SQL&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;BigQuery : Data warehouse for business agility and insights.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/synapse-analytics/&#34; target=&#34;_blank&#34;&gt;Azure Synapse Analytics : Limitless analytics with unmatched time to insight&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/cloudsearch/?nc2=h_ql_prod_an_cs&#34; target=&#34;_blank&#34;&gt;Amazon Cloud : SearchManaged search service&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Looker : Platform for BI, data applications, and embedded analytics.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/databricks/&#34; target=&#34;_blank&#34;&gt;Azure Databricks : Design AI with Apache Spark™-based analytics&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/datazone/?nc2=h_ql_prod_an_dz&#34; target=&#34;_blank&#34;&gt;Amazon DataZone (Preview) : Unlock data across organizational boundaries with built-in governance&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Dataflow : Streaming analytics for stream and batch processing.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/purview/&#34; target=&#34;_blank&#34;&gt;Microsoft Purview : Govern, protect, and manage your data estate&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/opensearch-service/?nc2=h_ql_prod_an_es&#34; target=&#34;_blank&#34;&gt;Amazon OpenSearch Service : Search, visualize, and analyze up to petabytes of text and unstructured data&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Pub/Sub : Messaging service for event ingestion and delivery.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/data-factory/&#34; target=&#34;_blank&#34;&gt;Azure Data Factory : Hybrid data integration at enterprise scale, made easy&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/emr/?nc2=h_ql_prod_an_emr&#34; target=&#34;_blank&#34;&gt;Amazon EMR : Easily run big data frameworks&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Dataproc : Service for running Apache Spark and Apache Hadoop clusters.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/hdinsight/&#34; target=&#34;_blank&#34;&gt;HDInsight : Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/finspace/?nc2=h_ql_prod_an_fs&#34; target=&#34;_blank&#34;&gt;Amazon FinSpace : Analytics for the financial services industry&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Cloud Data Fusion : Data integration for building and managing data pipelines.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/stream-analytics/&#34; target=&#34;_blank&#34;&gt;Azure Stream Analytics : Real-time analytics on fast-moving streaming data&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/kinesis/?nc2=h_ql_prod_an_kin&#34; target=&#34;_blank&#34;&gt;Amazon Kinesis : Analyze real-time video and data streams&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Cloud Composer : Workflow orchestration service built on Apache Airflow.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/machine-learning/&#34; target=&#34;_blank&#34;&gt;Azure Machine Learning : Build, train, and deploy models from the cloud to the edge&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/msk/?nc2=h_ql_prod_an_msak&#34; target=&#34;_blank&#34;&gt;Amazon Managed Streaming for Apache Kafka : Fully managed Apache Kafka service&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Dataprep : Service to prepare data for analysis and machine learning.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/analysis-services/&#34; target=&#34;_blank&#34;&gt;Azure Analysis Services : Enterprise-grade analytics engine as a service&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/redshift/?nc2=h_ql_prod_an_rs&#34; target=&#34;_blank&#34;&gt;Amazon Redshift : Fast, simple, cost-effective data warehousing&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Dataplex : Intelligent data fabric for unifying data management across silos.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/storage/data-lake-storage/&#34; target=&#34;_blank&#34;&gt;Azure Data Lake Storage : Scalable, secure data lake for high-performance analytics&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/quicksight/?nc2=h_ql_prod_an_qs&#34; target=&#34;_blank&#34;&gt;Amazon QuickSight : Fast business analytics service&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Looker Studio : Interactive data suite for dashboarding, reporting, and analytics.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/products/data-explorer/&#34; target=&#34;_blank&#34;&gt;Azure Data Explorer : Fast and highly scalable data exploration service&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/clean-rooms/?nc2=h_ql_prod_an_cr&#34; target=&#34;_blank&#34;&gt;AWS Clean Rooms : Match, analyze, and collaborate on datasets–without sharing or revealing underlying data&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004&#34; target=&#34;_blank&#34;&gt;Analytics Hub : Service for securely and efficiently exchanging data analytics assets.&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/data-exchange/?nc2=h_ql_prod_an_dex&#34; target=&#34;_blank&#34;&gt;AWS Data Exchange : Find, subscribe to, and use third-party data in the cloud&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/datapipeline/?nc2=h_ql_prod_an_dp&#34; target=&#34;_blank&#34;&gt;AWS Data Pipeline : Orchestration service for periodic, data-driven workflows&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/glue/?nc2=h_ql_prod_an_glu&#34; target=&#34;_blank&#34;&gt;AWS Glue : Simple, scalable, and serverless data integration&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aws.amazon.com/lake-formation/?nc2=h_ql_prod_an_lkf&#34; target=&#34;_blank&#34;&gt;AWS Lake Formation : Build, manage, and secure your data lake&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;&lt;br&gt;
+Dr Hari Thapliyaal&lt;br&gt;
+dasarpai.com&lt;br&gt;
+linkedin.com/in/harithapliyal&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AI Product and Services from Google, Azure and AWS</title>
+      <link>http://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI Product and Services from Google, Azure and AWS 
+    &lt;div id=&#34;ai-product-and-services-from-google-azure-and-aws&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-product-and-services-from-google-azure-and-aws&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Sno&lt;/th&gt;
+          &lt;th&gt;Azure&lt;/th&gt;
+          &lt;th&gt;Google&lt;/th&gt;
+          &lt;th&gt;AWS&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/anomaly-detector/&#34; target=&#34;_blank&#34;&gt;Anomaly Detector:&lt;/a&gt; Easily add anomaly detection capabilities to your apps.&lt;/td&gt;
+          &lt;td&gt;AutoML: Custom low-code models &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/training/training&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/a2i/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Augmented AI&lt;/a&gt; : Easily implement human review of machine learning predictions&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/bot-services/&#34; target=&#34;_blank&#34;&gt;Azure Bot Service:&lt;/a&gt; Build conversational AI experiences for your customers&lt;/td&gt;
+          &lt;td&gt;Cloud TPU: Hardware acceleration for ML &lt;a href=&#34;https://cloud.google.com/tpu/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/tpu/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/bedrock/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Bedrock&lt;/a&gt; : The easiest way to build and scale generative AI applications with foundation models (FMs).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/search/&#34; target=&#34;_blank&#34;&gt;Azure Cognitive Search:&lt;/a&gt; Enterprise scale search for app development&lt;/td&gt;
+          &lt;td&gt;Cloud Translation: Language detection and translation &lt;a href=&#34;https://cloud.google.com/translate/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/translate/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/codeguru/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon CodeGuru&lt;/a&gt; : Intelligent recommendations for building and running modern applications&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/databricks/&#34; target=&#34;_blank&#34;&gt;Azure Databricks:&lt;/a&gt; Design AI with Apache Spark™-based analytics&lt;/td&gt;
+          &lt;td&gt;Cloud Vision: Image recognition and classification &lt;a href=&#34;https://cloud.google.com/vision/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vision/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/comprehendmedical/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Comprehend Medical&lt;/a&gt; : Amazon Comprehend Medical uses machine learning to extract insights and relationships from medical text.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/machine-learning/&#34; target=&#34;_blank&#34;&gt;Azure Machine Learning:&lt;/a&gt; Enterprise-grade machine learning service to build and deploy models faster&lt;/td&gt;
+          &lt;td&gt;Contact Center AI: AI in your contact center &lt;a href=&#34;https://cloud.google.com/solutions/contact-center/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/solutions/contact-center/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/comprehend/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Comprehend&lt;/a&gt; : Analyze Unstructured Text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/services/open-datasets/&#34; target=&#34;_blank&#34;&gt;Azure Open Datasets:&lt;/a&gt; Cloud platform to host and share curated open datasets to accelerate development of machine learning models&lt;/td&gt;
+          &lt;td&gt;Deep Learning Containers: Preconfigured containers for deep learning &lt;a href=&#34;https://cloud.google.com/ai-platform/deep-learning-containers/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/ai-platform/deep-learning-containers/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/deepcomposer/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;AWS DeepComposer&lt;/a&gt; : AWS DeepComposer allows developers of all skill levels to get started with Generative AI.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/&#34; target=&#34;_blank&#34;&gt;Azure Cognitive Services:&lt;/a&gt; Deploy high-quality AI models as APIs&lt;/td&gt;
+          &lt;td&gt;Deep Learning VM Images: Preconfigured VMs for deep learning &lt;a href=&#34;https://cloud.google.com/deep-learning-vm/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/deep-learning-vm/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/deeplens/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;AWS DeepLens&lt;/a&gt; : Deep Learning Enabled Video Camera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/services/video-indexer/&#34; target=&#34;_blank&#34;&gt;Azure Video Analyzer for Media:&lt;/a&gt; Unlock video insights&lt;/td&gt;
+          &lt;td&gt;Dialogflow: Create conversational interfaces &lt;a href=&#34;https://cloud.google.com/dialogflow-enterprise/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/dialogflow-enterprise/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;AWS DeepRacer&lt;/a&gt; : Fully autonomous 1/18th scale race car, driven by machine learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/content-safety/&#34; target=&#34;_blank&#34;&gt;Content Moderator GA:&lt;/a&gt; Automated image, text and video moderation&lt;/td&gt;
+          &lt;td&gt;Document AI: Analyze, classify, search documents &lt;a href=&#34;https://cloud.google.com/solutions/document-understanding/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/document-understanding/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/devops-guru/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon DevOps Guru&lt;/a&gt; : ML-powered cloud operations service to improve application availability.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/custom-vision-service/&#34; target=&#34;_blank&#34;&gt;Custom Vision:&lt;/a&gt; Easily customise your own state-of-the-art computer vision models for your unique use case&lt;/td&gt;
+          &lt;td&gt;Recommendations AI: Create custom recommendations &lt;a href=&#34;https://cloud.google.com/recommendations/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/recommendations-ai/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/forecast/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Forecast&lt;/a&gt; : Amazon Forecast is a fully-managed service for accurate time-series forecasting&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/virtual-machines/data-science-virtual-machines/&#34; target=&#34;_blank&#34;&gt;Data Science Virtual Machines:&lt;/a&gt; Rich pre-configured environment for AI development&lt;/td&gt;
+          &lt;td&gt;Speech-To-Text: Convert audio to text &lt;a href=&#34;https://cloud.google.com/speech/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/speech/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/frauddetector/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Fraud Detector&lt;/a&gt; : Detect more online fraud faster using machine learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/form-recognizer/&#34; target=&#34;_blank&#34;&gt;Azure Form Recogniser:&lt;/a&gt; Accelerate information extraction from documents&lt;/td&gt;
+          &lt;td&gt;Talent Solutions: Job search with ML &lt;a href=&#34;https://cloud.google.com/job-discovery/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/job-discovery/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/healthlake/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon HealthLake&lt;/a&gt; : Making sense of health data&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/immersive-reader/&#34; target=&#34;_blank&#34;&gt;Azure Immersive Reader:&lt;/a&gt; Empower users of all ages and abilities to read and comprehend text&lt;/td&gt;
+          &lt;td&gt;Text-To-Speech: Convert text to audio &lt;a href=&#34;https://cloud.google.com/text-to-speech/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/text-to-speech/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/kendra/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Kendra&lt;/a&gt; : Highly accurate enterprise search service powered by machine learning&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/kinect-dk/&#34; target=&#34;_blank&#34;&gt;Kinect DK:&lt;/a&gt; Build computer vision and speech models using a developer kit with advanced AI sensors&lt;/td&gt;
+          &lt;td&gt;Vertex AI Data Labeling: Data labeling by humans &lt;a href=&#34;https://cloud.google.com/data-labeling/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/lexv2/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Lex&lt;/a&gt; : Build Voice and Text Chatbots&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/conversational-language-understanding/&#34; target=&#34;_blank&#34;&gt;Language Understanding:&lt;/a&gt; Teach your apps to understand commands from your users&lt;/td&gt;
+          &lt;td&gt;Vertex AI Edge Manager: Deploy monitor edge inferences &lt;a href=&#34;https://https://cloud.google.com/vertex-ai/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/lookoutequipment/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Lookout for Equipment&lt;/a&gt; : Detect abnormal equipment behavior by analyzing sensor data&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/genomics/&#34; target=&#34;_blank&#34;&gt;Microsoft Genomics:&lt;/a&gt; Power genome sequencing and research insights&lt;/td&gt;
+          &lt;td&gt;Vertex AI Feature Store: Managed ML feature repository &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/featurestore&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/featurestore/overview&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/lookoutmetrics/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Lookout for Metrics&lt;/a&gt; : Accurately detect anomalies in your business metrics and quickly understand why&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/personalizer/&#34; target=&#34;_blank&#34;&gt;Personaliser:&lt;/a&gt; An AI service that delivers a personalised user experience&lt;/td&gt;
+          &lt;td&gt;Vertex AI Matching Engine: Vector similarity searches &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/matching-engine&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/matching-engine&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/lookoutvision/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Lookout for Vision&lt;/a&gt; : Identify defects using computer vision to automate quality inspection.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/services/project-bonsai/&#34; target=&#34;_blank&#34;&gt;Project Bonsai:&lt;/a&gt; Create intelligent industrial control systems using simulations&lt;/td&gt;
+          &lt;td&gt;Vertex AI Model Monitoring: Monitor models for skew/drift &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/model-monitoring&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/model-monitoring/overview&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/monitron/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Monitron&lt;/a&gt; : End-to-end system for equipment monitoring&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://docs.microsoft.com/en-in/azure/cognitive-services/QnAMaker/Overview/overview&#34; target=&#34;_blank&#34;&gt;QnA Maker:&lt;/a&gt; Distill information into conversational, easy-to-navigate answers&lt;/td&gt;
+          &lt;td&gt;Vertex AI Pipelines: Hosted ML workflows &lt;a href=&#34;https://cloud.google.com/ai-platform/pipelines/&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/omics/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Omics&lt;/a&gt; : Transform omics data into insights.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/speaker-recognition/&#34; target=&#34;_blank&#34;&gt;Speaker Recognition:&lt;/a&gt; A Speech service feature that verifies and identifies speakers&lt;/td&gt;
+          &lt;td&gt;Vertex AI Predictions: Autoscaled model serving &lt;a href=&#34;https://cloud.google.com/ai-platform/prediction/docs/overview&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/panorama/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;AWS Panorama&lt;/a&gt; : Enabling computer vision applications at the edge&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;21.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/speech-to-text/&#34; target=&#34;_blank&#34;&gt;Speech to Text:&lt;/a&gt; A Speech service feature that accurately converts spoken audio to text&lt;/td&gt;
+          &lt;td&gt;Vertex AI Tensorboard: Managed TensorBoard for ML-experiment Visualization &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/experiments&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/personalize/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Personalize&lt;/a&gt; : Amazon Personalize helps you easily add real-time recommendations to your apps&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;22.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/speech-translation/&#34; target=&#34;_blank&#34;&gt;Speech Translation:&lt;/a&gt; Easily integrate real-time speech translation to your app&lt;/td&gt;
+          &lt;td&gt;Vertex AI Training: Distributed AI training &lt;a href=&#34;https://cloud.google.com/ai-platform/training/docs/overview&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/polly/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Polly&lt;/a&gt; : Turn Text into Lifelike Speech&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;23.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/language-service/&#34; target=&#34;_blank&#34;&gt;Cognitive Service for Language:&lt;/a&gt; Add natural language capabilities with a single API call&lt;/td&gt;
+          &lt;td&gt;Vertex AI Vizier: black-box hyperparameter tuning &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/vizier/overview&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/vizier&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/rekognition/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Rekognition&lt;/a&gt; : Search and Analyze Images&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;24.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/services/cognitive-services/text-to-speech/&#34; target=&#34;_blank&#34;&gt;Text to Speech:&lt;/a&gt; A Speech service feature that converts text to lifelike speech&lt;/td&gt;
+          &lt;td&gt;Vertex AI Workbench:Jupyter-based environment for Data Science &lt;a href=&#34;https://cloud.google.com/vertex-ai-workbench&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/workbench&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/sagemaker/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon SageMaker&lt;/a&gt; : Build, Train, and Deploy Machine Learning Models&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;25.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/services/cognitive-services/translator/&#34; target=&#34;_blank&#34;&gt;Translator:&lt;/a&gt; Easily conduct machine translation with a simple REST API call&lt;/td&gt;
+          &lt;td&gt;Vertex Explainable AI: Understand ML model predictions &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/explainable-ai/overview&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/explainable-ai&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/textract/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Textract&lt;/a&gt; : Easily extract text and data from virtually any document&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;26.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/metrics-advisor/&#34; target=&#34;_blank&#34;&gt;Azure Metrics Advisor:&lt;/a&gt; An AI service that monitors metrics and diagnoses issues&lt;/td&gt;
+          &lt;td&gt;Vertex ML Metadata: Artifact, lineage, and execution tracking &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/ml-metadata&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &lt;a href=&#34;https://cloud.google.com/vertex-ai/docs/ml-metadata/introduction&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/transcribe/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Transcribe&lt;/a&gt; : Powerful Speech Recognition&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;27.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/bot-services/health-bot/&#34; target=&#34;_blank&#34;&gt;Health Bot:&lt;/a&gt; A managed service purpose-built for development of virtual healthcare assistants&lt;/td&gt;
+          &lt;td&gt;Vision Product Search: Visual search for products &lt;a href=&#34;https://cloud.google.com/vision/product-search/docs/&#34; target=&#34;_blank&#34;&gt;Doc&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://us-east-1.console.aws.amazon.com/translate/home?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Amazon Translate&lt;/a&gt; : Powerful Neural Machine Translation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;28.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aka.ms/ScalerHomepage&#34; target=&#34;_blank&#34;&gt;Azure Applied AI Services:&lt;/a&gt; Specialised services that enable organisations to accelerate time to value in applying AI to solve common scenarios&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;29.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/openai-service/&#34; target=&#34;_blank&#34;&gt;Azure OpenAI Service:&lt;/a&gt; Apply advanced coding and language models to a variety of use cases&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://azure.microsoft.com/en-in/products/cognitive-services/vision-services/&#34; target=&#34;_blank&#34;&gt;Azure Cognitive Services for Vision:&lt;/a&gt; Unlock insights from image and video content with AI&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;&lt;br&gt;
+Dr Hari Thapliyaal&lt;br&gt;
+dasarpai.com&lt;br&gt;
+linkedin.com/in/harithapliyal&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AWS SageMaker Jumpstart Models</title>
+      <link>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AWS SageMaker Jumpstart Models 
+    &lt;div id=&#34;aws-sagemaker-jumpstart-models&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#aws-sagemaker-jumpstart-models&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;As of 17-Jul-23, AWS Sagemaker has 463 models in its Model Zoo. They call these models as Jumstart Models. What are the capabilities of these models, who are the developer of these models, where these models are hosted in given in the table below.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;SNo.&lt;/th&gt;
+          &lt;th&gt;Task Type&lt;/th&gt;
+          &lt;th&gt;Company&lt;/th&gt;
+          &lt;th&gt;Model Description&lt;/th&gt;
+          &lt;th&gt;Model ID&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1.&lt;/td&gt;
+          &lt;td&gt;Text Generation&lt;/td&gt;
+          &lt;td&gt;Huggingface&lt;/td&gt;
+          &lt;td&gt;Falcon-40B-Instruct is a 40B parameters causal decoder-only model built by TII based on Falcon-40B and finetuned on a mixture of Baize It is ready-to-use chat/instruct model based on Falcon 40B&lt;/td&gt;
+          &lt;td&gt;Model draft: false&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;id: huggingface-textgeneration-falcon-40b-instruct-bf16
+|2. |Text Generation |Huggingface |This is a Text Generation model built upon a Transformer model from Hugging Face |Model draft: false
+id: huggingface-textgeneration-open-llama
+|3. |Text to Image |StabilityAI |Extend beyond just text-to-image prompting. Stable Diffusion XL offers several ways to modify the images: Inpainting - edit inside the image, Outpainting - extend the image outside of the original image, Image-to-image - prompt a new image using a sourced image. |
+|4. |Text Generation |Cohere |Generative model that responds well with instruction-like prompts. This model provides businesses and enterprises with best quality, performance and accuracy in all generative tasks. And with our intuitive SDK, unlocking the full potential of LLMs for your applications has never been easier. |
+|5. |Text Generation |AI21 Labs |Jurassic-2 Ultra is optimized to follow natural language instructions and context, so there is no need to provide it with any examples. |
+|6. |Text Generation |AI21 Labs | |
+|7. |Text Generation |AI21 Labs |Condense lengthy texts into short, easy-to-read bites that remain factually consistent with the source. No prompting needed – simply input the text that needs to be summarized. The model is specifically trained to generate summaries that capture the essence and key ideas of the original text. |
+|8. |Text Generation |AI21 Labs |Get the AI21 Paraphrase model, the top-of-the-line paraphrasing engine, and deploy it in your private environment. The model aims to generate 10 alternative suggestions with every activation. It may return fewer suggestions when rewriting very short texts for which it cannot produce as many as 10 sensible paraphrases. |
+|9. |Text Generation |AI21 Labs |Jurassic-2 Mid is optimized to follow natural language instructions and context, so there is no need to provide it with any examples. Pre-trained language model trained by AI21 Labs on a corpus of web text including natural language and computer programs with recent data - updated to mid 2022. This model has a 8192 token context window (i.e. the length of the prompt + completion should be at most 8192 tokens). |
+|10. |Text Generation |AI21 Labs |Detects and suggests corrections for Grammar, Spelling, Punctuation mistakes, as well as word misuse, and accidental repetition or omission. |
+|11. |Text to Image |StabilityAI |Extend beyond just text-to-image prompting. Stable Diffusion XL offers several ways to modify the images: Inpainting - edit inside the image, Outpainting - extend the image outside of the original image, Image-to-image - prompt a new image using a sourced image. |
+|12. |Text to Image |Stabilityai |This is a text-to-image model from Stability AI and downloaded from HuggingFace It takes a textual description as input and returns a generated image from the description |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v2-1-base
+|13. | |Huggingface |This is a Text2Text Generation model built upon a T5 model from Hugging Face The deployed model can be used for running inference on any input text |Model draft: false
+id: huggingface-text2text-flan-t5-xl
+|14. | |Huggingface |This is a Text Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts next words in the sequence |Model draft: false
+id: huggingface-textgeneration1-gpt-j-6b
+|15. | |Huggingface |This is a Text2Text Generation model built upon a T5 model from Hugging Face The deployed model can be used for running inference on any input text |Model draft: false
+id: huggingface-text2text-flan-ul2-bf16
+|16. |Text Generation |Pytorch |AlexaTM 20B is a multitask, multilingual, large-scale sequence-to-sequence (seq2seq) model, trained on a mixture of Common Crawl (mC4) and Wikipedia data across 12 languages, using denoising and Causal Language Modeling (CLM) tasks |Model draft: false
+id: pytorch-textgeneration1-alexa20b
+|17. |Text Generation |Huggingface |This is a Text Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts next words in the sequence |Model draft: false
+id: huggingface-textgeneration-bloom-1b7
+|18. |Image Classification |Tensorflow |This is an Image Classification model from TensorFlow Hub It takes an image as input and classifies the image to one of the 1001 classes |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-100-224-classification-4
+|19. |Object Detection |Tensorflow |This is an object detection model from Tensorflow It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od1-ssd-resnet50-v1-fpn-640x640-coco17-tpu-8
+|20. |Object Detection |Pytorch |This is an object detection model from PyTorch Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: pytorch-od1-fasterrcnn-resnet50-fpn
+|21. |Text Classification |Tensorflow |This is a Text Classification model built upon a Text Embedding model from TensorFlow Hub It takes a text string as input and classifies the input text as either a positive or negative movie review |Model draft: false
+id: tensorflow-tc-bert-en-uncased-L-12-H-768-A-12-2
+|22. |Question Answering |Huggingface |This is an Extractive Question Answering model built on a Transformer model from Hugging Face It takes two strings as inputs: the first string is a question and the second string is the context or any text you want to use to find the answer of the question, and it returns a sub-string from the context as an answer to the question |Model draft: false
+id: huggingface-eqa-distilbert-base-uncased
+|23. |Zero-Shot Text Classification |Huggingface |This is Zero Shot Text Classification model built on a Transformer model from Hugging Face It can classify sentences in English language It takes a sequence and a list of candidate labels as inputs and predicts score that the sequence is associated with the particular label |Model draft: false
+id: huggingface-zstc-facebook-bart-large-mnli
+|24. |Semantic Segmentation |Mxnet |This is an Semantic Segmentation model from Gluon CV It takes an image as input and returns class label for each pixel in the image |Model draft: false
+id: mxnet-semseg-fcn-resnet101-coco
+|25. |Sentence Pair Classification |Huggingface |This is a Sentence Pair Classification model built upon a Text Embedding model from Hugging Face It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: huggingface-spc-distilbert-base-uncased
+|26. |Named Entity Recognition |Huggingface |This is a Named Entity Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts named entities in the input text |Model draft: false
+id: huggingface-ner-distilbert-base-cased-finetuned-conll03-english
+|27. |Text Summarization |Huggingface |This is a Text Summarization model built upon a Transformer model from Hugging Face It takes a text string as input and returns a summary of the text |Model draft: false
+id: huggingface-summarization-distilbart-xsum-1-1
+|28. |Machine Translation |Huggingface |This is a Machine Translation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts its translation |Model draft: false
+id: huggingface-translation-t5-small
+|29. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-128-A-2-2
+|30. |Text Embedding |Mxnet |This is a Text Embedding model from GluonNLP pre-trained on the decade (2010-2019) of S&amp;amp;P 500 10-K/10-Q reports It takes a text string as input and outputs an embedding vector For pre-training, the entire text of the 10K/Q filing was used, not just the MD&amp;amp;A (Management Discussion and Analysis) section, so as to ensure that a broader context of financial language is captured Embeddings from the pre-trained modelare then used for fine-tuning specific classifiers |Model draft: false
+id: mxnet-tcembedding-robertafin-base-uncased
+|31. |Sentence Pair Classification |Tensorflow |This is a Sentence Pair Classification model built upon a Text Embedding model from TensorFlow Hub It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: tensorflow-spc-bert-en-uncased-L-12-H-768-A-12-2
+|32. |Instance Segmentation |Mxnet |This is an Instance Segmentation model from Gluon CV It detects and delineates each distinct object in the image |Model draft: false
+id: mxnet-is-mask-rcnn-fpn-resnet101-v1d-coco
+|33. |Image Embedding |Tensorflow |This is an Image Feature Vector model from TensorFlow Hub It takes an image as input and returns a feature vector (embedding) of the image |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-100-224-featurevector-4
+|34. |Image Classification |Pytorch |This is an Image Classification model from PyTorch Hub It takes an image as input and classifies the image to one of the 1000 classes |Model draft: false
+id: pytorch-ic-mobilenet-v2
+|35. |Object Detection |Mxnet |This is an object detection model from Gluon CV It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: mxnet-od-ssd-512-mobilenet1-0-coco
+|36. |Object Detection |Tensorflow |This is an object detection model from TensorFlow Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v2-fpnlite-320x320-1
+|37. |Object Detection |Pytorch |This is an object detection model from PyTorch Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: pytorch-od-nvidia-ssd
+|38. |Image Classification |Tensorflow |This is an Image Classification model from TensorFlow Hub It takes an image as input and classifies the image to one of the 1001 classes |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-075-224-classification-4
+|39. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-050-224-classification-4
+|40. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-035-224-classification-4
+|41. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-140-224-classification-4
+|42. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-130-224-classification-4
+|43. |Object Detection |Pytorch |This is an object detection model from PyTorch Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: pytorch-od1-fasterrcnn-mobilenet-v3-large-320-fpn
+|44. |Object Detection |Pytorch |Same |Model draft: false
+id: pytorch-od1-fasterrcnn-mobilenet-v3-large-fpn
+|45. |Semantic Segmentation |Mxnet |This is an Semantic Segmentation model from Gluon CV It takes an image as input and returns class label for each pixel in the image |Model draft: false
+id: mxnet-semseg-fcn-resnet101-voc
+|46. |Semantic Segmentation |Mxnet |Same as above |Model draft: false
+id: mxnet-semseg-fcn-resnet101-ade
+|47. |Instance Segmentation |Mxnet |Same as above |Model draft: false
+id: mxnet-semseg-fcn-resnet50-ade
+|48. |Image Classification |Pytorch |This is an Image Classification model from PyTorch Hub It takes an image as input and classifies the image to one of the 1000 classes |Model draft: false
+id: pytorch-ic-resnet18
+|49. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet34
+|50. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet50
+|51. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet101
+|52. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet152
+|53. |Object Detection |Mxnet |This is an object detection model from Gluon CV It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: mxnet-od-ssd-512-mobilenet1-0-voc
+|54. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-512-resnet50-v1-coco
+|55. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-512-resnet50-v1-voc
+|56. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-300-vgg16-atrous-coco
+|57. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-300-vgg16-atrous-voc
+|58. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d0-512x512-coco17-tpu-8
+|59. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d1-640x640-coco17-tpu-8
+|60. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d2-768x768-coco17-tpu-8
+|61. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d3-896x896-coco17-tpu-32
+|62. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-mobilenet-v1-fpn-640x640-coco17-tpu-8
+|63. |Instance Segmentation |Mxnet |This is an Instance Segmentation model from Gluon CV It detects and delineates each distinct object in the image |Model draft: false
+id: mxnet-is-mask-rcnn-fpn-resnet50-v1b-coco
+|64. |Instance Segmentation |Mxnet |Same |Model draft: false
+id: mxnet-is-mask-rcnn-fpn-resnet18-v1b-coco
+|65. | |Mxnet |Same |Model draft: false
+id: mxnet-is-mask-rcnn-resnet18-v1b-coco
+|66. |Image Embedding |Tensorflow |This is an Image Feature Vector model from TensorFlow Hub It takes an image as input and returns a feature vector (embedding) of the image |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-075-224-featurevector-4
+|67. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-050-224-featurevector-4
+|68. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-035-224-featurevector-4
+|69. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-140-224-featurevector-4
+|70. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-130-224-featurevector-4
+|71. |Object Detection |Tensorflow |This is an object detection model from TensorFlow Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v2-fpnlite-640x640-1
+|72. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v2-2
+|73. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v1-fpn-640x640-1
+|74. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet50-v1-640x640-1
+|75. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet50-v1-800x1333-1
+|76. |Zero-Shot Text Classification |Huggingface |This is Zero Shot Text Classification model built on a Transformer model from Hugging Face It can classify sentences in English language It takes a sequence and a list of candidate labels as inputs and predicts score that the sequence is associated with the particular label |Model draft: false
+id: huggingface-zstc-narsil-deberta-large-mnli-zero-cls
+|77. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-moritzlaurer-deberta-v3-large-mnli-fever-anli-ling-wanli
+|78. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-distilroberta-base
+|79. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-recognai-bert-base-spanish-wwm-cased-xnli
+|80. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-moritzlaurer-mdeberta-v3-base-xnli-multilingual-nli-2mil7
+|81. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-roberta-base
+|82. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-deberta-base
+|83. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-minilm2-l6-h768
+|84. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-recognai-zeroshot-selectra-medium
+|85. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-navteca-bart-large-mnli
+|86. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-jiva-xlm-roberta-large-it-mnli
+|87. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-digitalepidemiologylab-covid-twitter-bert-v2-mnli
+|88. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-recognai-zeroshot-selectra-small
+|89. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-distilbert-base-turkish-cased-snli-tr
+|90. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-turkish-cased-allnli-tr
+|91. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-turkish-cased-snli-tr
+|92. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-multilingual-cased-allnli-tr
+|93. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-narsil-bart-large-mnli-opti
+|94. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-convbert-base-turkish-mc4-cased-allnli-tr
+|95. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-lighteternal-nli-xlm-r-greek
+|96. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-distilbert-base-turkish-cased-allnli-tr
+|97. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-multilingual-cased-multinli-tr
+|98. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-eleldar-theme-classification
+|99. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-turkish-cased-multinli-tr
+|100. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-multilingual-cased-snli-tr
+|101. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-convbert-base-turkish-mc4-cased-multinli-tr
+|102. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-distilbert-base-turkish-cased-multinli-tr
+|103. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-convbert-base-turkish-mc4-cased-snli-tr
+|104. |Image Classification |Tensorflow |This is an Image Classification model from TensorFlow Hub It takes an image as input and classifies the image to one of the 1001 classes |Model draft: false
+id: tensorflow-ic-tf2-preview-mobilenet-v2-classification-4
+|105. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-v3-classification-4
+|106. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-v2-classification-4
+|107. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-v1-classification-4
+|108. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-tf2-preview-inception-v3-classification-4
+|109. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-resnet-v2-classification-4
+|110. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v2-50-classification-4
+|111. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v2-101-classification-4
+|112. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v2-152-classification-4
+|113. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v1-50-classification-4
+|114. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v1-101-classification-4
+|115. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v1-152-classification-4
+|116. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-resnet-50-classification-1
+|117. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b0-classification-1
+|118. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b1-classification-1
+|119. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b2-classification-1
+|120. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b3-classification-1
+|121. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b4-classification-1
+|122. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b5-classification-1
+|123. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b6-classification-1
+|124. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b7-classification-1
+|125. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite0-classification-2
+|126. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite1-classification-2
+|127. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite2-classification-2
+|128. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite3-classification-2
+|129. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite4-classification-2
+|130. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-224-classification-4
+|131. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-192-classification-4
+|132. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-160-classification-4
+|133. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-128-classification-4
+|134. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-224-classification-4
+|135. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-192-classification-4
+|136. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-160-classification-4
+|137. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-128-classification-4
+|138. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-224-classification-4
+|139. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-192-classification-4
+|140. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-160-classification-4
+|141. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-128-classification-4
+|142. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-224-classification-4
+|143. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-192-classification-4
+|144. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-160-classification-4
+|145. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-128-classification-4
+|146. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r50x1-ilsvrc2012-classification-1
+|147. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r50x3-ilsvrc2012-classification-1
+|148. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r101x1-ilsvrc2012-classification-1
+|149. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r101x3-ilsvrc2012-classification-1
+|150. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x1-ilsvrc2012-classification-1
+|151. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x3-ilsvrc2012-classification-1
+|152. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x1-ilsvrc2012-classification-1
+|153. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x3-ilsvrc2012-classification-1
+|154. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x1-imagenet21k-classification-1
+|155. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x3-imagenet21k-classification-1
+|156. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x1-imagenet21k-classification-1
+|157. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x3-imagenet21k-classification-1
+|158. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-alexnet
+|159. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet121
+|160. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet169
+|161. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet201
+|162. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet161
+|163. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnext50-32x4d
+|164. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnext101-32x8d
+|165. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-shufflenet-v2-x1-0
+|166. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-squeezenet1-0
+|167. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-squeezenet1-1
+|168. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg11
+|169. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg11-bn
+|170. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg13
+|171. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg13-bn
+|172. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg16
+|173. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg16-bn
+|174. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg19
+|175. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg19-bn
+|176. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-wide-resnet50-2
+|177. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-wide-resnet101-2
+|178. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-googlenet
+|179. |Object Detection |Mxnet |This is an object detection model from Gluon CV It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: mxnet-od-ssd-512-vgg16-atrous-coco
+|180. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-512-vgg16-atrous-voc
+|181. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-darknet53-voc
+|182. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-mobilenet1-0-voc
+|183. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-darknet53-coco
+|184. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-mobilenet1-0-coco
+|185. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-resnet50-v1b-voc
+|186. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-resnet50-v1b-coco
+|187. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-resnet101-v1d-coco
+|188. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-fpn-resnet50-v1b-coco
+|189. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-fpn-resnet101-v1d-coco
+|190. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-mobilenet-v2-fpnlite-320x320-coco17-tpu-8
+|191. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-mobilenet-v2-fpnlite-640x640-coco17-tpu-8
+|192. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet50-v1-fpn-1024x1024-coco17-tpu-8
+|193. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet101-v1-fpn-640x640-coco17-tpu-8
+|194. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet101-v1-fpn-1024x1024-coco17-tpu-8
+|195. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet152-v1-fpn-640x640-coco17-tpu-8
+|196. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet152-v1-fpn-1024x1024-coco17-tpu-8
+|197. |Image Embedding |Tensorflow |This is an Image Feature Vector model from TensorFlow Hub It takes an image as input and returns a feature vector (embedding) of the image |Model draft: false
+id: tensorflow-icembedding-imagenet-inception-v3-featurevector-4
+|198. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-inception-v2-featurevector-4
+|199. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-inception-v1-featurevector-4
+|200. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-tf2-preview-inception-v3-featurevector-4
+|201. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-tf2-preview-mobilenet-v2-featurevector-4
+|202. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v2-50-featurevector-4
+|203. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v2-101-featurevector-4
+|204. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v2-152-featurevector-4
+|205. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v1-50-featurevector-4
+|206. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v1-101-featurevector-4
+|207. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v1-152-featurevector-4
+|208. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-resnet-50-featurevector-1
+|209. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b0-featurevector-1
+|210. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b1-featurevector-1
+|211. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b2-featurevector-1
+|212. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b3-featurevector-1
+|213. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b6-featurevector-1
+|214. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite0-featurevector-2
+|215. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite1-featurevector-2
+|216. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite2-featurevector-2
+|217. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite3-featurevector-2
+|218. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite4-featurevector-2
+|219. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-224-featurevector-4
+|220. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-192-featurevector-4
+|221. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-160-featurevector-4
+|222. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-128-featurevector-4
+|223. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-224-featurevector-4
+|224. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-192-featurevector-4
+|225. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-160-featurevector-4
+|226. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-128-featurevector-4
+|227. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-224-featurevector-4
+|228. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-192-featurevector-4
+|229. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-160-featurevector-4
+|230. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-128-featurevector-4
+|231. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-224-featurevector-4
+|232. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-192-featurevector-4
+|233. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-160-featurevector-4
+|234. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-128-featurevector-4
+|235. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r50x1-ilsvrc2012-featurevector-1
+|236. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r50x3-ilsvrc2012-featurevector-1
+|237. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r101x1-ilsvrc2012-featurevector-1
+|238. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r101x3-ilsvrc2012-featurevector-1
+|239. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r50x1-ilsvrc2012-featurevector-1
+|240. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r50x3-imagenet21k-featurevector-1
+|241. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r101x1-ilsvrc2012-featurevector-1
+|242. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r101x3-imagenet21k-featurevector-1
+|243. |Object Detection |Tensorflow |This is an object detection model from TensorFlow Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet50-v1-1024x1024-1
+|244. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet101-v1-640x640-1
+|245. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet101-v1-800x1333-1
+|246. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet101-v1-1024x1024-1
+|247. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet152-v1-640x640-1
+|248. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet152-v1-800x1333-1
+|249. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet152-v1-1024x1024-1
+|250. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-inception-resnet-v2-640x640-1
+|251. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-inception-resnet-v2-1024x1024-1
+|252. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d0-1
+|253. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d1-1
+|254. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d2-1
+|255. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d3-1
+|256. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d4-1
+|257. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d5-1
+|258. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet50-v1-fpn-640x640-1
+|259. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet50-v1-fpn-1024x1024-1
+|260. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet101-v1-fpn-640x640-1
+|261. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet101-v1-fpn-1024x1024-1
+|262. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet152-v1-fpn-640x640-1
+|263. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet152-v1-fpn-1024x1024-1
+|264. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-512x512-1
+|265. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-512x512-kpts-1
+|266. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-1024x1024-1
+|267. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-1024x1024-kpts-1
+|268. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v1-fpn-512x512-1
+|269. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v1-fpn-512x512-kpts-1
+|270. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v2-512x512-1
+|271. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v2-512x512-kpts-1
+|272. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet101v1-fpn-512x512-1
+|273. |Text Classification |Tensorflow |This is a Text Classification model built upon a Text Embedding model from TensorFlow Hub It takes a text string as input and classifies the input text as either a positive or negative movie review |Model draft: false
+id: tensorflow-tc-bert-en-cased-L-12-H-768-A-12-2
+|274. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-bert-multi-cased-L-12-H-768-A-12-2
+|275. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-128-A-2
+|276. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-256-A-4
+|277. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-512-A-8
+|278. |Question Answering |Huggingface |This is an Extractive Question Answering model built on a Transformer model from Hugging Face It takes two strings as inputs: the first string is a question and the second string is the context or any text you want to use to find the answer of the question, and it returns a sub-string from the context as an answer to the question |Model draft: false
+id: huggingface-eqa-distilbert-base-cased
+|279. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-distilbert-base-multilingual-cased
+|280. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-bert-base-uncased
+|281. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-bert-base-cased
+|282. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-bert-base-multilingual-uncased
+|283. |Sentence Pair Classification |Tensorflow |This is a Sentence Pair Classification model built upon a Text Embedding model from TensorFlow Hub It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: tensorflow-spc-bert-en-cased-L-12-H-768-A-12-2
+|284. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-bert-multi-cased-L-12-H-768-A-12-2
+|285. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-bert-en-uncased-L-24-H-1024-A-16-2
+|286. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-electra-small-1
+|287. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-electra-base-1
+|288. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-distilbert-base-cased
+|289. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-distilbert-base-multilingual-cased
+|290. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-bert-base-uncased
+|291. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-bert-base-cased
+|292. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-bert-base-multilingual-uncased
+|293. |Named Entity Recognition |Huggingface |This is a Named Entity Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts named entities in the input text |Model draft: false
+id: huggingface-ner-distilbert-base-uncased-finetuned-conll03-english
+|294. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-bloom-1b1
+|295. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-bloom-560m
+|296. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-gpt2
+|297. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-distilgpt2
+|298. |Text Summarization |Huggingface |This is a Text Summarization model built upon a Transformer model from Hugging Face It takes a text string as input and returns a summary of the text |Model draft: false
+id: huggingface-summarization-bert-small2bert-small-finetuned-cnn-daily-mail-summarization
+|299. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-distilbart-cnn-6-6
+|300. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-distilbart-xsum-12-3
+|301. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-distilbart-cnn-12-6
+|302. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-bart-large-cnn-samsum
+|303. |Machine Translation |Huggingface |This is a Machine Translation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts its translation |Model draft: false
+id: huggingface-translation-t5-base
+|304. |Machine Translation |Huggingface |Same |Model draft: false
+id: huggingface-translation-t5-large
+|305. |Machine Translation |Huggingface |Same |Model draft: false
+id: huggingface-translation-opus-mt-en-es
+|306. |Machine Translation |Huggingface |Same |Model draft: false
+id: huggingface-translation-opus-mt-en-vi
+|307. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-256-A-4
+|308. |Text Embedding |Tensorflow |same |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-512-A-8-2
+|309. |Text Embedding |Tensorflow |same |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-768-A-12-2
+|310. |Text to Image |Stabilityai |This is a text-to-image model from Stability AI and downloaded from HuggingFace It takes a textual description as input and returns a generated image from the description |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v2
+|311. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-128-A-2-2
+|312. |Text Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-256-A-4-2
+|313. |Text Embedding |Mxnet |Same |Model draft: false
+id: mxnet-tcembedding-robertafin-base-wiki-uncased
+|314. |Text Embedding |Mxnet |Same |Model draft: false
+id: mxnet-tcembedding-robertafin-large-uncased
+|315. |Text Embedding |Mxnet |Same |Model draft: false
+id: mxnet-tcembedding-robertafin-large-wiki-uncased
+|316. |Text Classification |Tensorflow |This is a Text Classification model built upon a Text Embedding model from TensorFlow Hub It takes a text string as input and classifies the input text as either a positive or negative movie review |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-768-A-12
+|317. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-128-A-2
+|318. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-256-A-4
+|319. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-512-A-8
+|320. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-768-A-12
+|321. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-128-A-2
+|322. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-256-A-4
+|323. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-512-A-8
+|324. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-768-A-12
+|325. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-128-A-2
+|326. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-256-A-4
+|327. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-512-A-8
+|328. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-768-A-12
+|329. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-128-A-2
+|330. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-256-A-4
+|331. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-512-A-8
+|332. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-768-A-12
+|333. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-128-A-2
+|334. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-256-A-4
+|335. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-512-A-8
+|336. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-768-A-12
+|337. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-uncased-L-24-H-1024-A-16-2
+|338. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-cased-L-24-H-1024-A-16-2
+|339. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-wwm-uncased-L-24-H-1024-A-16-2
+|340. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-wwm-cased-L-24-H-1024-A-16-2
+|341. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-albert-en-base
+|342. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-electra-small-1
+|343. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-electra-base-1
+|344. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-experts-bert-wiki-books-1
+|345. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-experts-bert-pubmed-1
+|346. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-talking-heads-base
+|347. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-talking-heads-large
+|348. |Question Answering |Huggingface |This is an Extractive Question Answering model built on a Transformer model from Hugging Face It takes two strings as inputs: the first string is a question and the second string is the context or any text you want to use to find the answer of the question, and it returns a sub-string from the context as an answer to the question |Model draft: false
+id: huggingface-eqa-bert-base-multilingual-cased
+|349. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-uncased
+|350. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-cased
+|351. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-uncased-whole-word-masking
+|352. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-cased-whole-word-masking
+|353. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-distilroberta-base
+|354. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-roberta-base
+|355. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-roberta-base-openai-detector
+|356. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-roberta-large
+|357. |Sentence Pair Classification |Tensorflow |This is a Sentence Pair Classification model built upon a Text Embedding model from TensorFlow Hub It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: tensorflow-spc-bert-en-wwm-uncased-L-24-H-1024-A-16-2
+|358. |Sentence Pair Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-spc-bert-en-wwm-cased-L-24-H-1024-A-16-2
+|359. |Sentence Pair Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-spc-experts-bert-wiki-books-1
+|360. |Sentence Pair Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-spc-experts-bert-pubmed-1
+|361. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-base-multilingual-cased
+|362. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-uncased
+|363. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-cased
+|364. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-uncased-whole-word-masking
+|365. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-cased-whole-word-masking
+|366. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-distilroberta-base
+|367. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-base
+|368. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-base-openai-detector
+|369. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-large
+|370. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-large-openai-detector
+|371. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-ende-1024
+|372. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-enro-1024
+|373. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-xnli15-1024
+|374. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-tlm-xnli15-1024
+|375. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-clm-ende-1024
+|376. |Text Summarization |Huggingface |This is a Text Summarization model built upon a Transformer model from Hugging Face It takes a text string as input and returns a summary of the text |Model draft: false
+id: huggingface-summarization-bigbird-pegasus-large-arxiv
+|377. |Text Summarization |Huggingface |Same as above |Model draft: false
+id: huggingface-summarization-bigbird-pegasus-large-pubmed
+|378. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-512-A-8-2
+|379. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-768-A-12-2
+|380. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-128-A-2-2
+|381. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-256-A-4
+|382. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-512-A-8-2
+|383. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-768-A-12-2
+|384. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-8-H-256-A-4-2
+|385. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-8-H-512-A-8-2
+|386. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-8-H-768-A-12-2
+|387. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-128-A-2-2
+|388. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-256-A-4-2
+|389. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-512-A-8-2
+|390. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-768-A-12-2
+|391. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-128-A-2-2
+|392. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-256-A-4
+|393. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-512-A-8-2
+|394. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-768-A-12-2
+|395. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-768-A-12-4
+|396. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-wiki-books-sst2
+|397. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-wiki-books-mnli-2
+|398. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-universal-sentence-encoder-cmlm-en-large-1
+|399. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-universal-sentence-encoder-cmlm-en-base-1
+|400. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-talkheads-ggelu-bert-en-base-2
+|401. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-talkheads-ggelu-bert-en-large-2
+|402. |Tabular Classification | |This is the LightGBM algorithm for tabular classification task LightGBM is a gradient boosting framework that uses tree based learning algorithms |Model draft: false
+id: lightgbm-classification-model
+|403. |Tabular Classification |Catboost |This is the CatBoost algorithm for tabular classification task CatBoost is a machine learning algorithm that uses gradient boosting on decision trees |Model draft: false
+id: catboost-classification-model
+|404. |Tabular Classification | |This is the AutoGluon-Tabular algorithm for tabular classification task AutoGluon-Tabular is an open-source AutoML framework that trains highly accurate machine learning models on an unprocessed tabular dataset Unlike existing AutoML frameworks that primarily focus on model/hyperparameter selection, AutoGluon-Tabular succeeds by ensembling multiple models and stacking them in multiple layers |Model draft: false
+id: autogluon-classification-ensemble
+|405. |Tabular Classification | |This is the TabTransformer algorithm for tabular classification task TabTransformer is a deep tabular data modeling architecture that built upon self-attention based Transformers |Model draft: false
+id: pytorch-tabtransformerclassification-model
+|406. |Tabular Classification |Sklearn |This is the scikit-learn linear algorithm for tabular classification task Linear Classification is a linear approach to classify data into labels (targets) based on a linear combination of its input features (predictors) |Model draft: false
+id: sklearn-classification-linear
+|407. |Tabular Classification |Xgboost |This is the XGBoost algorithm for tabular classification task XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable It implements machine learning algorithms under the Gradient Boosting framework |Model draft: false
+id: xgboost-classification-model
+|408. |Tabular Regression | |This is the LightGBM algorithm for tabular regression task LightGBM is a gradient boosting framework that uses tree based learning algorithms |Model draft: false
+id: lightgbm-regression-model
+|409. |Tabular Regression |Catboost |This is the CatBoost algorithm for tabular regression task CatBoost is a machine learning algorithm that uses gradient boosting on decision trees |Model draft: false
+id: catboost-regression-model
+|410. |Tabular Regression | |This is the AutoGluon-Tabular algorithm for tabular regression task AutoGluon-Tabular is an open-source AutoML framework that trains highly accurate machine learning models on an unprocessed tabular dataset Unlike existing AutoML frameworks that primarily focus on model/hyperparameter selection, AutoGluon-Tabular succeeds by ensembling multiple models and stacking them in multiple layers |Model draft: false
+id: autogluon-regression-ensemble
+|411. |Tabular Regression | |This is the TabTransformer algorithm for tabular regression task TabTransformer is a deep tabular data modeling architecture that built upon self-attention based Transformers |Model draft: false
+id: pytorch-tabtransformerregression-model
+|412. |Tabular Regression |Sklearn |This is the scikit-learn linear algorithm for tabular regression task Linear Regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables |Model draft: false
+id: sklearn-regression-linear
+|413. |Tabular Regression |Xgboost |This is the XGBoost algorithm for tabular regression task XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable It implements machine learning algorithms under the Gradient Boosting framework |Model draft: false
+id: xgboost-regression-model
+|414. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-distilbert-base-uncased
+|415. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-bert-large-uncased-whole-word-masking
+|416. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-bert-large-uncased
+|417. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-bert-large-cased
+|418. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-roberta-base
+|419. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-distilbert-base-multilingual-cased
+|420. |Object detection |SageMaker |Identify birds species in a scene using a SageMaker object detection model. |
+|421. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-distilroberta-base
+|422. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-trill-distilled-3
+|423. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-roberta-large-openai-detector
+|424. |Object detection |SageMaker |Identify defective regions in product images either by training an object detection model from scratch or fine-tuning pretrained SageMaker models. |
+|425. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-trillsson2-1
+|426. |Tabular classification |SageMaker |Automatically detect potentially fraudulent activity in transactions using SageMaker XGBoost with the over-sampling technique Synthetic Minority Over-sampling (SMOTE). |
+|427. |Feature importance using shap |SageMaker | |
+|428. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-distilbert-base-cased
+|429. |Graph neural network classification |SageMaker |Detect fraud in financial transactions by training a graph convolutional network with the deep graph library and a SageMaker XGBoost model. |
+|430. |Tabular classification |SageMaker |Classify financial payments based on transaction information using SageMaker XGBoost. Use this solution template as an intermediate step in fraud detection, personalization, or anomaly detection. |
+|431. |Tabular classification |SageMaker |Identify unhappy mobile phone customers using SageMaker XGBoost. |
+|432. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-base-cased
+|433. |RL |SageMaker |Distributed reinforcement learning starter kit for NeurIPS 2020 Procgen Reinforcement learning challenge. |
+|434. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-large-cased-whole-word-masking-finetuned-squad
+|435. |Tabular classification |SageMaker | |
+|436. |RL |SageMaker | |
+|437. |Entity resolution |SageMaker | |
+|438. |Tabular classification |SageMaker | |
+|439. |Tabular and text classification |SageMaker | |
+|440. |Text classification |SageMaker |Anonymize text to better preserve user privacy in sentiment classification. |
+|441. |Tabular, image, and text classification. |SageMaker | |
+|442. |Tabular classification |SageMaker | |
+|443. |Text to Image |Stabilityai |This is a text-to-image model from Stability AI and downloaded from HuggingFace It takes a textual description as input and returns a generated image from the description |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v2-fp16
+|444. |Text to Image |Stabilityai |Same |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v1-4-fp16
+|445. |ext to Image |Stabilityai |Same |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v1-4
+|446. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-base-multilingual-cased
+|447. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-roberta-large
+|448. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-frill-1
+|449. |Audio Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-audioembedding-trillsson3-1
+|450. |Audio Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-audioembedding-trill-3
+|451. |Tabular and text classification |SageMaker | |
+|452. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-roberta-base-openai-detector
+|453. |Question Answering |Pytorch |Same |Model draft: false
+id: pytorch-eqa-bert-large-cased-whole-word-masking
+|454. |Time series |SageMaker |Demand forecasting for multivariate time series data using three state-of-the-art time series forecasting algorithms: LSTNet, Prophet, and SageMaker DeepAR. |
+|455. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-large-uncased-whole-word-masking-finetuned-squad
+|456. |Question Answering |Pytorch |Same |Model draft: false
+id: pytorch-eqa-bert-base-multilingual-uncased
+|457. |Question Answering |Pytorch |Same |Model draft: false
+id: pytorch-eqa-bert-base-uncased
+|458. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-trillsson1-1
+|459. |Object detection |SageMaker | |
+|460. |Causal inference |SageMaker |Generate a counterfactual analysis of corn response to nitrogen. This solution learns the crop phenology cycle in its entirety using multi-spectral satellite imagery and ground-level observations. |
+|461. |Price optimization |SageMaker |Estimate price elasticity using Double Machine Learning (ML) for causal inference and the Prophet forecasting procedure. Use these estimates to optimize daily prices. |
+|462. |Tabular and text classification |SageMaker | |
+|463. |Upscaling |Stabilityai |This is a upscaling model from Stability AI downloaded from HuggingFace with FP16 precision Given a low resolution image and a textual prompt, it generates a higher resolution image with size up to four times the original image size |Model draft: false
+id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Model Garden of VertexAI</title>
+      <link>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Model Garden of VertexAI: 
+    &lt;div id=&#34;model-garden-of-vertexai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#model-garden-of-vertexai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Unlocking the Power of Google&amp;rsquo;s VertexAI: Exploring the World of Pre-Built Models for AI Tasks 
+    &lt;div id=&#34;unlocking-the-power-of-googles-vertexai-exploring-the-world-of-pre-built-models-for-ai-tasks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unlocking-the-power-of-googles-vertexai-exploring-the-world-of-pre-built-models-for-ai-tasks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction: 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Artificial Intelligence (AI) has transformed numerous industries, from healthcare and finance to e-commerce, logistic, eduction and entertainment. But the complexity of developing machine learning models often poses a challenge. As the demand for AI-powered solutions continues to rise, data scientists seek efficient ways to leverage pre-trained models or build custom models to address specific tasks. In this regard, Google&amp;rsquo;s VertexAI emerges as a robust platform that offers an extensive selection of pre-built models for a wide range of AI tasks. VertexAI platform has revolutionized the landscape by seamlessly leveraging LLM (Large Language Models) and Prompt Engineering techniques to perform complex machine learning tasks effortlessly. With VertexAI, data scientists can harness the power of state-of-the-art language models, such as LLM, to accelerate their ML development process. Additionally, the innovative concept of Prompt Engineering enables users to effectively communicate with the models, guiding them to deliver precise and accurate results. From computer vision and natural language processing to speech processing and structured tabular data analysis, Vertex AI&amp;rsquo;s repertoire includes over 100 models catering to diverse application domains. This article explores how Vertex AI, through its integration of LLM and Prompt Engineering, empowers users to effortlessly tackle intricate machine learning tasks across diverse domains, revolutionizing the AI development experience.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>A Comprehensive Guide to 210&#43; AWS Services</title>
+      <link>http://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;A Comprehensive Guide to 210+ AWS Services 
+    &lt;div id=&#34;a-comprehensive-guide-to-210-aws-services&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-comprehensive-guide-to-210-aws-services&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Exploring 210+ Cloud Services and Their Purposes&lt;/strong&gt;&lt;br&gt;
+All these services are availalbe at &lt;a href=&#34;https://us-east-1.console.aws.amazon.com/console/services?region=us-east-1&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Amazon Web Services (AWS) is a suite of cloud computing services that runs on the same infrastructure that Amazon uses for its e-commerce website. AWS offers a broad set of global compute, storage, database, AI, analytics, application, and deployment services that help organizations move faster, lower IT costs, and scale applications.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unlocking the Power of Azure- Exploring 300&#43; Cloud Services and Their Purposes</title>
+      <link>http://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Unlocking the Power of Azure 
+    &lt;div id=&#34;unlocking-the-power-of-azure&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unlocking-the-power-of-azure&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Exploring 300+ Cloud Services and Their Purposes&lt;/strong&gt;&lt;br&gt;
+All these services are availalbe at &lt;a href=&#34;https://azure.microsoft.com/en-in/products/&#34; target=&#34;_blank&#34;&gt;Link:&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Embracing the cloud has become an integral part of modern businesses, and Microsoft Azure stands out as a leading player in the realm of cloud computing. With a staggering portfolio of over 300+ cloud services, Azure offers a rich and diverse ecosystem to meet the ever-evolving needs of organizations across the globe. However, navigating through this extensive array of services can be a daunting task, as it is often challenging to grasp the purpose and potential of each offering. In this comprehensive guide, we aim to unravel the mysteries of Azure and shed light on the vast landscape of its cloud services. Join me on a journey of discovery as we explore, demystify, and showcase the range of Azure&amp;rsquo;s offerings, empowering you to make informed decisions and harness the full power of the Azure.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Google Cloud Service Catalog - A Comprehensive Overview of 250&#43; Google Cloud Services</title>
+      <link>http://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Google Cloud Service Catalog 
+    &lt;div id=&#34;google-cloud-service-catalog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#google-cloud-service-catalog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;A Comprehensive Overview of 250+ Google Cloud Services&lt;/strong&gt;&lt;br&gt;
+All these services are availalbe at &lt;a href=&#34;https://cloud.google.com&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;In the ever-evolving landscape of cloud computing, Google Cloud entered recently compare to AWS and Azure. But it stands out as a prominent player, offering a vast array of services and solutions to empower businesses and developers. With over 250+ services available, navigating the expansive Google Cloud ecosystem can be a daunting task. However, understanding these services and their functionalities is crucial for harnessing the full potential of the platform and provide the right technical solution of any business problem. In this comprehensive guide, I will take you through the diverse landscape of Google Cloud services, shedding light on their purposes. Whether you are a seasoned cloud professional or new to the Google Cloud environment, this article aims to demystify the complexity and provide you with valuable insights into the extensive toolkit Google Cloud has to offer. You can bookmark this page for future reference.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

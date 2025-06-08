@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PM Tools on </title>
+    <link>http://localhost:1313/categories/pm-tools/</link>
+    <description>Recent content in PM Tools on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/pm-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Enterprise Project Server for Administrators</title>
+      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-administrators/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-administrators/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc519-microsoft-enterprise-project-server-for-administrators.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Administrators&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Enterprise Project Server for Administrators 
+    &lt;div id=&#34;microsoft-enterprise-project-server-for-administrators&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-enterprise-project-server-for-administrators&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Course Outline EPM for Administrator 
+    &lt;div id=&#34;course-outline-epm-for-administrator&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#course-outline-epm-for-administrator&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand Project Server terminology and core system components&lt;/li&gt;
+&lt;li&gt;Describe the project communication life cycle used with Project Server&lt;/li&gt;
+&lt;li&gt;Understand the administration interface in Project Web AppConfiguration&lt;/li&gt;
+&lt;li&gt;Create a Project Server login account in Project Professional&lt;/li&gt;
+&lt;li&gt;Configure custom enterprise fields, Lookup Tables, and calendars&lt;/li&gt;
+&lt;li&gt;Configure the Project Server demand and lifecycle management features and understand how they are used in an overall Portfolio Management process&lt;/li&gt;
+&lt;li&gt;Add resources to the Enterprise Resource Pool&lt;/li&gt;
+&lt;li&gt;Specify the initial configuration options for Project Server&lt;/li&gt;
+&lt;li&gt;Configure time and task tracking settings&lt;/li&gt;
+&lt;li&gt;Import enterprise templates and existing projects into Project Server&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Security 
+    &lt;div id=&#34;security&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#security&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Configure Project Server security using Groups and Categories&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Configure Sites 
+    &lt;div id=&#34;configure-sites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#configure-sites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create custom views in Project Web App&lt;/li&gt;
+&lt;li&gt;Manage Microsoft SharePoint Server and Project Sites&lt;/li&gt;
+&lt;li&gt;Modify Project Web App pages and create new Project Site templates&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Databases &amp;amp; Business Intelligence 
+    &lt;div id=&#34;databases--business-intelligence&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#databases--business-intelligence&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Understanding Project Server Databases&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Enterprise Project Server for Executives</title>
+      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-executives/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-executives/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc518-microsoft-enterprise-project-server-for-executives.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Executives&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Enterprise Project Server for Executives 
+    &lt;div id=&#34;microsoft-enterprise-project-server-for-executives&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-enterprise-project-server-for-executives&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Course Outline EPM for Executives 
+    &lt;div id=&#34;course-outline-epm-for-executives&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#course-outline-epm-for-executives&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 01: Introducing Microsoft Project Server 
+    &lt;div id=&#34;module-01-introducing-microsoft-project-server&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-01-introducing-microsoft-project-server&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What Is Microsoft EPM?&lt;/li&gt;
+&lt;li&gt;Understand Project Management Theory&lt;/li&gt;
+&lt;li&gt;Understanding Enterprise Project Management Terminology&lt;/li&gt;
+&lt;li&gt;Enterprise Project&lt;/li&gt;
+&lt;li&gt;Enterprise Resource&lt;/li&gt;
+&lt;li&gt;Check In and Check Out&lt;/li&gt;
+&lt;li&gt;Understanding the Communications Life Cycle&lt;/li&gt;
+&lt;li&gt;Understanding Tracking Methods&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 02: Preparing to Use Project Server 
+    &lt;div id=&#34;module-02-preparing-to-use-project-server&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-02-preparing-to-use-project-server&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the Project Web App User Interface&lt;/li&gt;
+&lt;li&gt;Logging into Project Web App from another Workstation&lt;/li&gt;
+&lt;li&gt;Using the Quick Launch Menu&lt;/li&gt;
+&lt;li&gt;Using the Ribbon Menus&lt;/li&gt;
+&lt;li&gt;Applying and Working with Views&lt;/li&gt;
+&lt;li&gt;Exporting the Data Grid to Excel&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 03: Creating New Proposed Project 
+    &lt;div id=&#34;module-03-creating-new-proposed-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-03-creating-new-proposed-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding Lifecycle Management&lt;/li&gt;
+&lt;li&gt;Understanding Demand Management&lt;/li&gt;
+&lt;li&gt;Understanding Decision Management&lt;/li&gt;
+&lt;li&gt;Introducing Project Types&lt;/li&gt;
+&lt;li&gt;Understanding Phases and Stages&lt;/li&gt;
+&lt;li&gt;Understanding Project Detail Pages&lt;/li&gt;
+&lt;li&gt;Creating a New Project Proposal&lt;/li&gt;
+&lt;li&gt;Definition of a Proposal in Project Server&lt;/li&gt;
+&lt;li&gt;Initiating a Proposal&lt;/li&gt;
+&lt;li&gt;Approving a New Project Proposal&lt;/li&gt;
+&lt;li&gt;Completing the Sample Workflow Proposal Details Stage&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 04: Tracking Time and Task Management 
+    &lt;div id=&#34;module-04-tracking-time-and-task-management&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-04-tracking-time-and-task-management&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracking Time in Project Web App&lt;/li&gt;
+&lt;li&gt;Reporting Progress from the Tasks Page&lt;/li&gt;
+&lt;li&gt;Using Percent of Work Complete&lt;/li&gt;
+&lt;li&gt;Best Practice: Using Percent of Work Complete&lt;/li&gt;
+&lt;li&gt;Using Actual Work Done and Work Remaining&lt;/li&gt;
+&lt;li&gt;Best Practice: Using Actual Work Done and Work Remaining&lt;/li&gt;
+&lt;li&gt;Using Hours of Work Done per Period&lt;/li&gt;
+&lt;li&gt;Best Practice: Using Hours of Work Done per Period&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 05:Managing Personal Settings 
+    &lt;div id=&#34;module-05managing-personal-settings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-05managing-personal-settings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Settings Overview&lt;/li&gt;
+&lt;li&gt;Managing Alerts and Reminders for Yourself&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 06:Collaborating with Project Sites 
+    &lt;div id=&#34;module-06collaborating-with-project-sites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-06collaborating-with-project-sites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding Project Sites&lt;/li&gt;
+&lt;li&gt;Tracking Project Risks&lt;/li&gt;
+&lt;li&gt;Viewing and Editing Existing Risks&lt;/li&gt;
+&lt;li&gt;Managing Project Issues&lt;/li&gt;
+&lt;li&gt;Viewing Your Assigned Issues and Risks&lt;/li&gt;
+&lt;li&gt;Managing Project Documents&lt;/li&gt;
+&lt;li&gt;Viewing and Creating Document Libraries&lt;/li&gt;
+&lt;li&gt;Uploading Documents to a Document Library&lt;/li&gt;
+&lt;li&gt;Creating a New Folder in a Documents Library&lt;/li&gt;
+&lt;li&gt;Working with Existing Documents in a Documents Library&lt;/li&gt;
+&lt;li&gt;Viewing and Editing Document Properties&lt;/li&gt;
+&lt;li&gt;Checking Out a Document Manually&lt;/li&gt;
+&lt;li&gt;Working with Document Copies&lt;/li&gt;
+&lt;li&gt;Editing a Document&lt;/li&gt;
+&lt;li&gt;Viewing the Version History for a Document&lt;/li&gt;
+&lt;li&gt;Deleting Documents and Document Versions&lt;/li&gt;
+&lt;li&gt;Creating a New Calendar Event&lt;/li&gt;
+&lt;li&gt;Creating a Meeting Workspace for an Event&lt;/li&gt;
+&lt;li&gt;Working with Existing Calendar Events&lt;/li&gt;
+&lt;li&gt;Connecting SharePoint Calendars to Outlook&lt;/li&gt;
+&lt;li&gt;Using Team Discussions&lt;/li&gt;
+&lt;li&gt;Creating a New Team Discussion&lt;/li&gt;
+&lt;li&gt;Working with a Team Discussion&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 07:Working with Status Reports 
+    &lt;div id=&#34;module-07working-with-status-reports&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-07working-with-status-reports&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Requesting a Status Report&lt;/li&gt;
+&lt;li&gt;Editing and Deleting Status Reports&lt;/li&gt;
+&lt;li&gt;Responding to a Status Report Request&lt;/li&gt;
+&lt;li&gt;Submitting an Unrequested Status Report&lt;/li&gt;
+&lt;li&gt;Viewing the Status Report Archive&lt;/li&gt;
+&lt;li&gt;Viewing Status Report Responses&lt;/li&gt;
+&lt;li&gt;Viewing Unrequested Status Reports&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 08:Working with Project Center and Project Views 
+    &lt;div id=&#34;module-08working-with-project-center-and-project-views&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-08working-with-project-center-and-project-views&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the Project Center&lt;/li&gt;
+&lt;li&gt;Using the Projects Ribbon in the Project Center&lt;/li&gt;
+&lt;li&gt;Using Project Center Views&lt;/li&gt;
+&lt;li&gt;Working with Detailed Project Views&lt;/li&gt;
+&lt;li&gt;Editing Projects in Project Web App&lt;/li&gt;
+&lt;li&gt;Editing Individual Projects in Project Web App&lt;/li&gt;
+&lt;li&gt;Renaming a Project using Project Web App&lt;/li&gt;
+&lt;li&gt;Editing the Project Schedule in Project Web App&lt;/li&gt;
+&lt;li&gt;Limitations when Editing Projects in Project Web App&lt;/li&gt;
+&lt;li&gt;Tips for Editing Projects in Project Web App&lt;/li&gt;
+&lt;li&gt;Checking In a Project from Project Web App&lt;/li&gt;
+&lt;li&gt;Understanding Show/Hide Options&lt;/li&gt;
+&lt;li&gt;Navigating to the Project Site&lt;/li&gt;
+&lt;li&gt;Project Center Summary&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Enterprise Project Server for Project Managers</title>
+      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-project-managers/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-project-managers/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc516-microsoft-enterprise-project-server-for-project-managers.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Project Managers&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Enterprise Project Server for Project Managers 
+    &lt;div id=&#34;microsoft-enterprise-project-server-for-project-managers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-enterprise-project-server-for-project-managers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Course Outline EPM for Project Managers 
+    &lt;div id=&#34;course-outline-epm-for-project-managers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#course-outline-epm-for-project-managers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 01: Introducing Microsoft Project Server 
+    &lt;div id=&#34;module-01-introducing-microsoft-project-server&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-01-introducing-microsoft-project-server&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What Is Microsoft EPM?&lt;/li&gt;
+&lt;li&gt;Understand Project Management Theory&lt;/li&gt;
+&lt;li&gt;Understanding Project Server Data Analysis&lt;/li&gt;
+&lt;li&gt;Understanding Custom Fields&lt;/li&gt;
+&lt;li&gt;Understanding Tracking MethodsModule 02: Preparing to Use Project Server&lt;/li&gt;
+&lt;li&gt;Using the Project Web Access User Interface&lt;/li&gt;
+&lt;li&gt;Creating a Login Account in Project Professional&lt;/li&gt;
+&lt;li&gt;Working with Proposals and Activity Plans&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 03: Creating Enterprise Project 
+    &lt;div id=&#34;module-03-creating-enterprise-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-03-creating-enterprise-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating an Enterprise Project Using Project Professional&lt;/li&gt;
+&lt;li&gt;Defining an Enterprise Project&lt;/li&gt;
+&lt;li&gt;Opening and Closing Projects&lt;/li&gt;
+&lt;li&gt;Working with Offline Projects&lt;/li&gt;
+&lt;li&gt;Importing Projects&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 04: Task Planning 
+    &lt;div id=&#34;module-04-task-planning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-04-task-planning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a Task Planning Process&lt;/li&gt;
+&lt;li&gt;Understanding Change Highlighting&lt;/li&gt;
+&lt;li&gt;Planning Project Tasks&lt;/li&gt;
+&lt;li&gt;Using Task Dependencies&lt;/li&gt;
+&lt;li&gt;Setting Task Constraints and Deadline Dates&lt;/li&gt;
+&lt;li&gt;Assigning Task Calendars&lt;/li&gt;
+&lt;li&gt;Estimating Task Durations&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 05: Resource and Assignment Planning 
+    &lt;div id=&#34;module-05-resource-and-assignment-planning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-05-resource-and-assignment-planning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand Enterprise Resources&lt;/li&gt;
+&lt;li&gt;Building a Project Team&lt;/li&gt;
+&lt;li&gt;Assigning Resources Using the Task Entry View&lt;/li&gt;
+&lt;li&gt;Assigning Resources Using the Assign Resources Dialog&lt;/li&gt;
+&lt;li&gt;Assigning Cost Resources&lt;/li&gt;
+&lt;li&gt;Using the Resource Substitution Wizard&lt;/li&gt;
+&lt;li&gt;Leveling Overallocated Resources&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 06: Project Execution 
+    &lt;div id=&#34;module-06-project-execution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-06-project-execution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzing the Critical Path&lt;/li&gt;
+&lt;li&gt;Understanding Task Drivers&lt;/li&gt;
+&lt;li&gt;Working with Project Baselines&lt;/li&gt;
+&lt;li&gt;Understanding Publishing&lt;/li&gt;
+&lt;li&gt;Managing Project Deliverables&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 07: Tracking Time and Task Progress 
+    &lt;div id=&#34;module-07-tracking-time-and-task-progress&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-07-tracking-time-and-task-progress&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracking Time in Project Web Access&lt;/li&gt;
+&lt;li&gt;Tracking Task Progress in Project Web Access&lt;/li&gt;
+&lt;li&gt;Using Other Task Activities&lt;/li&gt;
+&lt;li&gt;Using the Task Center&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 8: Approving Time and Task Progress 
+    &lt;div id=&#34;module-8-approving-time-and-task-progress&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-8-approving-time-and-task-progress&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Viewing Unsubmitted Timesheet&lt;/li&gt;
+&lt;li&gt;Viewing the Adjusting Submitted timesheets&lt;/li&gt;
+&lt;li&gt;Approving Timesheets&lt;/li&gt;
+&lt;li&gt;Approving Administrative Time Requests&lt;/li&gt;
+&lt;li&gt;Viewing Task Updates&lt;/li&gt;
+&lt;li&gt;Approving Task updates&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 9:Variance Analysis and Plan Revision 
+    &lt;div id=&#34;module-9variance-analysis-and-plan-revision&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-9variance-analysis-and-plan-revision&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding Variance&lt;/li&gt;
+&lt;li&gt;Analyzing Project Variance&lt;/li&gt;
+&lt;li&gt;Revising a Project Plan&lt;/li&gt;
+&lt;li&gt;Using a Change control Process&lt;/li&gt;
+&lt;li&gt;Rebaselining Your Project&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 10: Managing Personal Settings 
+    &lt;div id=&#34;module-10-managing-personal-settings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-10-managing-personal-settings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Settings Overview&lt;/li&gt;
+&lt;li&gt;Changing Your Password&lt;/li&gt;
+&lt;li&gt;Managing Alerts and reminders for Yourself&lt;/li&gt;
+&lt;li&gt;Managing Alerts and Reminders for Your resources&lt;/li&gt;
+&lt;li&gt;Managing My Queued Jobs&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 11: Working with the Project Workspace 
+    &lt;div id=&#34;module-11-working-with-the-project-workspace&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-11-working-with-the-project-workspace&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding the Project Workspace&lt;/li&gt;
+&lt;li&gt;Managing Risks&lt;/li&gt;
+&lt;li&gt;Managing Issues&lt;/li&gt;
+&lt;li&gt;Viewing Your Assigned Issues and Risks&lt;/li&gt;
+&lt;li&gt;Managing Project Documents&lt;/li&gt;
+&lt;li&gt;Working with Existing Documents in a Documents Library&lt;/li&gt;
+&lt;li&gt;Accessing the Public Documents Library&lt;/li&gt;
+&lt;li&gt;Managing Tasks&lt;/li&gt;
+&lt;li&gt;Using Calendars&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 12: Project Workspace Advanced Features 
+    &lt;div id=&#34;module-12-project-workspace-advanced-features&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-12-project-workspace-advanced-features&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using Project Workspace Advanced Features&lt;/li&gt;
+&lt;li&gt;Editing in a Datasheet&lt;/li&gt;
+&lt;li&gt;Exporting to a Spreadsheet&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 13: Working with Status Report 
+    &lt;div id=&#34;module-13-working-with-status-report&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-13-working-with-status-report&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Requesting a Status Report&lt;/li&gt;
+&lt;li&gt;Responding to a Status Report Request&lt;/li&gt;
+&lt;li&gt;Viewing Status Report Response&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 14: Working in the Resource Center 
+    &lt;div id=&#34;module-14-working-in-the-resource-center&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-14-working-in-the-resource-center&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the Resource Center&lt;/li&gt;
+&lt;li&gt;Viewing Resource Availability&lt;/li&gt;
+&lt;li&gt;Viewing Resource Assignments&lt;/li&gt;
+&lt;li&gt;Editing Resource Details&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 15: Working in the Project Center 
+    &lt;div id=&#34;module-15-working-in-the-project-center&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-15-working-in-the-project-center&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the Project Center&lt;/li&gt;
+&lt;li&gt;Configuring Project Center View&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Enterprise Project Server for Team Members</title>
+      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-team-members/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-team-members/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc517-microsoft-enterprise-project-server-for-team-members.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Team Members&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Enterprise Project Server for Team Members 
+    &lt;div id=&#34;microsoft-enterprise-project-server-for-team-members&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-enterprise-project-server-for-team-members&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Course Outline EPM for Team Members 
+    &lt;div id=&#34;course-outline-epm-for-team-members&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#course-outline-epm-for-team-members&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 1: Introduction 
+    &lt;div id=&#34;module-1-introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-1-introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What Is Microsoft EPM?&lt;/li&gt;
+&lt;li&gt;Understanding Enterprise Project Management Terminology&lt;/li&gt;
+&lt;li&gt;Understanding Project Server Terminology&lt;/li&gt;
+&lt;li&gt;Enterprise Project&lt;/li&gt;
+&lt;li&gt;Enterprise Resource&lt;/li&gt;
+&lt;li&gt;Check In and Check Out&lt;/li&gt;
+&lt;li&gt;Understanding the Communications Life Cycle&lt;/li&gt;
+&lt;li&gt;Understanding Tracking Methods&lt;/li&gt;
+&lt;li&gt;Understanding Business IntelligenceModule 02: Preparing to Use Project Server&lt;/li&gt;
+&lt;li&gt;Using the Project Web App User Interface&lt;/li&gt;
+&lt;li&gt;Logging into Project Web App from another Workstation&lt;/li&gt;
+&lt;li&gt;Using the Quick Launch Menu&lt;/li&gt;
+&lt;li&gt;Using the Ribbon Menus&lt;/li&gt;
+&lt;li&gt;Applying and Working with Views&lt;/li&gt;
+&lt;li&gt;Exporting the Data Grid to Excel&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 3. Creating New Proposed Projects 
+    &lt;div id=&#34;module-3-creating-new-proposed-projects&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-3-creating-new-proposed-projects&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding Lifecycle Management&lt;/li&gt;
+&lt;li&gt;Understanding Demand Management&lt;/li&gt;
+&lt;li&gt;Understanding Decision Management&lt;/li&gt;
+&lt;li&gt;Introducing Project Types&lt;/li&gt;
+&lt;li&gt;Understanding Phases and Stages&lt;/li&gt;
+&lt;li&gt;Understanding Project Detail Pages&lt;/li&gt;
+&lt;li&gt;Creating a New Project Proposal&lt;/li&gt;
+&lt;li&gt;Definition of a Proposal in Project Server&lt;/li&gt;
+&lt;li&gt;Initiating a Proposal&lt;/li&gt;
+&lt;li&gt;Completing the Sample Workflow Proposal Details Stage&lt;/li&gt;
+&lt;li&gt;Editing an Existing Proposal&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 04: Tracking Time and Task Progress 
+    &lt;div id=&#34;module-04-tracking-time-and-task-progress&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-04-tracking-time-and-task-progress&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Accessing Your Timesheet&lt;/li&gt;
+&lt;li&gt;Understanding the Timesheet Page&lt;/li&gt;
+&lt;li&gt;Entering Time in the Timesheet&lt;/li&gt;
+&lt;li&gt;Managing Timesheets&lt;/li&gt;
+&lt;li&gt;Planning Time Away from Work&lt;/li&gt;
+&lt;li&gt;Viewing the Submission Status&lt;/li&gt;
+&lt;li&gt;Submitting a Timesheet for Approval&lt;/li&gt;
+&lt;li&gt;Responding to a Rejected Timesheet&lt;/li&gt;
+&lt;li&gt;Editing an Existing Timesheet&lt;/li&gt;
+&lt;li&gt;Recalling a Submitted Timesheet&lt;/li&gt;
+&lt;li&gt;Deleting a Timesheet&lt;/li&gt;
+&lt;li&gt;Tracking Task Progress in Project Web App&lt;/li&gt;
+&lt;li&gt;Understanding the Tasks Page&lt;/li&gt;
+&lt;li&gt;Tasks Ribbon&lt;/li&gt;
+&lt;li&gt;Grouping and Views&lt;/li&gt;
+&lt;li&gt;Understanding the Assignment Details Page&lt;/li&gt;
+&lt;li&gt;Reporting Progress from the Tasks Page&lt;/li&gt;
+&lt;li&gt;Using Percent of Work Complete&lt;/li&gt;
+&lt;li&gt;Best Practice: Using Percent of Work Complete&lt;/li&gt;
+&lt;li&gt;Using Actual Work Done and Work Remaining&lt;/li&gt;
+&lt;li&gt;Best Practice: Using Actual Work Done and Work Remaining&lt;/li&gt;
+&lt;li&gt;Using Hours of Work Done per Period&lt;/li&gt;
+&lt;li&gt;Best Practice: Using Hours of Work Done per Period&lt;/li&gt;
+&lt;li&gt;Reporting Progress from the Assignment Details Page&lt;/li&gt;
+&lt;li&gt;Importing Progress from the Timesheet Page&lt;/li&gt;
+&lt;li&gt;Managing Tasks&lt;/li&gt;
+&lt;li&gt;Reassigning Work to another Resource&lt;/li&gt;
+&lt;li&gt;Self-Assigning Team Tasks&lt;/li&gt;
+&lt;li&gt;Creating a New Task&lt;/li&gt;
+&lt;li&gt;Adding Yourself to a Task&lt;/li&gt;
+&lt;li&gt;Removing Tasks&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 5:Managing Personal Settings 
+    &lt;div id=&#34;module-5managing-personal-settings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-5managing-personal-settings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Settings Overview&lt;/li&gt;
+&lt;li&gt;Managing Alerts and Reminders for Yourself&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 6: Collaborating with Project Sites 
+    &lt;div id=&#34;module-6-collaborating-with-project-sites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-6-collaborating-with-project-sites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding Project Sites&lt;/li&gt;
+&lt;li&gt;Tracking Project Risks&lt;/li&gt;
+&lt;li&gt;Creating a New Risk&lt;/li&gt;
+&lt;li&gt;Working with Existing Risks&lt;/li&gt;
+&lt;li&gt;Working with Risk List Views&lt;/li&gt;
+&lt;li&gt;Viewing and Editing Existing Risks&lt;/li&gt;
+&lt;li&gt;Deleting a Risk&lt;/li&gt;
+&lt;li&gt;Managing Project Issues&lt;/li&gt;
+&lt;li&gt;Creating a New Issue&lt;/li&gt;
+&lt;li&gt;Viewing and Editing Existing Issues&lt;/li&gt;
+&lt;li&gt;Working with Version History&lt;/li&gt;
+&lt;li&gt;Viewing Your Assigned Issues and Risks&lt;/li&gt;
+&lt;li&gt;Managing Project Documents&lt;/li&gt;
+&lt;li&gt;Viewing and Creating Document Libraries&lt;/li&gt;
+&lt;li&gt;Uploading Documents to a Document Library&lt;/li&gt;
+&lt;li&gt;Creating a New Folder in a Documents Library&lt;/li&gt;
+&lt;li&gt;Working with Existing Documents in a Documents Library&lt;/li&gt;
+&lt;li&gt;Viewing and Editing Document Properties&lt;/li&gt;
+&lt;li&gt;Checking Out a Document Manually&lt;/li&gt;
+&lt;li&gt;Working with Document Copies&lt;/li&gt;
+&lt;li&gt;Editing a Document&lt;/li&gt;
+&lt;li&gt;Viewing the Version History for a Document&lt;/li&gt;
+&lt;li&gt;Deleting Documents and Document Versions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 7: Working with Status Reports 
+    &lt;div id=&#34;module-7-working-with-status-reports&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-7-working-with-status-reports&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Requesting a Status Report&lt;/li&gt;
+&lt;li&gt;Editing and Deleting Status Reports&lt;/li&gt;
+&lt;li&gt;Responding to a Status Report Request&lt;/li&gt;
+&lt;li&gt;Viewing the Status Report Archive&lt;/li&gt;
+&lt;li&gt;Viewing Status Report Responses&lt;/li&gt;
+&lt;li&gt;Viewing Unrequested Status Reports&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Module 8: Working with Project center and Project Views 
+    &lt;div id=&#34;module-8-working-with-project-center-and-project-views&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#module-8-working-with-project-center-and-project-views&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the Project Center&lt;/li&gt;
+&lt;li&gt;Using the Projects Ribbon in the Project Center&lt;/li&gt;
+&lt;li&gt;Using Project Center Views&lt;/li&gt;
+&lt;li&gt;Working with Detailed Project Views&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Project Course</title>
+      <link>http://localhost:1313/management/microsoft-project/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/microsoft-project/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc515-microsoft-project.jpg&#34; alt=&#34;Microsoft Project&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Project 
+    &lt;div id=&#34;microsoft-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;About Course&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Project (MSP) is one of the extensive tools used by project managers to prepare project schedules, track project work, optimize resources, and report project progress on day to day basis. Generally, every 2-3 years Microsoft change this product and adds some new feature, modify look and feel, extends some existing features, etc. By 2016 four majorly used versions of this product in the market are MSP 2007, MSP 2010, MSP2013, MSP2016. Depending upon licensing and cost involved organization uses these various versions. The core of all the versions is the same, except for some advanced reporting, view, and analysis functionalities in newer versions. This course helps you understand how to use MSP for your project’s planning.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Project for PMO Team</title>
+      <link>http://localhost:1313/management/microsoft-project-for-pmo-team/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/microsoft-project-for-pmo-team/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc520-microsoft-project-for-pmo-team.jpg&#34; alt=&#34;Microsoft Project For Pmo Team&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Microsoft Project For Pmo Team 
+    &lt;div id=&#34;microsoft-project-for-pmo-team&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft-project-for-pmo-team&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Project Online (Microsoft Project Professional) training based on the role of project team members.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-executives&#34;&gt;Microsoft Project for CxO and PMO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-team-members&#34;&gt;Microsoft Project for Project Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-administrators&#34;&gt;Microsoft Project for Admin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-project-managers&#34;&gt;Microsoft Project for Project Manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

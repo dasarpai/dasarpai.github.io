@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Trends on </title>
+    <link>http://localhost:1313/tags/ai-trends/</link>
+    <description>Recent content in AI Trends on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-trends/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview</title>
+      <link>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;State of the Art Computer Vision Models 
+    &lt;div id=&#34;state-of-the-art-computer-vision-models&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#state-of-the-art-computer-vision-models&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What are the different methods of Image generation? 
+    &lt;div id=&#34;what-are-the-different-methods-of-image-generation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-are-the-different-methods-of-image-generation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There are several methods for image generation. Diffusion models are currently the state-of-the-art due to their balance of quality, flexibility, and scalability. However, other methods like GANs and autoregressive models remain relevant for specific use cases. Let&amp;rsquo;s see them one by one.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AI Predictions for 2025</title>
+      <link>http://localhost:1313/dsblog/ai-predictions-for-2025/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ai-predictions-for-2025/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Major AI Predictions for 2025&lt;/strong&gt; 
+    &lt;div id=&#34;major-ai-predictions-for-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#major-ai-predictions-for-2025&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Listen Summary of this in Podcast Format 
+    &lt;div id=&#34;listen-summary-of-this-in-podcast-format&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#listen-summary-of-this-in-podcast-format&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;audio controls&gt;
+  &lt;source src=&#34;https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Transcripts-2-Audio/AI-Predictions-2025.wav&#34; type=&#34;audio/wav&#34;&gt;
+  Your browser does not support the audio element.
+&lt;/audio&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;AI Predictions for 2025 
+    &lt;div id=&#34;ai-predictions-for-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-predictions-for-2025&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. AI Agents and Autonomous Tools&lt;/strong&gt; 
+    &lt;div id=&#34;1-ai-agents-and-autonomous-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-ai-agents-and-autonomous-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI agents will become ubiquitous, capable of autonomously performing tasks like booking flights, scheduling meetings, or managing workflows. The term &amp;ldquo;agentic&amp;rdquo; will become commonplace.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;2. AI Integration in Everyday Life&lt;/strong&gt; 
+    &lt;div id=&#34;2-ai-integration-in-everyday-life&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2-ai-integration-in-everyday-life&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI technology will be embedded into household appliances (e.g., refrigerators, ovens, and laundry machines) and wearables (e.g., sunglasses, earbuds) for enhanced functionality. Human and appliances will be able to talk with each other.&lt;/li&gt;
+&lt;li&gt;Generative AI characters will be introduced on social media platforms for engagement and interaction. These characters will adopt different styles and personalities.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;3. Growth in AI Wearables&lt;/strong&gt; 
+    &lt;div id=&#34;3-growth-in-ai-wearables&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#3-growth-in-ai-wearables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Smart wearables like heads-up display glasses and earbuds offering real-time translation will gain popularity.&lt;/li&gt;
+&lt;li&gt;You will be able to learn language easily while talking with your wearables.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;4. Video Models and Content Creation&lt;/strong&gt; 
+    &lt;div id=&#34;4-video-models-and-content-creation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#4-video-models-and-content-creation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI video generation models will advance to the point where AI-generated videos become indistinguishable from real ones, potentially passing the &amp;ldquo;Visual Turing Test.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;AI tools for converting long-form videos into short clips will make content creation easier for creators.&lt;/li&gt;
+&lt;li&gt;AI will also play a covert or overt role in movie production, possibly resulting in AI-created movies becoming a trend.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;5. AI in Entertainment and Gaming&lt;/strong&gt; 
+    &lt;div id=&#34;5-ai-in-entertainment-and-gaming&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#5-ai-in-entertainment-and-gaming&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI-driven entertainment robots and video content will grow, enabling creators to produce work faster.&lt;/li&gt;
+&lt;li&gt;Gaming technology advancements will include dynamic resolution upscaling through deep learning super sampling (DLSS). It uses deep learning algorithms to upscale lower-resolution images to higher resolutions, enhancing the visual quality of games without significantly impacting performance. This allows for higher graphical settings and smoother frame rates, making games look better and run more efficiently&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;6. Self-Driving and Autonomous Vehicles&lt;/strong&gt; 
+    &lt;div id=&#34;6-self-driving-and-autonomous-vehicles&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#6-self-driving-and-autonomous-vehicles&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Significant developments in self-driving technology, with advancements from companies like Tesla, Waymo (google), and Lyft (Amazon). Tesla might achieve unsupervised full self-driving capabilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;7. Quantum Computing Progress&lt;/strong&gt; 
+    &lt;div id=&#34;7-quantum-computing-progress&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#7-quantum-computing-progress&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Breakthroughs in quantum computing with new chips from Google and IBM.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;8. AI in Workspaces and Business&lt;/strong&gt; 
+    &lt;div id=&#34;8-ai-in-workspaces-and-business&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#8-ai-in-workspaces-and-business&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI integration into workspaces for streamlined operations and minimal supervision.&lt;/li&gt;
+&lt;li&gt;Businesses will increasingly rely on AI for operational efficiency and innovation.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;9. Challenges of AI-Generated Content&lt;/strong&gt; 
+    &lt;div id=&#34;9-challenges-of-ai-generated-content&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#9-challenges-of-ai-generated-content&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Proliferation of low-quality, AI-generated content flooding platforms (termed &amp;ldquo;AI slop&amp;rdquo;), leading to potential SEO penalties and a need for better content regulation.&lt;/li&gt;
+&lt;li&gt;SEO business will be completely revamped&lt;/li&gt;
+&lt;li&gt;Ethical challenges in discerning AI-generated content from real content will drive the need for verification systems.&lt;/li&gt;
+&lt;li&gt;People will become less reactive to even real videos/audio/content, because of the flood of AI-generated content.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;10. AI Ethics, Regulation, and Identity Verification&lt;/strong&gt; 
+    &lt;div id=&#34;10-ai-ethics-regulation-and-identity-verification&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#10-ai-ethics-regulation-and-identity-verification&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Growing discussions on ethics and regulations around AI, particularly with the emergence of personal AI assistants and concerns over privacy and bias.&lt;/li&gt;
+&lt;li&gt;Blockchain-based &amp;ldquo;proof of personhood&amp;rdquo; solutions to verify identities in the face of AI advancements. This year Blockchain will enter into the mainstream along with AI app development.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;11. Hybrid Creativity&lt;/strong&gt; 
+    &lt;div id=&#34;11-hybrid-creativity&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#11-hybrid-creativity&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI will evolve as a creative partner in art, music, and content creation, enabling &amp;ldquo;hybrid creativity&amp;rdquo; between humans and machines.&lt;/li&gt;
+&lt;li&gt;To create content whatever technology and tools you need, you can use those easily with AI copilots and AI assistants.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;12. Extended Reality (XR)&lt;/strong&gt; 
+    &lt;div id=&#34;12-extended-reality-xr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#12-extended-reality-xr&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;XR technologies will become mainstream, particularly through compact, user-friendly devices like AI-powered glasses.&lt;/li&gt;
+&lt;li&gt;AI will enter into the realm of virtual reality (VR) and augmented reality (AR) to provide immersive experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;13. Regenerative Medicine&lt;/strong&gt; 
+    &lt;div id=&#34;13-regenerative-medicine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#13-regenerative-medicine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI-driven advancements in regenerative medicine, although progress might be slowed by legal and ethical challenges.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;14. Customizable Social Media Algorithms&lt;/strong&gt; 
+    &lt;div id=&#34;14-customizable-social-media-algorithms&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#14-customizable-social-media-algorithms&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Social media platforms may offer users the ability to fine-tune their algorithms for a personalized experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;15. AI Compute and Applications&lt;/strong&gt; 
+    &lt;div id=&#34;15-ai-compute-and-applications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#15-ai-compute-and-applications&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GPU power will increase more and they will become cheaper and widely available for local AI workloads.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;16. AI in Programming&lt;/strong&gt; 
+    &lt;div id=&#34;16-ai-in-programming&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#16-ai-in-programming&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AI will be commonly used for product development, architecture, UML, code completion, code refactoring, debugging, and testing. So, the cost and time of development will reduce and quality will improve.&lt;/li&gt;
+&lt;li&gt;AI written code will selfheal if it is failing, improve for performance and security.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Related Readings 
+    &lt;div id=&#34;related-readings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#related-readings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;My 2020, article on &lt;a href=&#34;../../dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>All About AI Hype</title>
+      <link>http://localhost:1313/dsblog/All-About-ai-Hype/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/All-About-ai-Hype/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;All About AI Hype 
+    &lt;div id=&#34;all-about-ai-hype&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#all-about-ai-hype&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Artificial Intelligence (AI) is a buzzword that has permeated almost every aspect of modern life. From the way we work and communicate to how we manage our environment and interact with animals, AI&amp;rsquo;s impact is being felt far and wide. But how deep is this impact, really? Is it truly revolutionary, or is it just another over-hyped trend that will fade with time?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Open Source vs Closed Source AI</title>
+      <link>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Open Source AI vs Closed Source AI 
+    &lt;div id=&#34;open-source-ai-vs-closed-source-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#open-source-ai-vs-closed-source-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Major players in the AI industry, such as Google, Microsoft, IBM, Salesforce, etc each have their own proprietary models and infrastructure to host these models. They offer AI services that companies use to develop AI products for either their end customers or internal use. Training or developing AI models requires expensive hardware and highly skilled personnel, making it a costly process. However, the deployment and inference stages are even more expensive, as they involve ongoing costs for hardware and monitoring.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

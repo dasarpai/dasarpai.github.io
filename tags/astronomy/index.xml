@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy on </title>
+    <link>http://localhost:1313/tags/astronomy/</link>
+    <description>Recent content in Astronomy on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>27 Nakshatra of Indian Astrology</title>
+      <link>http://localhost:1313/gk/27-Nakshatra-of-Indian-Astrology/</link>
+      <pubDate>Wed, 11 Dec 2024 08:33:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/gk/27-Nakshatra-of-Indian-Astrology/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/default/gkblog.jpg&#34; alt=&#34;27 Nakshatra of Indian Astrology&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;27 Nakshatra of Indian Astrology 
+    &lt;div id=&#34;27-nakshatra-of-indian-astrology&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#27-nakshatra-of-indian-astrology&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Indian System 
+    &lt;div id=&#34;indian-system&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#indian-system&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Each of the 27 &lt;strong&gt;Nakṣatras&lt;/strong&gt; in the &lt;strong&gt;Indian system of astrology&lt;/strong&gt; has a unique symbolism, deity, and significance. These representations go beyond just the stars; they incorporate mythology, qualities, and energies that influence a person&amp;rsquo;s life and events.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science and Basics of Astrology</title>
+      <link>http://localhost:1313/dsblog/Basics-of-Astrology/</link>
+      <pubDate>Wed, 27 Dec 2023 08:33:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Basics-of-Astrology/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6108-Basics-of-Astrology.jpg&#34; alt=&#34;Basics of Astrology&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Basics of Jyotish 
+    &lt;div id=&#34;basics-of-jyotish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basics-of-jyotish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;In this article I am going to discuss the basics of astrology and the data science aspect of astrology. I am defending here a big case of model retraining and without retraining if we are doing prediction from the old model that won&amp;rsquo;t be effective. Although in today&amp;rsquo;s time of data privacy, secrecy, getting personal data to create a prediction model is very costly or impossible for any corporation. As of today whatever data corporations are using to create the model of health care or public good or promoting a product for that anonymized data can be used but to create astrology models we need actual data. Only the government can get this data but the public doesn&amp;rsquo;t trust the government to create this model for predicting their life. What will be the future of Astrology and Jyotish in the coming time depends upon many factors, one of which is trust between governments and the public. The government can creates astrology models for the well being of the society. Without this, whatever astrology or Jyotish we are doing today it is becoming less trustworthy everyday.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is Solstice and Equinox?</title>
+      <link>http://localhost:1313/gk/What-is-Solstice-and-Equinox/</link>
+      <pubDate>Thu, 21 Dec 2023 08:33:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/gk/What-is-Solstice-and-Equinox/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg&#34; alt=&#34;What is Solstice and Equinox?&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Equinox and Solstice 
+    &lt;div id=&#34;equinox-and-solstice&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#equinox-and-solstice&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This article trying to help you understand&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why Solstice and Makarsankranti doesn&amp;rsquo;t happens on the same day?&lt;/li&gt;
+&lt;li&gt;What are different movement or rotation of earth?&lt;/li&gt;
+&lt;li&gt;Why there are many seasons on the earth?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Length of Day and Night 
+    &lt;div id=&#34;length-of-day-and-night&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#length-of-day-and-night&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In sanskrit Divas is always 24 hours. Duration of day (Din) and night (Raatri) varies every day and it depends upon sunrise and sunset.&lt;/li&gt;
+&lt;li&gt;Solstice (अयनांत = अयन + अंत), Equinox (विषुव)&lt;/li&gt;
+&lt;li&gt;Equinox - An event when day and night are of equal duration. It happens on 20/21-Mar and 22/23-Sep.&lt;/li&gt;
+&lt;li&gt;Solstice - An event when day is the longest or night is the longest. In northern hemisphere, day is longest on 20/21-Jun, Night is longest on 21/22-Dec.&lt;/li&gt;
+&lt;li&gt;The word &amp;ldquo;tropic&amp;rdquo; refers to a region of the Earth where the Sun appears directly overhead at least once during the year, causing the Sun to be at its highest point in the sky at noon. There are two main tropics:
+&lt;ul&gt;
+&lt;li&gt;Tropic of Cancer (Karka): This is the northernmost circle of latitude on Earth where the Sun can appear directly overhead at least once during the year. It&amp;rsquo;s located at approximately 23.5 degrees north of the equator.&lt;/li&gt;
+&lt;li&gt;Tropic of Capricorn (Makar): This is the southernmost circle of latitude on Earth where the Sun can appear directly overhead at least once during the year. It&amp;rsquo;s located at approximately 23.5 degrees south of the equator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When there is Spring (Vasant) in the north hemisphere there is Autumn (Patjhad/fall) in the south and vice versa.&lt;/li&gt;
+&lt;li&gt;Patjhad of Bharat = Fall of USA = Autumn of other English speaking countries.&lt;/li&gt;
+&lt;li&gt;There is no relationship between Tropic of Cancer (Karka) and Karka Raashi (Cancer Zodiac sign) and Tropic of Capricorn (Makar) and Makar Rasshi (Capricorn Zodiac sign). I need more discussion with expert on this.&lt;/li&gt;
+&lt;li&gt;Cancer, Capricorn or any other Zodiac sign are related to the constellation seen in sky from the earth.&lt;/li&gt;
+&lt;li&gt;Cancer, Capricorn are two imaginary lines (that makes circle on the northen and southern hemisphere respectably)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Six Seasons of Bharat 
+    &lt;div id=&#34;six-seasons-of-bharat&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#six-seasons-of-bharat&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;In India, traditionally, the year is divided into six seasons, each roughly lasting two months. These seasons are based on the Hindu calendar and are:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

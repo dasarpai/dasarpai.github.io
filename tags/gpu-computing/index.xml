@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU Computing on </title>
+    <link>http://localhost:1313/tags/gpu-computing/</link>
+    <description>Recent content in GPU Computing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gpu-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tensorflow GPU Setup on Local Machine</title>
+      <link>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Tensorflow GPU Setup on Local Machine 
+    &lt;div id=&#34;tensorflow-gpu-setup-on-local-machine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tensorflow-gpu-setup-on-local-machine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Tensorflow, pytorch are deep learning libraries or packages. Tensorflow is developed by google and pytorch is developed by Meta. There are some other but these are the most popular one among Machine Learning and Deep Learning Engineers. If you are doing anything significant in NLP, computer vision, voice processing you must have used this library. But the power of the these libraries lies in parallel metrics/tensor computation. For that they use hardwardes like GPU or TPU which has thousands of core and they designed purely for metrics/tensor processing. Intially they were used for gaming purpose but with the surge of AI these machines are in high use and used for model training and inference purpose.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How Much Memory Needed for LLM</title>
+      <link>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg&#34; alt=&#34;How-Much-Memory-Needed-for-LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;How Much Memory Needed for LLM? 
+    &lt;div id=&#34;how-much-memory-needed-for-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#how-much-memory-needed-for-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is LLM? 
+    &lt;div id=&#34;what-is-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LLM stands for &lt;strong&gt;Large Language Model&lt;/strong&gt;. These are machine learning models that are trained on massive amounts of text data to understand, generate, and work with human language in a way that mimics natural language understanding. They are called &amp;ldquo;large&amp;rdquo; because of the significant number of parameters they contain, often numbering in the billions or even trillions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>GPU for Data Science Work</title>
+      <link>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;GPU for Data Science Work 
+    &lt;div id=&#34;gpu-for-data-science-work&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gpu-for-data-science-work&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is the difference between microprocessor (CPU) and GPU? 
+    &lt;div id=&#34;what-is-the-difference-between-microprocessor-cpu-and-gpu&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-difference-between-microprocessor-cpu-and-gpu&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

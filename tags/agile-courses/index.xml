@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Courses on </title>
+    <link>http://localhost:1313/tags/agile-courses/</link>
+    <description>Recent content in Agile Courses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/agile-courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agile Scrum Project Management</title>
+      <link>http://localhost:1313/management/agile-scrum/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/management/agile-scrum/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc525-agile-scrum.jpg&#34; alt=&#34;Agile Scrum&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile/Scrum - Course I (3 Days) 
+    &lt;div id=&#34;agilescrum---course-i-3-days&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agilescrum---course-i-3-days&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Agile
+&lt;ul&gt;
+&lt;li&gt;Modern Project Management Challenges&lt;/li&gt;
+&lt;li&gt;How to address modern day PM challenges?&lt;/li&gt;
+&lt;li&gt;Challenges in Starting Agile Project Management&lt;/li&gt;
+&lt;li&gt;What is Agility?&lt;/li&gt;
+&lt;li&gt;Which Project Management Methodology is best?&lt;/li&gt;
+&lt;li&gt;Type of Systems&lt;/li&gt;
+&lt;li&gt;Complex Adaptive Systems (CAS)&lt;/li&gt;
+&lt;li&gt;Defined vs Empirical Processes&lt;/li&gt;
+&lt;li&gt;Values in Agile Manifesto&lt;/li&gt;
+&lt;li&gt;Agile Principles&lt;/li&gt;
+&lt;li&gt;Agile Methodologies&lt;/li&gt;
+&lt;li&gt;When Does Agile Methodologies Works Best?&lt;/li&gt;
+&lt;li&gt;Value Delivery &amp;amp; Project Life Cycle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Agile Mindset
+&lt;ul&gt;
+&lt;li&gt;Iteration&lt;/li&gt;
+&lt;li&gt;Incremental Delivery&lt;/li&gt;
+&lt;li&gt;Travel Light&lt;/li&gt;
+&lt;li&gt;Agile Product Building&lt;/li&gt;
+&lt;li&gt;Agile Documentation&lt;/li&gt;
+&lt;li&gt;Agile Architecture&lt;/li&gt;
+&lt;li&gt;Agile Testing&lt;/li&gt;
+&lt;li&gt;Last Responsible Moment&lt;/li&gt;
+&lt;li&gt;Refactoring&lt;/li&gt;
+&lt;li&gt;Technical Debt&lt;/li&gt;
+&lt;li&gt;Mindfulness&lt;/li&gt;
+&lt;li&gt;Energized Team&lt;/li&gt;
+&lt;li&gt;Poka-Yoka&lt;/li&gt;
+&lt;li&gt;Agile Roles&lt;/li&gt;
+&lt;li&gt;Agile Health Checkup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Communication
+&lt;ul&gt;
+&lt;li&gt;Team Space&lt;/li&gt;
+&lt;li&gt;Information Radiator&lt;/li&gt;
+&lt;li&gt;Osmotic Communication&lt;/li&gt;
+&lt;li&gt;Daily Stand-ups&lt;/li&gt;
+&lt;li&gt;Communication Technologies &amp;amp; Effectiveness&lt;/li&gt;
+&lt;li&gt;Collocated vs Distributed Team&lt;/li&gt;
+&lt;li&gt;Skills to Manage Stakeholders&lt;/li&gt;
+&lt;li&gt;Define Positive Values&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Planning
+&lt;ul&gt;
+&lt;li&gt;Progressive Elaboration&lt;/li&gt;
+&lt;li&gt;Adaptive Planning&lt;/li&gt;
+&lt;li&gt;User Story&lt;/li&gt;
+&lt;li&gt;Types of User Stories&lt;/li&gt;
+&lt;li&gt;3Cs of User Story&lt;/li&gt;
+&lt;li&gt;INVEST Model of User Story&lt;/li&gt;
+&lt;li&gt;Epic, Feature, Story, Task&lt;/li&gt;
+&lt;li&gt;Agile Planning&lt;/li&gt;
+&lt;li&gt;Time-boxing&lt;/li&gt;
+&lt;li&gt;Minimum Marketable Features (MMF)&lt;/li&gt;
+&lt;li&gt;Process Tailoring&lt;/li&gt;
+&lt;li&gt;Agile Contracting Methods&lt;/li&gt;
+&lt;li&gt;Agile Project Tracking&lt;/li&gt;
+&lt;li&gt;Innovation Game&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Monitoring &amp;amp; Adapting
+&lt;ul&gt;
+&lt;li&gt;Information Radiators&lt;/li&gt;
+&lt;li&gt;Self-assessment&lt;/li&gt;
+&lt;li&gt;Kanban Board&lt;/li&gt;
+&lt;li&gt;Cumulative Flow Diagram (CFD)&lt;/li&gt;
+&lt;li&gt;WIP Limit&lt;/li&gt;
+&lt;li&gt;Burn Charts&lt;/li&gt;
+&lt;li&gt;Retrospectives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Agile Estimation &amp;amp; Metrics
+&lt;ul&gt;
+&lt;li&gt;Size Estimation Techniques
+&lt;ul&gt;
+&lt;li&gt;Relative Sizing&lt;/li&gt;
+&lt;li&gt;Story Points&lt;/li&gt;
+&lt;li&gt;Wideband Delphi&lt;/li&gt;
+&lt;li&gt;Planning Poker&lt;/li&gt;
+&lt;li&gt;Affinity Estimation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Metrics
+&lt;ul&gt;
+&lt;li&gt;Velocity&lt;/li&gt;
+&lt;li&gt;Lead Time&lt;/li&gt;
+&lt;li&gt;Cycle Time&lt;/li&gt;
+&lt;li&gt;Ideal Time&lt;/li&gt;
+&lt;li&gt;Escaped Defects&lt;/li&gt;
+&lt;li&gt;Project Scheduled&lt;/li&gt;
+&lt;li&gt;Features &amp;amp; Value Delivered&lt;/li&gt;
+&lt;li&gt;Delivery Performance&lt;/li&gt;
+&lt;li&gt;Product and Technical Quality Assessment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cost Estimate&lt;/li&gt;
+&lt;li&gt;Basis of Estimation&lt;/li&gt;
+&lt;li&gt;Earn Value Management&lt;/li&gt;
+&lt;li&gt;S Curve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Requirement Analysis &amp;amp; Design
+&lt;ul&gt;
+&lt;li&gt;Product Roadmap&lt;/li&gt;
+&lt;li&gt;Backlogs
+&lt;ul&gt;
+&lt;li&gt;Product&lt;/li&gt;
+&lt;li&gt;Release&lt;/li&gt;
+&lt;li&gt;Sprint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Story Maps&lt;/li&gt;
+&lt;li&gt;Requirement Collection and Validation&lt;/li&gt;
+&lt;li&gt;Agile Modeling
+&lt;ul&gt;
+&lt;li&gt;Prototype&lt;/li&gt;
+&lt;li&gt;Wireframes&lt;/li&gt;
+&lt;li&gt;Personas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Agile Design Principles&lt;/li&gt;
+&lt;li&gt;Agile Chartering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Product Quality
+&lt;ul&gt;
+&lt;li&gt;Cost of Quality&lt;/li&gt;
+&lt;li&gt;Definition of Done&lt;/li&gt;
+&lt;li&gt;Feedback Techniques of Agile Project Management&lt;/li&gt;
+&lt;li&gt;Verification and Validation&lt;/li&gt;
+&lt;li&gt;Test Driven Development (TDD)&lt;/li&gt;
+&lt;li&gt;Acceptance Test Driven Development (ATDD)&lt;/li&gt;
+&lt;li&gt;Exploratory Testing&lt;/li&gt;
+&lt;li&gt;Continuous Integration&lt;/li&gt;
+&lt;li&gt;Continuous Process Improvement&lt;/li&gt;
+&lt;li&gt;7 Wastes&lt;/li&gt;
+&lt;li&gt;House Keeping Standard (5S)&lt;/li&gt;
+&lt;li&gt;Version Control&lt;/li&gt;
+&lt;li&gt;Agile Tooling Mistake&lt;/li&gt;
+&lt;li&gt;Typical Software Tools in Agile Projects&lt;/li&gt;
+&lt;li&gt;Quality Tools
+&lt;ul&gt;
+&lt;li&gt;Benchmarking&lt;/li&gt;
+&lt;li&gt;Control Charts&lt;/li&gt;
+&lt;li&gt;Affinity Diagram&lt;/li&gt;
+&lt;li&gt;Force Field Analysis&lt;/li&gt;
+&lt;li&gt;Quality Checklists&lt;/li&gt;
+&lt;li&gt;Cause and effect diagram&lt;/li&gt;
+&lt;li&gt;Pareto Charts&lt;/li&gt;
+&lt;li&gt;Histograms&lt;/li&gt;
+&lt;li&gt;Run Charts&lt;/li&gt;
+&lt;li&gt;Influence Diagram or Decision Network&lt;/li&gt;
+&lt;li&gt;SWOT Analysis&lt;/li&gt;
+&lt;li&gt;Design of Experiments (DOE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Softskills
+&lt;ul&gt;
+&lt;li&gt;Emotional Intelligence&lt;/li&gt;
+&lt;li&gt;Self Organizing Team&lt;/li&gt;
+&lt;li&gt;Shu-Ha-Ri&lt;/li&gt;
+&lt;li&gt;Active Listening&lt;/li&gt;
+&lt;li&gt;Collaboration&lt;/li&gt;
+&lt;li&gt;Adaptive Leadership&lt;/li&gt;
+&lt;li&gt;Interpersonal Skills of a Project Manager&lt;/li&gt;
+&lt;li&gt;Negotiation Strategies&lt;/li&gt;
+&lt;li&gt;Type of Powers&lt;/li&gt;
+&lt;li&gt;Group Decision Making Techniques&lt;/li&gt;
+&lt;li&gt;Conflict Management&lt;/li&gt;
+&lt;li&gt;Team Management
+&lt;ul&gt;
+&lt;li&gt;Agile Team&lt;/li&gt;
+&lt;li&gt;Agile Team Scaling&lt;/li&gt;
+&lt;li&gt;Team Types&lt;/li&gt;
+&lt;li&gt;Agile Team Stage&lt;/li&gt;
+&lt;li&gt;Ground Rules&lt;/li&gt;
+&lt;li&gt;Mentoring and Coaching Styles&lt;/li&gt;
+&lt;li&gt;Learning &amp;amp; Working&lt;/li&gt;
+&lt;li&gt;BART Analysis&lt;/li&gt;
+&lt;li&gt;Teams Self-Assessment Chart&lt;/li&gt;
+&lt;li&gt;Servant Leadership&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mentoring &amp;amp; Coaching Team&lt;/li&gt;
+&lt;li&gt;Learning and Working&lt;/li&gt;
+&lt;li&gt;BART Analysis&lt;/li&gt;
+&lt;li&gt;Team Self-Assessment Chart&lt;/li&gt;
+&lt;li&gt;Servant Leadership&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Value Based Prioritization &amp;amp; Value Streaming
+&lt;ul&gt;
+&lt;li&gt;What is value?&lt;/li&gt;
+&lt;li&gt;JIT in value delivery&lt;/li&gt;
+&lt;li&gt;Sources of revenue&lt;/li&gt;
+&lt;li&gt;Value Evaluation Techniques&lt;/li&gt;
+&lt;li&gt;Value-based Analysis&lt;/li&gt;
+&lt;li&gt;Minimum Marketable Features (MMF)&lt;/li&gt;
+&lt;li&gt;Non-Function Requirements&lt;/li&gt;
+&lt;li&gt;Relative Prioritization and Ranking Techniques
+&lt;ul&gt;
+&lt;li&gt;Prioritization&lt;/li&gt;
+&lt;li&gt;Customer-valued Prioritization&lt;/li&gt;
+&lt;li&gt;Forced Ranking Technique&lt;/li&gt;
+&lt;li&gt;Analytical Hierarchical Process&lt;/li&gt;
+&lt;li&gt;Paired Comparison Techniques&lt;/li&gt;
+&lt;li&gt;Weight-based Prioritization Techniques&lt;/li&gt;
+&lt;li&gt;Kano Analysis&lt;/li&gt;
+&lt;li&gt;100 Point Method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Value-based Prioritization&lt;/li&gt;
+&lt;li&gt;Value Stream Mapping&lt;/li&gt;
+&lt;li&gt;Compliance&lt;/li&gt;
+&lt;li&gt;System Thinking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Compliance in Agile
+&lt;ul&gt;
+&lt;li&gt;Agile Compliance&lt;/li&gt;
+&lt;li&gt;Regulatory Compliance&lt;/li&gt;
+&lt;li&gt;Agile Self-Assessment Chart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Risk Management
+&lt;ul&gt;
+&lt;li&gt;What is Risk?&lt;/li&gt;
+&lt;li&gt;Risk Attitude&lt;/li&gt;
+&lt;li&gt;Risk Management Terminologies&lt;/li&gt;
+&lt;li&gt;Plan Risk Management&lt;/li&gt;
+&lt;li&gt;Project Risk Profile&lt;/li&gt;
+&lt;li&gt;Risk Adjusted Backlog&lt;/li&gt;
+&lt;li&gt;Risk Burn-down Graph&lt;/li&gt;
+&lt;li&gt;Identify Risks&lt;/li&gt;
+&lt;li&gt;Probability and Impact Matrix&lt;/li&gt;
+&lt;li&gt;Qualitative Risk Analysis&lt;/li&gt;
+&lt;li&gt;Risk Categorization&lt;/li&gt;
+&lt;li&gt;Decision Tree&lt;/li&gt;
+&lt;li&gt;Sensitivity Analysis&lt;/li&gt;
+&lt;li&gt;Risk-based Spikes&lt;/li&gt;
+&lt;li&gt;Risk Response Plan&lt;/li&gt;
+&lt;li&gt;Monitoring &amp;amp; Controlling Risks&lt;/li&gt;
+&lt;li&gt;Understanding Reserves&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile/Scrum - Course II (2 Days) 
+    &lt;div id=&#34;agilescrum---course-ii-2-days&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agilescrum---course-ii-2-days&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Agile Project Management
+&lt;ul&gt;
+&lt;li&gt;What is Agile?&lt;/li&gt;
+&lt;li&gt;The myths and realities of Agile software development&lt;/li&gt;
+&lt;li&gt;The Agile Manifesto&lt;/li&gt;
+&lt;li&gt;How organizational patterns relate to Agile project management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fundamentals of Scrum for Dealing with Uncertainty and Risk
+&lt;ul&gt;
+&lt;li&gt;Identifying the roles and their responsibilities&lt;/li&gt;
+&lt;li&gt;Prioritizing requirements through the Product Owner&lt;/li&gt;
+&lt;li&gt;Differentiating the Scrum Master from a traditional project manager&lt;/li&gt;
+&lt;li&gt;Shaping the self-managed development team&lt;/li&gt;
+&lt;li&gt;Relating to external stakeholders&lt;/li&gt;
+&lt;li&gt;Managing releases&lt;/li&gt;
+&lt;li&gt;Iterating development through 30-day cycles&lt;/li&gt;
+&lt;li&gt;Developing a project vision with Sprints&lt;/li&gt;
+&lt;li&gt;Time-boxing with Sprints and daily stand-up meetings&lt;/li&gt;
+&lt;li&gt;Tools for tracking and monitoring a project&lt;/li&gt;
+&lt;li&gt;Capturing requirements as User Stories&lt;/li&gt;
+&lt;li&gt;Developing a Product Backlog based on business value&lt;/li&gt;
+&lt;li&gt;Creating a Sprint Backlog from a list of requirements&lt;/li&gt;
+&lt;li&gt;Plotting the remaining work with a Burn-down Chart &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Planning an Agile Project
+&lt;ul&gt;
+&lt;li&gt;Establishing the business reasons for the project&lt;/li&gt;
+&lt;li&gt;Managing the expectations of sponsors and fund holders&lt;/li&gt;
+&lt;li&gt;Estimating expected progress&lt;/li&gt;
+&lt;li&gt;Demonstrating the business value of implemented functionality&lt;/li&gt;
+&lt;li&gt;Clarifying the business vision&lt;/li&gt;
+&lt;li&gt;Preparing and prioritizing the product requirements&lt;/li&gt;
+&lt;li&gt;Establishing the project road map&lt;/li&gt;
+&lt;li&gt;Eliciting project information from the Product Owner&lt;/li&gt;
+&lt;li&gt;Identifying features for development in an iteration&lt;/li&gt;
+&lt;li&gt;Estimating feature size and complexity&lt;/li&gt;
+&lt;li&gt;Selecting tasks for implementation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fostering Self-Management Within the Development Team
+&lt;ul&gt;
+&lt;li&gt;Creating the optimal working environment&lt;/li&gt;
+&lt;li&gt;Co-locating the development team&lt;/li&gt;
+&lt;li&gt;Designing the project base room&lt;/li&gt;
+&lt;li&gt;Protecting the development team from outside interference&lt;/li&gt;
+&lt;li&gt;Making project progress visible and open&lt;/li&gt;
+&lt;li&gt;Transitioning to self management&lt;/li&gt;
+&lt;li&gt;Facilitating team learning to self-organize&lt;/li&gt;
+&lt;li&gt;Empowering the team to control their own development process&lt;/li&gt;
+&lt;li&gt;Running iterations&lt;/li&gt;
+&lt;li&gt;Micro-planning through daily stand ups&lt;/li&gt;
+&lt;li&gt;Applying the rules for an iteration&lt;/li&gt;
+&lt;li&gt;Identifying administrative responsibilities of the development team&lt;/li&gt;
+&lt;li&gt;Measuring a project&amp;rsquo;s velocity&lt;/li&gt;
+&lt;li&gt;Controlling an iteration and increasing visibility with a Task Board&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Managing Change
+&lt;ul&gt;
+&lt;li&gt;Reviewing the iteration through a Sprint Review&lt;/li&gt;
+&lt;li&gt;Demonstrating functionality to the customer&lt;/li&gt;
+&lt;li&gt;Gaining feedback from stakeholders&lt;/li&gt;
+&lt;li&gt;Re-prioritizing requirements on the basis of experience&lt;/li&gt;
+&lt;li&gt;Closing the project using a Sprint Retrospective&lt;/li&gt;
+&lt;li&gt;Reflecting on lessons learned&lt;/li&gt;
+&lt;li&gt;Disseminating acquired knowledge to the organization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Applying Agile Throughout Your Organization
+&lt;ul&gt;
+&lt;li&gt;Dealing with the legacy organization&lt;/li&gt;
+&lt;li&gt;Negotiating the contract between the business and the Agile development team&lt;/li&gt;
+&lt;li&gt;Establishing the relationship between the Product Owner and multiple customers or stakeholders&lt;/li&gt;
+&lt;li&gt;The Scrum Master as manager-developer liaison&lt;/li&gt;
+&lt;li&gt;Scaling for large projects&lt;/li&gt;
+&lt;li&gt;Scrum roles in the larger context of planning&lt;/li&gt;
+&lt;li&gt;Collaborating across Agile development teams&lt;/li&gt;
+&lt;li&gt;Comparing hierarchical and self-organizing styles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile/Scrum - Course III (2 Days) 
+    &lt;div id=&#34;agilescrum---course-iii-2-days&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agilescrum---course-iii-2-days&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Day 1
+&lt;ul&gt;
+&lt;li&gt;Agile General Knowledge&lt;/li&gt;
+&lt;li&gt;History of Agile Project Management&lt;/li&gt;
+&lt;li&gt;Empirical Processes&lt;/li&gt;
+&lt;li&gt;Agile Manifesto&lt;/li&gt;
+&lt;li&gt;Agile Principles&lt;/li&gt;
+&lt;li&gt;Introduction to Various Agile Methods&lt;/li&gt;
+&lt;li&gt;ScrumBan&lt;/li&gt;
+&lt;li&gt;Scrum&lt;/li&gt;
+&lt;li&gt;Five values of Scrum&lt;/li&gt;
+&lt;li&gt;Sprint&lt;/li&gt;
+&lt;li&gt;Scrum Roles&lt;/li&gt;
+&lt;li&gt;Product Owner&lt;/li&gt;
+&lt;li&gt;Scrum Master&lt;/li&gt;
+&lt;li&gt;Project Team&lt;/li&gt;
+&lt;li&gt;Scrum Artifects&lt;/li&gt;
+&lt;li&gt;User Story&lt;/li&gt;
+&lt;li&gt;Product Backlog&lt;/li&gt;
+&lt;li&gt;Definition of Done&lt;/li&gt;
+&lt;li&gt;Sprint Backlog&lt;/li&gt;
+&lt;li&gt;Iteration Burndown / Burnup Charts&lt;/li&gt;
+&lt;li&gt;Release Burndown Chart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 2
+&lt;ul&gt;
+&lt;li&gt;Scrum Meetings&lt;/li&gt;
+&lt;li&gt;Release Planning Meetings&lt;/li&gt;
+&lt;li&gt;Sprint Planning Meetings&lt;/li&gt;
+&lt;li&gt;Daily Standup Meetings&lt;/li&gt;
+&lt;li&gt;Sprint Review Meetings&lt;/li&gt;
+&lt;li&gt;Sprint Retrospective Meetings&lt;/li&gt;
+&lt;li&gt;Technical Spike&lt;/li&gt;
+&lt;li&gt;Technical Debt and Refactoring&lt;/li&gt;
+&lt;li&gt;Agile Team Space&lt;/li&gt;
+&lt;li&gt;Information Radiators&lt;/li&gt;
+&lt;li&gt;Scaling Scrum&lt;/li&gt;
+&lt;li&gt;Working with distributed teams&lt;/li&gt;
+&lt;li&gt;Is Agile for us?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile/Scrum - Course IV (2 Days) 
+    &lt;div id=&#34;agilescrum---course-iv-2-days&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agilescrum---course-iv-2-days&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Agile Values &amp;amp; Principles, Scrum Values (2 hours)&lt;/li&gt;
+&lt;li&gt;Scrum Framework – High Level View (30 min)&lt;/li&gt;
+&lt;li&gt;Requirement Management: (3 hrs)
+&lt;ul&gt;
+&lt;li&gt;User Story (US)&lt;/li&gt;
+&lt;li&gt;Product Backlog Creation, Grooming&lt;/li&gt;
+&lt;li&gt;Requirement Change&lt;/li&gt;
+&lt;li&gt;Exercise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Planning (4 hrs)
+&lt;ul&gt;
+&lt;li&gt;Estimation of Complexity vs Efforts&lt;/li&gt;
+&lt;li&gt;US Estimation Techniques (Planning Poker, Mute Mapping)&lt;/li&gt;
+&lt;li&gt;Release Planning&lt;/li&gt;
+&lt;li&gt;Task Estimation&lt;/li&gt;
+&lt;li&gt;Sprint Planning&lt;/li&gt;
+&lt;li&gt;Daily Standup (Daily Planning)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Development &amp;amp; Testing (1 hr)
+&lt;ul&gt;
+&lt;li&gt;How Scrum Team Work as a Unit?&lt;/li&gt;
+&lt;li&gt;Within Team Interaction&lt;/li&gt;
+&lt;li&gt;Outside Team Interaction&lt;/li&gt;
+&lt;li&gt;Product Testing&lt;/li&gt;
+&lt;li&gt;Definition of Done&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Governance (3 hrs)
+&lt;ul&gt;
+&lt;li&gt;Sprint Review&lt;/li&gt;
+&lt;li&gt;Sprint Retrospective&lt;/li&gt;
+&lt;li&gt;Metrics in Agile&lt;/li&gt;
+&lt;li&gt;Burndown &amp;amp; Burnup charts&lt;/li&gt;
+&lt;li&gt;Velocity Chart&lt;/li&gt;
+&lt;li&gt;Risk Burndown Chart&lt;/li&gt;
+&lt;li&gt;Regulatory Compliances&lt;/li&gt;
+&lt;li&gt;Sharing progress with Stakeholders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documents in Agile (15 mins)
+&lt;ul&gt;
+&lt;li&gt;User Stories&lt;/li&gt;
+&lt;li&gt;Sprint Backlog&lt;/li&gt;
+&lt;li&gt;Product Backlog&lt;/li&gt;
+&lt;li&gt;Other Documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scrum Roles (1 hr)
+&lt;ul&gt;
+&lt;li&gt;Product Owner&lt;/li&gt;
+&lt;li&gt;Scrum Master&lt;/li&gt;
+&lt;li&gt;Scrum Team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Risk Management (30 mins)&lt;/li&gt;
+&lt;li&gt;Scaling Scrum (1.5 hrs)
+&lt;ul&gt;
+&lt;li&gt;Different teams of the same product at same location.&lt;/li&gt;
+&lt;li&gt;Different teams of the same product at different location, time zone&lt;/li&gt;
+&lt;li&gt;Different versions of same product for different customer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Recap (1 hr)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile/Scrum - Course V (2 Days) 
+    &lt;div id=&#34;agilescrum---course-v-2-days&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agilescrum---course-v-2-days&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Day 1
+&lt;ul&gt;
+&lt;li&gt;Introduction &amp;amp; Agenda Setting (20 min)&lt;/li&gt;
+&lt;li&gt;Traditional v/s Agile Software Development (30 min)&lt;/li&gt;
+&lt;li&gt;Agile Values and Principles (2 hours)&lt;/li&gt;
+&lt;li&gt;Scrum values (10 min)&lt;/li&gt;
+&lt;li&gt;Scrum Overview (2 hours)&lt;/li&gt;
+&lt;li&gt;Roles in Scrum: Scrum Master, Product Owner , Dev Team (Videos &amp;amp; Discussion)&lt;/li&gt;
+&lt;li&gt;Key Artifacts of Scrum: User Stories, Product Backlog, Sprint Backlog&lt;/li&gt;
+&lt;li&gt;Group Activity 1: User Story&lt;/li&gt;
+&lt;li&gt;Group Activity 2: Product Backlog Grooming&lt;/li&gt;
+&lt;li&gt;Daily Standup Meeting (Video &amp;amp; Discussion)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Day 2
+&lt;ul&gt;
+&lt;li&gt;Estimation in Scrum&lt;/li&gt;
+&lt;li&gt;User stories and story points&lt;/li&gt;
+&lt;li&gt;Velocity? How to Compute Velocity&lt;/li&gt;
+&lt;li&gt;User Story Estimation  (Group Activity)&lt;/li&gt;
+&lt;li&gt;Release Planning&lt;/li&gt;
+&lt;li&gt;Estimation of Product backlog&lt;/li&gt;
+&lt;li&gt;Estimating number of sprints&lt;/li&gt;
+&lt;li&gt;Deciding Release date&lt;/li&gt;
+&lt;li&gt;Sprint Planning (Concepts &amp;amp; Acitivity)&lt;/li&gt;
+&lt;li&gt;Identifying Sprints Backlog Tasks from User stories&lt;/li&gt;
+&lt;li&gt;Creating Sprint Backlog (Group Activity)&lt;/li&gt;
+&lt;li&gt;Product Demo&lt;/li&gt;
+&lt;li&gt;Sprint Retrospective&lt;/li&gt;
+&lt;li&gt;Tracking in scrum&lt;/li&gt;
+&lt;li&gt;Sprint Burndown /Burnup (Group Activity)&lt;/li&gt;
+&lt;li&gt;Release Burndown/ Burnup&lt;/li&gt;
+&lt;li&gt;Measure sprint effectiveness&lt;/li&gt;
+&lt;li&gt;Updating ScrumBan&lt;/li&gt;
+&lt;li&gt;Updating Risk Burndown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile/Scrum - Course VI (2 Days) 
+    &lt;div id=&#34;agilescrum---course-vi-2-days&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agilescrum---course-vi-2-days&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Session 1 
+    &lt;div id=&#34;session-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#session-1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;By the end of this session participants will understand what agile culture is, why it is the better way of managing project deliveries. They will be able to understand how different practices are stitched together in Scrum framework. Agile culture does not mean processes but a set of values and principles which drives the individuals to work as team. A culture in which team spirit is encouraged and not individual heroism.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

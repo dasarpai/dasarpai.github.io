@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Searching on </title>
+    <link>http://localhost:1313/tags/searching/</link>
+    <description>Recent content in Searching on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sat, 18 Nov 2023 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/searching/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ABC of Statistics</title>
+      <link>http://localhost:1313/wiaposts/ABC-of-Statistics/</link>
+      <pubDate>Sat, 18 Nov 2023 08:33:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/wiaposts/ABC-of-Statistics/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5237-ABC-of-Statistics.jpg&#34; alt=&#34;ABC of Statistics&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;ABC of Statistics 
+    &lt;div id=&#34;abc-of-statistics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#abc-of-statistics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;A table or dataset is generally means same thing. Ideally a dataset can have multiple tables.&lt;/li&gt;
+&lt;li&gt;A table contains numerous columns.&lt;/li&gt;
+&lt;li&gt;A table or dataset contains information, this can pertain to either a sample or a population.&lt;/li&gt;
+&lt;li&gt;Samples represent a subset of observations, while populations encompass all observations.&lt;/li&gt;
+&lt;li&gt;Census methods gather data for the entire population, whereas surveys collect data for a sample.&lt;/li&gt;
+&lt;li&gt;Statistics involve collecting, analyzing, interpreting, and presenting data, incorporating methods for both sample and population data.&lt;/li&gt;
+&lt;li&gt;A census involves a comprehensive count of an entire population, aiming to collect data from every individual or element in a specific group or area, leaving none out.&lt;/li&gt;
+&lt;li&gt;Information about samples or populations is available in the rows.&lt;/li&gt;
+&lt;li&gt;Column data within a table exhibits specific distributions dependent on the data type (e.g., numerical, categorical) and column name (e.g., gender, city, age, wait time, population, etc.).&lt;/li&gt;
+&lt;li&gt;Mean, mode, median, standard deviation, range, min, max, quartile, etc., are referred to as measures or metrics.&lt;/li&gt;
+&lt;li&gt;There exist six categories of statistical measures: 1) Measures of Central Tendency, 2) Measures of Dispersion or Variability, 3) Measures of Position, 4) Measures of Shape or Distribution, 5) Measures of Association, 6) Measures of Association.&lt;/li&gt;
+&lt;li&gt;Statistics summarize tables using measures such as mean, mode, median, standard deviation, range, min, max, quartile, applicable to either sample or population data.&lt;/li&gt;
+&lt;li&gt;Parameters, including mean, mode, median, standard deviation, minimum, maximum, etc., describe the characteristics of a population dataset.&lt;/li&gt;
+&lt;li&gt;In cases where census data isn&amp;rsquo;t available, knowledge about the population parameters is unavailable.&lt;/li&gt;
+&lt;li&gt;Inferential statistics involve deducing population insights from sample data.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Non-parametric&amp;rdquo; refers to scenarios where parameters (such as mean, mode, median, etc.) are unknown, indicating a lack of population data.&lt;/li&gt;
+&lt;li&gt;Lack of knowledge implies insufficient data for calculation, not the absence of prior data analysis.&lt;/li&gt;
+&lt;li&gt;Statistical tests evaluate whether two datasets (columns) belong to the same population by comparing variances or statistics between sample data and population data.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Data&amp;rdquo; is a broad term in statistics, encompassing columns, column summaries, individual cell values, and context-specific references to both sample and population data. It includes various forms like voice recordings, images, articles, emails, logs, streaming or batch data. Clarify the specific type of data when discussing it.&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

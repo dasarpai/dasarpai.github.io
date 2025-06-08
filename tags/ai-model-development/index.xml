@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Model Development on </title>
+    <link>http://localhost:1313/tags/ai-model-development/</link>
+    <description>Recent content in AI Model Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-model-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Overview of AI Benchmark Explorer Tool</title>
+      <link>http://localhost:1313/dsblog/aibenchmark-explorer/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/aibenchmark-explorer/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg&#34; alt=&#34;AI Benchmark Explorer&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Overview of AI Benchmark Explorer Tool&lt;/strong&gt; 
+    &lt;div id=&#34;overview-of-ai-benchmark-explorer-tool&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#overview-of-ai-benchmark-explorer-tool&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;AI professionals, including Change Drivers, Managers, and Scientists, often face challenges despite clearly understanding the problems they aim to solve. Key issues include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Identifying Appropriate Datasets&lt;/strong&gt;: Determining which datasets are best suited for a specific problem can be difficult.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selecting Evaluation Metrics&lt;/strong&gt;: Choosing the right metrics to assess the performance of a solution is crucial for accurate evaluation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benchmarking Against Existing Models&lt;/strong&gt;: Understanding the performance metrics of existing models for the same problem helps in setting realistic expectations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exploring Tried Architectures&lt;/strong&gt;: Reviewing architectures that others have implemented for similar problems can provide valuable insights.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assessing Problem Novelty&lt;/strong&gt;: Determining whether the problem has already been solved or requires novel approaches is essential for resource allocation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sourcing Solutions&lt;/strong&gt;: Deciding between utilizing open-source solutions or opting for proprietary alternatives impacts cost and flexibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Addressing these challenges is vital for the successful development and implementation of AI solutions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Automated Machine Learning</title>
+      <link>http://localhost:1313/dsblog/AutoML-Tools/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/AutoML-Tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Automated Machine Learning 
+    &lt;div id=&#34;automated-machine-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#automated-machine-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This is article is for you, if you know&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;About Machine learning, ML models building&lt;/li&gt;
+&lt;li&gt;That machines are capable of building these models themselves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Domain Knowledge in Machine Learning</title>
+      <link>http://localhost:1313/dsblog/Domain-Knowledge-in-Machine-Learning/</link>
+      <pubDate>Sat, 15 Oct 2022 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Domain-Knowledge-in-Machine-Learning/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg&#34; alt=&#34;Domain Knowledge in Machine Learning&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Domain Knowledge in Machine Learning 
+    &lt;div id=&#34;domain-knowledge-in-machine-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#domain-knowledge-in-machine-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Let’s say the domain is a restaurant kitchen. A dataset with 3 variables. Two predictors and one predicted. Predictor variables are flour in kilograms and water in liters. A predicted variable is the number of roti/ bread. You know the model will be something like this.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

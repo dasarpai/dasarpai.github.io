@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploration on </title>
+    <link>http://localhost:1313/tags/exploration/</link>
+    <description>Recent content in Exploration on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/exploration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Universal Constants</title>
+      <link>http://localhost:1313/wiaposts/universal-constants/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/wiaposts/universal-constants/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5137-Universal-Constants.jpg&#34; alt=&#34;Universal Constants&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Universal Constants 
+    &lt;div id=&#34;universal-constants&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#universal-constants&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;There are many other important constants in physics, chemistry, and mathematics. But these are the foundational constant of our known cosmos. If these values were different, then our existence could have not been possible.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;#&lt;/th&gt;
+          &lt;th&gt;Constant Name&lt;/th&gt;
+          &lt;th&gt;Symbol&lt;/th&gt;
+          &lt;th&gt;value&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;constant of gravitation&lt;/td&gt;
+          &lt;td&gt;G&lt;/td&gt;
+          &lt;td&gt;6.67384 × 10&lt;sup&gt;−11&lt;/sup&gt; cubic meter per second squared per kilogram&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;speed of light (in a vacuum)&lt;/td&gt;
+          &lt;td&gt;c&lt;/td&gt;
+          &lt;td&gt;2.99792458 × 10&lt;sup&gt;8&lt;/sup&gt; meters per second&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Planck’s constant&lt;/td&gt;
+          &lt;td&gt;h&lt;/td&gt;
+          &lt;td&gt;6.626070040 × 10&lt;sup&gt;−34&lt;/sup&gt; joule second&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Boltzmann constant&lt;/td&gt;
+          &lt;td&gt;k&lt;/td&gt;
+          &lt;td&gt;1.38064852 × 10&lt;sup&gt;−23&lt;/sup&gt; joule per kelvin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;Faraday constant&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;9.648533289 × 10&lt;sup&gt;4&lt;/sup&gt; coulombs per mole&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;electron rest mass&lt;/td&gt;
+          &lt;td&gt;m&lt;sub&gt;e&lt;/sub&gt;&lt;/td&gt;
+          &lt;td&gt;9.10938356 × 10&lt;sup&gt;−31&lt;/sup&gt; kilogram&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;proton rest mass&lt;/td&gt;
+          &lt;td&gt;m&lt;sub&gt;p&lt;/sub&gt;&lt;/td&gt;
+          &lt;td&gt;1.672621898 × 10&lt;sup&gt;−27&lt;/sup&gt; kilogram&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;neutron rest mass&lt;/td&gt;
+          &lt;td&gt;m&lt;sub&gt;n&lt;/sub&gt;&lt;/td&gt;
+          &lt;td&gt;1.674927471 × 10&lt;sup&gt;−27&lt;/sup&gt; kilogram&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;charge on electron&lt;/td&gt;
+          &lt;td&gt;e&lt;/td&gt;
+          &lt;td&gt;1.6021766208 × 10&lt;sup&gt;−19&lt;/sup&gt; coulomb&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;Rydberg constant&lt;/td&gt;
+          &lt;td&gt;R∞&lt;/td&gt;
+          &lt;td&gt;1.0973731568508 × 10&lt;sup&gt;7&lt;/sup&gt; per metre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;Stefan-Boltzmann constant&lt;/td&gt;
+          &lt;td&gt;σ&lt;/td&gt;
+          &lt;td&gt;5.670367 × 10&lt;sup&gt;−8&lt;/sup&gt; watt per square metre per kelvin&lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;fine-structure constant&lt;/td&gt;
+          &lt;td&gt;α&lt;/td&gt;
+          &lt;td&gt;7.2973525664 × 10&lt;sup&gt;−3&lt;/sup&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td&gt;Pi&lt;/td&gt;
+          &lt;td&gt;π&lt;/td&gt;
+          &lt;td&gt;3.14159&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td&gt;Phi, Golden ratio&lt;/td&gt;
+          &lt;td&gt;φ&lt;/td&gt;
+          &lt;td&gt;1.61803 39887 49894 84820 (x^2 – x-1 = 0)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td&gt;Euler’s number&lt;/td&gt;
+          &lt;td&gt;e&lt;/td&gt;
+          &lt;td&gt;2.71828 18284 59045 23536&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;Natural logarithm of 2&lt;/td&gt;
+          &lt;td&gt;ln(2)&lt;/td&gt;
+          &lt;td&gt;0.69314 71805 59945 30941&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unanswered Questions Of Science</title>
+      <link>http://localhost:1313/wiaposts/unanswered-questions-of-science/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/wiaposts/unanswered-questions-of-science/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5136-Unanswered-Questions-Of-Science.jpg&#34; alt=&#34;Unanswered Questions Of Science&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Unanswered Questions Of Science 
+    &lt;div id=&#34;unanswered-questions-of-science&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unanswered-questions-of-science&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;I am a student of science and technology, apart from that I have a deep interest in philosophy and cosmology. As a true seeker of knowledge, I keep searching for answers to various questions related to our existence and our journey in the cosmos. There are many answers which science has given, but I do not know because of my time commitment. But there are many questions, in which I am interest into, but I don’t have any scientific answer. As and when question comes, I keep putting here. If you know the answer of any of these question, then please connect me to the source. If you have any other question not mentioned here, then feel free to add question in the comment box.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Know</title>
+      <link>http://localhost:1313/wiaposts/i-dont-know/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/wiaposts/i-dont-know/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5120-I-Dont-Know.jpg&#34; alt=&#34;I Don&amp;rsquo;t Know&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;I Don&amp;rsquo;t Know 
+    &lt;div id=&#34;i-dont-know&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#i-dont-know&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;When physics is saying 95% of the cosmos is dark matter and dark energy, and what we are analyzing is only 5% of the whole matter and energy. This 5% is made of the atom, which is 99.9999% empty. This empty space is again unknown.&lt;/p&gt;
+&lt;p&gt;So when we do not know anything about 99.999995% of the existence. In this situation saying the hardware is the basis of intelligence is too early for a science. I think it is safe to say that as a human we don’t know enough. It makes me mad when religious people or believers say that their God and their book have the answer to everything many centuries ago. But if you ask them please help me they refer to some person who they don’t know personally or who is equally illiterate or to a book which they themselves have not read at all or not understood properly.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

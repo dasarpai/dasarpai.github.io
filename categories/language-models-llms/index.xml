@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language Models (LLMs) on </title>
+    <link>http://localhost:1313/categories/language-models-llms/</link>
+    <description>Recent content in Language Models (LLMs) on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/language-models-llms/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Retrieval-Augmented Generation with Conflicting Evidence</title>
+      <link>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Paper Summary: Retrieval-Augmented Generation with Conflicting Evidence 
+    &lt;div id=&#34;paper-summary-retrieval-augmented-generation-with-conflicting-evidence&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paper-summary-retrieval-augmented-generation-with-conflicting-evidence&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.13079&#34; target=&#34;_blank&#34;&gt;arXiv Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The hypothesis of this paper is that &lt;strong&gt;real-world retrieval-augmented generation (RAG) systems must simultaneously handle various sources of conflicting information, including ambiguity in user queries and contradictory information arising from misinformation and noise in retrieved documents&lt;/strong&gt;. The authors argue that prior work has largely addressed these challenges in isolation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Internal Encoding of Truthfulness and Hallucinations</title>
+      <link>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Paper Summary: LLM Internal Encoding of Truthfulness and Hallucinations 
+    &lt;div id=&#34;paper-summary-llm-internal-encoding-of-truthfulness-and-hallucinations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paper-summary-llm-internal-encoding-of-truthfulness-and-hallucinations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;The objective of this paper is to gain a deeper understanding of errors produced by large language models (LLMs) by examining their internal representations. The authors aim to reveal how information about the truthfulness of LLM outputs is encoded internally, going beyond extrinsic, behavioral analysis. They also seek to investigate the relationship between these internal representations and the external behavior of LLMs, including their tendency to produce inaccuracies or &amp;ldquo;hallucinations&amp;rdquo;. Furthermore, the paper intends to explore whether internal representations can be used to predict the types of errors LLMs make and to detect the correct answer even when the model generates an incorrect one.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Grok 3 Model and Sanskrit</title>
+      <link>http://localhost:1313/dsblog/grok3model-and-sanskrit/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/grok3model-and-sanskrit/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg&#34; alt=&#34;Grok 3 Model and Sanskrit&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Grok 3 Model and Sanskrit 
+    &lt;div id=&#34;grok-3-model-and-sanskrit&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#grok-3-model-and-sanskrit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;No other models do justice to Sanskrit in terms of context, context length, word meaning, and translation as Grok 3 does. I’ve been trying it since it was launched by xAI on February 17, 2025, and it continues to surprise me.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring DeepSeek R1: The AI That Thinks Like a Human</title>
+      <link>http://localhost:1313/dsblog/exploring-deepseek-r1/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-deepseek-r1/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring DeepSeek R1: The AI That Thinks Like a Human 
+    &lt;div id=&#34;exploring-deepseek-r1-the-ai-that-thinks-like-a-human&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-deepseek-r1-the-ai-that-thinks-like-a-human&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Artificial Intelligence (AI) has come a long way, but few models have captured the imagination of researchers, developers, and businesses like &lt;strong&gt;DeepSeek R1&lt;/strong&gt;. Developed by &lt;strong&gt;DeepSeek&lt;/strong&gt;, a cutting-edge AI research organization, DeepSeek R1 is not just another AI model—it’s a reasoning engine designed to tackle complex tasks with human-like precision. Whether it’s solving intricate math problems, writing code, or analyzing data, DeepSeek R1 is reasoning in every step. In this article, we’ll explore into what makes DeepSeek R1 special, how it works, and why it’s a game-changer for industries and individuals alike.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Road to Bharat LLMs Goes Via Sanskrit</title>
+      <link>http://localhost:1313/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg&#34; alt=&#34;The Road to Bharat LLMs Goes Via Sanskrit&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;The Road to Bharat LLMs Goes Via Sanskrit&lt;/strong&gt; 
+    &lt;div id=&#34;the-road-to-bharat-llms-goes-via-sanskrit&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-road-to-bharat-llms-goes-via-sanskrit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The Case for Sanskrit as India’s AI Language&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;The National Language Debate and Its Impact on AI&lt;/strong&gt; 
+    &lt;div id=&#34;the-national-language-debate-and-its-impact-on-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-national-language-debate-and-its-impact-on-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Since India&amp;rsquo;s independence, the debate over a national language has been intense. This issue becomes especially heated when considering the different regional perspectives, particularly in South India. For instance, Tamil Nadu politicians strongly believe that Tamil is their primary language, while Sanskrit is often seen as North Indian. At the time of independence, few would have predicted that 75 years later, we would be struggling to develop our own AI technology—partly due to not making Sanskrit the national language.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Framework for using LLM</title>
+      <link>http://localhost:1313/dsblog/Framework-for-using-LLM/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Framework-for-using-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Maximizing Your LLM Project: A Comprehensive Guide to Effective Prompt Types 
+    &lt;div id=&#34;maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;When working on a project that leverages Large Language Models (LLMs), selecting the right model and prompt type can be daunting. With thousands of models, hundreds of tasks, and numerous output formats available, it&amp;rsquo;s easy to feel overwhelmed. This article aims to simplify your decision-making process by outlining the major types of prompts you can utilize to enhance your project’s effectiveness.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless LLM Deployment Platform</title>
+      <link>http://localhost:1313/dsblog/serverless-llm-deployment/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/serverless-llm-deployment/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Serverless LLM Deployment Platform 
+    &lt;div id=&#34;serverless-llm-deployment-platform&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#serverless-llm-deployment-platform&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Microsoft&amp;rsquo;s Serverless LLM Deployment Platform&lt;/strong&gt; 
+    &lt;div id=&#34;microsoft&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; 
+    &lt;div id=&#34;azure-openai-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#azure-openai-service&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; is Microsoft&amp;rsquo;s answer to serverless LLM deployment. It provides access to powerful language models, including OpenAI&amp;rsquo;s GPT-4, GPT-3.5, Codex, and DALL-E, within the Azure ecosystem. It simplifies the process of integrating and deploying LLMs in a serverless manner.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating the LLM Infrastructure Landscape</title>
+      <link>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating the LLM Infrastructure Landscape: From Cloud Giants to Specialized Providers 
+    &lt;div id=&#34;navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Introduction&lt;/strong&gt; 
+    &lt;div id=&#34;1-introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The rapid advancement of Large Language Models (LLMs) has revolutionized a wide range of industries, from customer support to content creation and beyond. As LLMs like GPT-4, T5, and BERT become integral to AI-driven applications, the need for specialized infrastructure to support their deployment, training, and scaling has grown significantly. Traditional cloud services, while effective for general-purpose computing, often fall short in addressing the unique challenges posed by these models, such as handling vast amounts of data, providing low-latency responses, and managing the immense computational load. As a result, businesses and developers are increasingly turning to platforms specifically optimized for LLMs.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring LLM Application Development</title>
+      <link>http://localhost:1313/dsblog/Exploring-LLM-App-Development/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-LLM-App-Development/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg&#34; alt=&#34;Exploring LLM Application Development&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring LLM Application Development 
+    &lt;div id=&#34;exploring-llm-application-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-llm-application-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is LLM Application Development? 
+    &lt;div id=&#34;what-is-llm-application-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-llm-application-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Large Language Model (LLM) application development involves creating applications that leverage pretrained large language models, like GPT (like GPT3.5, GPT4.o), Sonnet, DALLE, SORA, BERT, T5, Gemma, RoBERTa, DINO, Turning-NLG, Phi, Llama, Stable Diffusion, Flang, Einstine, Megatron, StyleGAN, BART, Granite, or others, to perform natural language processing tasks. Unlike classical applications, which operate on explicit programming logic, LLM-based applications rely on trained models to process human language, make predictions, and respond dynamically based on vast amounts of text data.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Types of Large Language Models (LLM)</title>
+      <link>http://localhost:1313/dsblog/Types-of-LLM/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Types-of-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction:&lt;/strong&gt; 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The world of Generative AI (GenAI) is expanding at an astonishing rate, with new models emerging almost daily, each sporting unique names, capabilities, versions, and sizes. For AI professionals, keeping track of these models can feel like a full-time job. But for business users, IT professionals, and software developers trying to make the right choice, understanding the model’s name and what it represents can seem overwhelming. Wouldn’t it be helpful if we could decode the meaning behind these names to know if a model fits our needs and is worth the investment? In this article, we’ll break down how the names of GenAI models can reveal clues about their functionality and suitability for specific tasks, helping you make informed decisions with confidence.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Variations of Language Model in Huggingface</title>
+      <link>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Variations of Language Model in Huggingface 
+    &lt;div id=&#34;variations-of-language-model-in-huggingface&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#variations-of-language-model-in-huggingface&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What the Model variable in Huggingface? 
+    &lt;div id=&#34;what-the-model-variable-in-huggingface&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-the-model-variable-in-huggingface&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How Much Memory Needed for LLM</title>
+      <link>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg&#34; alt=&#34;How-Much-Memory-Needed-for-LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;How Much Memory Needed for LLM? 
+    &lt;div id=&#34;how-much-memory-needed-for-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#how-much-memory-needed-for-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is LLM? 
+    &lt;div id=&#34;what-is-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LLM stands for &lt;strong&gt;Large Language Model&lt;/strong&gt;. These are machine learning models that are trained on massive amounts of text data to understand, generate, and work with human language in a way that mimics natural language understanding. They are called &amp;ldquo;large&amp;rdquo; because of the significant number of parameters they contain, often numbering in the billions or even trillions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Architecture and Training</title>
+      <link>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Understanding LLM Architectures and Model Training&lt;/strong&gt; 
+    &lt;div id=&#34;understanding-llm-architectures-and-model-training&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#understanding-llm-architectures-and-model-training&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Large Language Models (LLMs) are transforming the field of artificial intelligence by enabling machines to understand and generate human language with unprecedented accuracy. This article delves into the architecture, training methods, and practical applications of LLMs. We’ll explore the core components that make these models so powerful and explain how they are trained and fine-tuned for real-world use cases.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Skills and Human Skills</title>
+      <link>http://localhost:1313/dsblog/LLM-Skills-and-Human-Skills/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/LLM-Skills-and-Human-Skills/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg&#34; alt=&#34;LLM-Skills-and-Human-Skills&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;LLM Skills and Human Skills 
+    &lt;div id=&#34;llm-skills-and-human-skills&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#llm-skills-and-human-skills&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is skill? 
+    &lt;div id=&#34;what-is-skill&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-skill&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A skill is the ability to perform a task or activity effectively and efficiently. It involves applying knowledge, experience, and techniques to achieve specific outcomes. Skills can be categorized into various types, including:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LLM Security and Ethics Considerations</title>
+      <link>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg&#34; alt=&#34;LLM-Security-and-Ethics-Considerations&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;LLM Security and Ethics Considerations 
+    &lt;div id=&#34;llm-security-and-ethics-considerations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#llm-security-and-ethics-considerations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: For my client&amp;rsquo;s highly secured data like health industry data, banking, insurnace, internal security, etc. data can I use gpt4 for finetuning? 
+    &lt;div id=&#34;question-for-my-clients-highly-secured-data-like-health-industry-data-banking-insurnace-internal-security-etc-data-can-i-use-gpt4-for-finetuning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-for-my-clients-highly-secured-data-like-health-industry-data-banking-insurnace-internal-security-etc-data-can-i-use-gpt4-for-finetuning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;For highly sensitive data, such as health industry data, banking information, insurance details, and security data, using models like ChatGPT-3.5 or GPT-4 involves several considerations to ensure security and compliance:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why to Finetune LLM?</title>
+      <link>http://localhost:1313/dsblog/why-to-finetune-llm/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/why-to-finetune-llm/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6115-why-to-finetune-llm.jpg&#34; alt=&#34;Why to Finetune LLM?&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Finetuning, Fewshot Learning, Why and How? 
+    &lt;div id=&#34;finetuning-fewshot-learning-why-and-how&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#finetuning-fewshot-learning-why-and-how&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Why to finetune a LLM? 
+    &lt;div id=&#34;why-to-finetune-a-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-to-finetune-a-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Fine-tuning a large language model (LLM) can provide several benefits, depending on your specific needs and objectives. Here are some key reasons to consider fine-tuning an LLM:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Stanford Alpaca</title>
+      <link>http://localhost:1313/dsblog/Stanford-Alpaca/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Stanford-Alpaca/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Stanford Alpaca 
+    &lt;div id=&#34;stanford-alpaca&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#stanford-alpaca&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tatsu-lab/stanford_alpaca&#34; target=&#34;_blank&#34;&gt;Stanford Alpaca Github Report&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stanford Alpaca is An &amp;ldquo;Instruction-following&amp;rdquo; LLaMA Model&lt;/li&gt;
+&lt;li&gt;This is the repo aims to build and share an instruction-following LLaMA model. The repo contains:
+&lt;ul&gt;
+&lt;li&gt;The 52K &lt;a href=&#34;https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/alpaca_data.json&#34; target=&#34;_blank&#34;&gt;instruction-following data&lt;/a&gt; used for fine-tuning the model.&lt;/li&gt;
+&lt;li&gt;The code for generating the data.&lt;/li&gt;
+&lt;li&gt;The code for fine-tuning the model.&lt;/li&gt;
+&lt;li&gt;The code for recovering Alpaca-7B weights from our released weight diff.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Overview 
+    &lt;div id=&#34;overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The current &amp;ldquo;Alpaca 7B model&amp;rdquo; is fine-tuned from a &amp;ldquo;7B LLaMA&amp;rdquo; model on 52K instruction-following data generated by the techniques in the Self-Instruct paper.&lt;/li&gt;
+&lt;li&gt;Alpaca 7B model behaves similarly to the text-davinci-003 model on the Self-Instruct instruction-following evaluation suite.&lt;/li&gt;
+&lt;li&gt;Alpaca is still under development, and there are many limitations that have to be addressed.&lt;/li&gt;
+&lt;li&gt;Alphaca is not yet fine-tuned to be safe and harmless.&lt;/li&gt;
+&lt;li&gt;Initial release contains the data generation procedure, dataset, and training recipe.&lt;/li&gt;
+&lt;li&gt;Model weights can be released if the creators of LLaMA gives permission.&lt;/li&gt;
+&lt;li&gt;Live demo to help readers better understand the capabilities and limits of Alpaca is available.&lt;/li&gt;
+&lt;li&gt;Based on followin papers:
+&lt;ul&gt;
+&lt;li&gt;LLaMA: Open and Efficient Foundation Language Models. &lt;a href=&#34;https://arxiv.org/abs/2302.13971v1&#34; target=&#34;_blank&#34;&gt;Hugo2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Self-Instruct: Aligning Language Model with Self Generated Instructions. &lt;a href=&#34;https://arxiv.org/abs/2212.10560&#34; target=&#34;_blank&#34;&gt;Yizhong2022&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Data Release
+&lt;ul&gt;
+&lt;li&gt;alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model. This JSON file is a list of dictionaries, each dictionary contains the following fields: Instruction, input, output (text-davinci-003 geneated answer).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Highlevel Activities of the Alpaca Project 
+    &lt;div id=&#34;highlevel-activities-of-the-alpaca-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#highlevel-activities-of-the-alpaca-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Highlevel Actitivies done by Stanford Alpaca team and Project Output&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding LLM GAN and Transformers</title>
+      <link>http://localhost:1313/dsblog/Understanding-LLM-GAN-and-Transformers/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Understanding-LLM-GAN-and-Transformers/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg&#34; alt=&#34;Understanding-LLM-GAN-Transformers&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Understanding LLM, GAN and Transformers 
+    &lt;div id=&#34;understanding-llm-gan-and-transformers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#understanding-llm-gan-and-transformers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;LLM Layers 
+    &lt;div id=&#34;llm-layers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#llm-layers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Compressing Large Language Model</title>
+      <link>http://localhost:1313/dsblog/compressing-llm/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/compressing-llm/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6099-Compressing-LLM.jpg&#34; alt=&#34;Compressing Large Language Model&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Compressing Large Language Model 
+    &lt;div id=&#34;compressing-large-language-model&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#compressing-large-language-model&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are looking answers to following question then &amp;ldquo;Yes&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is LLM compression?&lt;/li&gt;
+&lt;li&gt;Why is LLM compression necessary?&lt;/li&gt;
+&lt;li&gt;What are the different techniques for LLM compression?&lt;/li&gt;
+&lt;li&gt;How does quantization work in LLM compression?&lt;/li&gt;
+&lt;li&gt;What is pruning, and how does it help in compressing LLMs?&lt;/li&gt;
+&lt;li&gt;Can you explain knowledge distillation in the context of LLMs?&lt;/li&gt;
+&lt;li&gt;What is low-rank factorization and its role in LLM compression?&lt;/li&gt;
+&lt;li&gt;How effective are weight sharing techniques in compressing LLMs?&lt;/li&gt;
+&lt;li&gt;What are the trade-offs involved in LLM compression?&lt;/li&gt;
+&lt;li&gt;How does fine-tuning work in the context of compressed LLMs?&lt;/li&gt;
+&lt;li&gt;What are the benefits of fine-tuning in compressed LLMs?&lt;/li&gt;
+&lt;li&gt;What role does hardware play in LLM compression?&lt;/li&gt;
+&lt;li&gt;What are the ethical considerations in LLM compression?&lt;/li&gt;
+&lt;li&gt;What are the future directions in LLM compression?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;1. &lt;strong&gt;What is LLM Compression?&lt;/strong&gt; 
+    &lt;div id=&#34;1-what-is-llm-compression&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-what-is-llm-compression&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LLM (Large Language Model) compression refers to a set of techniques and methodologies aimed at reducing the size of large language models while maintaining their performance as much as possible. Large language models, such as GPT, BERT, and their variants, often contain hundreds of millions to billions of parameters, making them resource-intensive to deploy and run. The sheer size of these models poses challenges in terms of storage, computation, and real-time inference, especially when deploying on devices with limited hardware resources like mobile phones or edge devices.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title>
+      <link>http://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Comprehensive Glossary of LLM 
+    &lt;div id=&#34;comprehensive-glossary-of-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#comprehensive-glossary-of-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug&#39;23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title>
+      <link>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong&gt;&lt;br&gt;
+Typer of Paper:- Survey Paper&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2105.10311&#34; target=&#34;_blank&#34;&gt;Paper URL&lt;/a&gt;&lt;br&gt;
+Paper title of the citations mentioned can be found at &lt;a href=&#34;../../dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Paper Summary :- Pretrained Language Models for Text Generation 
+    &lt;div id=&#34;paper-summary---pretrained-language-models-for-text-generation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paper-summary---pretrained-language-models-for-text-generation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Paper Outcome 
+    &lt;div id=&#34;paper-outcome&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paper-outcome&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;General task deﬁnition&lt;/li&gt;
+&lt;li&gt;Describe the mainstream architectures of PLMs for text generation.&lt;/li&gt;
+&lt;li&gt;How to adapt existing PLMs to model different input data and satisfy special properties in the generated text.&lt;/li&gt;
+&lt;li&gt;Summarize several important ﬁne-tuning strategies for text generation.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Ideas from the Paper 
+    &lt;div id=&#34;ideas-from-the-paper&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ideas-from-the-paper&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Main Ideas 
+    &lt;div id=&#34;main-ideas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#main-ideas&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This paper discusses &amp;ldquo;major advances achieved in the topic of PLMs for text generation&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;This survey aims to provide &amp;ldquo;text generation researchers a synthesis&amp;rdquo; and pointer to related research.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;General Ideas 
+    &lt;div id=&#34;general-ideas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#general-ideas&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Text generation has become one of the most important yet challenging tasks in natural language processing (NLP).&lt;/li&gt;
+&lt;li&gt;Neural generation model are deep learning models&lt;/li&gt;
+&lt;li&gt;Pretrained language models (PLMs) are neural generation model&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Task Types and Typical Applications 
+    &lt;div id=&#34;task-types-and-typical-applications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#task-types-and-typical-applications&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )&lt;/li&gt;
+&lt;li&gt;If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
+generation task(generate text without any constraint) &lt;a href=&#34;../../dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
+attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;../../dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;../../dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;../../dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;../../dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system.&lt;/li&gt;
+&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;../../dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;../../dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;../../dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Architectures for Text Generation 
+    &lt;div id=&#34;architectures-for-text-generation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#architectures-for-text-generation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
+&lt;ul&gt;
+&lt;li&gt;MASS &lt;a href=&#34;../../dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;T5 &lt;a href=&#34;../../dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BART &lt;a href=&#34;../../dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens.
+&lt;ul&gt;
+&lt;li&gt;GPT &lt;a href=&#34;../../dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;../../dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CTRL [Keskar2019]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Modeling Different Data Types from Input 
+    &lt;div id=&#34;modeling-different-data-types-from-input&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#modeling-different-data-types-from-input&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Unstructured Input 
+    &lt;div id=&#34;unstructured-input&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unstructured-input&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hierarchical BERT to learn interactions between sentences with self-attention for document encoding. [Zhang2019b] and [Xu2020b]&lt;/li&gt;
+&lt;li&gt;Capturing intersentential relations, DiscoBERT stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. [Xu2020a]&lt;/li&gt;
+&lt;li&gt;Cross-lingual language models (XLMs) for multilingual language understanding. [Conneau2019]&lt;/li&gt;
+&lt;li&gt;Text generation models can obtain effective input word embeddings even in a low-resource language [Wada2018].&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Structured Input 
+    &lt;div id=&#34;structured-input&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#structured-input&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PLMs are not designed for structured or tabular data but for sequential text/data.&lt;/li&gt;
+&lt;li&gt;Incorporating PLMs for data-to text generation, especially in few-shot settings. [Chen2020b] and [Gong2020]&lt;/li&gt;
+&lt;li&gt;To adapt to the sequential nature of PLMs linearized input knowledge graph (KG) and abstract meaning representation (AMR) graph into a sequence of triples. [Ribeiro2020] and [Mager2020]&lt;/li&gt;
+&lt;li&gt;Introduced an additional graph encoder to encode the input KG. [Li2021b]&lt;/li&gt;
+&lt;li&gt;Template based method to serialize input table into text sequence. [Gong2020]
+&lt;ul&gt;
+&lt;li&gt;For example, the attribute-value pair “name: jack reynolds” will be serialized as a sentence “name is jack reynolds”. However, direct linearization will lose the structural information of original data, which may lead to generating unfaithful text about data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Auxiliary reconstruction task for recovering the structural information of input data, which can enhance the capacity of modeling structural information. [Gong2020]&lt;/li&gt;
+&lt;li&gt;The pointer generator mechanism is adopted to copy words from input knowledge data. [See2017] [Chen2020b].&lt;/li&gt;
+&lt;li&gt;Content matching loss for measuring the distance between the information in input data and the output text. [Gong2020]&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Multimedia Input 
+    &lt;div id=&#34;multimedia-input&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#multimedia-input&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted pretraining for the video caption task. VideoBERT [Sun2019b] and CBT [Sun2019a]&lt;/li&gt;
+&lt;li&gt;Used a shared multi-layer Transformer network for both encoding and decoding. Unified VLP [Zhou2020]&lt;/li&gt;
+&lt;li&gt;Pretrained the model on two masked language modeling (MLM) tasks, like cloze tasks designed for sequence-to-sequence LM. UniLM [Dong2019]&lt;/li&gt;
+&lt;li&gt;Cross-modal pretrained model (XGPT) by taking images as inputs and using the image caption task as the basic generative task in the pretraining stage. Xia2020&lt;/li&gt;
+&lt;li&gt;Image, video, speech recognition is hungry for human-transcripted supervised data.&lt;/li&gt;
+&lt;li&gt;Integrate PLMs for weakly-supervised learning. For example,
+&lt;ul&gt;
+&lt;li&gt;Unsupervised approach to pretraining encoder-decoder model with unpaired speech and transcripts. [Fan2019]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Two pretraining stages are used to extract acoustic and linguistic information with speech and transcripts, which is useful for downstream speech recognition task.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Satisfying Special Properties for Output Text 
+    &lt;div id=&#34;satisfying-special-properties-for-output-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#satisfying-special-properties-for-output-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generated text should satisfy several key properties like. relevance, faithfulness, and order-preservation.&lt;/li&gt;
+&lt;li&gt;Relevance. Relevance refers that the topics in output text is highly related to the input text. The generated responses should
+also be relevant to the condition. RNN-based models still tend to generate irrelevant output text and lack consistency with input. - When applying PLMs to the task of dialogue systems, TransferTransfo and DialoGPT were able to generate more relevant responses than RNNbased models. [Wolf2019] [Zhang2020] - Utilize elaborated condition blocks to incorporate external conditions. They used BERT for both encoder and decoder by utilizing different input
+representations and self-attention masks to distinguish the source and target sides of dialogue. On the target (generation) side, a new attention routing mechanism is adopted to generate context-related words. [Zeng2020] - Approach for non-conditioned dialogue [Bao2020].&lt;/li&gt;
+&lt;li&gt;Faithfulness. Means the content in generated text should not contradict the facts in input text.
+&lt;ul&gt;
+&lt;li&gt;PLMs are potentially beneficial to generate faithful text by utilizing background knowledge.&lt;/li&gt;
+&lt;li&gt;Initialize the encoder and decoder with three outstanding PLMs, i.e., BERT, GPT and RoBERTa. [Rothe2020]&lt;/li&gt;
+&lt;li&gt;With pretraining, the models are more aware of the domain characteristics and less prone to language model vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Decompose the decoder into a contextual network that retrieves relevant parts of the source document and a PLM that incorporates prior knowledge about language generation. [Kryscinski2018]&lt;/li&gt;
+&lt;li&gt;Generate faithful text in different target domains, fine-tuned PLMs on target domains through theme modeling loss. [Yang2020b]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Order-preservation. Order-preservation denotes that the order of semantic units (word, phrase, etc.) in both input and output text is consistent.
+&lt;ul&gt;
+&lt;li&gt;When translating from source language to target language, keeping the order of phrases consistent in source language and target language will ensure the accuracy of the translation.&lt;/li&gt;
+&lt;li&gt;Code-Switching Pre-training (CSP) for machine translation. [Yang2020a]
+&lt;ul&gt;
+&lt;li&gt;Extracted the word-pair alignment information from the source and target language,&lt;/li&gt;
+&lt;li&gt;Aplied the extracted alignment information to enhance order-preserving.&lt;/li&gt;
+&lt;li&gt;Translation across multiple languages, called multilingual machine translation [Conneau2019].&lt;/li&gt;
+&lt;li&gt;mRASP (technique of randomly aligned substitution), an approach to pretraining a universal multilingual machine translation model. [Lin2020]&lt;/li&gt;
+&lt;li&gt;Aligning word representations of each language, making it possible to preserve the word order consistent cross multiple languages. Wada2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Summary from Introduction 
+    &lt;div id=&#34;summary-from-introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#summary-from-introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Researchers have developed numerous techniques for a wide range of applications of text generation [Li2021a].&lt;/li&gt;
+&lt;li&gt;Machine translation generates text in a different language based on the source text [Yang2020a];&lt;/li&gt;
+&lt;li&gt;Summarization generates an abridged version of the source text to include salient information [Guan2020].&lt;/li&gt;
+&lt;li&gt;Text generation tasks based on
+&lt;ul&gt;
+&lt;li&gt;Recurrent neural networks (RNN) [Li2019],&lt;/li&gt;
+&lt;li&gt;Convolutional neural networks (CNN) [Gehring2017],&lt;/li&gt;
+&lt;li&gt;Graph neural networks (GNN) [Li2020],&lt;/li&gt;
+&lt;li&gt;Attention mechanism [Bahdanau2015].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;One of the advantages of these neural models is that they enable end-to-end learning of semantic mappings from input to output in text generation.&lt;/li&gt;
+&lt;li&gt;Neural models are able to learn low-dimensional, dense vectors to implicitly represent linguistic features of text, which is also useful to alleviate data sparsity.&lt;/li&gt;
+&lt;li&gt;Deep neural networks usually have a large number of parameters to learn, which are likely to overﬁt on these small datasets and do not generalize well in practice.&lt;/li&gt;
+&lt;li&gt;The idea behind PLMs is to ﬁrst pretrain the models in large-scale corpus and then ﬁnetune these models in various downstream tasks to achieve
+state-of-the-art results.&lt;/li&gt;
+&lt;li&gt;PLMs can encode a large amount of linguistic knowledge from corpus and induce universal representations of language.&lt;/li&gt;
+&lt;li&gt;PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown2020].&lt;/li&gt;
+&lt;li&gt;A synthesis to the research on some text generation subtasks. Zaib et al. [2020], and Guan et al. [2020]&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Conclusion &amp;amp; Future Recommendations 
+    &lt;div id=&#34;conclusion--future-recommendations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#conclusion--future-recommendations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Model Extension.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is LLM</title>
+      <link>http://localhost:1313/dsblog/what-is-llm/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/what-is-llm/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is Large Language Model 
+    &lt;div id=&#34;what-is-large-language-model&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-large-language-model&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LLM stands for &lt;strong&gt;Large Language Model&lt;/strong&gt;. It is a type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. This allows LLMs to learn the statistical relationships between words and phrases, and to generate text that is similar to the text that they were trained on.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Major LLM Developers Shaping the AI Landscape</title>
+      <link>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Major LLM Developers Shaping the AI Landscape 
+    &lt;div id=&#34;major-llm-developers-shaping-the-ai-landscape&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#major-llm-developers-shaping-the-ai-landscape&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;From Text to Intelligence: Major LLM Developers Shaping the AI Landscape&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction: 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The world of Artificial Intelligence (AI) has experienced an exponential growth, fueled by groundbreaking research and the efforts of innovative developers. Among the key players, Large Language Model (LLM) developers have taken center stage, creating powerful language models that have revolutionized natural language processing and understanding. In this article, we delve into the major LLM developers, their key contributions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Business Usecases of GPT</title>
+      <link>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Business-Usecases-of-GPT 
+    &lt;div id=&#34;business-usecases-of-gpt&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#business-usecases-of-gpt&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;You will not lose your job because of AI, but you may lose it because you didn&amp;rsquo;t learn how to use AI in your job.&lt;/p&gt;
+&lt;p&gt;Artificial Intelligence (AI) has become increasingly prevalent in the modern workplace, and one of the most promising applications of AI is the use of Generative Pre-trained Transformer (GPT) models. GPT is a type of deep learning model that is capable of generating human-like text based on a given prompt. It has been used in a wide range of applications, from language translation and sentiment analysis to chatbots and content generation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>GPT Usecases</title>
+      <link>http://localhost:1313/dsblog/gpt-usecases/</link>
+      <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/gpt-usecases/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is GPT? 
+    &lt;div id=&#34;what-is-gpt&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-gpt&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;GPT is a transformer. Don&amp;rsquo;t confuse it with your electricity transformer! In Artificial Intelligence there are different kinds of neural network architectures to perform various tasks like classification, translation, segmentation, regression, etc. One of those architectures is transformer architecture. The Foundation of this architecture is based on another two architectures called encoder architecture and decoder architecture. There are lots of other technical complexity but for the business readers I am hiding that for that the time being, we will discuss that at some other place. In nutshell, GPT is a Transformer technology developed by OpenAI and it can perform several NLP tasks. NLP stands for natural language preprocessing. NLP tasks mean tasks like sentiment analysis of the text, text classification, topic modeling, translation, named entity recognition, and dozens of other tasks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ChatGPT Usecases</title>
+      <link>http://localhost:1313/dsblog/chatgpt-usecases/</link>
+      <pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/chatgpt-usecases/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is ChatGPT? 
+    &lt;div id=&#34;what-is-chatgpt&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-chatgpt&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;ChatGPT is &lt;strong&gt;general purpose&lt;/strong&gt; - &amp;ldquo;chat model&amp;rdquo; from OpenAI. It is a &lt;strong&gt;language model&lt;/strong&gt;, which means if you type some text then it can understand and respond to you appropriately. At this point in time, it is not accepting voice commands, neither able to process images or videos. A &lt;strong&gt;general-purpose model&lt;/strong&gt; means it can understand the question coming from any domain of life. A domain may be vertical or horizontal. A vertical domain means where a vendor is supplying a product or service for a specific type of customer. A horizontal domain is where a vendor supplies products or services for all types of customer. Healthcare, banking, logistic, insurance, agriculture, philosophy, history, and economics are one kind of verticals whereas
+BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accounting, Office Administration, Catering, and Entertainment are other kind of domains. A &lt;strong&gt;general-purpose model&lt;/strong&gt; can understand the questions from all aspects of life whether business vertical or horizontal or normal daily family or conflicts with other group members, family members, etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

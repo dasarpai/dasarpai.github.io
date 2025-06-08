@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Concepts on </title>
+    <link>http://localhost:1313/tags/programming-concepts/</link>
+    <description>Recent content in Programming Concepts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/programming-concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding Callbacks</title>
+      <link>http://localhost:1313/dsblog/understanding-callbacks/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/understanding-callbacks/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6208-Understanding-Callbacks.jpg&#34; alt=&#34;Understanding Callbacks&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Understanding Callbacks 
+    &lt;div id=&#34;understanding-callbacks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#understanding-callbacks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In the software solution design sometime people find callback confusing and this article is about helping developers and architects understanding this. We will discuss what is callback? What is the use of this? How it workds?&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Context Setting for Understanding Callbacks 
+    &lt;div id=&#34;context-setting-for-understanding-callbacks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#context-setting-for-understanding-callbacks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Assume you want to create a travel website. It has a feature of book ticket. For this you need to create frontend (UI page). But you don&amp;rsquo;t want to create ticket for any unauthorized person and you don&amp;rsquo;t want to implement the authentication and authorization on your website.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python Code Snippnet from Colab</title>
+      <link>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Python Code Snippnet from Colab 
+    &lt;div id=&#34;python-code-snippnet-from-colab&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#python-code-snippnet-from-colab&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is snippet? 
+    &lt;div id=&#34;what-is-snippet&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-snippet&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;snippet&lt;/strong&gt; is a small, reusable piece of code designed to perform a specific task or solve a particular problem. It’s often just a few lines long and is meant to be quickly inserted into a larger program to save time or avoid re-writing commonly used functions.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

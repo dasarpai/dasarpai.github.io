@@ -1,0 +1,2814 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development Environment &amp; Tools on </title>
+    <link>http://localhost:1313/categories/development-environment--tools/</link>
+    <description>Recent content in Development Environment &amp; Tools on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/development-environment--tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exploring Designer Roles and Their Favorite Free Tools</title>
+      <link>http://localhost:1313/dsblog/exploring-designer-roles-and-their-favorite-free-tools/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-designer-roles-and-their-favorite-free-tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6250-exploring-designer-roles.jpg&#34; alt=&#34;Exploring Designer Roles and Their Favorite Free Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Designer Roles and Their Favorite Free Tools 
+    &lt;div id=&#34;exploring-designer-roles-and-their-favorite-free-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-designer-roles-and-their-favorite-free-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In the software business, design plays a huge role, and there are different kinds of designers, each with their own focus areas, responsibilities, and specialized tools.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What are Different Types of Designer Roles? 
+    &lt;div id=&#34;what-are-different-types-of-designer-roles&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-are-different-types-of-designer-roles&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. UI Designer (User Interface Designer)&lt;/strong&gt; 
+    &lt;div id=&#34;1-ui-designer-user-interface-designer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-ui-designer-user-interface-designer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Visual design of interfaces (buttons, icons, layout, colors, typography)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title>
+      <link>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;CodeReview with CodeRabbit AI 
+    &lt;div id=&#34;codereview-with-coderabbit-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#codereview-with-coderabbit-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction: Why Developers Need CodeRabbit AI&lt;/strong&gt; 
+    &lt;div id=&#34;introduction-why-developers-need-coderabbit-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction-why-developers-need-coderabbit-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Imagine you’re working on a fast-paced software project with a growing codebase. Your team is constantly pushing updates, but code reviews become a bottleneck. Senior developers are overloaded, and critical bugs slip through because there&amp;rsquo;s just not enough time for thorough manual reviews. One day, a crucial bug makes it to production, causing downtime and frustrated users. If only there were a way to automate and streamline code reviews without compromising quality…&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Software Development Toolsets Explained</title>
+      <link>http://localhost:1313/dsblog/software-development-toolsets-explained/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/software-development-toolsets-explained/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;34 Must-Know Software Development Toolsets Explained 
+    &lt;div id=&#34;34-must-know-software-development-toolsets-explained&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#34-must-know-software-development-toolsets-explained&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; 
+        src=&#34;https://www.youtube.com/embed/5ivBY3SS2pY&#34; 
+        title=&#34;Retrieval-Augmented Generation with Conflicting Evidence&#34; 
+        frameborder=&#34;0&#34; 
+        allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; 
+        allowfullscreen&gt;
+&lt;/iframe&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are coming from a background of software development then you might have heard of terms like SDK (Software Development Kit), Framework, API (Application Programming Interface), Library, Platform, Toolkit, Engine, Runtime, IDE (Integrated Development Environment), CLI (Command-Line Interface), Middleware, Boilerplate, Stack, Environment, Suite, DSL (Domain-Specific Language), Scaffold, Package, Module, Template, Generator, Container, Orchestrator, Bindings, Driver, Sandbox, and many more. Sometimes you might be beating your head to understand what is the difference between these terms and why people coin a new term every time.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring and Evaluating Integrated Development Environments (IDEs)</title>
+      <link>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring and Evaluating Integrated Development Environments (IDEs) 
+    &lt;div id=&#34;exploring-and-evaluating-integrated-development-environments-ides&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-and-evaluating-integrated-development-environments-ides&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In this article we will explore the history of IDEs and how they have evolved over time. Apart from this we will see how to evalute the best IDE for your needs and what are IDE in AI era.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;A Broad Timeline of IDE Development 
+    &lt;div id=&#34;a-broad-timeline-of-ide-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-broad-timeline-of-ide-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Efficiency (1970s–1980s)&lt;/strong&gt;: Focus on minimalism and raw functionality for basic coding tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhancement (1980s–1990s)&lt;/strong&gt;: Adding productivity tools and integration for growing complexity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration (1990s–2000s)&lt;/strong&gt;: Combining editing, debugging, and building into a cohesive environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration (2000s–2010s)&lt;/strong&gt;: Expanding accessibility and teamwork via cloud and networks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intelligence (2010s–Early 2020s)&lt;/strong&gt;: Leveraging AI for smarter, reactive assistance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agency (Mid-2020s)&lt;/strong&gt;: Shifting to proactive, context-aware systems that act as co-developers.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Features to Evaluate IDE 
+    &lt;div id=&#34;features-to-evaluate-ide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#features-to-evaluate-ide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To compare any Integrated Development Environment (IDE) we need a structured set of features that capture both traditional IDE capabilities and the advanced AI-driven functionalities. These features span core IDE functionality, AI-specific enhancements, usability, and integration, allowing for a fair evaluation competitors like windsurf, Cursor, VS Code with Copilot, JetBrains, or others. Currently I am using windsurf heavily so this feature list is influenced by windsurf.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Working with GitHub from WSL and Windows Folders</title>
+      <link>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Problem Statement: 
+    &lt;div id=&#34;problem-statement&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#problem-statement&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I have project in D:\github-blog\dasarpai-websitetest. This is also a github repo. It&amp;rsquo;s remote repo is &lt;a href=&#34;https://github.com/dasarpai/dasarpai-websitetest&#34; target=&#34;_blank&#34;&gt;https://github.com/dasarpai/dasarpai-websitetest&lt;/a&gt;. I have github desktop for windows 11 installed on my machine. Sometime I push/pull files in github repo using this github desktop. I have Visual Code IDE installed on my windows 11 machine and I also visual code IDE on my machine&amp;rsquo;s wsl.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Online Coding Tools: Choosing the Right IDE for Your Project</title>
+      <link>http://localhost:1313/dsblog/online-coding-tools/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/online-coding-tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6232-Online-Coding-Tools.jpg&#34; alt=&#34;Online Coding Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Online Coding Tools 
+    &lt;div id=&#34;online-coding-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#online-coding-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;The main difference between various online coding tools lies in how these tools function and what they are optimized for. Without wasting much time around let&amp;rsquo;s get into it.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;VSCode.dev &amp;amp; Similar Web-Based IDEs 
+    &lt;div id=&#34;vscodedev--similar-web-based-ides&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#vscodedev--similar-web-based-ides&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;These are for full-fledged coding with local and remote integration&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title>
+      <link>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Integrating Ollama AI Models and Open WebUI on Docker 
+    &lt;div id=&#34;integrating-ollama-ai-models-and-open-webui-on-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#integrating-ollama-ai-models-and-open-webui-on-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ollama, Opensource LLM Framework from Meta, provides a powerful way to work with large language models (LLMs) efficiently. While Open WebUI is a user-friendly interface that simplifies interaction with Ollama-hosted AI models. You can host Ollama and WebUI on your local machine. By using Docker, we can containerize these components, ensuring a seamless and reproducible setup across different environments. This guide will walk you through integrating Ollama and Open WebUI within Docker.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Setting Up a Development Environment with Windows 11, WSL2 and Docker</title>
+      <link>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Setting Development Environment with WSL2, Docker and Github 
+    &lt;div id=&#34;setting-development-environment-with-wsl2-docker-and-github&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#setting-development-environment-with-wsl2-docker-and-github&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;This quick tutorial is about setting Up a Development Environment with Windows 11, WSL 2, Docker and Github&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Like any other operating system, Windows has its strengths and weaknesses. But what if you believe that the democratization of technology is best achieved through open-source solutions, and that Linux is the key to this future? What’s the next step for you?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Shell Scripting and Batch Files</title>
+      <link>http://localhost:1313/dsblog/exploring-shell-scripting-and-batch-files/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-shell-scripting-and-batch-files/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg&#34; alt=&#34;Exploring Shell Scripting and Batch Files&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Shell Scripting and Batch Files 
+    &lt;div id=&#34;exploring-shell-scripting-and-batch-files&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-shell-scripting-and-batch-files&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Batch files are scripts that contain a series of commands to be executed by the command-line interpreter. These files can automate repetitive tasks and enhance productivity. In this article, we&amp;rsquo;ll explore creating batch files to set environment variables and execute shell commands in Windows, PowerShell, and Ubuntu, along with additional scripting nuances.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring the Local Location of Ollama Models on WSL2</title>
+      <link>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring the Location of Ollama Models on Local Machine 
+    &lt;div id=&#34;exploring-the-location-of-ollama-models-on-local-machine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-the-location-of-ollama-models-on-local-machine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Objective 
+    &lt;div id=&#34;objective&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#objective&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Many times you may have a question like, I have installed ollama in wsl and download some ollama models. Ollama list shows me those models. I want to know where they are stored. Why it is needed? Because you want to use that location as volume in your docker container. And you don&amp;rsquo;t want to download the model everytime you start the container neither you want to have duplicate copy of the same model on your machine or network.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>curl Commands</title>
+      <link>http://localhost:1313/dsblog/curl-commands/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/curl-commands/</guid>
+      <description>&lt;p&gt;!
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is curl command? 
+    &lt;div id=&#34;what-is-curl-command&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-curl-command&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The &lt;code&gt;curl&lt;/code&gt; command is a versatile command-line tool for transferring data to and from servers using various protocols like HTTP, HTTPS, FTP, etc. It allows you to make requests (GET, POST, PUT, DELETE) to APIs, download/upload files, send data, and debug web interactions directly from the terminal. It supports custom headers, authentication, proxies, and more, making it essential for testing and automation in web development and API integrations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring AnythingLLM</title>
+      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring AnythingLLM 
+    &lt;div id=&#34;exploring-anythingllm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-anythingllm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is AnythingLLM? 
+    &lt;div id=&#34;what-is-anythingllm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-anythingllm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;AnythingLLM is an open-source project developed by Mintplex Labs that offers a highly flexible platform for creating personalized language models and knowledge databases. It operates using Retrieval-Augmented Generation (RAG), which combines language models with data from custom document collections. AnythingLLM supports embedding models (e.g., BERT), language models, and vector databases to index and query data, allowing users to fine-tune or deploy various models tailored to their needs, from local deployments to cloud integrations with OpenAI or Azure OpenAI.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding Jekyll Framework</title>
+      <link>http://localhost:1313/dsblog/Understanding-Jekyll-Framework/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Understanding-Jekyll-Framework/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg&#34; alt=&#34;Understanding Jekyll Framework&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Understanding Jekyll Framework 
+    &lt;div id=&#34;understanding-jekyll-framework&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#understanding-jekyll-framework&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Jekyll? 
+    &lt;div id=&#34;what-is-jekyll&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-jekyll&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Jekyll is a popular static site generator that transforms plain text into static websites and blogs. It&amp;rsquo;s built with Ruby and designed to be simple, flexible, and blog-aware. Key features of Jekyll include:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Python Package Manager</title>
+      <link>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Python Package Managers 
+    &lt;div id=&#34;exploring-python-package-managers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-python-package-managers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Package Manager? 
+    &lt;div id=&#34;what-is-package-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-package-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;package manager&lt;/strong&gt; is a tool that automates the process of installing, upgrading, configuring, and removing software packages (libraries, frameworks, tools, etc.). It helps manage dependencies between packages and ensures that the correct versions are installed.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is Bundler?</title>
+      <link>http://localhost:1313/dsblog/Exploring-Bundler/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Bundler/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Bundler? 
+    &lt;div id=&#34;what-is-bundler&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-bundler&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bundler&lt;/strong&gt; is a dependency management tool for Ruby applications. It ensures that the right versions of gems (libraries) are installed and used in a project. Ruby packages are called Gem. Bundler is commonly used in situations where you need to manage multiple Ruby projects with different dependencies or need to ensure that a project has all the necessary gems with specific versions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mastering Git: Comprehensive Guide to Git Commands</title>
+      <link>http://localhost:1313/dsblog/Git-Comprehensive-Guide/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Git-Comprehensive-Guide/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg&#34; alt=&#34;Mastering Git: Comprehensive Guide to Git Commands&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Comprehensive Guide to Git Commands 
+    &lt;div id=&#34;comprehensive-guide-to-git-commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#comprehensive-guide-to-git-commands&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are a developer and you want to learn Git commands and their usage, this article is for you. If you are a data scientist and you want to learn Git commands and their usage, this article is also for you. If you are a manager and you want to get familiarize about git commands so that you know what your team is talking about then, this article is also for you.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Docker and VS Code Integration</title>
+      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Docker and VS Code Integration 
+    &lt;div id=&#34;exploring-docker-and-vs-code-integration&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-docker-and-vs-code-integration&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are interested in docker, containers, VS Code and development and looking answers for the following questions then keep reading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: What is use of target in docker container&amp;rsquo;s volume?&lt;/li&gt;
+&lt;li&gt;Question: If I remove the contents of /vscode folder then what will happen?&lt;/li&gt;
+&lt;li&gt;Question: When I have VS Code installed on my machine then why I need &amp;ldquo;VS Code Remote - Containers&amp;rdquo;?&lt;/li&gt;
+&lt;li&gt;Question: Can I use &amp;ldquo;VS Code Remote - Containers&amp;rdquo; with local VS Code?&lt;/li&gt;
+&lt;li&gt;Question: Can I use &amp;ldquo;VS Code Remote - Containers&amp;rdquo; without local VS Code?&lt;/li&gt;
+&lt;li&gt;Question: What are formatters, linters, debuggers, profiler etc other related terms?&lt;/li&gt;
+&lt;li&gt;Question: I have datasets on my local drive d:/project-datasets. How to access them from docker?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: What is use of target in docker container&amp;rsquo;s volume? 
+    &lt;div id=&#34;question-what-is-use-of-target-in-docker-containers-volume&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-is-use-of-target-in-docker-containers-volume&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I have a volume in container in docker. The volume name is minikube-config.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python Code Snippnet from Colab</title>
+      <link>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Python Code Snippnet from Colab 
+    &lt;div id=&#34;python-code-snippnet-from-colab&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#python-code-snippnet-from-colab&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is snippet? 
+    &lt;div id=&#34;what-is-snippet&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-snippet&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;snippet&lt;/strong&gt; is a small, reusable piece of code designed to perform a specific task or solve a particular problem. It’s often just a few lines long and is meant to be quickly inserted into a larger program to save time or avoid re-writing commonly used functions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Everything About Developer Console</title>
+      <link>http://localhost:1313/dsblog/Everything-About-Developer-Console/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Everything-About-Developer-Console/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg&#34; alt=&#34;Everything About Developer Console&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Console Types Every Programmer Should Know 
+    &lt;div id=&#34;console-types-every-programmer-should-know&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#console-types-every-programmer-should-know&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are you confused about a term &amp;ldquo;console&amp;rdquo; which you heard at many places and in many context, and you want to know the following answers, then continue reading.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Ollama &amp; LM Studio</title>
+      <link>http://localhost:1313/dsblog/Exploring-Ollama/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Ollama/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Ollama &amp;amp; LM Studio 
+    &lt;div id=&#34;exploring-ollama--lm-studio&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-ollama--lm-studio&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are looking answers to the following questions, then this article is for you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: What is Ollama? Is it like Docker?&lt;/li&gt;
+&lt;li&gt;Question: How is Ollama different from Docker?&lt;/li&gt;
+&lt;li&gt;Question: How to install ollama on my machine?&lt;/li&gt;
+&lt;li&gt;Question: How to create customized LLM Model (docker like image)?&lt;/li&gt;
+&lt;li&gt;Question: What are the LLM available on ollama?&lt;/li&gt;
+&lt;li&gt;Question: Can we integrate these hundreds with different UI like ChatGPT?&lt;/li&gt;
+&lt;li&gt;Question: If I want to use all these Ollama models via Jupyter Notebook then what to do?&lt;/li&gt;
+&lt;li&gt;Question: Does Ollama have plugins like github copilot? Can I use those from my visual code?&lt;/li&gt;
+&lt;li&gt;Question: What kind of software are LM Studio or Ollama?&lt;/li&gt;
+&lt;li&gt;Question: What is LM Studio and how different it is from Ollama?&lt;/li&gt;
+&lt;li&gt;Question: What are different formats to save model, specifically LLMs?&lt;/li&gt;
+&lt;li&gt;Question: What is gguf model extention?&lt;/li&gt;
+&lt;li&gt;Question: If I have finetuned my models using clouds like aws sagemaker, vertexai, azure and kept there then can I use them inside my ollama and LM Studio?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: What is Ollama? Is it like Docker? 
+    &lt;div id=&#34;question-what-is-ollama-is-it-like-docker&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-is-ollama-is-it-like-docker&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ollama is a platform designed to make running and interacting with large language models (LLMs) easier. It abstracts away the complexities of managing LLM models, GPU resources, and related configurations by offering a simple CLI interface. With Ollama, you can run, manage, and deploy LLMs locally or in various cloud environments without having to worry about the intricate details of setting up environments, downloading models, or configuring them.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is Package Manager?</title>
+      <link>http://localhost:1313/dsblog/What-is-Package-Manager/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/What-is-Package-Manager/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Question: What is Package Manager? 
+    &lt;div id=&#34;question-what-is-package-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-what-is-package-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Package managers help simplify the process of software installation, updating, and dependency management on their respective platforms.&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Question: Why are there so many package managers? 
+    &lt;div id=&#34;question-why-are-there-so-many-package-managers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#question-why-are-there-so-many-package-managers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The variety of package managers exists because different environments, languages, and operating systems have different needs for installing, updating, and managing software. The diversity of these ecosystems leads to specialized tools optimized for the specific challenges of each context. The key reasons for which there are so many package managers are:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tensorflow GPU Setup on Local Machine</title>
+      <link>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Tensorflow GPU Setup on Local Machine 
+    &lt;div id=&#34;tensorflow-gpu-setup-on-local-machine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tensorflow-gpu-setup-on-local-machine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Tensorflow, pytorch are deep learning libraries or packages. Tensorflow is developed by google and pytorch is developed by Meta. There are some other but these are the most popular one among Machine Learning and Deep Learning Engineers. If you are doing anything significant in NLP, computer vision, voice processing you must have used this library. But the power of the these libraries lies in parallel metrics/tensor computation. For that they use hardwardes like GPU or TPU which has thousands of core and they designed purely for metrics/tensor processing. Intially they were used for gaming purpose but with the surge of AI these machines are in high use and used for model training and inference purpose.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>MLOps Tools</title>
+      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;MLOps Tools 
+    &lt;div id=&#34;mlops-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mlops-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;MLOps (Machine Learning Operations) is a set of practices and tools designed to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from both DevOps (Development Operations) and machine learning to ensure that ML models are deployed efficiently, managed effectively, and maintained reliably throughout their lifecycle.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Decoding pip install operations</title>
+      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Decoding pip install operations 
+    &lt;div id=&#34;decoding-pip-install-operations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#decoding-pip-install-operations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Your draft provides useful insights into using &lt;code&gt;pip&lt;/code&gt; for Python package management. Here&amp;rsquo;s a refined version of your article with improved structure, grammar, and clarity:&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Managing Python Environments and Packages with &lt;code&gt;pip&lt;/code&gt; 
+    &lt;div id=&#34;managing-python-environments-and-packages-with-pip&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#managing-python-environments-and-packages-with-pip&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;In today&amp;rsquo;s technology landscape, where we deal with numerous programming languages, diverse hardware (CPU, GPU, TPU, etc.), various operating systems, and an extensive open-source community, building software from scratch can be quite challenging. Even when leveraging existing packages or solutions, there are still numerous challenges to consider, including security, safety, and privacy concerns.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Decoding docker commands</title>
+      <link>http://localhost:1313/dsblog/Decoding-docker-commands/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Decoding-docker-commands/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Decoding docker commands 
+    &lt;div id=&#34;decoding-docker-commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#decoding-docker-commands&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Is this article for me? 
+    &lt;div id=&#34;is-this-article-for-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#is-this-article-for-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you are coming from IT Infrastructure background and have solid experience in containerization you can skip this. But if you are seeking to learn any of the following topic then keep reading.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LaTeX Capabilities</title>
+      <link>http://localhost:1313/dsblog/latex-capabilities/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/latex-capabilities/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6098-Latex-capabilities.jpg&#34; alt=&#34;LaTeX Capabilities&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In the realm of document typesetting and preparation, LaTeX stands as a timeless giant, revered by professionals, researchers, students, and publishers alike. With its unmatched typographic quality, precision, and versatility, LaTeX empowers users to create documents that transcend the boundaries of conventional word processing. In this article, I am listing major capabilities that make LaTeX the tool of choice for those who demand perfection in their documents, ready to learn some coding and don&amp;rsquo;t want to pay for all this.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ML Model Development Framework</title>
+      <link>http://localhost:1313/dsblog/ML-Model-Development-Framework/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ML-Model-Development-Framework/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg&#34; alt=&#34;ML Model Development Framework&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;ML Model Development Framework &amp;amp; Model Repositories 
+    &lt;div id=&#34;ml-model-development-framework--model-repositories&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ml-model-development-framework--model-repositories&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;There are hundreds of &lt;a href=&#34;../../dsblog/nlp-tasks&#34;&gt;machine learning tasks&lt;/a&gt;. To do these tasks there are &lt;a href=&#34;../../dsblog/Type-of-Databases&#34;&gt;thousands of datasets&lt;/a&gt; created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href=&#34;dsblog/ML-Model-Repository-from-Pinto0309&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;../../dsblog/paperwithcode-resources&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;../../dsblog/What-Are-Transformers-in-AI&#34;&gt;3&lt;/a&gt; and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning Framework, Library, Tools</title>
+      <link>http://localhost:1313/dsblog/ml-frameworks-libraries-tools/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ml-frameworks-libraries-tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg&#34; alt=&#34;Machine Learning Framework, Library, Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Machine Learning Framework, Library, Tools 
+    &lt;div id=&#34;machine-learning-framework-library-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#machine-learning-framework-library-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domains. In the last 5 years, it has picked up momentum. Every day a new library, framework, and tools pops out before our eyes. Many of these are very interesting and some are just duplicates with little value addition. I am listing below some tools that I came across during my work. The purpose of this listing is not to describe every tool but to provide a link and just put them in sorted order. There are so many jargons, and we use to forget these. Sometimes, it becomes difficult to recall them. It was useful for me and I hope some of you will find this useful.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My Daily Tools</title>
+      <link>http://localhost:1313/dsblog/my-daily-tools/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/my-daily-tools/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;My Daily Tools 
+    &lt;div id=&#34;my-daily-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-daily-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;[My Daily Tools]&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Sno&lt;/th&gt;
+          &lt;th&gt;Category&lt;/th&gt;
+          &lt;th&gt;Subcategory&lt;/th&gt;
+          &lt;th&gt;URL&lt;/th&gt;
+          &lt;th&gt;Purpose/Remarks&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Blogging&lt;/td&gt;
+          &lt;td&gt;Wordpress&lt;/td&gt;
+          &lt;td&gt;Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Bookmarking&lt;/td&gt;
+          &lt;td&gt;Scrible&lt;/td&gt;
+          &lt;td&gt;Modern research and writing platform for school &amp;amp; work&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Bookmarking&lt;/td&gt;
+          &lt;td&gt;Diigo&lt;/td&gt;
+          &lt;td&gt;Diigo is a powerful research tool and a knowledge-sharing community.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;fiverr.com&lt;/td&gt;
+          &lt;td&gt;Find the perfect freelance services for your business&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;freelancer.com&lt;/td&gt;
+          &lt;td&gt;Diigo is a powerful research tool and a knowledge-sharing community.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;jobscan.co&lt;/td&gt;
+          &lt;td&gt;Optimize your resume to get more interviews&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;upwork.com&lt;/td&gt;
+          &lt;td&gt;Upwork connects businesses with independent professionals and agencies around the globe.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;Crunchbase&lt;/td&gt;
+          &lt;td&gt;Crunchbase Has Access to Millions of Contacts at Growing Companies for You to Search From.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;Careers Linkedin&lt;/td&gt;
+          &lt;td&gt;LinkedIn is the world’s largest professional network on a mission to connect the world&amp;rsquo;s professionals to make them more productive and successful.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;AngelList&lt;/td&gt;
+          &lt;td&gt;Apply privately to 130000+ remote jobs and startup jobs near you with one application&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;Behance&lt;/td&gt;
+          &lt;td&gt;Behance is the world&amp;rsquo;s largest creative network for showcasing and discovering creative work.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;Hacker Earth&lt;/td&gt;
+          &lt;td&gt;Helping 3M+ developers be better through coding contests, data science competitions, and hackathons.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;HackerRank&lt;/td&gt;
+          &lt;td&gt;HackerRank is the market-leading technical assessment and remote interview solution for hiring developers.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Work/Job/Business&lt;/td&gt;
+          &lt;td&gt;Indeed&lt;/td&gt;
+          &lt;td&gt;With Indeed, you can search millions of jobs online to find the next step in your career.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Absolutely Free Clipart&lt;/td&gt;
+          &lt;td&gt;Home to thousands of free clip art images.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Flickr&lt;/td&gt;
+          &lt;td&gt;Flickr is a place where you can store your photos, tag them and share them with others.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;FreeFoto&lt;/td&gt;
+          &lt;td&gt;FreeFoto.com is the largest collection of free photographs on the Internet (link back and attribution required).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;FreeImages&lt;/td&gt;
+          &lt;td&gt;More than 16,000 images in the collection.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Icon Finder&lt;/td&gt;
+          &lt;td&gt;Search through over 650,000 icons or browse over 12,000 icon sets.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Icons8 Background Remover&lt;/td&gt;
+          &lt;td&gt;Free background remover tool&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;21&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;iStock&lt;/td&gt;
+          &lt;td&gt;Explore millions of royalty-free images, illustrations, videos, and music clips.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;22&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;PhotoPeach&lt;/td&gt;
+          &lt;td&gt;Photopeach lets you quickly upload photos and make slideshows, share your shows via email IM or Facebook, embed in your blog or website.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;23&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Pics4Learning&lt;/td&gt;
+          &lt;td&gt;Pics4Learning is a safe, free image library for education.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;PictureTrail&lt;/td&gt;
+          &lt;td&gt;Biggest slideshow selection on the web.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Pixabay&lt;/td&gt;
+          &lt;td&gt;Over 500,000 free photos, vectors and art illustrations.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;26&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Shutterstock&lt;/td&gt;
+          &lt;td&gt;Over 80 Million stock photos, vectors, videos, and music tracks&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;27&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;SmugMug&lt;/td&gt;
+          &lt;td&gt;Stunning photo websites for you, your family or your business.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;28&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Unsplash&lt;/td&gt;
+          &lt;td&gt;10 free high-resolution photos every day&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;29&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Clip Art, Image &amp;amp; Photo&lt;/td&gt;
+          &lt;td&gt;Web Photo Resizer&lt;/td&gt;
+          &lt;td&gt;Helps you optimize images for web and email.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Creative Thinking&lt;/td&gt;
+          &lt;td&gt;mindtools.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;31&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Creative Thinking&lt;/td&gt;
+          &lt;td&gt;Brain Metrix&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Creative Thinking&lt;/td&gt;
+          &lt;td&gt;Lumosity&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;33&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Creative Thinking&lt;/td&gt;
+          &lt;td&gt;Sharpbrains&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;34&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Creative Thinking&lt;/td&gt;
+          &lt;td&gt;Mindgames&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;35&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Creative Thinking&lt;/td&gt;
+          &lt;td&gt;Vedic Maths&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;36&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Data in Cloud&lt;/td&gt;
+          &lt;td&gt;gdrive&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;37&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Data in Cloud&lt;/td&gt;
+          &lt;td&gt;Dropbox&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;38&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Data in Cloud&lt;/td&gt;
+          &lt;td&gt;Onedrive&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;39&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Development&lt;/td&gt;
+          &lt;td&gt;unicode.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;40&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Dharma&lt;/td&gt;
+          &lt;td&gt;gitasupersite.iitk.ac.in&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;41&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;File Converter&lt;/td&gt;
+          &lt;td&gt;onlinevideoconverter.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;42&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;File Converter&lt;/td&gt;
+          &lt;td&gt;pdf2go.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;43&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;File Converter&lt;/td&gt;
+          &lt;td&gt;pdftables.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;44&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;File Converter&lt;/td&gt;
+          &lt;td&gt;pdftotext.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;45&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;File Converter&lt;/td&gt;
+          &lt;td&gt;products.aspose.app&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;46&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;File Converter&lt;/td&gt;
+          &lt;td&gt;HTML to Markdown&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;47&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;PDF Drive&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;48&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;Free-Ebooks dot net&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;49&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;Internet Archive Books&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;50&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;Bookboon&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;51&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;Obooko&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;52&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;Manybooks&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;53&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;PDF Search Engine&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;54&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;PDFBooksWorld&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;55&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;ScienceDirect&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;56&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;Engineering Books&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;57&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Free ebook&lt;/td&gt;
+          &lt;td&gt;BC Open Collection&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;58&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Omni calculator&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;59&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Language Chinese&lt;/td&gt;
+          &lt;td&gt;omniglot.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;60&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Language English&lt;/td&gt;
+          &lt;td&gt;howtopronounce.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;61&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Language English&lt;/td&gt;
+          &lt;td&gt;languagetool.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;62&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Language Indic&lt;/td&gt;
+          &lt;td&gt;quillpad.in&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;63&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Learn Drawing&lt;/td&gt;
+          &lt;td&gt;Proko How to Draw&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;64&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Learn Drawing&lt;/td&gt;
+          &lt;td&gt;Proko Model Poses Drawing&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;65&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Mass Mailing&lt;/td&gt;
+          &lt;td&gt;mailchimp&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;66&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Misc-Tools&lt;/td&gt;
+          &lt;td&gt;palmetto.demos.dice-research.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;67&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Misc-Tools&lt;/td&gt;
+          &lt;td&gt;tableizer.journalistopia.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;68&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Notes&lt;/td&gt;
+          &lt;td&gt;Evernote&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;69&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Notes&lt;/td&gt;
+          &lt;td&gt;MarkText&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;70&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Audio&lt;/td&gt;
+          &lt;td&gt;Sound Cloud&lt;/td&gt;
+          &lt;td&gt;MarkText - Markdown Editor using Chocolatey&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;71&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;classpoint.app&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;72&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;Share Screenshots&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;73&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;e.ggtimer.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;74&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;kahoot.it&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;75&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;mentimeter.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;76&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;miro.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;77&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;noises.online&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;78&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;polls.io&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;79&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;quizizz.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;80&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;rawshorts.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;81&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;snag.gy&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;82&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;timeanddate.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;83&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;Online Voting&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;84&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Research&lt;/td&gt;
+          &lt;td&gt;academic.microsoft.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;85&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Research&lt;/td&gt;
+          &lt;td&gt;researchgate.net&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;86&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Research&lt;/td&gt;
+          &lt;td&gt;semanticscholar.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;87&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Research&lt;/td&gt;
+          &lt;td&gt;subjectguides.esc.edu&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;88&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ACA Capture Pro&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;89&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Articulate Replay&lt;/td&gt;
+          &lt;td&gt;It captures screen images, web pages, Flash, icons, etc, it creates videos of your computer screen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;90&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;BB Flashback&lt;/td&gt;
+          &lt;td&gt;Create screencasts with Articulate Replay.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;91&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;BSR Screen recorder&lt;/td&gt;
+          &lt;td&gt;Record, enhance, share. Create compelling demos and tutorials with BB FlashBack screen recorder.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;92&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;CamStudio&lt;/td&gt;
+          &lt;td&gt;Captures video, sound and pictures of anything you see on your screen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;93&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Camtasia&lt;/td&gt;
+          &lt;td&gt;CamStudio is able to record all screen and audio activity on your computer and create industry-standard AVI video files.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;94&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Capture Assistant&lt;/td&gt;
+          &lt;td&gt;Techsmith’s Camtasia is a tool to record, edit and enhance on-screen activity in the form of screencasts.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;95&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Capture WizPro&lt;/td&gt;
+          &lt;td&gt;Capture Assistant is a convenient and easy-to-use text and graphics capture tool.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;96&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Clarify&lt;/td&gt;
+          &lt;td&gt;Capture or record anything on your PC fast.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;97&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;clip2net&lt;/td&gt;
+          &lt;td&gt;Use multiple screenshots to tell your story. Mark them up, add some text and export them as a document to PDF, Word or Dropbox.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;98&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Demo Builder&lt;/td&gt;
+          &lt;td&gt;Share screenshots and files the easiest way.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;99&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Faststone Capture&lt;/td&gt;
+          &lt;td&gt;Demo Builder provides an easy way to create tutorials, presentations or demonstrations that show how software and systems work.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;100&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Gadwin PrintScreen&lt;/td&gt;
+          &lt;td&gt;A powerful, lightweight, yet full-featured screen capture tool that allows you to easily capture and annotate anything on the screen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;101&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Greenshot&lt;/td&gt;
+          &lt;td&gt;Want to create a screenshot suitable for saving or printing? Then just hit a key on your keyboard. Oh yeah, you’ll have to download this program first.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;102&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Instant Demo&lt;/td&gt;
+          &lt;td&gt;A free screenshot tool optimized for productivity.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;103&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;iShowU&lt;/td&gt;
+          &lt;td&gt;Screen Recorder Software for Presentations, Training and Support&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;104&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Jing&lt;/td&gt;
+          &lt;td&gt;iShowU is a “realtime” video screen recorder for Macs.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;105&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;KingKong Capture&lt;/td&gt;
+          &lt;td&gt;Techsmith’s Jing is a free screencasting program that lets you capture anything you see on your computer screen, as an image or short video, and share it instantly.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;106&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;LICEcap&lt;/td&gt;
+          &lt;td&gt;Capture onscreen images fast and easy.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;107&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Loom&lt;/td&gt;
+          &lt;td&gt;Simple animated screen capture. LICEcap can capture an area of your desktop and save it directly to .GIF&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;108&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Monosnap&lt;/td&gt;
+          &lt;td&gt;Screen recorder for Mac, Windows, and Chromebooks. Record your camera and screen with audio directly from your Chrome browser&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;109&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;MWSnap&lt;/td&gt;
+          &lt;td&gt;Monosnap is a tool that allows you to take, share and manage your screenshots.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;110&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;PrtScr&lt;/td&gt;
+          &lt;td&gt;MWSnap is a small yet powerful Windows program for snapping (capturing) images from selected parts of the screen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;111&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Replay Video Capture for Mac&lt;/td&gt;
+          &lt;td&gt;Captures full screen, rectangle selection, freehand selection, or active window.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;112&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Rikisoft EasySnap&lt;/td&gt;
+          &lt;td&gt;Use it to record online video, and anything else playing on your screen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;113&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screenbird&lt;/td&gt;
+          &lt;td&gt;Get any part of your screen captured and saved automatically with speed and quality.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;114&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screencastify&lt;/td&gt;
+          &lt;td&gt;Screenbird is a full cross platform video screen capture tool and host.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;115&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ScreenCastle&lt;/td&gt;
+          &lt;td&gt;Screencastify is a free screen recorder for Chrome. No download required. Record, edit and share videos in seconds. Videos autsave to your Google Drive.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;116&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screencast-O-matic&lt;/td&gt;
+          &lt;td&gt;Online screen recorder&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;117&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ScreenDash&lt;/td&gt;
+          &lt;td&gt;Screencast-O-Matic makes screencasting free and easy, with one-click screen capture, online or you can download and install the application on Mac OSX.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;118&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ScreenFlow&lt;/td&gt;
+          &lt;td&gt;Capture screenshots from your computer, webcam &amp;amp; iPhone.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;119&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screenhunter&lt;/td&gt;
+          &lt;td&gt;Screencasting and video editing software for Mac.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;120&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screenpresso&lt;/td&gt;
+          &lt;td&gt;An award-winning screen capture software solution to capture any part of screen image, print, edit screenshot with annotations.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;121&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ScreenRecord&lt;/td&gt;
+          &lt;td&gt;Screenpresso captures your desktop (screenshots and HD videos) for your training documents, collaborative design work, IT bug reports, and more.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;122&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screenshot Captor&lt;/td&gt;
+          &lt;td&gt;ScreenRecord is a screen recording tool that allows the user to capture the screen as a Quicktime movie.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;123&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ScreenSnapr&lt;/td&gt;
+          &lt;td&gt;A best-in-class tool for grabbing, manipulating, annotating, and sharing screenshots.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;124&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Screeny&lt;/td&gt;
+          &lt;td&gt;Effortlessly share images: show the world what you see with ScreenSnapr.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;125&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;SnagIt&lt;/td&gt;
+          &lt;td&gt;Screeny makes screen capturing easy and gives you the freedom to capture your videos or images at any size.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;126&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;SnapIt&lt;/td&gt;
+          &lt;td&gt;Techsmith’s Snagit is a screen capture tool that lets you grab an image or video of what you see on your computer screen and then add enhancing text and other effects.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;127&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;TinyGrab&lt;/td&gt;
+          &lt;td&gt;Easy to use screen capture software which allows you to easily capture anything on the screen including windows, menus, full screen, rectangular regions, web pages and take shots of moving images.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;128&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;TurboDemo&lt;/td&gt;
+          &lt;td&gt;Take a screenshot and share it with your clients or friends in less time than it took you to read this sentence!&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;129&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ViewletBuilder&lt;/td&gt;
+          &lt;td&gt;Capture screenshots and explain software, PC applications, websites and products with animated demos and tutorials.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;130&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;ViewletCam&lt;/td&gt;
+          &lt;td&gt;Create Flash tutorials or simulations that exactly mirror the way your product or web site works.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;131&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Voila&lt;/td&gt;
+          &lt;td&gt;ViewletCam is the fastest, easiest way to record PC applications, PowerPoint presentations, animations, and video directly from your PC screen.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;132&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Webinaria&lt;/td&gt;
+          &lt;td&gt;The ultimate screen capture app for Mac.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;133&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;websnapr&lt;/td&gt;
+          &lt;td&gt;Tools to create software demos.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;134&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Screencapture &amp;amp; Screencasting Tools&lt;/td&gt;
+          &lt;td&gt;Wink&lt;/td&gt;
+          &lt;td&gt;websnapr lets you capture screenshots of (almost) any web page.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;135&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Sharing&lt;/td&gt;
+          &lt;td&gt;cloudup.com&lt;/td&gt;
+          &lt;td&gt;Wink is a Tutorial and Presentation creation software, primarily aimed at creating tutorials on how to use software (like a tutor for MS-Word/Excel etc).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;136&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Sharing&lt;/td&gt;
+          &lt;td&gt;credential.net&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;137&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Skill Testing&lt;/td&gt;
+          &lt;td&gt;interviewbit.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;138&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Video and Image Creation&lt;/td&gt;
+          &lt;td&gt;TechSmitch&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;139&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Video Download&lt;/td&gt;
+          &lt;td&gt;YTD Downloader&lt;/td&gt;
+          &lt;td&gt;Create and share images and videos for better training, tutorials, lessons, and everyday communication.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;140&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Voice Recording&lt;/td&gt;
+          &lt;td&gt;Audacity&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;141&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Web Scrapping&lt;/td&gt;
+          &lt;td&gt;wordhtml.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;142&lt;/td&gt;
+          &lt;td&gt;General&lt;/td&gt;
+          &lt;td&gt;Website Content&lt;/td&gt;
+          &lt;td&gt;Joomla&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;143&lt;/td&gt;
+          &lt;td&gt;NLP&lt;/td&gt;
+          &lt;td&gt;NLP&lt;/td&gt;
+          &lt;td&gt;regex101.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;144&lt;/td&gt;
+          &lt;td&gt;NLP&lt;/td&gt;
+          &lt;td&gt;TTS&lt;/td&gt;
+          &lt;td&gt;Natural Reader&lt;/td&gt;
+          &lt;td&gt;Desktop&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;145&lt;/td&gt;
+          &lt;td&gt;NLP&lt;/td&gt;
+          &lt;td&gt;TTS&lt;/td&gt;
+          &lt;td&gt;TTS Reader&lt;/td&gt;
+          &lt;td&gt;Listening Your Text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;146&lt;/td&gt;
+          &lt;td&gt;NLP&lt;/td&gt;
+          &lt;td&gt;TTS&lt;/td&gt;
+          &lt;td&gt;Listening Your Text&lt;/td&gt;
+          &lt;td&gt;Listening Your Text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;147&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;sanskrit.jnu.ac.in&lt;/td&gt;
+          &lt;td&gt;Listening Your Text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;148&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;sanskrit.uohyd.ac.in&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;149&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;ashtadhyayi.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;150&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;kosha.sanskrit.today&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;151&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;openpathshala.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;152&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;sanskrit.inria.fr&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;153&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;sanskritdocuments.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;154&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;sanskritfromhome.in&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;155&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;sanskritslokas.info&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;156&lt;/td&gt;
+          &lt;td&gt;Sanskrit Text&lt;/td&gt;
+          &lt;td&gt;Language Sanskrit&lt;/td&gt;
+          &lt;td&gt;spokensanskrit.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;157&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;app.logobly.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;158&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;shields.io&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;159&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;beautifytools.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;160&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;camstudio.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;161&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;rawshorts.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;162&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;thestocks.im&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;163&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;animoto.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;164&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;burst.shopify.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;165&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;canva.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;166&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;color.adobe.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;167&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;colorhunt.co&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;168&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;doodly.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;169&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;dribbble.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;170&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;excalidraw.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;171&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;flickr.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;172&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;fontconverter.in&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;173&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;fonts.google.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;174&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;freepik.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;175&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;getgreenshot.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;176&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;giphy.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;177&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;htmlcolorcodes.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;178&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;imgur.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;179&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;mycolor.space&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;180&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;pexels.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;181&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;pixabay.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;182&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;quickdraw.withgoogle.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;183&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;remove.bg&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;184&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;shutterstock.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;185&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;sketch2code.azurewebsites.net&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;186&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;stocksnap.io&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;187&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;unsplash.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;188&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Design-FE&lt;/td&gt;
+          &lt;td&gt;wordclouds.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;189&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Designer UI&lt;/td&gt;
+          &lt;td&gt;Pencil&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;190&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Designer UI&lt;/td&gt;
+          &lt;td&gt;GIMP&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;191&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;videoask.com&lt;/td&gt;
+          &lt;td&gt;Desktop&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;192&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;webtoolkitonline.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;193&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;Google Ads&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;194&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;ahrefs.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;195&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;analytics.google.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;196&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;app.neilpatel.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;197&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;creatoracademy.youtube.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;198&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;developers.facebook.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;199&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;Thumbnail for Social Media&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;200&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;domaintyper.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;201&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;follow.it&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;202&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;gtmetrix.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;203&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;h-supertools.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;204&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;keyword.io&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;205&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;lookup.icann.org&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;206&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;marketingaiinstitute.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;207&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;marketingplatform.google.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;208&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;mashable.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;209&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;moz.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;210&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;namelix.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;211&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;namemesh.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;212&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;privacypolicygenerator.info&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;213&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;seoptimer.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;214&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;tagmanager.google.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;215&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;SEO/SEM&lt;/td&gt;
+          &lt;td&gt;wordtracker.com&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;216&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;Krisp&lt;/td&gt;
+          &lt;td&gt;Noise Cancellation Tool During Zoom/Meet Call&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;217&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;beatoven.ai&lt;/td&gt;
+          &lt;td&gt;Create customisable royalty free music that elevates your story&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;218&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;Cleanvoice.ai&lt;/td&gt;
+          &lt;td&gt;Stop wasting hours editing your podcast&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;219&lt;/td&gt;
+          &lt;td&gt;Website&lt;/td&gt;
+          &lt;td&gt;Online Training&lt;/td&gt;
+          &lt;td&gt;podcastle.ai&lt;/td&gt;
+          &lt;td&gt;The One-Stop Shop for Broadcast Storytelling&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My Favorite Chrome Extensions</title>
+      <link>http://localhost:1313/dsblog/myfab-chrome-extensions/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/myfab-chrome-extensions/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg&#34; alt=&#34;My Favorite Chrome Extensions&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;My Favorite Chrome Extensions 
+    &lt;div id=&#34;my-favorite-chrome-extensions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-favorite-chrome-extensions&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Application Launcher For Drive (by Google) : Open Drive files directly from your browser in compatible applications installed on your computer.&lt;/li&gt;
+&lt;li&gt;Bardeen - automate manual work : Automate manual work with one click! Connect 30+ apps, scrape the web, and boost your productivity.&lt;/li&gt;
+&lt;li&gt;Bell of Mindfulness : A bell that reminds us to breathe and be mindful of our body and mind.&lt;/li&gt;
+&lt;li&gt;ChatGPT for Google : Show ChatGPT response alongside search engine results&lt;/li&gt;
+&lt;li&gt;Cisco Webex Extension : Join Webex meetings using Google Chrome ™&lt;/li&gt;
+&lt;li&gt;ColorZilla : Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies&lt;/li&gt;
+&lt;li&gt;Dark Mode - Dark Reader for Сhrome : Dark Mode a classic dark theme for every website. Switch website to dark reader and for night and daily browsing.&lt;/li&gt;
+&lt;li&gt;DeepSeek AI : Chat with DeepSeek AI – Boost your creativity and productivity using DeepSeek R1, the ultimate AI-powered browser tool.&lt;/li&gt;
+&lt;li&gt;Editor for Docs, Sheets &amp;amp; Slides : View, edit and select the layout of Google Docs, Sheets, and Slides with an easy access via extension menu&lt;/li&gt;
+&lt;li&gt;Eightify: Youtube Summary with ChatGPT : Youtube video summaries with ChatGPT. Extract key ideas from Youtube videos with GPT.&lt;/li&gt;
+&lt;li&gt;Glasp Web Highlighter: PDF &amp;amp; Web Highlight : AI-powered Web Highlighter for Websites, PDF, and YouTube videos. YouTube Summary with ChatGPT, Claude, and Gemini.&lt;/li&gt;
+&lt;li&gt;Glasp: Social Web Highlight &amp;amp; YouTube Summary : Take notes and add highlights on web pages. Discover and save articles from friends. A tool for writers, avid readers, and thinkers.&lt;/li&gt;
+&lt;li&gt;GoFullPage - Full Page Screen Capture : Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!&lt;/li&gt;
+&lt;li&gt;Google Dictionary (by Google) : View definitions easily as you browse the web.&lt;/li&gt;
+&lt;li&gt;Google Docs Offline : Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.&lt;/li&gt;
+&lt;li&gt;Google Input Tools : Input Tools lets you type in the language of your choice.&lt;/li&gt;
+&lt;li&gt;Google Keep Chrome Extension : Save to Google Keep in a single click!&lt;/li&gt;
+&lt;li&gt;Google Scholar Button : Lookup scholarly articles as you browse the web.&lt;/li&gt;
+&lt;li&gt;Google Translate : View translations easily as you browse the web. By the Google Translate team.&lt;/li&gt;
+&lt;li&gt;Grammar &amp;amp; Spell Checker — LanguageTool : Check your texts for spelling and grammar problems everywhere on the web&lt;/li&gt;
+&lt;li&gt;Grammar Checker &amp;amp; Paraphraser – LanguageTool : Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool&lt;/li&gt;
+&lt;li&gt;Grammarly: AI Writing and Grammar Checker App : Improve your writing with all-in-one assistance—including generative AI, grammar check, and more.&lt;/li&gt;
+&lt;li&gt;Headline Studio by CoSchedule : The headline analyzer from CoSchedule enables you to create headlines that drives maximum traffic, clicks, &amp;amp; SEO&lt;/li&gt;
+&lt;li&gt;Highlighter : Highlight text on websites with a simple right-click or keyboard shortcut. Saves highlights on your device.&lt;/li&gt;
+&lt;li&gt;IPEVO Whiteboard : IPEVO Whiteboard for Chromebook is specifically designed to create an interactive whiteboard with IPEVO IW2 on your Chromebook.&lt;/li&gt;
+&lt;li&gt;Keepa - Amazon Price Tracker : Adds price history charts and the option to be alerted on price drops to all supported Amazon sites.&lt;/li&gt;
+&lt;li&gt;Keyword Tool Dominator : Keyword Tool Dominator Extension&lt;/li&gt;
+&lt;li&gt;Keywords Everywhere - Keyword Tool : Keyword search volume, cpc and competition for 15+ websites like Google™ Search Console, YouTube™, Amazon™ &amp;amp; more&lt;/li&gt;
+&lt;li&gt;Marinara: Pomodoro® Assistant : Pomodoro® time management assistant.&lt;/li&gt;
+&lt;li&gt;Markdown Viewer : Dark Mode • Themes • Autoreload • Mermaid Diagrams • MathJax • ToC • Syntax Highlighting&lt;/li&gt;
+&lt;li&gt;Mendeley Web Importer : Fast, convenient import of references and PDFs to your Mendeley Reference Manager library.&lt;/li&gt;
+&lt;li&gt;Microsoft Bing Search for Chrome : Set Microsoft Bing as your default search provider&lt;/li&gt;
+&lt;li&gt;MindStudio : MindStudio Chrome Extension&lt;/li&gt;
+&lt;li&gt;MozBar : MozBar from Moz&lt;/li&gt;
+&lt;li&gt;Neeva AI Search : AI powered, instant answers with citations&lt;/li&gt;
+&lt;li&gt;Office Editing for Docs, Sheets &amp;amp; Slides : View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides&lt;/li&gt;
+&lt;li&gt;OneTab : Save up to 95% memory and reduce tab clutter&lt;/li&gt;
+&lt;li&gt;Open in Colab : Open a Github-hosted notebook in Google Colab&lt;/li&gt;
+&lt;li&gt;ParagraphAI - Write Better, Faster : ParagraphAI is an AI-powered writing tool that crafts perfectly curated content for all your writing needs.&lt;/li&gt;
+&lt;li&gt;Pomodoro® Assistant : Pomodoro® time management assistan&lt;/li&gt;
+&lt;li&gt;Power Thesaurus : Use the power of synonyms by button in toolbar, right-click or by word selection on any page.&lt;/li&gt;
+&lt;li&gt;Pronounce: Speech and Pronunciation Checker : Speak confidently with instant feedback on any conversation from an AI speech coach.&lt;/li&gt;
+&lt;li&gt;Read Aloud: A Text to Speech Voice Reader : Read aloud the current web-page article with one click, using text to speech (TTS). Supports 40+ languages.&lt;/li&gt;
+&lt;li&gt;RoboForm Password Manager : RoboForm Password Manager makes your life easier by remembering passwords and logging you into websites automatically&lt;/li&gt;
+&lt;li&gt;Sci-Hub : Science Paper Research&lt;/li&gt;
+&lt;li&gt;Selenium IDE : Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver.&lt;/li&gt;
+&lt;li&gt;Sider: Chat with all AI models (DeepSeek, Gemini, Claude, etc.) : AI sidebar support chat with all AI models (DeepSeek, Gemini, Claude, etc.) for advanced AI search, read, and write.&lt;/li&gt;
+&lt;li&gt;Signer.Digital Digital Signature, PKI : Digital Signature of eReturns, PDF &amp;amp; Web User Auth, RSA Encryption/Decryption, Certificate Enrollment/Download on Smartcard.&lt;/li&gt;
+&lt;li&gt;Simplescraper — a fast and free web scraper : A web scraper that&amp;rsquo;s fast, free and simple to use. Scrape website data and table data in seconds&lt;/li&gt;
+&lt;li&gt;Slido : Engage your audience with live polling and Q&amp;amp;A without ever leaving Google Slides&lt;/li&gt;
+&lt;li&gt;Star History : A chrome extension showing star history graph of current GitHub repository&lt;/li&gt;
+&lt;li&gt;Tabbed Postman - REST Client :&lt;/li&gt;
+&lt;li&gt;Table Capture : Copies HTML tables to the clipboard or exports them to Microsoft Excel, CSV, Google Sheets, Office 365, etc.&lt;/li&gt;
+&lt;li&gt;Tag Assistant Legacy (by Google) : Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.&lt;/li&gt;
+&lt;li&gt;Talk-to-ChatGPT : Talk to ChatGPT through your microphone and hear its responses with a voice. Uses speech recognition and text-to-speech technologies&lt;/li&gt;
+&lt;li&gt;Transliterate South Asian Scripts : Transliterate South Asian Scripts&lt;/li&gt;
+&lt;li&gt;Ubersuggest - SEO and Keyword Discovery : Keyword search volume, CPC and insights for all keywords you search. Works with Google, YouTube and Amazon. SEO tool by Neil Patel.&lt;/li&gt;
+&lt;li&gt;Web Scraper - GetData.IO : Turn any webpage into an API in 3 click&lt;/li&gt;
+&lt;li&gt;WhatFont : The easiest way to identify fonts on web pages.&lt;/li&gt;
+&lt;li&gt;Wikiwand - Wikipedia, and beyond : AI-driven wiki aggregator created to enhance user experience on Wikipedia by streamlining knowledge consumption&lt;/li&gt;
+&lt;li&gt;Wordtune: AI Paraphrasing and Grammar Tool : Unlock your potential with Wordtune&amp;rsquo;s free AI writer – paraphrase, rewrite, translate, fix grammar, and more.&lt;/li&gt;
+&lt;li&gt;You.com : Search, chat, and create with AI : Experience the future of search with generative AI&lt;/li&gt;
+&lt;li&gt;YouTube Summary with ChatGPT &amp;amp; Claude : Summarize YouTube videos, web articles, and PDFs to save time, powered by ChatGPT, Claude, Mistral AI, and Gemini.&lt;/li&gt;
+&lt;li&gt;Zotero Connector : Save references to Zotero from your web browser&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

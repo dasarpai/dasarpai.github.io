@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on </title>
+    <link>http://localhost:1313/tags/web-development/</link>
+    <description>Recent content in Web Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>High-Level View of HTML CSS JavaScript</title>
+      <link>http://localhost:1313/dsblog/high-level-view-of-html-css-javascript/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/high-level-view-of-html-css-javascript/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6281-high-level-view-of-html-css-javascript.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;High-Level View of HTML CSS JavaScript 
+    &lt;div id=&#34;high-level-view-of-html-css-javascript&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#high-level-view-of-html-css-javascript&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;HTML, CSS, and JavaScript are the three core pillars that form the foundation of every website or web application. Think of them as the vital systems—structure, style, and behavior—that breathe life into the digital body we call a webpage. Over the years, these technologies have evolved dramatically, expanding the possibilities for what can be built on the web.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>A Developer&#39;s Guide to Templating Engines</title>
+      <link>http://localhost:1313/dsblog/A-Developers-Guide-to-Templating-Engines/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/A-Developers-Guide-to-Templating-Engines/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6274-A-Developers-Guide-to-Templating-Engines.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;A Developer&amp;rsquo;s Guide to Templating Engines 
+    &lt;div id=&#34;a-developers-guide-to-templating-engines&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-developers-guide-to-templating-engines&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is a Templating Engine? 
+    &lt;div id=&#34;what-is-a-templating-engine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-a-templating-engine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;templating engine&lt;/strong&gt; is a system used to generate dynamic HTML pages by combining a template with data. It&amp;rsquo;s used in static site generators (SSGs), web frameworks, and CMSs.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Hugo Framework - Part 2: Advanced Implementations</title>
+      <link>http://localhost:1313/dsblog/exploring-hugo-framework-part2/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-hugo-framework-part2/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6272-exploring-hugo-framework-part2.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Hugo Framework - Part 2 
+    &lt;div id=&#34;exploring-hugo-framework---part-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-hugo-framework---part-2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you&amp;rsquo;re looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is &lt;a href=&#34;../../dsblog/exploring-go-hugo-framework-part1&#34;&gt;here&lt;/a&gt;. Together, they will give you a solid understanding of the entire ecosystem. Even if you&amp;rsquo;re new to website development, you&amp;rsquo;ll gain clarity on how the various components work. At the very least, you&amp;rsquo;ll come away with a valuable set of questions to ask AI during your own implementation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring go Hugo Framework for SSG</title>
+      <link>http://localhost:1313/dsblog/exploring-go-hugo-framework-part1/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-go-hugo-framework-part1/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6270-exploring-go-hugo-framework-part1.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring go Hugo Framework for SSG (Part 1) 
+    &lt;div id=&#34;exploring-go-hugo-framework-for-ssg-part-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-go-hugo-framework-for-ssg-part-1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Hugo is a fast and flexible open-source static site generator written in Go, designed to help developers build modern websites quickly without relying on databases or heavy server-side frameworks. It uses simple Markdown files for content, supports powerful templating and theming systems, and can generate entire websites in milliseconds. With features like built-in live reload, content organization, internationalization, and Hugo Modules for reusable components, it&amp;rsquo;s ideal for blogs, documentation sites, portfolios, and even complex multi-language websites. Hugo integrates easily with platforms like GitHub Pages and Netlify, making it a popular choice for developers seeking performance, simplicity, and portability in their web projects.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding</title>
+      <link>http://localhost:1313/dsblog/Exploring-Possibilities-with-CSS/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Possibilities-with-CSS/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg&#34; alt=&#34;Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Advance CSS Coding 
+    &lt;div id=&#34;exploring-advance-css-coding&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-advance-css-coding&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;HTML give the structure to any website, it is like bone strucutre of the body. But the CSS makes it colorful, give some life imitation ability and make it beautiful, it is like flesh and skin on the bone which makes body alive and beautiful. This tutorial should give you a solid foundation in advanced CSS techniques. Keep practicing, with AI driven coding tools you need not memorize the syntext but you should understand what is possible so that you can imagine how you can use it for you project.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>curl Commands</title>
+      <link>http://localhost:1313/dsblog/curl-commands/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/curl-commands/</guid>
+      <description>&lt;p&gt;!
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is curl command? 
+    &lt;div id=&#34;what-is-curl-command&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-curl-command&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The &lt;code&gt;curl&lt;/code&gt; command is a versatile command-line tool for transferring data to and from servers using various protocols like HTTP, HTTPS, FTP, etc. It allows you to make requests (GET, POST, PUT, DELETE) to APIs, download/upload files, send data, and debug web interactions directly from the terminal. It supports custom headers, authentication, proxies, and more, making it essential for testing and automation in web development and API integrations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating Python Ecosystem</title>
+      <link>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating Python Ecosystem 
+    &lt;div id=&#34;navigating-python-ecosystem&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-python-ecosystem&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;1. &lt;strong&gt;History of Python Development&lt;/strong&gt; 
+    &lt;div id=&#34;1-history-of-python-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-history-of-python-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Python was created by &lt;strong&gt;Guido van Rossum&lt;/strong&gt; and was first released in 1991. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code compared to other languages like C++ or Java. Significant milestones in Python’s development include:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Processors for HTML CSS JS Code</title>
+      <link>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg&#34; alt=&#34;Processors for HTML CSS JS Code&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Processors for HTML, CSS, and JS Code 
+    &lt;div id=&#34;processors-for-html-css-and-js-code&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#processors-for-html-css-and-js-code&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What are HTML Processors? 
+    &lt;div id=&#34;what-are-html-processors&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-are-html-processors&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;HTML processors (or preprocessors) extend HTML functionality by adding new features like templating, reusable components, loops, conditionals, and more. They simplify development by generating standard HTML with enhanced capabilities. Below are some of the most popular HTML processors and what they do:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring Popular Web Server</title>
+      <link>http://localhost:1313/dsblog/Exploring-Popular-Web-Server/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Exploring-Popular-Web-Server/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg&#34; alt=&#34;Exploring Popular Web Server&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Popular Web Server 
+    &lt;div id=&#34;exploring-popular-web-server&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-popular-web-server&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Webserver? 
+    &lt;div id=&#34;what-is-webserver&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-webserver&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;web server&lt;/strong&gt; is software or hardware that serves web content to users over the internet. It hosts, processes, and delivers web pages to clients, typically web browsers, when users request a website by entering its URL. Here’s a breakdown of what a web server does and its components:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>REST API</title>
+      <link>http://localhost:1313/dsblog/REST-API/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/REST-API/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6121-REST-API.jpg&#34; alt=&#34;REST-API&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;REST API 
+    &lt;div id=&#34;rest-api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rest-api&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;An API (Application Programming Interface) is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to communicate with each other, enabling them to request and exchange information.&lt;/p&gt;
+&lt;p&gt;Here are some key aspects of an API:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is CAPTCHA?</title>
+      <link>http://localhost:1313/dsblog/What-is-Captcha/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/What-is-Captcha/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6070-What-is-Captcha.jpg&#34; alt=&#34;What is CAPTCHA?&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is CAPTCHA? 
+    &lt;div id=&#34;what-is-captcha&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-captcha&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;CAPTCHA stands for &amp;ldquo;Completely Automated Public Turing test to tell Computers and Humans Apart.&amp;rdquo; It is a security mechanism used by websites to determine whether the user is a human or a computer program (bot). CAPTCHAs are typically implemented as tests or challenges presented to the user, which are easy for humans to solve but difficult for bots.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unraveling the Google Web - Exploring the Purpose of Google&#39;s Websites</title>
+      <link>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites 
+    &lt;div id=&#34;unraveling-the-google-web-exploring-the-purpose-of-googles-websites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unraveling-the-google-web-exploring-the-purpose-of-googles-websites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Google has become synonym of search. Therefore when you want to search something you say google it. But, we need to keep in mind google is not only about search. It offers hundreds of other products and services. In today&amp;rsquo;s digital era, Google has become an integral part of our lives, serving as a gateway to vast amounts of information and a wide array of products and services. As we navigate the vast expanse of the internet, we encounter numerous websites under the Google umbrella, each with its unique purpose and role. From search engines to productivity tools, advertising platforms to educational resources, Google offers a diverse range of websites that cater to different needs and interests. In this article, we embark on a journey to unravel the Google web and delve into the purpose of its various websites. Whether you&amp;rsquo;re a curious user seeking to understand the different facets of Google or a digital enthusiast looking to explore new horizons, join us as we uncover the hidden gems and shed light on the myriad of Google websites that shape our online experiences.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

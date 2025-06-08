@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAG Models on </title>
+    <link>http://localhost:1313/tags/rag-models/</link>
+    <description>Recent content in RAG Models on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rag-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Retrieval-Augmented Generation with Conflicting Evidence</title>
+      <link>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Paper Summary: Retrieval-Augmented Generation with Conflicting Evidence 
+    &lt;div id=&#34;paper-summary-retrieval-augmented-generation-with-conflicting-evidence&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paper-summary-retrieval-augmented-generation-with-conflicting-evidence&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.13079&#34; target=&#34;_blank&#34;&gt;arXiv Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The hypothesis of this paper is that &lt;strong&gt;real-world retrieval-augmented generation (RAG) systems must simultaneously handle various sources of conflicting information, including ambiguity in user queries and contradictory information arising from misinformation and noise in retrieved documents&lt;/strong&gt;. The authors argue that prior work has largely addressed these challenges in isolation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating the LLM Infrastructure Landscape</title>
+      <link>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating the LLM Infrastructure Landscape: From Cloud Giants to Specialized Providers 
+    &lt;div id=&#34;navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Introduction&lt;/strong&gt; 
+    &lt;div id=&#34;1-introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The rapid advancement of Large Language Models (LLMs) has revolutionized a wide range of industries, from customer support to content creation and beyond. As LLMs like GPT-4, T5, and BERT become integral to AI-driven applications, the need for specialized infrastructure to support their deployment, training, and scaling has grown significantly. Traditional cloud services, while effective for general-purpose computing, often fall short in addressing the unique challenges posed by these models, such as handling vast amounts of data, providing low-latency responses, and managing the immense computational load. As a result, businesses and developers are increasingly turning to platforms specifically optimized for LLMs.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Exploring AnythingLLM</title>
+      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring AnythingLLM 
+    &lt;div id=&#34;exploring-anythingllm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-anythingllm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is AnythingLLM? 
+    &lt;div id=&#34;what-is-anythingllm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-anythingllm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;AnythingLLM is an open-source project developed by Mintplex Labs that offers a highly flexible platform for creating personalized language models and knowledge databases. It operates using Retrieval-Augmented Generation (RAG), which combines language models with data from custom document collections. AnythingLLM supports embedding models (e.g., BERT), language models, and vector databases to index and query data, allowing users to fine-tune or deploy various models tailored to their needs, from local deployments to cloud integrations with OpenAI or Azure OpenAI.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
