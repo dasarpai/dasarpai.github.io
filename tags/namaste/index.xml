@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Namaste on </title>
-    <link>http://localhost:1313/tags/namaste/</link>
+    <link>/tags/namaste/</link>
     <description>Recent content in Namaste on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/namaste/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/namaste/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Greeting and Culture</title>
-      <link>http://localhost:1313/wiaposts/greeting-and-culture/</link>
+      <link>/wiaposts/greeting-and-culture/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/greeting-and-culture/</guid>
+      <guid>/wiaposts/greeting-and-culture/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5190-Greeting-And-Culture.jpg&#34; alt=&#34;Greeting and Culture&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5190-Greeting-And-Culture.jpg&#34; alt=&#34;Greeting and Culture&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -49,13 +49,13 @@ Choose when you greet, go slow and know what you mean.&lt;/p&gt;</description>
     
     <item>
       <title>Why Do We Do Namaste?</title>
-      <link>http://localhost:1313/wiaposts/why-do-we-do-namaste/</link>
+      <link>/wiaposts/why-do-we-do-namaste/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/why-do-we-do-namaste/</guid>
+      <guid>/wiaposts/why-do-we-do-namaste/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg&#34; alt=&#34;Why Do We Do Namaste?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg&#34; alt=&#34;Why Do We Do Namaste?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -90,13 +90,13 @@ Choose when you greet, go slow and know what you mean.&lt;/p&gt;</description>
     
     <item>
       <title>The Meaning Of Namaste</title>
-      <link>http://localhost:1313/wiaposts/the-meaning-of-namaste/</link>
+      <link>/wiaposts/the-meaning-of-namaste/</link>
       <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-meaning-of-namaste/</guid>
+      <guid>/wiaposts/the-meaning-of-namaste/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg&#34; alt=&#34;The Meaning Of Namaste&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg&#34; alt=&#34;The Meaning Of Namaste&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

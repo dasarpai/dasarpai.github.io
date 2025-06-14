@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development Environment &amp; Tools on </title>
-    <link>http://localhost:1313/categories/development-environment--tools/</link>
+    <link>/categories/development-environment--tools/</link>
     <description>Recent content in Development Environment &amp; Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/development-environment--tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/development-environment--tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring Designer Roles and Their Favorite Free Tools</title>
-      <link>http://localhost:1313/dsblog/exploring-designer-roles-and-their-favorite-free-tools/</link>
+      <link>/dsblog/exploring-designer-roles-and-their-favorite-free-tools/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-designer-roles-and-their-favorite-free-tools/</guid>
+      <guid>/dsblog/exploring-designer-roles-and-their-favorite-free-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6250-exploring-designer-roles.jpg&#34; alt=&#34;Exploring Designer Roles and Their Favorite Free Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6250-exploring-designer-roles.jpg&#34; alt=&#34;Exploring Designer Roles and Their Favorite Free Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -66,13 +66,13 @@
     
     <item>
       <title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title>
-      <link>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</link>
+      <link>/dsblog/code-review-with-coderabbit-ai/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</guid>
+      <guid>/dsblog/code-review-with-coderabbit-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -106,13 +106,13 @@
     
     <item>
       <title>Software Development Toolsets Explained</title>
-      <link>http://localhost:1313/dsblog/software-development-toolsets-explained/</link>
+      <link>/dsblog/software-development-toolsets-explained/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/software-development-toolsets-explained/</guid>
+      <guid>/dsblog/software-development-toolsets-explained/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -153,13 +153,13 @@
     
     <item>
       <title>Exploring and Evaluating Integrated Development Environments (IDEs)</title>
-      <link>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</link>
+      <link>/dsblog/exploring-and-evaluating-ides/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</guid>
+      <guid>/dsblog/exploring-and-evaluating-ides/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -214,13 +214,13 @@
     
     <item>
       <title>Working with GitHub from WSL and Windows Folders</title>
-      <link>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
+      <link>/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
+      <guid>/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -242,13 +242,13 @@
     
     <item>
       <title>Online Coding Tools: Choosing the Right IDE for Your Project</title>
-      <link>http://localhost:1313/dsblog/online-coding-tools/</link>
+      <link>/dsblog/online-coding-tools/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/online-coding-tools/</guid>
+      <guid>/dsblog/online-coding-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6232-Online-Coding-Tools.jpg&#34; alt=&#34;Online Coding Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6232-Online-Coding-Tools.jpg&#34; alt=&#34;Online Coding Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -283,13 +283,13 @@
     
     <item>
       <title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title>
-      <link>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
+      <link>/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
+      <guid>/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -323,13 +323,13 @@
     
     <item>
       <title>Setting Up a Development Environment with Windows 11, WSL2 and Docker</title>
-      <link>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
+      <link>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
+      <guid>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -364,13 +364,13 @@
     
     <item>
       <title>Exploring Shell Scripting and Batch Files</title>
-      <link>http://localhost:1313/dsblog/exploring-shell-scripting-and-batch-files/</link>
+      <link>/dsblog/exploring-shell-scripting-and-batch-files/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-shell-scripting-and-batch-files/</guid>
+      <guid>/dsblog/exploring-shell-scripting-and-batch-files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg&#34; alt=&#34;Exploring Shell Scripting and Batch Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg&#34; alt=&#34;Exploring Shell Scripting and Batch Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -392,13 +392,13 @@
     
     <item>
       <title>Exploring the Local Location of Ollama Models on WSL2</title>
-      <link>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</link>
+      <link>/dsblog/exploring-ollama-models-location-on-wsl2/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
+      <guid>/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -432,13 +432,13 @@
     
     <item>
       <title>curl Commands</title>
-      <link>http://localhost:1313/dsblog/curl-commands/</link>
+      <link>/dsblog/curl-commands/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/curl-commands/</guid>
+      <guid>/dsblog/curl-commands/</guid>
       <description>&lt;p&gt;!
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -460,13 +460,13 @@
     
     <item>
       <title>Exploring AnythingLLM</title>
-      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <link>/dsblog/exploring-anythingllm/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <guid>/dsblog/exploring-anythingllm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -500,13 +500,13 @@
     
     <item>
       <title>Understanding Jekyll Framework</title>
-      <link>http://localhost:1313/dsblog/Understanding-Jekyll-Framework/</link>
+      <link>/dsblog/Understanding-Jekyll-Framework/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Understanding-Jekyll-Framework/</guid>
+      <guid>/dsblog/Understanding-Jekyll-Framework/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg&#34; alt=&#34;Understanding Jekyll Framework&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg&#34; alt=&#34;Understanding Jekyll Framework&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -540,13 +540,13 @@
     
     <item>
       <title>Exploring Python Package Manager</title>
-      <link>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</link>
+      <link>/dsblog/Exploring-Python-Package-Manager/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</guid>
+      <guid>/dsblog/Exploring-Python-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -580,13 +580,13 @@
     
     <item>
       <title>What is Bundler?</title>
-      <link>http://localhost:1313/dsblog/Exploring-Bundler/</link>
+      <link>/dsblog/Exploring-Bundler/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Bundler/</guid>
+      <guid>/dsblog/Exploring-Bundler/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -608,13 +608,13 @@
     
     <item>
       <title>Mastering Git: Comprehensive Guide to Git Commands</title>
-      <link>http://localhost:1313/dsblog/Git-Comprehensive-Guide/</link>
+      <link>/dsblog/Git-Comprehensive-Guide/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Git-Comprehensive-Guide/</guid>
+      <guid>/dsblog/Git-Comprehensive-Guide/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg&#34; alt=&#34;Mastering Git: Comprehensive Guide to Git Commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg&#34; alt=&#34;Mastering Git: Comprehensive Guide to Git Commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -648,13 +648,13 @@
     
     <item>
       <title>Exploring Docker and VS Code Integration</title>
-      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <link>/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <guid>/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -710,13 +710,13 @@
     
     <item>
       <title>Python Code Snippnet from Colab</title>
-      <link>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</link>
+      <link>/dsblog/Python-Code-Snippnet-from-Colab/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</guid>
+      <guid>/dsblog/Python-Code-Snippnet-from-Colab/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -750,13 +750,13 @@
     
     <item>
       <title>Everything About Developer Console</title>
-      <link>http://localhost:1313/dsblog/Everything-About-Developer-Console/</link>
+      <link>/dsblog/Everything-About-Developer-Console/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Everything-About-Developer-Console/</guid>
+      <guid>/dsblog/Everything-About-Developer-Console/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg&#34; alt=&#34;Everything About Developer Console&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg&#34; alt=&#34;Everything About Developer Console&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -790,13 +790,13 @@
     
     <item>
       <title>Exploring Ollama &amp; LM Studio</title>
-      <link>http://localhost:1313/dsblog/Exploring-Ollama/</link>
+      <link>/dsblog/Exploring-Ollama/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Ollama/</guid>
+      <guid>/dsblog/Exploring-Ollama/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -858,13 +858,13 @@
     
     <item>
       <title>What is Package Manager?</title>
-      <link>http://localhost:1313/dsblog/What-is-Package-Manager/</link>
+      <link>/dsblog/What-is-Package-Manager/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Package-Manager/</guid>
+      <guid>/dsblog/What-is-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -899,13 +899,13 @@
     
     <item>
       <title>Tensorflow GPU Setup on Local Machine</title>
-      <link>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
+      <link>/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
+      <guid>/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -939,13 +939,13 @@
     
     <item>
       <title>MLOps Tools</title>
-      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <link>/dsblog/MLOps-Tools/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <guid>/dsblog/MLOps-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -967,13 +967,13 @@
     
     <item>
       <title>Decoding pip install operations</title>
-      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <link>/dsblog/Decoding-pip-install-operations/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <guid>/dsblog/Decoding-pip-install-operations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1009,13 +1009,13 @@
     
     <item>
       <title>Decoding docker commands</title>
-      <link>http://localhost:1313/dsblog/Decoding-docker-commands/</link>
+      <link>/dsblog/Decoding-docker-commands/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-docker-commands/</guid>
+      <guid>/dsblog/Decoding-docker-commands/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1049,13 +1049,13 @@
     
     <item>
       <title>LaTeX Capabilities</title>
-      <link>http://localhost:1313/dsblog/latex-capabilities/</link>
+      <link>/dsblog/latex-capabilities/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/latex-capabilities/</guid>
+      <guid>/dsblog/latex-capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6098-Latex-capabilities.jpg&#34; alt=&#34;LaTeX Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6098-Latex-capabilities.jpg&#34; alt=&#34;LaTeX Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1065,13 +1065,13 @@
     
     <item>
       <title>ML Model Development Framework</title>
-      <link>http://localhost:1313/dsblog/ML-Model-Development-Framework/</link>
+      <link>/dsblog/ML-Model-Development-Framework/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ML-Model-Development-Framework/</guid>
+      <guid>/dsblog/ML-Model-Development-Framework/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg&#34; alt=&#34;ML Model Development Framework&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg&#34; alt=&#34;ML Model Development Framework&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1099,19 +1099,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;There are hundreds of &lt;a href=&#34;../../dsblog/nlp-tasks&#34;&gt;machine learning tasks&lt;/a&gt;. To do these tasks there are &lt;a href=&#34;../../dsblog/Type-of-Databases&#34;&gt;thousands of datasets&lt;/a&gt; created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href=&#34;dsblog/ML-Model-Repository-from-Pinto0309&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;../../dsblog/paperwithcode-resources&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;../../dsblog/What-Are-Transformers-in-AI&#34;&gt;3&lt;/a&gt; and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p&gt;</description>
+&lt;p&gt;There are hundreds of &lt;a href=&#34;/dsblog/nlp-tasks&#34;&gt;machine learning tasks&lt;/a&gt;. To do these tasks there are &lt;a href=&#34;/dsblog/Type-of-Databases&#34;&gt;thousands of datasets&lt;/a&gt; created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href=&#34;dsblog/ML-Model-Repository-from-Pinto0309&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;/dsblog/paperwithcode-resources&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;/dsblog/What-Are-Transformers-in-AI&#34;&gt;3&lt;/a&gt; and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Machine Learning Framework, Library, Tools</title>
-      <link>http://localhost:1313/dsblog/ml-frameworks-libraries-tools/</link>
+      <link>/dsblog/ml-frameworks-libraries-tools/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ml-frameworks-libraries-tools/</guid>
+      <guid>/dsblog/ml-frameworks-libraries-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg&#34; alt=&#34;Machine Learning Framework, Library, Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg&#34; alt=&#34;Machine Learning Framework, Library, Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1145,13 +1145,13 @@
     
     <item>
       <title>My Daily Tools</title>
-      <link>http://localhost:1313/dsblog/my-daily-tools/</link>
+      <link>/dsblog/my-daily-tools/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/my-daily-tools/</guid>
+      <guid>/dsblog/my-daily-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2719,13 +2719,13 @@
     
     <item>
       <title>My Favorite Chrome Extensions</title>
-      <link>http://localhost:1313/dsblog/myfab-chrome-extensions/</link>
+      <link>/dsblog/myfab-chrome-extensions/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/myfab-chrome-extensions/</guid>
+      <guid>/dsblog/myfab-chrome-extensions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg&#34; alt=&#34;My Favorite Chrome Extensions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg&#34; alt=&#34;My Favorite Chrome Extensions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

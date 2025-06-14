@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT Infrastructure on </title>
-    <link>http://localhost:1313/categories/it-infrastructure/</link>
+    <link>/categories/it-infrastructure/</link>
     <description>Recent content in IT Infrastructure on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/it-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/it-infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Understanding Electronics Chips</title>
-      <link>http://localhost:1313/dsblog/understanding-electronics-chips/</link>
+      <link>/dsblog/understanding-electronics-chips/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/understanding-electronics-chips/</guid>
+      <guid>/dsblog/understanding-electronics-chips/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6254-understanding-electronics-chips.jpg&#34; alt=&#34;Understanding Electronics Chips&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6254-understanding-electronics-chips.jpg&#34; alt=&#34;Understanding Electronics Chips&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -54,13 +54,13 @@
     
     <item>
       <title>Exploring Hosting Types</title>
-      <link>http://localhost:1313/dsblog/exploring-hosting-types/</link>
+      <link>/dsblog/exploring-hosting-types/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-hosting-types/</guid>
+      <guid>/dsblog/exploring-hosting-types/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6249-exploring-hosting-types.jpg&#34; alt=&#34;Exploring Hosting Types&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6249-exploring-hosting-types.jpg&#34; alt=&#34;Exploring Hosting Types&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -94,13 +94,13 @@
     
     <item>
       <title>The Basics of Microprocessor and Microcontroller</title>
-      <link>http://localhost:1313/dsblog/basics-of-microprocessor-and-microcontroller/</link>
+      <link>/dsblog/basics-of-microprocessor-and-microcontroller/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/basics-of-microprocessor-and-microcontroller/</guid>
+      <guid>/dsblog/basics-of-microprocessor-and-microcontroller/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -134,13 +134,13 @@
     
     <item>
       <title>Setting Up a Development Environment with Windows 11, WSL2 and Docker</title>
-      <link>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
+      <link>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
+      <guid>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -175,13 +175,13 @@
     
     <item>
       <title>Demystifying NVIDIA GPUs</title>
-      <link>http://localhost:1313/dsblog/demystify-nvidia-gpus/</link>
+      <link>/dsblog/demystify-nvidia-gpus/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/demystify-nvidia-gpus/</guid>
+      <guid>/dsblog/demystify-nvidia-gpus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg&#34; alt=&#34;Demystifying NVIDIA GPUs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg&#34; alt=&#34;Demystifying NVIDIA GPUs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -215,13 +215,13 @@
     
     <item>
       <title>Unraveling Wireless Communication: Key Protocols and Technologies</title>
-      <link>http://localhost:1313/dsblog/unraveling-wireless-communication/</link>
+      <link>/dsblog/unraveling-wireless-communication/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/unraveling-wireless-communication/</guid>
+      <guid>/dsblog/unraveling-wireless-communication/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -268,13 +268,13 @@
     
     <item>
       <title>Rethinking AI Infrastructure: Advantages of On-Prem Over Cloud Solutions</title>
-      <link>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
+      <link>/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
+      <guid>/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -308,13 +308,13 @@
     
     <item>
       <title>curl Commands</title>
-      <link>http://localhost:1313/dsblog/curl-commands/</link>
+      <link>/dsblog/curl-commands/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/curl-commands/</guid>
+      <guid>/dsblog/curl-commands/</guid>
       <description>&lt;p&gt;!
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -336,13 +336,13 @@
     
     <item>
       <title>Exploring Graphics Processing Units (GPUs)</title>
-      <link>http://localhost:1313/dsblog/Exploring-GPUs/</link>
+      <link>/dsblog/Exploring-GPUs/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-GPUs/</guid>
+      <guid>/dsblog/Exploring-GPUs/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -538,13 +538,13 @@
     
     <item>
       <title>Introduction to NVIDIA and Products</title>
-      <link>http://localhost:1313/dsblog/introduction-nvidia-products/</link>
+      <link>/dsblog/introduction-nvidia-products/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/introduction-nvidia-products/</guid>
+      <guid>/dsblog/introduction-nvidia-products/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -617,13 +617,13 @@
     
     <item>
       <title>Navigating the LLM Infrastructure Landscape</title>
-      <link>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</link>
+      <link>/dsblog/navigating-llm-infrastructure-landscape/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</guid>
+      <guid>/dsblog/navigating-llm-infrastructure-landscape/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -657,13 +657,13 @@
     
     <item>
       <title>Processors for HTML CSS JS Code</title>
-      <link>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</link>
+      <link>/dsblog/Processors-for-HTML-CSS-JS-Code/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</guid>
+      <guid>/dsblog/Processors-for-HTML-CSS-JS-Code/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg&#34; alt=&#34;Processors for HTML CSS JS Code&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg&#34; alt=&#34;Processors for HTML CSS JS Code&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -697,13 +697,13 @@
     
     <item>
       <title>Exploring Popular Web Server</title>
-      <link>http://localhost:1313/dsblog/Exploring-Popular-Web-Server/</link>
+      <link>/dsblog/Exploring-Popular-Web-Server/</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Popular-Web-Server/</guid>
+      <guid>/dsblog/Exploring-Popular-Web-Server/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg&#34; alt=&#34;Exploring Popular Web Server&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg&#34; alt=&#34;Exploring Popular Web Server&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -737,13 +737,13 @@
     
     <item>
       <title>Understanding Linux Distributions</title>
-      <link>http://localhost:1313/dsblog/Exploring-Linux-Distributions/</link>
+      <link>/dsblog/Exploring-Linux-Distributions/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Linux-Distributions/</guid>
+      <guid>/dsblog/Exploring-Linux-Distributions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg&#34; alt=&#34;Understanding Linux Distributions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg&#34; alt=&#34;Understanding Linux Distributions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -777,13 +777,13 @@
     
     <item>
       <title>How Much Memory Needed for LLM</title>
-      <link>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</link>
+      <link>/dsblog/How-Much-Memory-Needed-for-LLM/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</guid>
+      <guid>/dsblog/How-Much-Memory-Needed-for-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg&#34; alt=&#34;How-Much-Memory-Needed-for-LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg&#34; alt=&#34;How-Much-Memory-Needed-for-LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -817,13 +817,13 @@
     
     <item>
       <title>Decoding Windows User Folder</title>
-      <link>http://localhost:1313/dsblog/Decoding-Windows-User-Folder/</link>
+      <link>/dsblog/Decoding-Windows-User-Folder/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-Windows-User-Folder/</guid>
+      <guid>/dsblog/Decoding-Windows-User-Folder/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg&#34; alt=&#34;Decoding-Windows-User-Folder&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg&#34; alt=&#34;Decoding-Windows-User-Folder&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -857,13 +857,13 @@
     
     <item>
       <title>A Comprehensive Guide to 210&#43; AWS Services</title>
-      <link>http://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</link>
+      <link>/dsblog/AWS-Cloud-Service-Catalog/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</guid>
+      <guid>/dsblog/AWS-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -899,13 +899,13 @@ All these services are availalbe at &lt;a href=&#34;https://us-east-1.console.aw
     
     <item>
       <title>Unlocking the Power of Azure- Exploring 300&#43; Cloud Services and Their Purposes</title>
-      <link>http://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</link>
+      <link>/dsblog/Azure-Cloud-Service-Catalog/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</guid>
+      <guid>/dsblog/Azure-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -941,13 +941,13 @@ All these services are availalbe at &lt;a href=&#34;https://azure.microsoft.com/
     
     <item>
       <title>Google Cloud Service Catalog - A Comprehensive Overview of 250&#43; Google Cloud Services</title>
-      <link>http://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</link>
+      <link>/dsblog/Google-Cloud-Service-Catalog/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</guid>
+      <guid>/dsblog/Google-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -983,13 +983,13 @@ All these services are availalbe at &lt;a href=&#34;https://cloud.google.com&#34
     
     <item>
       <title>Unraveling the Google Web - Exploring the Purpose of Google&#39;s Websites</title>
-      <link>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</link>
+      <link>/dsblog/Unraveling-the-Google-Web/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</guid>
+      <guid>/dsblog/Unraveling-the-Google-Web/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1023,13 +1023,13 @@ All these services are availalbe at &lt;a href=&#34;https://cloud.google.com&#34
     
     <item>
       <title>Linux OS Directories</title>
-      <link>http://localhost:1313/dsblog/Linux-OS-Directories/</link>
+      <link>/dsblog/Linux-OS-Directories/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Linux-OS-Directories/</guid>
+      <guid>/dsblog/Linux-OS-Directories/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6055-Linux-OS-Directories.jpg&#34; alt=&#34;Linux OS Directories&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6055-Linux-OS-Directories.jpg&#34; alt=&#34;Linux OS Directories&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1064,13 +1064,13 @@ All these services are availalbe at &lt;a href=&#34;https://cloud.google.com&#34
     
     <item>
       <title>GPU for Data Science Work</title>
-      <link>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</link>
+      <link>/dsblog/GPU-for-Data-Science-Work/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</guid>
+      <guid>/dsblog/GPU-for-Data-Science-Work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mental Health on </title>
-    <link>http://localhost:1313/tags/mental-health/</link>
+    <link>/tags/mental-health/</link>
     <description>Recent content in Mental Health on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Anxious Generation</title>
-      <link>http://localhost:1313/booksummary/The-Anxious-Generation/</link>
+      <link>/booksummary/The-Anxious-Generation/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Anxious-Generation/</guid>
+      <guid>/booksummary/The-Anxious-Generation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7539-The-Anxious-Generation.jpg&#34; alt=&#34;The Anxious Generation&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7539-The-Anxious-Generation.jpg&#34; alt=&#34;The Anxious Generation&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

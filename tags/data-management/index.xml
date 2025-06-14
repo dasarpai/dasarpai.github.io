@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Management on </title>
-    <link>http://localhost:1313/tags/data-management/</link>
+    <link>/tags/data-management/</link>
     <description>Recent content in Data Management on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/data-management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Selecting Database for Project</title>
-      <link>http://localhost:1313/dsblog/Selecting-Database-for-Project/</link>
+      <link>/dsblog/Selecting-Database-for-Project/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Selecting-Database-for-Project/</guid>
+      <guid>/dsblog/Selecting-Database-for-Project/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg&#34; alt=&#34;Selecting Database for Project&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg&#34; alt=&#34;Selecting Database for Project&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -73,13 +73,13 @@
     
     <item>
       <title>SQL and Relational Algebra</title>
-      <link>http://localhost:1313/dsblog/relational-algebra/</link>
+      <link>/dsblog/relational-algebra/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/relational-algebra/</guid>
+      <guid>/dsblog/relational-algebra/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6084-Relational-Algebra.jpg&#34; alt=&#34;Relational Algebra&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6084-Relational-Algebra.jpg&#34; alt=&#34;Relational Algebra&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -102,13 +102,13 @@
     
     <item>
       <title>Data Lake vs Data Warehouse vs Data Mart</title>
-      <link>http://localhost:1313/dsblog/Datalake-vs-Data-Warehouse/</link>
+      <link>/dsblog/Datalake-vs-Data-Warehouse/</link>
       <pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Datalake-vs-Data-Warehouse/</guid>
+      <guid>/dsblog/Datalake-vs-Data-Warehouse/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg&#34; alt=&#34;Datalake vs Data Warehouse&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg&#34; alt=&#34;Datalake vs Data Warehouse&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -142,13 +142,13 @@
     
     <item>
       <title>Type of Databases</title>
-      <link>http://localhost:1313/dsblog/Type-of-Databases/</link>
+      <link>/dsblog/Type-of-Databases/</link>
       <pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Type-of-Databases/</guid>
+      <guid>/dsblog/Type-of-Databases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6041-Type-of-Databases.jpg&#34; alt=&#34;Type of Databases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6041-Type-of-Databases.jpg&#34; alt=&#34;Type of Databases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -182,13 +182,13 @@
     
     <item>
       <title>Dealing with Sensitive Data</title>
-      <link>http://localhost:1313/dsblog/Dealing-with-Sensitive-Data/</link>
+      <link>/dsblog/Dealing-with-Sensitive-Data/</link>
       <pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Dealing-with-Sensitive-Data/</guid>
+      <guid>/dsblog/Dealing-with-Sensitive-Data/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg&#34; alt=&#34;XAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg&#34; alt=&#34;XAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

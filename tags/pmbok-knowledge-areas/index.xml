@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PMBOK Knowledge Areas on </title>
-    <link>http://localhost:1313/tags/pmbok-knowledge-areas/</link>
+    <link>/tags/pmbok-knowledge-areas/</link>
     <description>Recent content in PMBOK Knowledge Areas on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 16 Feb 2021 18:49:23 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmbok-knowledge-areas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 18:49:23 +0000</lastBuildDate><atom:link href="/tags/pmbok-knowledge-areas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Project Stakeholder Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Stakeholder-Management/</link>
+      <link>/pmbok6/Project-Stakeholder-Management/</link>
       <pubDate>Tue, 16 Feb 2021 18:49:23 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Stakeholder-Management/</guid>
+      <guid>/pmbok6/Project-Stakeholder-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../pmbok6//assets/images/pmlogy/Project-Stakeholder-Management.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/pmbok6//assets/images/pmlogy/Project-Stakeholder-Management.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Project Risk Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Risk-Management/</link>
+      <link>/pmbok6/Project-Risk-Management/</link>
       <pubDate>Tue, 16 Feb 2021 18:24:01 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Risk-Management/</guid>
+      <guid>/pmbok6/Project-Risk-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/Project-Risk-Management.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/Project-Risk-Management.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -74,31 +74,31 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;Planning&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/identify-risks/&#34;&gt;Identify Risks&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/identify-risks/&#34;&gt;Identify Risks&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/perform-qualitative-risk-analysis/&#34;&gt;Perform Qualitative Risk Analysis&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/perform-qualitative-risk-analysis/&#34;&gt;Perform Qualitative Risk Analysis&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/perform-quantitative-risk-analysis/&#34;&gt;Perform Quantitative Risk Analysis&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/perform-quantitative-risk-analysis/&#34;&gt;Perform Quantitative Risk Analysis&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/plan-risk-management/&#34;&gt;Plan Risk Management&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/plan-risk-management/&#34;&gt;Plan Risk Management&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/plan-risk-responses/&#34;&gt;Plan Risk Responses&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/plan-risk-responses/&#34;&gt;Plan Risk Responses&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Executing&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/implement-risk-responses/&#34;&gt;Implement Risk Responses&lt;/a&gt;&amp;lt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/implement-risk-responses/&#34;&gt;Implement Risk Responses&lt;/a&gt;&amp;lt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Monitoring and Controlling&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/monitor-risks/&#34;&gt;Monitor Risks&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/monitor-risks/&#34;&gt;Monitor Risks&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
@@ -107,13 +107,13 @@
     
     <item>
       <title>Project Quality Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Quality-Management/</link>
+      <link>/pmbok6/Project-Quality-Management/</link>
       <pubDate>Tue, 16 Feb 2021 18:13:34 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Quality-Management/</guid>
+      <guid>/pmbok6/Project-Quality-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/Project-Quality-Management.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/Project-Quality-Management.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -135,13 +135,13 @@
     
     <item>
       <title>Project Schedule Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Schedule-Management/</link>
+      <link>/pmbok6/Project-Schedule-Management/</link>
       <pubDate>Tue, 16 Feb 2021 17:51:15 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Schedule-Management/</guid>
+      <guid>/pmbok6/Project-Schedule-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../pmbok6//assets/images/pmlogy/Project-Schedule-Management.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/pmbok6//assets/images/pmlogy/Project-Schedule-Management.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -168,27 +168,27 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;Planning&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/plan-schedule-management/&#34;&gt;Plan Schedule Management&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/plan-schedule-management/&#34;&gt;Plan Schedule Management&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/define-activities/&#34;&gt;Define Activities&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/define-activities/&#34;&gt;Define Activities&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/develop-schedule/&#34;&gt;Develop Schedule&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/develop-schedule/&#34;&gt;Develop Schedule&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/estimate-activity-durations/&#34;&gt;Estimate Activity Durations&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/estimate-activity-durations/&#34;&gt;Estimate Activity Durations&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/sequence-activities/&#34;&gt;Sequence Activities&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/sequence-activities/&#34;&gt;Sequence Activities&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Monitoring and Controlling&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/control-schedule/&#34;&gt;Control Schedule&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/control-schedule/&#34;&gt;Control Schedule&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
@@ -197,13 +197,13 @@
     
     <item>
       <title>Project Integration Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Integration-Management/</link>
+      <link>/pmbok6/Project-Integration-Management/</link>
       <pubDate>Tue, 16 Feb 2021 16:35:41 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Integration-Management/</guid>
+      <guid>/pmbok6/Project-Integration-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/Project-Integration-Management.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/Project-Integration-Management.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -230,31 +230,31 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;Initiating&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/develop-project-charter&#34;&gt;Develop Project Charter&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/develop-project-charter&#34;&gt;Develop Project Charter&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Planning&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/develop-project-management-plan&#34;&gt;Develop Project Management Plan&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/develop-project-management-plan&#34;&gt;Develop Project Management Plan&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Executing&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/direct-and-manage-project-work/&#34;&gt;Direct and Manage Project Work&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/direct-and-manage-project-work/&#34;&gt;Direct and Manage Project Work&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/manage-project-knowledge/&#34;&gt;Manage Project Knowledge&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/manage-project-knowledge/&#34;&gt;Manage Project Knowledge&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Monitoring and Controlling&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/monitor-and-control-project-work/&#34;&gt;Monitor and Control Project Work&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/monitor-and-control-project-work/&#34;&gt;Monitor and Control Project Work&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/perform-integrated-change-control/&#34;&gt;Perform Integrated Change Control&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/perform-integrated-change-control/&#34;&gt;Perform Integrated Change Control&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Closing&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/close-project-or-phase/&#34;&gt;Close Project or Phase&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/close-project-or-phase/&#34;&gt;Close Project or Phase&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
@@ -263,13 +263,13 @@
     
     <item>
       <title>Project Cost Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Cost-Management/</link>
+      <link>/pmbok6/Project-Cost-Management/</link>
       <pubDate>Mon, 15 Feb 2021 06:37:30 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Cost-Management/</guid>
+      <guid>/pmbok6/Project-Cost-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../pmbok6//assets/images/pmlogy/Project-Cost-Management-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/pmbok6//assets/images/pmlogy/Project-Cost-Management-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -291,13 +291,13 @@
     
     <item>
       <title>Project Procurement Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Procurement-Management/</link>
+      <link>/pmbok6/Project-Procurement-Management/</link>
       <pubDate>Mon, 15 Feb 2021 06:26:44 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Procurement-Management/</guid>
+      <guid>/pmbok6/Project-Procurement-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1037-pmbok-general.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1037-pmbok-general.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -319,13 +319,13 @@
     
     <item>
       <title>Project Resource Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Resource-Management/</link>
+      <link>/pmbok6/Project-Resource-Management/</link>
       <pubDate>Mon, 15 Feb 2021 04:24:51 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Resource-Management/</guid>
+      <guid>/pmbok6/Project-Resource-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../pmbok6//assets/images/pmblog/1037-pmbok-general.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/pmbok6//assets/images/pmblog/1037-pmbok-general.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -343,7 +343,7 @@
 &lt;/h2&gt;
 &lt;p&gt;&lt;a&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../pmbok6/&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/pmbok6/&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -353,13 +353,13 @@
     
     <item>
       <title>Project Scope Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Scope-Management/</link>
+      <link>/pmbok6/Project-Scope-Management/</link>
       <pubDate>Sat, 02 Jan 2021 17:47:21 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Scope-Management/</guid>
+      <guid>/pmbok6/Project-Scope-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/Project-Scope-Management.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/Project-Scope-Management.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -381,13 +381,13 @@
     
     <item>
       <title>Project Communication Management</title>
-      <link>http://localhost:1313/pmbok6/Project-Communication-Management/</link>
+      <link>/pmbok6/Project-Communication-Management/</link>
       <pubDate>Fri, 01 Jan 2021 06:42:23 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Communication-Management/</guid>
+      <guid>/pmbok6/Project-Communication-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/Project-Communication-Management-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/Project-Communication-Management-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database Theory on </title>
-    <link>http://localhost:1313/tags/database-theory/</link>
+    <link>/tags/database-theory/</link>
     <description>Recent content in Database Theory on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/database-theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/database-theory/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SQL and Relational Algebra</title>
-      <link>http://localhost:1313/dsblog/relational-algebra/</link>
+      <link>/dsblog/relational-algebra/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/relational-algebra/</guid>
+      <guid>/dsblog/relational-algebra/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6084-Relational-Algebra.jpg&#34; alt=&#34;Relational Algebra&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6084-Relational-Algebra.jpg&#34; alt=&#34;Relational Algebra&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

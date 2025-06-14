@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suktam on </title>
-    <link>http://localhost:1313/tags/suktam/</link>
+    <link>/tags/suktam/</link>
     <description>Recent content in Suktam on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/suktam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/suktam/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Navgruhsuktam - नवग्रहसूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/navgruhsuktam/</link>
+      <link>/samskrutyatra/navgruhsuktam/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/navgruhsuktam/</guid>
+      <guid>/samskrutyatra/navgruhsuktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -59,13 +59,13 @@
     
     <item>
       <title>भूसूक्तम्  - भूसूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/bhoosuktam/</link>
+      <link>/samskrutyatra/bhoosuktam/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bhoosuktam/</guid>
+      <guid>/samskrutyatra/bhoosuktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -106,13 +106,13 @@
     
     <item>
       <title>Narayan Suktam- नारायणसूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/narayan-suktam/</link>
+      <link>/samskrutyatra/narayan-suktam/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/narayan-suktam/</guid>
+      <guid>/samskrutyatra/narayan-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Vishnu.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Vishnu.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -155,13 +155,13 @@
     
     <item>
       <title>Purush Suktam  - पुरुषसूक्त</title>
-      <link>http://localhost:1313/samskrutyatra/purush-suktam/</link>
+      <link>/samskrutyatra/purush-suktam/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/purush-suktam/</guid>
+      <guid>/samskrutyatra/purush-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -204,13 +204,13 @@
     
     <item>
       <title>Vaak Suktam - वाक्सूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/vaak-suktam/</link>
+      <link>/samskrutyatra/vaak-suktam/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/vaak-suktam/</guid>
+      <guid>/samskrutyatra/vaak-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Vipasana.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Vipasana.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -257,13 +257,13 @@
     
     <item>
       <title>GanpatyaTharvShirshopnishad   - गणपत्यथर्वशीर्षोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/ganpatyatharvshirshopnishad/</link>
+      <link>/samskrutyatra/ganpatyatharvshirshopnishad/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/ganpatyatharvshirshopnishad/</guid>
+      <guid>/samskrutyatra/ganpatyatharvshirshopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/GaneshJi.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/GaneshJi.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -305,13 +305,13 @@
     
     <item>
       <title>Pavmaan Suktam - पवमानसूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/pavmaan-suktam/</link>
+      <link>/samskrutyatra/pavmaan-suktam/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/pavmaan-suktam/</guid>
+      <guid>/samskrutyatra/pavmaan-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -352,13 +352,13 @@
     
     <item>
       <title>Bhagya Shuktam- भाग्य सूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/bhoo-shuktam/</link>
+      <link>/samskrutyatra/bhoo-shuktam/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bhoo-shuktam/</guid>
+      <guid>/samskrutyatra/bhoo-shuktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -397,13 +397,13 @@
     
     <item>
       <title>Aayshman Suktam - आयुष्य सूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/aayshman-suktam/</link>
+      <link>/samskrutyatra/aayshman-suktam/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/aayshman-suktam/</guid>
+      <guid>/samskrutyatra/aayshman-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -442,13 +442,13 @@
     
     <item>
       <title>Medha Suktam - मेधासूक्तं</title>
-      <link>http://localhost:1313/samskrutyatra/medha-suktam/</link>
+      <link>/samskrutyatra/medha-suktam/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/medha-suktam/</guid>
+      <guid>/samskrutyatra/medha-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

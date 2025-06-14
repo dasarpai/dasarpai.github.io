@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analysis &amp; Visualization on </title>
-    <link>http://localhost:1313/categories/data-analysis--visualization/</link>
+    <link>/categories/data-analysis--visualization/</link>
     <description>Recent content in Data Analysis &amp; Visualization on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/data-analysis--visualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/data-analysis--visualization/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Frequencies in Time and Space: Understanding Nyquist Theorem &amp; its Applications</title>
-      <link>http://localhost:1313/dsblog/frequencies-in-time-and-space/</link>
+      <link>/dsblog/frequencies-in-time-and-space/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/frequencies-in-time-and-space/</guid>
+      <guid>/dsblog/frequencies-in-time-and-space/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -65,13 +65,13 @@
     
     <item>
       <title>Dimensionality Reduction and Visualization</title>
-      <link>http://localhost:1313/dsblog/Dimensionality-Reduction-and-Visualization/</link>
+      <link>/dsblog/Dimensionality-Reduction-and-Visualization/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Dimensionality-Reduction-and-Visualization/</guid>
+      <guid>/dsblog/Dimensionality-Reduction-and-Visualization/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg&#34; alt=&#34;Dimensionality-Reduction-and-Visualization&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg&#34; alt=&#34;Dimensionality-Reduction-and-Visualization&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -105,13 +105,13 @@
     
     <item>
       <title>Topic Modeling with BERT</title>
-      <link>http://localhost:1313/dsblog/topic-modeling-with-bert/</link>
+      <link>/dsblog/topic-modeling-with-bert/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/topic-modeling-with-bert/</guid>
+      <guid>/dsblog/topic-modeling-with-bert/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -179,13 +179,13 @@
     
     <item>
       <title>Distances in Machine Learning</title>
-      <link>http://localhost:1313/dsblog/Distances-in-Machine-Learning/</link>
+      <link>/dsblog/Distances-in-Machine-Learning/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Distances-in-Machine-Learning/</guid>
+      <guid>/dsblog/Distances-in-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg&#34; alt=&#34;Distances in Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg&#34; alt=&#34;Distances in Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -208,13 +208,13 @@
     
     <item>
       <title>Database and Analytics Product Services from Google Azure AWS</title>
-      <link>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
+      <link>/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
+      <guid>/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -461,13 +461,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Data Science Cheatsheets</title>
-      <link>http://localhost:1313/dsblog/data-science-cheatsheets/</link>
+      <link>/dsblog/data-science-cheatsheets/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/data-science-cheatsheets/</guid>
+      <guid>/dsblog/data-science-cheatsheets/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg&#34; alt=&#34;Data Science Cheatsheets&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg&#34; alt=&#34;Data Science Cheatsheets&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -696,13 +696,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>EDA &amp; Feature Engineering 101</title>
-      <link>http://localhost:1313/dsblog/EDA-Feature-Engineering-101/</link>
+      <link>/dsblog/EDA-Feature-Engineering-101/</link>
       <pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/EDA-Feature-Engineering-101/</guid>
+      <guid>/dsblog/EDA-Feature-Engineering-101/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6008-EDA101.jpg&#34; alt=&#34;EDA &amp;amp; Feature Engineering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6008-EDA101.jpg&#34; alt=&#34;EDA &amp;amp; Feature Engineering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

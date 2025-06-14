@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text Processing on </title>
-    <link>http://localhost:1313/tags/text-processing/</link>
+    <link>/tags/text-processing/</link>
     <description>Recent content in Text Processing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/text-processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/text-processing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is Unicode and how does it works?</title>
-      <link>http://localhost:1313/dsblog/what-is-unicode-and-how-does-it-works/</link>
+      <link>/dsblog/what-is-unicode-and-how-does-it-works/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-unicode-and-how-does-it-works/</guid>
+      <guid>/dsblog/what-is-unicode-and-how-does-it-works/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg&#34; alt=&#34;What is Unicode and how does it works?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg&#34; alt=&#34;What is Unicode and how does it works?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Empowering Language with AI NLP Capabilities</title>
-      <link>http://localhost:1313/dsblog/empowering-language-with-ainlp-capabilities/</link>
+      <link>/dsblog/empowering-language-with-ainlp-capabilities/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/empowering-language-with-ainlp-capabilities/</guid>
+      <guid>/dsblog/empowering-language-with-ainlp-capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg&#34; alt=&#34;Empowering-Language-with-AI-NLP-Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg&#34; alt=&#34;Empowering-Language-with-AI-NLP-Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Basics of Word Embedding</title>
-      <link>http://localhost:1313/dsblog/basics-of-word-embedding/</link>
+      <link>/dsblog/basics-of-word-embedding/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/basics-of-word-embedding/</guid>
+      <guid>/dsblog/basics-of-word-embedding/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg&#34; alt=&#34;Basics of Word Embedding&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg&#34; alt=&#34;Basics of Word Embedding&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -138,13 +138,13 @@
     
     <item>
       <title>Embedding with FastText</title>
-      <link>http://localhost:1313/dsblog/Embedding-with-FastText/</link>
+      <link>/dsblog/Embedding-with-FastText/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Embedding-with-FastText/</guid>
+      <guid>/dsblog/Embedding-with-FastText/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6073-Embedding-with-FastText.jpg&#34; alt=&#34;Embedding with FastText&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg&#34; alt=&#34;Embedding with FastText&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -160,8 +160,8 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;../../dsblog/what-is-nlp#what-is-embedding&#34;&gt;What is Embedding?&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;../../dsblog/what-is-nlp#what-are-different-embedding-types&#34;&gt;What are Different Types of Embedding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/dsblog/what-is-nlp#what-is-embedding&#34;&gt;What is Embedding?&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;/dsblog/what-is-nlp#what-are-different-embedding-types&#34;&gt;What are Different Types of Embedding&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;What is FastText? 

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision on </title>
-    <link>http://localhost:1313/tags/computer-vision/</link>
+    <link>/tags/computer-vision/</link>
     <description>Recent content in Computer Vision on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Audio Video Processing Concepts</title>
-      <link>http://localhost:1313/dsblog/audio-video-processing-concepts/</link>
+      <link>/dsblog/audio-video-processing-concepts/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/audio-video-processing-concepts/</guid>
+      <guid>/dsblog/audio-video-processing-concepts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg&#34; alt=&#34;Audio Video Processing Concepts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg&#34; alt=&#34;Audio Video Processing Concepts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>A Comprehensive Guide to Evaluate Generative Models</title>
-      <link>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</link>
+      <link>/dsblog/guide-to-evaluate-generative-models/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</guid>
+      <guid>/dsblog/guide-to-evaluate-generative-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview</title>
-      <link>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
+      <link>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
+      <guid>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -121,13 +121,13 @@
     
     <item>
       <title>Computer Vision Research Work</title>
-      <link>http://localhost:1313/dsblog/computer-vision-research-work/</link>
+      <link>/dsblog/computer-vision-research-work/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/computer-vision-research-work/</guid>
+      <guid>/dsblog/computer-vision-research-work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -149,13 +149,13 @@
     
     <item>
       <title>ML Model Respository from Pinto0309</title>
-      <link>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</link>
+      <link>/dsblog/ML-Model-Repository-from-Pinto0309/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
+      <guid>/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -189,13 +189,13 @@
     
     <item>
       <title>Paper with Code Resources</title>
-      <link>http://localhost:1313/dsblog/paperwithcode-resources/</link>
+      <link>/dsblog/paperwithcode-resources/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/paperwithcode-resources/</guid>
+      <guid>/dsblog/paperwithcode-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg&#34; alt=&#34;Paper with Code Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg&#34; alt=&#34;Paper with Code Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -939,13 +939,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title>
-      <link>http://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</link>
+      <link>/dsblog/Comprehensive-Glossary-of-LLM/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</guid>
+      <guid>/dsblog/Comprehensive-Glossary-of-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -967,13 +967,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>What is CAPTCHA?</title>
-      <link>http://localhost:1313/dsblog/What-is-Captcha/</link>
+      <link>/dsblog/What-is-Captcha/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Captcha/</guid>
+      <guid>/dsblog/What-is-Captcha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6070-What-is-Captcha.jpg&#34; alt=&#34;What is CAPTCHA?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6070-What-is-Captcha.jpg&#34; alt=&#34;What is CAPTCHA?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -995,13 +995,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>What is GAN Architecture?</title>
-      <link>http://localhost:1313/dsblog/What-is-GAN-Architecture/</link>
+      <link>/dsblog/What-is-GAN-Architecture/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-GAN-Architecture/</guid>
+      <guid>/dsblog/What-is-GAN-Architecture/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg&#34; alt=&#34;What is GAN Architecture?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg&#34; alt=&#34;What is GAN Architecture?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1023,13 +1023,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>AI Usecases in Agriculture Industry</title>
-      <link>http://localhost:1313/dsblog/AI-usecases-in-Agriculture-Industry/</link>
+      <link>/dsblog/AI-usecases-in-Agriculture-Industry/</link>
       <pubDate>Mon, 23 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-usecases-in-Agriculture-Industry/</guid>
+      <guid>/dsblog/AI-usecases-in-Agriculture-Industry/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg&#34; alt=&#34;AI Usecases in Agriculture Industry&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg&#34; alt=&#34;AI Usecases in Agriculture Industry&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1063,13 +1063,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>AI Use Cases in Food Processing</title>
-      <link>http://localhost:1313/dsblog/AI-Use-Cases-in-Food-Processing/</link>
+      <link>/dsblog/AI-Use-Cases-in-Food-Processing/</link>
       <pubDate>Sun, 22 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Use-Cases-in-Food-Processing/</guid>
+      <guid>/dsblog/AI-Use-Cases-in-Food-Processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg&#34; alt=&#34;&amp;ldquo;AI Use Cases in Food Processing&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg&#34; alt=&#34;&amp;ldquo;AI Use Cases in Food Processing&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1103,13 +1103,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>What is GAN?</title>
-      <link>http://localhost:1313/dsblog/What-is-GAN/</link>
+      <link>/dsblog/What-is-GAN/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-GAN/</guid>
+      <guid>/dsblog/What-is-GAN/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6043-gan.jpg&#34; alt=&#34;Partial Dependence Plots&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6043-gan.jpg&#34; alt=&#34;Partial Dependence Plots&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1143,13 +1143,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>What is Computer Vision</title>
-      <link>http://localhost:1313/dsblog/what-is-computer-vision/</link>
+      <link>/dsblog/what-is-computer-vision/</link>
       <pubDate>Wed, 28 Dec 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-computer-vision/</guid>
+      <guid>/dsblog/what-is-computer-vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg&#34; alt=&#34;What is Computer Vision&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg&#34; alt=&#34;What is Computer Vision&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1183,13 +1183,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Important AI Research Papers</title>
-      <link>http://localhost:1313/dsblog/important-ai-research-papers/</link>
+      <link>/dsblog/important-ai-research-papers/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/important-ai-research-papers/</guid>
+      <guid>/dsblog/important-ai-research-papers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg&#34; alt=&#34;Important AI Research Papers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg&#34; alt=&#34;Important AI Research Papers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision (CV) on </title>
-    <link>http://localhost:1313/categories/computer-vision-cv/</link>
+    <link>/categories/computer-vision-cv/</link>
     <description>Recent content in Computer Vision (CV) on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/computer-vision-cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/computer-vision-cv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is a Digital Twin?</title>
-      <link>http://localhost:1313/dsblog/what-is-a-digital-twin/</link>
+      <link>/dsblog/what-is-a-digital-twin/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-a-digital-twin/</guid>
+      <guid>/dsblog/what-is-a-digital-twin/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6268-what-is-a-digital-twin.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6268-what-is-a-digital-twin.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Frequencies in Time and Space: Understanding Nyquist Theorem &amp; its Applications</title>
-      <link>http://localhost:1313/dsblog/frequencies-in-time-and-space/</link>
+      <link>/dsblog/frequencies-in-time-and-space/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/frequencies-in-time-and-space/</guid>
+      <guid>/dsblog/frequencies-in-time-and-space/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Audio Video Processing Concepts</title>
-      <link>http://localhost:1313/dsblog/audio-video-processing-concepts/</link>
+      <link>/dsblog/audio-video-processing-concepts/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/audio-video-processing-concepts/</guid>
+      <guid>/dsblog/audio-video-processing-concepts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg&#34; alt=&#34;Audio Video Processing Concepts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg&#34; alt=&#34;Audio Video Processing Concepts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -121,13 +121,13 @@
     
     <item>
       <title>State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview</title>
-      <link>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
+      <link>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
+      <guid>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -161,13 +161,13 @@
     
     <item>
       <title>Understanding the Working of CNN</title>
-      <link>http://localhost:1313/dsblog/understanding-working-of-cnn/</link>
+      <link>/dsblog/understanding-working-of-cnn/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/understanding-working-of-cnn/</guid>
+      <guid>/dsblog/understanding-working-of-cnn/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg&#34; alt=&#34;Understanding the Working of CNN&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg&#34; alt=&#34;Understanding the Working of CNN&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -189,13 +189,13 @@
     
     <item>
       <title>Computer Vision Research Work</title>
-      <link>http://localhost:1313/dsblog/computer-vision-research-work/</link>
+      <link>/dsblog/computer-vision-research-work/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/computer-vision-research-work/</guid>
+      <guid>/dsblog/computer-vision-research-work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -217,13 +217,13 @@
     
     <item>
       <title>What is Computer Vision</title>
-      <link>http://localhost:1313/dsblog/what-is-computer-vision/</link>
+      <link>/dsblog/what-is-computer-vision/</link>
       <pubDate>Wed, 28 Dec 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-computer-vision/</guid>
+      <guid>/dsblog/what-is-computer-vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg&#34; alt=&#34;What is Computer Vision&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg&#34; alt=&#34;What is Computer Vision&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

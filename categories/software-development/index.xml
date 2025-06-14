@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Development on </title>
-    <link>http://localhost:1313/categories/software-development/</link>
+    <link>/categories/software-development/</link>
     <description>Recent content in Software Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Future of Programming - Capabilities of AI Coding IDEs</title>
-      <link>http://localhost:1313/dsblog/future-of-programming/</link>
+      <link>/dsblog/future-of-programming/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/future-of-programming/</guid>
+      <guid>/dsblog/future-of-programming/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6259-future-of-programming.jpg&#34; alt=&#34;future-of-programming&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6259-future-of-programming.jpg&#34; alt=&#34;future-of-programming&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -79,13 +79,13 @@
     
     <item>
       <title>Implementing Secure Authentication and Authorization</title>
-      <link>http://localhost:1313/dsblog/implementing-secure-authentication-and-authorization/</link>
+      <link>/dsblog/implementing-secure-authentication-and-authorization/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/implementing-secure-authentication-and-authorization/</guid>
+      <guid>/dsblog/implementing-secure-authentication-and-authorization/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg&#34; alt=&#34;Implementing Secure Authentication and Authorization&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg&#34; alt=&#34;Implementing Secure Authentication and Authorization&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -119,13 +119,13 @@
     
     <item>
       <title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title>
-      <link>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</link>
+      <link>/dsblog/code-review-with-coderabbit-ai/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</guid>
+      <guid>/dsblog/code-review-with-coderabbit-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -159,13 +159,13 @@
     
     <item>
       <title>Exploring Reactjs Library</title>
-      <link>http://localhost:1313/dsblog/exploring-reactjs-library/</link>
+      <link>/dsblog/exploring-reactjs-library/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-reactjs-library/</guid>
+      <guid>/dsblog/exploring-reactjs-library/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6241-Exploring-Reactjs-Library.jpg&#34; alt=&#34;React Logo&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6241-Exploring-Reactjs-Library.jpg&#34; alt=&#34;React Logo&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -188,13 +188,13 @@
     
     <item>
       <title>Software Development Toolsets Explained</title>
-      <link>http://localhost:1313/dsblog/software-development-toolsets-explained/</link>
+      <link>/dsblog/software-development-toolsets-explained/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/software-development-toolsets-explained/</guid>
+      <guid>/dsblog/software-development-toolsets-explained/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -235,13 +235,13 @@
     
     <item>
       <title>Exploring and Evaluating Integrated Development Environments (IDEs)</title>
-      <link>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</link>
+      <link>/dsblog/exploring-and-evaluating-ides/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</guid>
+      <guid>/dsblog/exploring-and-evaluating-ides/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -296,13 +296,13 @@
     
     <item>
       <title>Working with GitHub from WSL and Windows Folders</title>
-      <link>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
+      <link>/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
+      <guid>/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -324,13 +324,13 @@
     
     <item>
       <title>Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding</title>
-      <link>http://localhost:1313/dsblog/Exploring-Possibilities-with-CSS/</link>
+      <link>/dsblog/Exploring-Possibilities-with-CSS/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Possibilities-with-CSS/</guid>
+      <guid>/dsblog/Exploring-Possibilities-with-CSS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg&#34; alt=&#34;Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg&#34; alt=&#34;Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -352,13 +352,13 @@
     
     <item>
       <title>Understanding Callbacks</title>
-      <link>http://localhost:1313/dsblog/understanding-callbacks/</link>
+      <link>/dsblog/understanding-callbacks/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/understanding-callbacks/</guid>
+      <guid>/dsblog/understanding-callbacks/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6208-Understanding-Callbacks.jpg&#34; alt=&#34;Understanding Callbacks&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6208-Understanding-Callbacks.jpg&#34; alt=&#34;Understanding Callbacks&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -393,13 +393,13 @@
     
     <item>
       <title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title>
-      <link>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
+      <link>/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
+      <guid>/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -433,13 +433,13 @@
     
     <item>
       <title>The Complete Ecosystem of Software Development</title>
-      <link>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</link>
+      <link>/dsblog/the-complete-ecosystem-of-software-development/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</guid>
+      <guid>/dsblog/the-complete-ecosystem-of-software-development/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -461,13 +461,13 @@
     
     <item>
       <title>Framework for using LLM</title>
-      <link>http://localhost:1313/dsblog/Framework-for-using-LLM/</link>
+      <link>/dsblog/Framework-for-using-LLM/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Framework-for-using-LLM/</guid>
+      <guid>/dsblog/Framework-for-using-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -489,13 +489,13 @@
     
     <item>
       <title>Exploring GGUF and Other Model Formats</title>
-      <link>http://localhost:1313/dsblog/exploring-gguf-and-other-model-formats/</link>
+      <link>/dsblog/exploring-gguf-and-other-model-formats/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-gguf-and-other-model-formats/</guid>
+      <guid>/dsblog/exploring-gguf-and-other-model-formats/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6180-exploring-gguf.jpg&#34; alt=&#34;Understanding GGUF and Other Model Formats in Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6180-exploring-gguf.jpg&#34; alt=&#34;Understanding GGUF and Other Model Formats in Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -517,13 +517,13 @@
     
     <item>
       <title>Navigating Python Ecosystem</title>
-      <link>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</link>
+      <link>/dsblog/Navigating-Python-Ecosystem/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</guid>
+      <guid>/dsblog/Navigating-Python-Ecosystem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -557,13 +557,13 @@
     
     <item>
       <title>Exploring All Dimensions of Application Development</title>
-      <link>http://localhost:1313/dsblog/Exploring-All-Dimensions-of-Application-Development/</link>
+      <link>/dsblog/Exploring-All-Dimensions-of-Application-Development/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-All-Dimensions-of-Application-Development/</guid>
+      <guid>/dsblog/Exploring-All-Dimensions-of-Application-Development/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -586,13 +586,13 @@
     
     <item>
       <title>Exploring LLM Application Development</title>
-      <link>http://localhost:1313/dsblog/Exploring-LLM-App-Development/</link>
+      <link>/dsblog/Exploring-LLM-App-Development/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-LLM-App-Development/</guid>
+      <guid>/dsblog/Exploring-LLM-App-Development/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg&#34; alt=&#34;Exploring LLM Application Development&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg&#34; alt=&#34;Exploring LLM Application Development&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -626,13 +626,13 @@
     
     <item>
       <title>Navigating the JavaScript Ecosystem</title>
-      <link>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</link>
+      <link>/dsblog/Navigating-the-JavaScript-Ecosystem/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</guid>
+      <guid>/dsblog/Navigating-the-JavaScript-Ecosystem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg&#34; alt=&#34;Navigating the JavaScript Ecosystem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg&#34; alt=&#34;Navigating the JavaScript Ecosystem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -684,13 +684,13 @@
     
     <item>
       <title>Understanding HTML Templating with Python, Ruby, and PHP</title>
-      <link>http://localhost:1313/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</link>
+      <link>/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</guid>
+      <guid>/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg&#34; alt=&#34;Understanding HTML Templating with Python, Ruby, and PHP&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg&#34; alt=&#34;Understanding HTML Templating with Python, Ruby, and PHP&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -725,13 +725,13 @@
     
     <item>
       <title>Exploring Docker and VS Code Integration</title>
-      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <link>/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <guid>/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -787,13 +787,13 @@
     
     <item>
       <title>Building AI-Powered Flutter Apps: Best Practices for Folder Structure</title>
-      <link>http://localhost:1313/dsblog/Building-AI-Powered-Flutter-Apps/</link>
+      <link>/dsblog/Building-AI-Powered-Flutter-Apps/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Building-AI-Powered-Flutter-Apps/</guid>
+      <guid>/dsblog/Building-AI-Powered-Flutter-Apps/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -844,13 +844,13 @@
     
     <item>
       <title>Python Project Folders and Files</title>
-      <link>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</link>
+      <link>/dsblog/Python-Project-Folders-and-Files/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</guid>
+      <guid>/dsblog/Python-Project-Folders-and-Files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -884,13 +884,13 @@
     
     <item>
       <title>Exploring Github</title>
-      <link>http://localhost:1313/dsblog/Exploring-Github/</link>
+      <link>/dsblog/Exploring-Github/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Github/</guid>
+      <guid>/dsblog/Exploring-Github/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6142-Exploring-Github.jpg&#34; alt=&#34;Exploring Github&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6142-Exploring-Github.jpg&#34; alt=&#34;Exploring Github&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -924,13 +924,13 @@
     
     <item>
       <title>What is Package Manager?</title>
-      <link>http://localhost:1313/dsblog/What-is-Package-Manager/</link>
+      <link>/dsblog/What-is-Package-Manager/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Package-Manager/</guid>
+      <guid>/dsblog/What-is-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -965,13 +965,13 @@
     
     <item>
       <title>Software Security Concepts</title>
-      <link>http://localhost:1313/dsblog/Software-Security-Concepts/</link>
+      <link>/dsblog/Software-Security-Concepts/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Software-Security-Concepts/</guid>
+      <guid>/dsblog/Software-Security-Concepts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6132-Software-Security-Concepts.jpg&#34; alt=&#34;Software-Security-Concepts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6132-Software-Security-Concepts.jpg&#34; alt=&#34;Software-Security-Concepts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1012,13 +1012,13 @@
     
     <item>
       <title>Creating Docker Image</title>
-      <link>http://localhost:1313/dsblog/Creating-Docker-Image/</link>
+      <link>/dsblog/Creating-Docker-Image/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Creating-Docker-Image/</guid>
+      <guid>/dsblog/Creating-Docker-Image/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6122-Creating-Docker-Image.jpg&#34; alt=&#34;Creating-Docker-Image&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6122-Creating-Docker-Image.jpg&#34; alt=&#34;Creating-Docker-Image&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1084,13 +1084,13 @@
     
     <item>
       <title>LaTeX Capabilities</title>
-      <link>http://localhost:1313/dsblog/latex-capabilities/</link>
+      <link>/dsblog/latex-capabilities/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/latex-capabilities/</guid>
+      <guid>/dsblog/latex-capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6098-Latex-capabilities.jpg&#34; alt=&#34;LaTeX Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6098-Latex-capabilities.jpg&#34; alt=&#34;LaTeX Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1100,13 +1100,13 @@
     
     <item>
       <title>ML Model Development Framework</title>
-      <link>http://localhost:1313/dsblog/ML-Model-Development-Framework/</link>
+      <link>/dsblog/ML-Model-Development-Framework/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ML-Model-Development-Framework/</guid>
+      <guid>/dsblog/ML-Model-Development-Framework/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg&#34; alt=&#34;ML Model Development Framework&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg&#34; alt=&#34;ML Model Development Framework&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1134,19 +1134,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;There are hundreds of &lt;a href=&#34;../../dsblog/nlp-tasks&#34;&gt;machine learning tasks&lt;/a&gt;. To do these tasks there are &lt;a href=&#34;../../dsblog/Type-of-Databases&#34;&gt;thousands of datasets&lt;/a&gt; created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href=&#34;dsblog/ML-Model-Repository-from-Pinto0309&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;../../dsblog/paperwithcode-resources&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;../../dsblog/What-Are-Transformers-in-AI&#34;&gt;3&lt;/a&gt; and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p&gt;</description>
+&lt;p&gt;There are hundreds of &lt;a href=&#34;/dsblog/nlp-tasks&#34;&gt;machine learning tasks&lt;/a&gt;. To do these tasks there are &lt;a href=&#34;/dsblog/Type-of-Databases&#34;&gt;thousands of datasets&lt;/a&gt; created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href=&#34;dsblog/ML-Model-Repository-from-Pinto0309&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;/dsblog/paperwithcode-resources&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;/dsblog/What-Are-Transformers-in-AI&#34;&gt;3&lt;/a&gt; and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Python Decorator Function</title>
-      <link>http://localhost:1313/dsblog/Python-Decorator-Function/</link>
+      <link>/dsblog/Python-Decorator-Function/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Decorator-Function/</guid>
+      <guid>/dsblog/Python-Decorator-Function/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1180,13 +1180,13 @@
     
     <item>
       <title>Python Naming Convention</title>
-      <link>http://localhost:1313/dsblog/Python-Naming-Convention/</link>
+      <link>/dsblog/Python-Naming-Convention/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Naming-Convention/</guid>
+      <guid>/dsblog/Python-Naming-Convention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1414,13 +1414,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Python Software Development and Distribution</title>
-      <link>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</link>
+      <link>/dsblog/Python-Software-Development-and-Distribution/</link>
       <pubDate>Thu, 30 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</guid>
+      <guid>/dsblog/Python-Software-Development-and-Distribution/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1454,13 +1454,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Folder Structure for ML Project</title>
-      <link>http://localhost:1313/dsblog/Folder-Structure-for-ML-Project/</link>
+      <link>/dsblog/Folder-Structure-for-ML-Project/</link>
       <pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Folder-Structure-for-ML-Project/</guid>
+      <guid>/dsblog/Folder-Structure-for-ML-Project/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg&#34; alt=&#34;Configuration Management&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg&#34; alt=&#34;Configuration Management&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

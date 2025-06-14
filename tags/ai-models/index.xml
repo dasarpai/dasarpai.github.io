@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Models on </title>
-    <link>http://localhost:1313/tags/ai-models/</link>
+    <link>/tags/ai-models/</link>
     <description>Recent content in AI Models on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-models/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unlocking the Power of Prompts: A Comprehensive Guide to Prompt Engineering</title>
-      <link>http://localhost:1313/dsblog/unlocking-the-power-of-prompts/</link>
+      <link>/dsblog/unlocking-the-power-of-prompts/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/unlocking-the-power-of-prompts/</guid>
+      <guid>/dsblog/unlocking-the-power-of-prompts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg&#34; alt=&#34;Unlocking the Power of Prompts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg&#34; alt=&#34;Unlocking the Power of Prompts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Power of Chinese AI Models</title>
-      <link>http://localhost:1313/dsblog/power-of-chinese-ai-models/</link>
+      <link>/dsblog/power-of-chinese-ai-models/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/power-of-chinese-ai-models/</guid>
+      <guid>/dsblog/power-of-chinese-ai-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Exploring Types of Models</title>
-      <link>http://localhost:1313/dsblog/exploring-types-of-models/</link>
+      <link>/dsblog/exploring-types-of-models/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-types-of-models/</guid>
+      <guid>/dsblog/exploring-types-of-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg&#34; alt=&#34;Exploring Types of Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg&#34; alt=&#34;Exploring Types of Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -133,13 +133,13 @@
     
     <item>
       <title>Adapting AI Models to the Latest Information: Methods and Approaches</title>
-      <link>http://localhost:1313/dsblog/adapting-ai-models-to-the-latest-information/</link>
+      <link>/dsblog/adapting-ai-models-to-the-latest-information/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/adapting-ai-models-to-the-latest-information/</guid>
+      <guid>/dsblog/adapting-ai-models-to-the-latest-information/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -173,13 +173,13 @@
     
     <item>
       <title>AI Models and Creators</title>
-      <link>http://localhost:1313/dsblog/AI-Models-and-Creators/</link>
+      <link>/dsblog/AI-Models-and-Creators/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Models-and-Creators/</guid>
+      <guid>/dsblog/AI-Models-and-Creators/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -251,13 +251,13 @@
     
     <item>
       <title>Types of Large Language Models (LLM)</title>
-      <link>http://localhost:1313/dsblog/Types-of-LLM/</link>
+      <link>/dsblog/Types-of-LLM/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-LLM/</guid>
+      <guid>/dsblog/Types-of-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -279,13 +279,13 @@
     
     <item>
       <title>Stanford Alpaca</title>
-      <link>http://localhost:1313/dsblog/Stanford-Alpaca/</link>
+      <link>/dsblog/Stanford-Alpaca/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Stanford-Alpaca/</guid>
+      <guid>/dsblog/Stanford-Alpaca/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -375,13 +375,13 @@
     
     <item>
       <title>What is LLM</title>
-      <link>http://localhost:1313/dsblog/what-is-llm/</link>
+      <link>/dsblog/what-is-llm/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-llm/</guid>
+      <guid>/dsblog/what-is-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -415,13 +415,13 @@
     
     <item>
       <title>Model Garden of VertexAI</title>
-      <link>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</link>
+      <link>/dsblog/Model-Garden-of-VertexAI/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</guid>
+      <guid>/dsblog/Model-Garden-of-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -467,13 +467,13 @@
     
     <item>
       <title>What is GAN?</title>
-      <link>http://localhost:1313/dsblog/What-is-GAN/</link>
+      <link>/dsblog/What-is-GAN/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-GAN/</guid>
+      <guid>/dsblog/What-is-GAN/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6043-gan.jpg&#34; alt=&#34;Partial Dependence Plots&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6043-gan.jpg&#34; alt=&#34;Partial Dependence Plots&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -507,13 +507,13 @@
     
     <item>
       <title>What Are Transformers in AI</title>
-      <link>http://localhost:1313/dsblog/What-Are-Transformers-in-AI/</link>
+      <link>/dsblog/What-Are-Transformers-in-AI/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-Are-Transformers-in-AI/</guid>
+      <guid>/dsblog/What-Are-Transformers-in-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg&#34; alt=&#34;What-are-Transformers-in-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg&#34; alt=&#34;What-are-Transformers-in-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -543,7 +543,7 @@
 &lt;/h2&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/transformer/transformer-arch.jpg&#34; alt=&#34;Transformer&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/transformer/transformer-arch.jpg&#34; alt=&#34;Transformer&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

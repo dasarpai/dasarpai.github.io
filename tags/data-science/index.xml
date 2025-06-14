@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on </title>
-    <link>http://localhost:1313/tags/data-science/</link>
+    <link>/tags/data-science/</link>
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Features ofShazam Econometrics Software</title>
-      <link>http://localhost:1313/dsblog/shazam-features/</link>
+      <link>/dsblog/shazam-features/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/shazam-features/</guid>
+      <guid>/dsblog/shazam-features/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6186-Shazam-Features.jpg&#34; alt=&#34;Shazam-Features&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6186-Shazam-Features.jpg&#34; alt=&#34;Shazam-Features&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -43,13 +43,13 @@
     
     <item>
       <title>Automated Machine Learning</title>
-      <link>http://localhost:1313/dsblog/AutoML-Tools/</link>
+      <link>/dsblog/AutoML-Tools/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AutoML-Tools/</guid>
+      <guid>/dsblog/AutoML-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -88,13 +88,13 @@
     
     <item>
       <title>Dimensionality Reduction and Visualization</title>
-      <link>http://localhost:1313/dsblog/Dimensionality-Reduction-and-Visualization/</link>
+      <link>/dsblog/Dimensionality-Reduction-and-Visualization/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Dimensionality-Reduction-and-Visualization/</guid>
+      <guid>/dsblog/Dimensionality-Reduction-and-Visualization/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg&#34; alt=&#34;Dimensionality-Reduction-and-Visualization&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg&#34; alt=&#34;Dimensionality-Reduction-and-Visualization&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -128,13 +128,13 @@
     
     <item>
       <title>Data Science and Basics of Astrology</title>
-      <link>http://localhost:1313/dsblog/Basics-of-Astrology/</link>
+      <link>/dsblog/Basics-of-Astrology/</link>
       <pubDate>Wed, 27 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Basics-of-Astrology/</guid>
+      <guid>/dsblog/Basics-of-Astrology/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6108-Basics-of-Astrology.jpg&#34; alt=&#34;Basics of Astrology&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6108-Basics-of-Astrology.jpg&#34; alt=&#34;Basics of Astrology&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -168,13 +168,13 @@
     
     <item>
       <title>Machine Learning Metrics</title>
-      <link>http://localhost:1313/dsblog/Machine-Learning-Metrics/</link>
+      <link>/dsblog/Machine-Learning-Metrics/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Machine-Learning-Metrics/</guid>
+      <guid>/dsblog/Machine-Learning-Metrics/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -208,13 +208,13 @@
     
     <item>
       <title>All Resources to Learn Data Science</title>
-      <link>http://localhost:1313/dsblog/all-resources-to-learn-data-science/</link>
+      <link>/dsblog/all-resources-to-learn-data-science/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/all-resources-to-learn-data-science/</guid>
+      <guid>/dsblog/all-resources-to-learn-data-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -248,13 +248,13 @@
     
     <item>
       <title>The Interconnectedness of Life and Data</title>
-      <link>http://localhost:1313/dsblog/File-Formats-in-Machine-Learning/</link>
+      <link>/dsblog/File-Formats-in-Machine-Learning/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/File-Formats-in-Machine-Learning/</guid>
+      <guid>/dsblog/File-Formats-in-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg&#34; alt=&#34;The Interconnectedness of Life and Data&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg&#34; alt=&#34;The Interconnectedness of Life and Data&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -288,13 +288,13 @@
     
     <item>
       <title>Types of Machine Learning</title>
-      <link>http://localhost:1313/dsblog/Types-of-Machine-Learning/</link>
+      <link>/dsblog/Types-of-Machine-Learning/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-Machine-Learning/</guid>
+      <guid>/dsblog/Types-of-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg&#34; alt=&#34;Types of Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg&#34; alt=&#34;Types of Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -328,13 +328,13 @@
     
     <item>
       <title>GPU for Data Science Work</title>
-      <link>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</link>
+      <link>/dsblog/GPU-for-Data-Science-Work/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</guid>
+      <guid>/dsblog/GPU-for-Data-Science-Work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -368,13 +368,13 @@
     
     <item>
       <title>Introduction to Neural Network</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Neural-Network/</link>
+      <link>/dsblog/Introduction-to-Neural-Network/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Neural-Network/</guid>
+      <guid>/dsblog/Introduction-to-Neural-Network/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg&#34; alt=&#34;Introduction to Neural Network&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg&#34; alt=&#34;Introduction to Neural Network&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -408,13 +408,13 @@
     
     <item>
       <title>Timeseries Interview Questions</title>
-      <link>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</link>
+      <link>/dsblog/Timeseries-Interview-Questions/</link>
       <pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</guid>
+      <guid>/dsblog/Timeseries-Interview-Questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -522,13 +522,13 @@
     
     <item>
       <title>Linear Regression Interview Questions</title>
-      <link>http://localhost:1313/dsblog/Linear-Regression-Interview-Questions/</link>
+      <link>/dsblog/Linear-Regression-Interview-Questions/</link>
       <pubDate>Sat, 07 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Linear-Regression-Interview-Questions/</guid>
+      <guid>/dsblog/Linear-Regression-Interview-Questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg&#34; alt=&#34;Prompt Engineering for GPT4&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg&#34; alt=&#34;Prompt Engineering for GPT4&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -564,13 +564,13 @@
     
     <item>
       <title>Statistics Interview Question for Data Scientist</title>
-      <link>http://localhost:1313/dsblog/Statistics-Interview-Question-for-Data-Scientist/</link>
+      <link>/dsblog/Statistics-Interview-Question-for-Data-Scientist/</link>
       <pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Statistics-Interview-Question-for-Data-Scientist/</guid>
+      <guid>/dsblog/Statistics-Interview-Question-for-Data-Scientist/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg&#34; alt=&#34;Statistics Interview Question for Data Scientist&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg&#34; alt=&#34;Statistics Interview Question for Data Scientist&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -593,13 +593,13 @@
     
     <item>
       <title>Data Science, AI, ML, eBooks, PDF Books</title>
-      <link>http://localhost:1313/dsblog/ds-ai-ml-books/</link>
+      <link>/dsblog/ds-ai-ml-books/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ds-ai-ml-books/</guid>
+      <guid>/dsblog/ds-ai-ml-books/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg&#34; alt=&#34;DS, AI, ML, Books Available&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg&#34; alt=&#34;DS, AI, ML, Books Available&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -622,13 +622,13 @@
     
     <item>
       <title>How Naive Bayes Classifier Works</title>
-      <link>http://localhost:1313/dsblog/How-Naive-Bayes-Classifier-Works/</link>
+      <link>/dsblog/How-Naive-Bayes-Classifier-Works/</link>
       <pubDate>Wed, 31 Mar 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-Naive-Bayes-Classifier-Works/</guid>
+      <guid>/dsblog/How-Naive-Bayes-Classifier-Works/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg&#34; alt=&#34;Naive Bayes&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg&#34; alt=&#34;Naive Bayes&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -662,13 +662,13 @@
     
     <item>
       <title>DS, AI, ML Online Course, Tutorial, Videos</title>
-      <link>http://localhost:1313/dsblog/data-science-tutorial-video-resources/</link>
+      <link>/dsblog/data-science-tutorial-video-resources/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/data-science-tutorial-video-resources/</guid>
+      <guid>/dsblog/data-science-tutorial-video-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg&#34; alt=&#34;DS, AI, ML Online Course, Tutorial, Videos&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg&#34; alt=&#34;DS, AI, ML Online Course, Tutorial, Videos&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Hardware &amp; Infrastructure on </title>
-    <link>http://localhost:1313/categories/ai-hardware--infrastructure/</link>
+    <link>/categories/ai-hardware--infrastructure/</link>
     <description>Recent content in AI Hardware &amp; Infrastructure on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ai-hardware--infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/ai-hardware--infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title>
-      <link>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
+      <link>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
+      <guid>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -54,13 +54,13 @@
     
     <item>
       <title>A Deep Dive into AI Model Marketplaces for Business Managers</title>
-      <link>http://localhost:1313/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</link>
+      <link>/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</guid>
+      <guid>/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg&#34; alt=&#34;AI Model Marketplaces&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg&#34; alt=&#34;AI Model Marketplaces&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -94,13 +94,13 @@
     
     <item>
       <title>Why Use Offline AI Models?</title>
-      <link>http://localhost:1313/dsblog/why-use-offline-ai-models/</link>
+      <link>/dsblog/why-use-offline-ai-models/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/why-use-offline-ai-models/</guid>
+      <guid>/dsblog/why-use-offline-ai-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg&#34; alt=&#34;Why to use Offline AI Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg&#34; alt=&#34;Why to use Offline AI Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -122,13 +122,13 @@
     
     <item>
       <title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title>
-      <link>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
+      <link>/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
+      <guid>/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -162,13 +162,13 @@
     
     <item>
       <title>Demystifying NVIDIA GPUs</title>
-      <link>http://localhost:1313/dsblog/demystify-nvidia-gpus/</link>
+      <link>/dsblog/demystify-nvidia-gpus/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/demystify-nvidia-gpus/</guid>
+      <guid>/dsblog/demystify-nvidia-gpus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg&#34; alt=&#34;Demystifying NVIDIA GPUs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg&#34; alt=&#34;Demystifying NVIDIA GPUs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -202,13 +202,13 @@
     
     <item>
       <title>Rethinking AI Infrastructure: Advantages of On-Prem Over Cloud Solutions</title>
-      <link>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
+      <link>/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
+      <guid>/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -242,13 +242,13 @@
     
     <item>
       <title>Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence</title>
-      <link>http://localhost:1313/dsblog/shaping-tomorrow-with-ai-nvidia/</link>
+      <link>/dsblog/shaping-tomorrow-with-ai-nvidia/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/shaping-tomorrow-with-ai-nvidia/</guid>
+      <guid>/dsblog/shaping-tomorrow-with-ai-nvidia/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg&#34; alt=&#34;Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg&#34; alt=&#34;Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -283,13 +283,13 @@
     
     <item>
       <title>OpenAI 12 Days 2024 Announcements</title>
-      <link>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</link>
+      <link>/dsblog/OpenAI-12-Days-2024-Announcements/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
+      <guid>/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -325,13 +325,13 @@
     
     <item>
       <title>Exploring Graphics Processing Units (GPUs)</title>
-      <link>http://localhost:1313/dsblog/Exploring-GPUs/</link>
+      <link>/dsblog/Exploring-GPUs/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-GPUs/</guid>
+      <guid>/dsblog/Exploring-GPUs/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -527,13 +527,13 @@
     
     <item>
       <title>Microsoft AI Products</title>
-      <link>http://localhost:1313/dsblog/microsoft-ai-products/</link>
+      <link>/dsblog/microsoft-ai-products/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/microsoft-ai-products/</guid>
+      <guid>/dsblog/microsoft-ai-products/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6184-Microsoft-AI-Products.jpg&#34; alt=&#34;Microsoft-AI-Products&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6184-Microsoft-AI-Products.jpg&#34; alt=&#34;Microsoft-AI-Products&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -555,13 +555,13 @@
     
     <item>
       <title>Google AI Studio vs Vertex AI</title>
-      <link>http://localhost:1313/dsblog/google-ai-studio-vs-vertexai/</link>
+      <link>/dsblog/google-ai-studio-vs-vertexai/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/google-ai-studio-vs-vertexai/</guid>
+      <guid>/dsblog/google-ai-studio-vs-vertexai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg&#34; alt=&#34;Google AI Studio vs Vertex AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg&#34; alt=&#34;Google AI Studio vs Vertex AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -597,13 +597,13 @@
     
     <item>
       <title>Introduction to NVIDIA and Products</title>
-      <link>http://localhost:1313/dsblog/introduction-nvidia-products/</link>
+      <link>/dsblog/introduction-nvidia-products/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/introduction-nvidia-products/</guid>
+      <guid>/dsblog/introduction-nvidia-products/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -676,13 +676,13 @@
     
     <item>
       <title>Navigating the LLM Infrastructure Landscape</title>
-      <link>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</link>
+      <link>/dsblog/navigating-llm-infrastructure-landscape/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</guid>
+      <guid>/dsblog/navigating-llm-infrastructure-landscape/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -716,13 +716,13 @@
     
     <item>
       <title>Exploring GGUF and Other Model Formats</title>
-      <link>http://localhost:1313/dsblog/exploring-gguf-and-other-model-formats/</link>
+      <link>/dsblog/exploring-gguf-and-other-model-formats/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-gguf-and-other-model-formats/</guid>
+      <guid>/dsblog/exploring-gguf-and-other-model-formats/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6180-exploring-gguf.jpg&#34; alt=&#34;Understanding GGUF and Other Model Formats in Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6180-exploring-gguf.jpg&#34; alt=&#34;Understanding GGUF and Other Model Formats in Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -744,13 +744,13 @@
     
     <item>
       <title>Exploring AnythingLLM</title>
-      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <link>/dsblog/exploring-anythingllm/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <guid>/dsblog/exploring-anythingllm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -784,13 +784,13 @@
     
     <item>
       <title>AI/ML with Oracle Cloud</title>
-      <link>http://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</link>
+      <link>/dsblog/AI-ML-With-Oracle-Cloud/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</guid>
+      <guid>/dsblog/AI-ML-With-Oracle-Cloud/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg&#34; alt=&#34;AI/ML with Oracle Cloud&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg&#34; alt=&#34;AI/ML with Oracle Cloud&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -858,13 +858,13 @@
     
     <item>
       <title>Introduction to Perplexity AI</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</link>
+      <link>/dsblog/Introduction-to-Perplexity-AI/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</guid>
+      <guid>/dsblog/Introduction-to-Perplexity-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg&#34; alt=&#34;Introduction to Perplexity AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg&#34; alt=&#34;Introduction to Perplexity AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -898,13 +898,13 @@
     
     <item>
       <title>GenAI Capabilities from AWS, Azure and GCP</title>
-      <link>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
+      <link>/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
+      <guid>/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -938,13 +938,13 @@
     
     <item>
       <title>Exploring Ollama &amp; LM Studio</title>
-      <link>http://localhost:1313/dsblog/Exploring-Ollama/</link>
+      <link>/dsblog/Exploring-Ollama/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Ollama/</guid>
+      <guid>/dsblog/Exploring-Ollama/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1006,13 +1006,13 @@
     
     <item>
       <title>Tensorflow GPU Setup on Local Machine</title>
-      <link>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
+      <link>/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
+      <guid>/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1046,13 +1046,13 @@
     
     <item>
       <title>Variations of Language Model in Huggingface</title>
-      <link>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
+      <link>/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
+      <guid>/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1086,13 +1086,13 @@
     
     <item>
       <title>How Much Memory Needed for LLM</title>
-      <link>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</link>
+      <link>/dsblog/How-Much-Memory-Needed-for-LLM/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-Much-Memory-Needed-for-LLM/</guid>
+      <guid>/dsblog/How-Much-Memory-Needed-for-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg&#34; alt=&#34;How-Much-Memory-Needed-for-LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg&#34; alt=&#34;How-Much-Memory-Needed-for-LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1126,13 +1126,13 @@
     
     <item>
       <title>Compressing Large Language Model</title>
-      <link>http://localhost:1313/dsblog/compressing-llm/</link>
+      <link>/dsblog/compressing-llm/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/compressing-llm/</guid>
+      <guid>/dsblog/compressing-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6099-Compressing-LLM.jpg&#34; alt=&#34;Compressing Large Language Model&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6099-Compressing-LLM.jpg&#34; alt=&#34;Compressing Large Language Model&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1195,13 +1195,13 @@
     
     <item>
       <title>Model Tuning with VertexAI</title>
-      <link>http://localhost:1313/dsblog/Model-Tuning-with-VertexAI/</link>
+      <link>/dsblog/Model-Tuning-with-VertexAI/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Model-Tuning-with-VertexAI/</guid>
+      <guid>/dsblog/Model-Tuning-with-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg&#34; alt=&#34;Model Tuning with VertexAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg&#34; alt=&#34;Model Tuning with VertexAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1260,13 +1260,13 @@
     
     <item>
       <title>AI Product and Services from Google, Azure and AWS</title>
-      <link>http://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
+      <link>/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
+      <guid>/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1483,13 +1483,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>AWS SageMaker Jumpstart Models</title>
-      <link>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
+      <link>/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
+      <guid>/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2425,13 +2425,13 @@ id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</des
     
     <item>
       <title>Model Garden of VertexAI</title>
-      <link>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</link>
+      <link>/dsblog/Model-Garden-of-VertexAI/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</guid>
+      <guid>/dsblog/Model-Garden-of-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2477,13 +2477,13 @@ id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</des
     
     <item>
       <title>GPU for Data Science Work</title>
-      <link>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</link>
+      <link>/dsblog/GPU-for-Data-Science-Work/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</guid>
+      <guid>/dsblog/GPU-for-Data-Science-Work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

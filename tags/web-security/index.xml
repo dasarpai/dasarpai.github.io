@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Security on </title>
-    <link>http://localhost:1313/tags/web-security/</link>
+    <link>/tags/web-security/</link>
     <description>Recent content in Web Security on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/web-security/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Implementing Secure Authentication and Authorization</title>
-      <link>http://localhost:1313/dsblog/implementing-secure-authentication-and-authorization/</link>
+      <link>/dsblog/implementing-secure-authentication-and-authorization/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/implementing-secure-authentication-and-authorization/</guid>
+      <guid>/dsblog/implementing-secure-authentication-and-authorization/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg&#34; alt=&#34;Implementing Secure Authentication and Authorization&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg&#34; alt=&#34;Implementing Secure Authentication and Authorization&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Management on </title>
-    <link>http://localhost:1313/tags/project-management/</link>
+    <link>/tags/project-management/</link>
     <description>Recent content in Project Management on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI ML Project Ideas</title>
-      <link>http://localhost:1313/dsblog/AI-Project-Ideas/</link>
+      <link>/dsblog/AI-Project-Ideas/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Project-Ideas/</guid>
+      <guid>/dsblog/AI-Project-Ideas/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6205-AI-Project-Ideas.jpg&#34; alt=&#34;AI Project Ideas&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg&#34; alt=&#34;AI Project Ideas&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Agility vs Scale in Business</title>
-      <link>http://localhost:1313/pmblog/Agility-vs-Scale-in-Business/</link>
+      <link>/pmblog/Agility-vs-Scale-in-Business/</link>
       <pubDate>Thu, 09 Sep 2021 08:17:40 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Agility-vs-Scale-in-Business/</guid>
+      <guid>/pmblog/Agility-vs-Scale-in-Business/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>20 Reasons Why AI Project Fails</title>
-      <link>http://localhost:1313/dsblog/20-Reasons-Why-AI-Project-Fails/</link>
+      <link>/dsblog/20-Reasons-Why-AI-Project-Fails/</link>
       <pubDate>Fri, 20 Aug 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/20-Reasons-Why-AI-Project-Fails/</guid>
+      <guid>/dsblog/20-Reasons-Why-AI-Project-Fails/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg&#34; alt=&#34;Why AI Project Fails&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg&#34; alt=&#34;Why AI Project Fails&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -109,13 +109,13 @@
     
     <item>
       <title>My Daily Tools</title>
-      <link>http://localhost:1313/dsblog/my-daily-tools/</link>
+      <link>/dsblog/my-daily-tools/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/my-daily-tools/</guid>
+      <guid>/dsblog/my-daily-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1683,13 +1683,13 @@
     
     <item>
       <title>Fundamental of Project Management</title>
-      <link>http://localhost:1313/management/fpm/</link>
+      <link>/management/fpm/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/fpm/</guid>
+      <guid>/management/fpm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc527-fundamental-pm.jpg&#34; alt=&#34;Fundamental Pm&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc527-fundamental-pm.jpg&#34; alt=&#34;Fundamental Pm&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1711,13 +1711,13 @@
     
     <item>
       <title>PMI ACP Exam</title>
-      <link>http://localhost:1313/pmblog/PMI-ACP-Exam/</link>
+      <link>/pmblog/PMI-ACP-Exam/</link>
       <pubDate>Thu, 01 Jun 2017 07:54:47 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMI-ACP-Exam/</guid>
+      <guid>/pmblog/PMI-ACP-Exam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1751,13 +1751,13 @@
     
     <item>
       <title>Structure of Business Dialogues</title>
-      <link>http://localhost:1313/pmblog/Structure-of-Business-Dialogues/</link>
+      <link>/pmblog/Structure-of-Business-Dialogues/</link>
       <pubDate>Sat, 08 Apr 2017 16:23:16 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Structure-of-Business-Dialogues/</guid>
+      <guid>/pmblog/Structure-of-Business-Dialogues/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1029-Structure-of-Dialogue-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1029-Structure-of-Dialogue-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1779,13 +1779,13 @@
     
     <item>
       <title>Understanding Balanced Score Card</title>
-      <link>http://localhost:1313/pmblog/Understanding-Balanced-Score-Card/</link>
+      <link>/pmblog/Understanding-Balanced-Score-Card/</link>
       <pubDate>Sat, 08 Apr 2017 11:14:08 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Understanding-Balanced-Score-Card/</guid>
+      <guid>/pmblog/Understanding-Balanced-Score-Card/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1028-Balance-Scorecard-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1028-Balance-Scorecard-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1819,13 +1819,13 @@
     
     <item>
       <title>Interpersonal Skills for a project manager</title>
-      <link>http://localhost:1313/pmblog/Interpersonal-Skills-for-a-project-manager/</link>
+      <link>/pmblog/Interpersonal-Skills-for-a-project-manager/</link>
       <pubDate>Thu, 09 Feb 2017 13:12:10 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Interpersonal-Skills-for-a-project-manager/</guid>
+      <guid>/pmblog/Interpersonal-Skills-for-a-project-manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1027-Softskills-Project-Manger-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1027-Softskills-Project-Manger-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1859,13 +1859,13 @@
     
     <item>
       <title>Team Challenge</title>
-      <link>http://localhost:1313/pmblog/Team-Challenge/</link>
+      <link>/pmblog/Team-Challenge/</link>
       <pubDate>Thu, 29 Dec 2016 13:08:54 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Team-Challenge/</guid>
+      <guid>/pmblog/Team-Challenge/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1024-Challenge-Team-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1024-Challenge-Team-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1899,13 +1899,13 @@
     
     <item>
       <title>Project Manager Responsibilities</title>
-      <link>http://localhost:1313/pmblog/Project-Manager-Responsibilities/</link>
+      <link>/pmblog/Project-Manager-Responsibilities/</link>
       <pubDate>Tue, 30 Aug 2016 09:14:38 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Project-Manager-Responsibilities/</guid>
+      <guid>/pmblog/Project-Manager-Responsibilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1939,13 +1939,13 @@
     
     <item>
       <title>How to Measure Project Success Criteria</title>
-      <link>http://localhost:1313/pmblog/How-to-Measure-Project-Success-Criteria/</link>
+      <link>/pmblog/How-to-Measure-Project-Success-Criteria/</link>
       <pubDate>Tue, 30 Aug 2016 07:13:56 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/How-to-Measure-Project-Success-Criteria/</guid>
+      <guid>/pmblog/How-to-Measure-Project-Success-Criteria/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1016-Project_Success_Criteria.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1016-Project_Success_Criteria.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1979,13 +1979,13 @@
     
     <item>
       <title>Waterfall Methodology vs Agile</title>
-      <link>http://localhost:1313/pmblog/Waterfall-Methodology-vs-Agile/</link>
+      <link>/pmblog/Waterfall-Methodology-vs-Agile/</link>
       <pubDate>Mon, 29 Aug 2016 08:51:34 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Waterfall-Methodology-vs-Agile/</guid>
+      <guid>/pmblog/Waterfall-Methodology-vs-Agile/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1015-Agile-Waterfall-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1015-Agile-Waterfall-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2020,13 +2020,13 @@
     
     <item>
       <title>PMBOK 5 Process Groups &amp; Processes (Acronyms)</title>
-      <link>http://localhost:1313/pmblog/PMBOK-5-Process-Groups-Processes/</link>
+      <link>/pmblog/PMBOK-5-Process-Groups-Processes/</link>
       <pubDate>Sun, 09 Feb 2014 08:11:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMBOK-5-Process-Groups-Processes/</guid>
+      <guid>/pmblog/PMBOK-5-Process-Groups-Processes/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1010-PMBOK5.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1010-PMBOK5.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2048,13 +2048,13 @@
     
     <item>
       <title>Summary of Chaos Report 1995</title>
-      <link>http://localhost:1313/pmblog/Summary-of-Chaos-Report-1995/</link>
+      <link>/pmblog/Summary-of-Chaos-Report-1995/</link>
       <pubDate>Tue, 03 Sep 2013 03:31:57 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Summary-of-Chaos-Report-1995/</guid>
+      <guid>/pmblog/Summary-of-Chaos-Report-1995/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1009-ChaosReport.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1009-ChaosReport.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2076,7 +2076,7 @@
 &lt;/ol&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1009-Chaos-2012-Project-Cancelled-Factors.jpg&#34; alt=&#34;Chaos-2012-Project-Challenges-Factors&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1009-Chaos-2012-Project-Cancelled-Factors.jpg&#34; alt=&#34;Chaos-2012-Project-Challenges-Factors&#34; /&gt;
       
     &lt;/figure&gt;
 Chaos-2012-Project-Challenges-Factors&lt;/p&gt;</description>
@@ -2085,13 +2085,13 @@ Chaos-2012-Project-Challenges-Factors&lt;/p&gt;</description>
     
     <item>
       <title>Change Request in Project Management</title>
-      <link>http://localhost:1313/pmblog/Change-Request-in-Project-Management/</link>
+      <link>/pmblog/Change-Request-in-Project-Management/</link>
       <pubDate>Mon, 02 Sep 2013 11:25:58 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Change-Request-in-Project-Management/</guid>
+      <guid>/pmblog/Change-Request-in-Project-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1008-ChangeRequestManagement.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1008-ChangeRequestManagement.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2125,13 +2125,13 @@ Chaos-2012-Project-Challenges-Factors&lt;/p&gt;</description>
     
     <item>
       <title>Behaviors that lead to Exceptional Performance</title>
-      <link>http://localhost:1313/pmblog/Behaviors-that-lead-to-Exceptional-Performance/</link>
+      <link>/pmblog/Behaviors-that-lead-to-Exceptional-Performance/</link>
       <pubDate>Sun, 18 Aug 2013 14:40:58 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Behaviors-that-lead-to-Exceptional-Performance/</guid>
+      <guid>/pmblog/Behaviors-that-lead-to-Exceptional-Performance/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1001-Exceptional-Performance-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1001-Exceptional-Performance-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2165,13 +2165,13 @@ Chaos-2012-Project-Challenges-Factors&lt;/p&gt;</description>
     
     <item>
       <title>Bad Meetings</title>
-      <link>http://localhost:1313/pmblog/Bad-Meetings/</link>
+      <link>/pmblog/Bad-Meetings/</link>
       <pubDate>Sun, 18 Aug 2013 14:35:28 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Bad-Meetings/</guid>
+      <guid>/pmblog/Bad-Meetings/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1000-Time-Waste-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1000-Time-Waste-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2226,13 +2226,13 @@ Chaos-2012-Project-Challenges-Factors&lt;/p&gt;</description>
     
     <item>
       <title>Managing Virtual Teams</title>
-      <link>http://localhost:1313/pmblog/Managing-Virtual-Teams/</link>
+      <link>/pmblog/Managing-Virtual-Teams/</link>
       <pubDate>Sun, 18 Aug 2013 14:33:35 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Managing-Virtual-Teams/</guid>
+      <guid>/pmblog/Managing-Virtual-Teams/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1006-Virtual-Team-min.jpg&#34; alt=&#34;Managing Virtual Teams&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1006-Virtual-Team-min.jpg&#34; alt=&#34;Managing Virtual Teams&#34; /&gt;
       
     &lt;/figure&gt;
 {: width=&amp;ldquo;768&amp;rdquo;}&lt;/p&gt;
@@ -2266,13 +2266,13 @@ Chaos-2012-Project-Challenges-Factors&lt;/p&gt;</description>
     
     <item>
       <title>Understanding Project Management like a Kid</title>
-      <link>http://localhost:1313/pmblog/Understanding-Project-Management-like-a-Kid/</link>
+      <link>/pmblog/Understanding-Project-Management-like-a-Kid/</link>
       <pubDate>Sun, 18 Aug 2013 14:32:49 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Understanding-Project-Management-like-a-Kid/</guid>
+      <guid>/pmblog/Understanding-Project-Management-like-a-Kid/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

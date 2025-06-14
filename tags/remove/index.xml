@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remove on </title>
-    <link>http://localhost:1313/tags/remove/</link>
+    <link>/tags/remove/</link>
     <description>Recent content in Remove on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/remove/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/remove/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title>
-      <link>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
+      <link>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
+      <guid>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title>
-      <link>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
+      <link>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
+      <guid>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -82,13 +82,13 @@
     
     <item>
       <title>Bookmark Blog Articles from Browser</title>
-      <link>http://localhost:1313/dsblog/mybookmark-blog-articles/</link>
+      <link>/dsblog/mybookmark-blog-articles/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/mybookmark-blog-articles/</guid>
+      <guid>/dsblog/mybookmark-blog-articles/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -104,7 +104,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;This web page serves as a continuation of the &lt;a href=&#34;../../dsblog/ai-resources&#34;&gt;AI Resources&lt;/a&gt; page. As the original page grew excessively long and cumbersome to navigate, I created this dedicated page to house bookmarked articles from blogs.&lt;/p&gt;
+&lt;p&gt;This web page serves as a continuation of the &lt;a href=&#34;/dsblog/ai-resources&#34;&gt;AI Resources&lt;/a&gt; page. As the original page grew excessively long and cumbersome to navigate, I created this dedicated page to house bookmarked articles from blogs.&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;My bookmarked Articles 
@@ -281,13 +281,13 @@
     
     <item>
       <title>Visualizing Transformers and Attention</title>
-      <link>http://localhost:1313/dsblog/Visualizing-transformers-and-attention/</link>
+      <link>/dsblog/Visualizing-transformers-and-attention/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Visualizing-transformers-and-attention/</guid>
+      <guid>/dsblog/Visualizing-transformers-and-attention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -303,7 +303,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;../../dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;/dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Transformers and Their Flexibility&lt;/strong&gt; 
@@ -569,13 +569,13 @@
     
     <item>
       <title>My Daily Tools</title>
-      <link>http://localhost:1313/dsblog/my-daily-tools/</link>
+      <link>/dsblog/my-daily-tools/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/my-daily-tools/</guid>
+      <guid>/dsblog/my-daily-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr112-My-Daily-Tools.jpg&#34; alt=&#34;My Daily Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

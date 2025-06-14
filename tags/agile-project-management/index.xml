@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile Project Management on </title>
-    <link>http://localhost:1313/tags/agile-project-management/</link>
+    <link>/tags/agile-project-management/</link>
     <description>Recent content in Agile Project Management on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 14 Apr 2021 06:37:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/agile-project-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Apr 2021 06:37:00 +0000</lastBuildDate><atom:link href="/tags/agile-project-management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Agile Practices</title>
-      <link>http://localhost:1313/pmblog/Agile-Practices/</link>
+      <link>/pmblog/Agile-Practices/</link>
       <pubDate>Wed, 14 Apr 2021 06:37:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Agile-Practices/</guid>
+      <guid>/pmblog/Agile-Practices/</guid>
       <description>&lt;p&gt;SA – Scrum Alliance&lt;br&gt;
 MG – Mountain Goat&lt;br&gt;
 JS – James Shore&lt;br&gt;
@@ -354,13 +354,13 @@ IXP – Industrial XP&lt;/p&gt;
     
     <item>
       <title>Agile Project Management for HR Professionals</title>
-      <link>http://localhost:1313/pmblog/Agile-Project-Management-for-HR-Professionals/</link>
+      <link>/pmblog/Agile-Project-Management-for-HR-Professionals/</link>
       <pubDate>Tue, 04 Sep 2018 06:44:57 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Agile-Project-Management-for-HR-Professionals/</guid>
+      <guid>/pmblog/Agile-Project-Management-for-HR-Professionals/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1035-Agile-HR-min.png&#34; alt=&#34;Agile Project Management for HR Professionals&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1035-Agile-HR-min.png&#34; alt=&#34;Agile Project Management for HR Professionals&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -394,13 +394,13 @@ IXP – Industrial XP&lt;/p&gt;
     
     <item>
       <title>PMI ACP Exam</title>
-      <link>http://localhost:1313/pmblog/PMI-ACP-Exam/</link>
+      <link>/pmblog/PMI-ACP-Exam/</link>
       <pubDate>Thu, 01 Jun 2017 07:54:47 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMI-ACP-Exam/</guid>
+      <guid>/pmblog/PMI-ACP-Exam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -434,13 +434,13 @@ IXP – Industrial XP&lt;/p&gt;
     
     <item>
       <title>Why Agile is popular in project management?</title>
-      <link>http://localhost:1313/pmblog/Why-Agile-is-popular-in-project-management/</link>
+      <link>/pmblog/Why-Agile-is-popular-in-project-management/</link>
       <pubDate>Wed, 31 Aug 2016 14:09:27 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Why-Agile-is-popular-in-project-management/</guid>
+      <guid>/pmblog/Why-Agile-is-popular-in-project-management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1018-Why-APM-is-Popular-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1018-Why-APM-is-Popular-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -462,13 +462,13 @@ IXP – Industrial XP&lt;/p&gt;
     
     <item>
       <title>Waterfall Methodology vs Agile</title>
-      <link>http://localhost:1313/pmblog/Waterfall-Methodology-vs-Agile/</link>
+      <link>/pmblog/Waterfall-Methodology-vs-Agile/</link>
       <pubDate>Mon, 29 Aug 2016 08:51:34 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Waterfall-Methodology-vs-Agile/</guid>
+      <guid>/pmblog/Waterfall-Methodology-vs-Agile/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1015-Agile-Waterfall-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1015-Agile-Waterfall-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -503,13 +503,13 @@ IXP – Industrial XP&lt;/p&gt;
     
     <item>
       <title>PMI-ACP Exam Preparation Books</title>
-      <link>http://localhost:1313/pmblog/PMI-ACP-Exam-Preparation-Books/</link>
+      <link>/pmblog/PMI-ACP-Exam-Preparation-Books/</link>
       <pubDate>Thu, 22 Aug 2013 05:53:35 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMI-ACP-Exam-Preparation-Books/</guid>
+      <guid>/pmblog/PMI-ACP-Exam-Preparation-Books/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

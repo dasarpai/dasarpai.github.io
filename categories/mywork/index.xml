@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mywork on </title>
-    <link>http://localhost:1313/categories/mywork/</link>
+    <link>/categories/mywork/</link>
     <description>Recent content in Mywork on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/mywork/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/mywork/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Description of Business Domains</title>
-      <link>http://localhost:1313/projects/Description-of-Business-Domains/</link>
+      <link>/projects/Description-of-Business-Domains/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/Description-of-Business-Domains/</guid>
+      <guid>/projects/Description-of-Business-Domains/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Description of Business Domains 
     &lt;div id=&#34;description-of-business-domains&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@
     
     <item>
       <title>Project Index Page</title>
-      <link>http://localhost:1313/projects/project-index-page/</link>
+      <link>/projects/project-index-page/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/project-index-page/</guid>
+      <guid>/projects/project-index-page/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Project Index Page 
     &lt;div id=&#34;project-index-page&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -66,10 +66,10 @@
     
     <item>
       <title>Summary of AI ML Project</title>
-      <link>http://localhost:1313/projects/summary-of-al-ml-projects/</link>
+      <link>/projects/summary-of-al-ml-projects/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/summary-of-al-ml-projects/</guid>
+      <guid>/projects/summary-of-al-ml-projects/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;AI/ML - Industries - Developed/ Created/ Expanded work 
     &lt;div id=&#34;aiml---industries---developed-created-expanded-work&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -81,7 +81,7 @@
     
 &lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Projects in this section are listed according to Industry/Business Domain.&lt;/strong&gt;
-Sometimes it is difficult for me to find out in what domain a particular project falls into, therefore I have created &lt;a href=&#34;../../Description-of-Business-Domains&#34;&gt;this page&lt;/a&gt; to decide the domain.&lt;/p&gt;
+Sometimes it is difficult for me to find out in what domain a particular project falls into, therefore I have created &lt;a href=&#34;/Description-of-Business-Domains&#34;&gt;this page&lt;/a&gt; to decide the domain.&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;&lt;font color=green&gt;BFSI (Banking, Financial Services, and Insurance)&lt;/font&gt; 
@@ -100,10 +100,10 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Summary of Management Project</title>
-      <link>http://localhost:1313/projects/summary-of-management-projects/</link>
+      <link>/projects/summary-of-management-projects/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/summary-of-management-projects/</guid>
+      <guid>/projects/summary-of-management-projects/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Management 
     &lt;div id=&#34;management&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -170,10 +170,10 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Summary of My Technology Stacks</title>
-      <link>http://localhost:1313/projects/summary-of-my-technology-stacks/</link>
+      <link>/projects/summary-of-my-technology-stacks/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/summary-of-my-technology-stacks/</guid>
+      <guid>/projects/summary-of-my-technology-stacks/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;My Technology Stack - Developed/ Created/ Expended work 
     &lt;div id=&#34;my-technology-stack---developed-created-expended-work&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1030,13 +1030,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Aranyak Parva Explorations - Mahabharata Book 3</title>
-      <link>http://localhost:1313/projects/mahabharat/mahabharata-aranyak-parva-exploration-with-qa/</link>
+      <link>/projects/mahabharat/mahabharata-aranyak-parva-exploration-with-qa/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/mahabharat/mahabharata-aranyak-parva-exploration-with-qa/</guid>
+      <guid>/projects/mahabharat/mahabharata-aranyak-parva-exploration-with-qa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/Mahabharata-Book3-bookCover.jpg&#34; alt=&#34;Book: Aranyak Parva Explorations : Mahabharata Book 1&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/Mahabharata-Book3-bookCover.jpg&#34; alt=&#34;Book: Aranyak Parva Explorations : Mahabharata Book 1&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1084,13 +1084,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Book: Adi Parva Explorations : Mahabharata Book 1</title>
-      <link>http://localhost:1313/projects/mahabharat/mahabharata-adi-parva-exploration-with-qa/</link>
+      <link>/projects/mahabharat/mahabharata-adi-parva-exploration-with-qa/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/mahabharat/mahabharata-adi-parva-exploration-with-qa/</guid>
+      <guid>/projects/mahabharat/mahabharata-adi-parva-exploration-with-qa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/Mahabharata-Book1-bookCover3.jpg&#34; alt=&#34;Book: Adi Parva Explorations : Mahabharata Book 1&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/Mahabharata-Book1-bookCover3.jpg&#34; alt=&#34;Book: Adi Parva Explorations : Mahabharata Book 1&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1138,13 +1138,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Book: Wisdom in Awareness - Quotations for the Clarity</title>
-      <link>http://localhost:1313/projects/Wisdom-in-Awareness-Quotations-for-the-Clarity/</link>
+      <link>/projects/Wisdom-in-Awareness-Quotations-for-the-Clarity/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/Wisdom-in-Awareness-Quotations-for-the-Clarity/</guid>
+      <guid>/projects/Wisdom-in-Awareness-Quotations-for-the-Clarity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/WIAQfC-Coverpage2.jpg&#34; alt=&#34;Book: Windom in Awareness - Quotations for the Clarity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/WIAQfC-Coverpage2.jpg&#34; alt=&#34;Book: Windom in Awareness - Quotations for the Clarity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1181,13 +1181,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Sabha Parva Explorations - Mahabharata Book 3</title>
-      <link>http://localhost:1313/projects/mahabharat/mahabharata-sabha-parva-exploration-with-qa/</link>
+      <link>/projects/mahabharat/mahabharata-sabha-parva-exploration-with-qa/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/mahabharat/mahabharata-sabha-parva-exploration-with-qa/</guid>
+      <guid>/projects/mahabharat/mahabharata-sabha-parva-exploration-with-qa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/Mahabharata-Book2-bookCover.jpg&#34; alt=&#34;Book: Sabha Parva Explorations : Mahabharata Book 1&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/Mahabharata-Book2-bookCover.jpg&#34; alt=&#34;Book: Sabha Parva Explorations : Mahabharata Book 1&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1235,13 +1235,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Book: Mindful Project Management</title>
-      <link>http://localhost:1313/projects/mindful-project-management/</link>
+      <link>/projects/mindful-project-management/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/mindful-project-management/</guid>
+      <guid>/projects/mindful-project-management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/mfpm-Coverpage1.jpg&#34; alt=&#34;Book: Mindful Projet Management&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/mfpm-Coverpage1.jpg&#34; alt=&#34;Book: Mindful Projet Management&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1278,13 +1278,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Research: AI Powered Historical Book Question Answering</title>
-      <link>http://localhost:1313/projects/AI-Powered-Historical-Book-Question-Answering/</link>
+      <link>/projects/AI-Powered-Historical-Book-Question-Answering/</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/AI-Powered-Historical-Book-Question-Answering/</guid>
+      <guid>/projects/AI-Powered-Historical-Book-Question-Answering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg&#34; alt=&#34;AI-Powered-Historical-Book-Question-Answering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg&#34; alt=&#34;AI-Powered-Historical-Book-Question-Answering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1318,13 +1318,13 @@ Sometimes it is difficult for me to find out in what domain a particular project
     
     <item>
       <title>Research: Sarcasm Detection System for Hinglish Language</title>
-      <link>http://localhost:1313/projects/Sarcasm-Detection-System-for-Hinglish-Language/</link>
+      <link>/projects/Sarcasm-Detection-System-for-Hinglish-Language/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/projects/Sarcasm-Detection-System-for-Hinglish-Language/</guid>
+      <guid>/projects/Sarcasm-Detection-System-for-Hinglish-Language/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg&#34; alt=&#34;Sarcasm-Detection-System-for-Hinglish-Language&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg&#34; alt=&#34;Sarcasm-Detection-System-for-Hinglish-Language&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

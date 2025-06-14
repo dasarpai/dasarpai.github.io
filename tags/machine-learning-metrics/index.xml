@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning Metrics on </title>
-    <link>http://localhost:1313/tags/machine-learning-metrics/</link>
+    <link>/tags/machine-learning-metrics/</link>
     <description>Recent content in Machine Learning Metrics on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/machine-learning-metrics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/machine-learning-metrics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Benchmarks for 2025</title>
-      <link>http://localhost:1313/dsblog/ai-benchmarks-2025/</link>
+      <link>/dsblog/ai-benchmarks-2025/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-benchmarks-2025/</guid>
+      <guid>/dsblog/ai-benchmarks-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg&#34; alt=&#34;AI Benchmark for 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg&#34; alt=&#34;AI Benchmark for 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Machine Learning Metrics</title>
-      <link>http://localhost:1313/dsblog/Machine-Learning-Metrics/</link>
+      <link>/dsblog/Machine-Learning-Metrics/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Machine-Learning-Metrics/</guid>
+      <guid>/dsblog/Machine-Learning-Metrics/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>Confusion Matrix Bayesian Theorem</title>
-      <link>http://localhost:1313/dsblog/Confusion-Matrix-Bayesian-Theorem/</link>
+      <link>/dsblog/Confusion-Matrix-Bayesian-Theorem/</link>
       <pubDate>Mon, 22 Aug 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Confusion-Matrix-Bayesian-Theorem/</guid>
+      <guid>/dsblog/Confusion-Matrix-Bayesian-Theorem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg&#34; alt=&#34;Confusion Matrix&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg&#34; alt=&#34;Confusion Matrix&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

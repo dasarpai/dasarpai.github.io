@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZED Certification on </title>
-    <link>http://localhost:1313/tags/zed-certification/</link>
+    <link>/tags/zed-certification/</link>
     <description>Recent content in ZED Certification on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 29 Sep 2022 15:50:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/zed-certification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 15:50:00 +0530</lastBuildDate><atom:link href="/tags/zed-certification/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ZED Best Practices v2</title>
-      <link>http://localhost:1313/pmblog/ZED-Best-Practices-v2/</link>
+      <link>/pmblog/ZED-Best-Practices-v2/</link>
       <pubDate>Thu, 29 Sep 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/ZED-Best-Practices-v2/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../assets/images/pmblog/1044-ZED-V1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>/pmblog/ZED-Best-Practices-v2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/assets/images/pmblog/1044-ZED-V1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;ZED Best Practices Based on Version 2 

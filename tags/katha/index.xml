@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katha on </title>
-    <link>http://localhost:1313/tags/katha/</link>
+    <link>/tags/katha/</link>
     <description>Recent content in Katha on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/katha/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/katha/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>चाणक्य जीवनस्य (लघुकथा:)</title>
-      <link>http://localhost:1313/samskrutyatra/chanakya-jivanasya-katha/</link>
+      <link>/samskrutyatra/chanakya-jivanasya-katha/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chanakya-jivanasya-katha/</guid>
+      <guid>/samskrutyatra/chanakya-jivanasya-katha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -66,13 +66,13 @@ Chanakya Jivanasya Katha&lt;/p&gt;</description>
     
     <item>
       <title>कर्मकर्याः दण्डं (लघुकथा:)</title>
-      <link>http://localhost:1313/samskrutyatra/punishment-of-enjoyment/</link>
+      <link>/samskrutyatra/punishment-of-enjoyment/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/punishment-of-enjoyment/</guid>
+      <guid>/samskrutyatra/punishment-of-enjoyment/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -116,13 +116,13 @@ Chanakya Jivanasya Katha&lt;/p&gt;</description>
     
     <item>
       <title>गमानुगतः लोकव्यवहारः (लघुकथा:)</title>
-      <link>http://localhost:1313/samskrutyatra/gamanugat-lokvyavhar/</link>
+      <link>/samskrutyatra/gamanugat-lokvyavhar/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/gamanugat-lokvyavhar/</guid>
+      <guid>/samskrutyatra/gamanugat-lokvyavhar/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -170,13 +170,13 @@ Gamanugat Lokvyavhar&lt;/p&gt;</description>
     
     <item>
       <title>मदनमोहन मालवीय: (लघुकथा:)</title>
-      <link>http://localhost:1313/samskrutyatra/madanmohal-malviya-sanskrit-katha/</link>
+      <link>/samskrutyatra/madanmohal-malviya-sanskrit-katha/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/madanmohal-malviya-sanskrit-katha/</guid>
+      <guid>/samskrutyatra/madanmohal-malviya-sanskrit-katha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -221,13 +221,13 @@ Gamanugat Lokvyavhar&lt;/p&gt;</description>
     
     <item>
       <title>संस्कृत प्रश्नोत्तर भाग-1</title>
-      <link>http://localhost:1313/samskrutyatra/sanskrit-question-answers/</link>
+      <link>/samskrutyatra/sanskrit-question-answers/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sanskrit-question-answers/</guid>
+      <guid>/samskrutyatra/sanskrit-question-answers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -256,13 +256,13 @@ Gamanugat Lokvyavhar&lt;/p&gt;</description>
     
     <item>
       <title>लघुकथा: सेतुः निर्माणं</title>
-      <link>http://localhost:1313/samskrutyatra/building-a-bridge/</link>
+      <link>/samskrutyatra/building-a-bridge/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/building-a-bridge/</guid>
+      <guid>/samskrutyatra/building-a-bridge/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -285,13 +285,13 @@ Gamanugat Lokvyavhar&lt;/p&gt;</description>
     
     <item>
       <title>Yaksha Prashna - यक्षप्रश्ना:</title>
-      <link>http://localhost:1313/samskrutyatra/yaksha-prashna/</link>
+      <link>/samskrutyatra/yaksha-prashna/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/yaksha-prashna/</guid>
+      <guid>/samskrutyatra/yaksha-prashna/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Subhashitam.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Subhashitam.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -327,13 +327,13 @@ Gamanugat Lokvyavhar&lt;/p&gt;</description>
     
     <item>
       <title>Vikatkavi - विकटकविः</title>
-      <link>http://localhost:1313/samskrutyatra/vikatkavi/</link>
+      <link>/samskrutyatra/vikatkavi/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/vikatkavi/</guid>
+      <guid>/samskrutyatra/vikatkavi/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Subhashitam.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Subhashitam.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -363,13 +363,13 @@ Gamanugat Lokvyavhar&lt;/p&gt;</description>
     
     <item>
       <title>मनुष्यस्य शरीरस्य महत्वं</title>
-      <link>http://localhost:1313/samskrutyatra/importance-of-human-body/</link>
+      <link>/samskrutyatra/importance-of-human-body/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/importance-of-human-body/</guid>
+      <guid>/samskrutyatra/importance-of-human-body/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Story.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

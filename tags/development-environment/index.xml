@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development Environment on </title>
-    <link>http://localhost:1313/tags/development-environment/</link>
+    <link>/tags/development-environment/</link>
     <description>Recent content in Development Environment on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/development-environment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/development-environment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring and Evaluating Integrated Development Environments (IDEs)</title>
-      <link>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</link>
+      <link>/dsblog/exploring-and-evaluating-ides/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-and-evaluating-ides/</guid>
+      <guid>/dsblog/exploring-and-evaluating-ides/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg&#34; alt=&#34;Explroring IDEs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -74,13 +74,13 @@
     
     <item>
       <title>Working with GitHub from WSL and Windows Folders</title>
-      <link>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
+      <link>/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
+      <guid>/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -102,13 +102,13 @@
     
     <item>
       <title>Online Coding Tools: Choosing the Right IDE for Your Project</title>
-      <link>http://localhost:1313/dsblog/online-coding-tools/</link>
+      <link>/dsblog/online-coding-tools/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/online-coding-tools/</guid>
+      <guid>/dsblog/online-coding-tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6232-Online-Coding-Tools.jpg&#34; alt=&#34;Online Coding Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6232-Online-Coding-Tools.jpg&#34; alt=&#34;Online Coding Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -143,13 +143,13 @@
     
     <item>
       <title>Setting Up a Development Environment with Windows 11, WSL2 and Docker</title>
-      <link>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
+      <link>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
+      <guid>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -184,13 +184,13 @@
     
     <item>
       <title>Exploring Docker and VS Code Integration</title>
-      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <link>/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <guid>/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -246,13 +246,13 @@
     
     <item>
       <title>Python Project Folders and Files</title>
-      <link>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</link>
+      <link>/dsblog/Python-Project-Folders-and-Files/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</guid>
+      <guid>/dsblog/Python-Project-Folders-and-Files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -286,13 +286,13 @@
     
     <item>
       <title>Tensorflow GPU Setup on Local Machine</title>
-      <link>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
+      <link>/dsblog/Tensorflow-gpu-setup-on-local-machine/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
+      <guid>/dsblog/Tensorflow-gpu-setup-on-local-machine/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg&#34; alt=&#34;Tensorflow GPU Setup on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -326,13 +326,13 @@
     
     <item>
       <title>Programming Resources</title>
-      <link>http://localhost:1313/dsblog/Programming-Resources/</link>
+      <link>/dsblog/Programming-Resources/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Programming-Resources/</guid>
+      <guid>/dsblog/Programming-Resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6136-Programming-Resources.jpg&#34; alt=&#34;Programming-Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6136-Programming-Resources.jpg&#34; alt=&#34;Programming-Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -713,9 +713,9 @@
     
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md&#34;&gt;design-url-shortner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md&#34;&gt;e-Commerce-site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md&#34;&gt;Whatsapp-Basic-Features-of-a-chat-app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md&#34;&gt;design-url-shortner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md&#34;&gt;e-Commerce-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md&#34;&gt;Whatsapp-Basic-Features-of-a-chat-app&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scottaohara.github.io/accessibility_interview_questions/&#34; target=&#34;_blank&#34;&gt;Accessibility Interview Questions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1071,7 +1071,7 @@
 &lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34; target=&#34;_blank&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/&#34; target=&#34;_blank&#34;&gt;Interviewcake&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/&#34; target=&#34;_blank&#34;&gt;InterviewBit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br&#34;&gt;uCoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br&#34;&gt;uCoder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lintcode.com/&#34; target=&#34;_blank&#34;&gt;LintCode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://codecombat.com/&#34; target=&#34;_blank&#34;&gt;CodeCombat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -1080,13 +1080,13 @@
     
     <item>
       <title>Decoding pip install operations</title>
-      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <link>/dsblog/Decoding-pip-install-operations/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <guid>/dsblog/Decoding-pip-install-operations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1122,13 +1122,13 @@
     
     <item>
       <title>Google Cloud APIs</title>
-      <link>http://localhost:1313/dsblog/Google-Cloud-APIS/</link>
+      <link>/dsblog/Google-Cloud-APIS/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Google-Cloud-APIS/</guid>
+      <guid>/dsblog/Google-Cloud-APIS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6082-Google-API-Services.jpg&#34; alt=&#34;Google Cloud APIs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6082-Google-API-Services.jpg&#34; alt=&#34;Google Cloud APIs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

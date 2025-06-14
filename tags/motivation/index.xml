@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motivation on </title>
-    <link>http://localhost:1313/tags/motivation/</link>
+    <link>/tags/motivation/</link>
     <description>Recent content in Motivation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What Keeps Me Moving?</title>
-      <link>http://localhost:1313/wiaposts/what-keeps-me-moving/</link>
+      <link>/wiaposts/what-keeps-me-moving/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-keeps-me-moving/</guid>
+      <guid>/wiaposts/what-keeps-me-moving/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5289-what-keeps-me-moving.jpg&#34; alt=&#34;What Keeps Me Moving&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5289-what-keeps-me-moving.jpg&#34; alt=&#34;What Keeps Me Moving&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -50,13 +50,13 @@ on both worldly and inner sciences,&lt;/p&gt;</description>
     
     <item>
       <title>Value Based True Friendship</title>
-      <link>http://localhost:1313/wiaposts/value-based-true-friendship/</link>
+      <link>/wiaposts/value-based-true-friendship/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/value-based-true-friendship/</guid>
+      <guid>/wiaposts/value-based-true-friendship/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5135-Value-Based-True-Friendship.jpg&#34; alt=&#34;Value Based True Friendship&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5135-Value-Based-True-Friendship.jpg&#34; alt=&#34;Value Based True Friendship&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

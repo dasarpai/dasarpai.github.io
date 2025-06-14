@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Summary on </title>
-    <link>http://localhost:1313/categories/book-summary/</link>
+    <link>/categories/book-summary/</link>
     <description>Recent content in Book Summary on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/book-summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/book-summary/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Odyssey by Homer Book Summary and Analysis</title>
-      <link>http://localhost:1313/booksummary/The-Odyssey-by-Homer/</link>
+      <link>/booksummary/The-Odyssey-by-Homer/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Odyssey-by-Homer/</guid>
+      <guid>/booksummary/The-Odyssey-by-Homer/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -43,13 +43,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>The Iliad by Homer - Epic Poem Summary</title>
-      <link>http://localhost:1313/booksummary/The-Iliad-by-Homer/</link>
+      <link>/booksummary/The-Iliad-by-Homer/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Iliad-by-Homer/</guid>
+      <guid>/booksummary/The-Iliad-by-Homer/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -71,13 +71,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>Alice&#39;s Adventures in Wonderland by Lewis Carroll</title>
-      <link>http://localhost:1313/booksummary/Alices-Adventures-in-Wonderland-by-Lewis-Carroll/</link>
+      <link>/booksummary/Alices-Adventures-in-Wonderland-by-Lewis-Carroll/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Alices-Adventures-in-Wonderland-by-Lewis-Carroll/</guid>
+      <guid>/booksummary/Alices-Adventures-in-Wonderland-by-Lewis-Carroll/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -100,13 +100,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>Lessons from Pride and Prejudice by Jane Austen</title>
-      <link>http://localhost:1313/booksummary/Pride-and-Prejudice/</link>
+      <link>/booksummary/Pride-and-Prejudice/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Pride-and-Prejudice/</guid>
+      <guid>/booksummary/Pride-and-Prejudice/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/default/summaryblog.jpg&#34; alt=&#34;Summary Blog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -128,13 +128,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>The Autobiography of Benjamin Franklin</title>
-      <link>http://localhost:1313/booksummary/The-Autobiography-of-Benjamin-Franklin/</link>
+      <link>/booksummary/The-Autobiography-of-Benjamin-Franklin/</link>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Autobiography-of-Benjamin-Franklin/</guid>
+      <guid>/booksummary/The-Autobiography-of-Benjamin-Franklin/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg&#34; alt=&#34;The Autobiography of Benjamin Franklin&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg&#34; alt=&#34;The Autobiography of Benjamin Franklin&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -156,13 +156,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>The Anxious Generation</title>
-      <link>http://localhost:1313/booksummary/The-Anxious-Generation/</link>
+      <link>/booksummary/The-Anxious-Generation/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Anxious-Generation/</guid>
+      <guid>/booksummary/The-Anxious-Generation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7539-The-Anxious-Generation.jpg&#34; alt=&#34;The Anxious Generation&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7539-The-Anxious-Generation.jpg&#34; alt=&#34;The Anxious Generation&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -196,13 +196,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>The Beginning of Infinity</title>
-      <link>http://localhost:1313/booksummary/The-Beginning-of-Infinity/</link>
+      <link>/booksummary/The-Beginning-of-Infinity/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Beginning-of-Infinity/</guid>
+      <guid>/booksummary/The-Beginning-of-Infinity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg&#34; alt=&#34;The Beginning of Infinity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg&#34; alt=&#34;The Beginning of Infinity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -224,13 +224,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>Book Summary: The Wealth of Nations</title>
-      <link>http://localhost:1313/booksummary/The-Wealth-of-Nations/</link>
+      <link>/booksummary/The-Wealth-of-Nations/</link>
       <pubDate>Mon, 14 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Wealth-of-Nations/</guid>
+      <guid>/booksummary/The-Wealth-of-Nations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7528-The-Wealth-of-Nations.jpg&#34; alt=&#34;Book Summary: The-Wealth-of-Nations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7528-The-Wealth-of-Nations.jpg&#34; alt=&#34;Book Summary: The-Wealth-of-Nations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -254,13 +254,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>Book Summary: The Intelligent Investor</title>
-      <link>http://localhost:1313/booksummary/The-Intelligent-Investor/</link>
+      <link>/booksummary/The-Intelligent-Investor/</link>
       <pubDate>Sun, 13 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Intelligent-Investor/</guid>
+      <guid>/booksummary/The-Intelligent-Investor/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7527-The-Intelligent-Investor.jpg&#34; alt=&#34;Book Summary: The-Intelligent-Investor&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7527-The-Intelligent-Investor.jpg&#34; alt=&#34;Book Summary: The-Intelligent-Investor&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -302,13 +302,13 @@ It is an &lt;strong&gt;epic poem&lt;/strong&gt; with &lt;strong&gt;24 books&lt;/
     
     <item>
       <title>Book Summary: Principles of Economics</title>
-      <link>http://localhost:1313/booksummary/Principles-of-Economics/</link>
+      <link>/booksummary/Principles-of-Economics/</link>
       <pubDate>Sat, 12 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Principles-of-Economics/</guid>
+      <guid>/booksummary/Principles-of-Economics/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7526-Principles-of-Economics.jpg&#34; alt=&#34;Book Summary: Principles-of-Economics&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7526-Principles-of-Economics.jpg&#34; alt=&#34;Book Summary: Principles-of-Economics&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -342,13 +342,13 @@ including the theory of value, distribution of income, and the concept of supply
     
     <item>
       <title>Book Summary: God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning</title>
-      <link>http://localhost:1313/booksummary/God-Human-Animal-Machine/</link>
+      <link>/booksummary/God-Human-Animal-Machine/</link>
       <pubDate>Fri, 11 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/God-Human-Animal-Machine/</guid>
+      <guid>/booksummary/God-Human-Animal-Machine/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7525-God-Human-Animal-Machine.jpg&#34; alt=&#34;Book Summary: God-Human-Animal-Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7525-God-Human-Animal-Machine.jpg&#34; alt=&#34;Book Summary: God-Human-Animal-Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -371,13 +371,13 @@ Here is a 10-point summary of &lt;em&gt;God, Human, Animal, Machine: Technology,
     
     <item>
       <title>Book Summary: General Theory of Employment, Interest and Money</title>
-      <link>http://localhost:1313/booksummary/General-Theory-of-Employment-Interest-Money/</link>
+      <link>/booksummary/General-Theory-of-Employment-Interest-Money/</link>
       <pubDate>Fri, 20 Sep 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/General-Theory-of-Employment-Interest-Money/</guid>
+      <guid>/booksummary/General-Theory-of-Employment-Interest-Money/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg&#34; alt=&#34;Book Summary: General-Theory-of-Employment-Interest-Money&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg&#34; alt=&#34;Book Summary: General-Theory-of-Employment-Interest-Money&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -399,13 +399,13 @@ Here is a 10-point summary of &lt;em&gt;God, Human, Animal, Machine: Technology,
     
     <item>
       <title>Book Summary: Das Kapital</title>
-      <link>http://localhost:1313/booksummary/Das-Kapital/</link>
+      <link>/booksummary/Das-Kapital/</link>
       <pubDate>Thu, 19 Sep 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Das-Kapital/</guid>
+      <guid>/booksummary/Das-Kapital/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7523-Das-Kapital.jpg&#34; alt=&#34;Book Summary: Das-Kapital&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7523-Das-Kapital.jpg&#34; alt=&#34;Book Summary: Das-Kapital&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -429,13 +429,13 @@ Here is a 10-point summary of &lt;em&gt;God, Human, Animal, Machine: Technology,
     
     <item>
       <title>Book Summary: Arthashastra of Kautilya</title>
-      <link>http://localhost:1313/booksummary/Arthashastra-of-Kautilya/</link>
+      <link>/booksummary/Arthashastra-of-Kautilya/</link>
       <pubDate>Wed, 18 Sep 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Arthashastra-of-Kautilya/</guid>
+      <guid>/booksummary/Arthashastra-of-Kautilya/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7522-Arthashastra-of-Kautilya.jpg&#34; alt=&#34;Book Summary: Arthashastra-of-Kautilya&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7522-Arthashastra-of-Kautilya.jpg&#34; alt=&#34;Book Summary: Arthashastra-of-Kautilya&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -459,13 +459,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: God is Not Dead</title>
-      <link>http://localhost:1313/booksummary/Book-Summary-God-is-not-Dead/</link>
+      <link>/booksummary/Book-Summary-God-is-not-Dead/</link>
       <pubDate>Sat, 24 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Book-Summary-God-is-not-Dead/</guid>
+      <guid>/booksummary/Book-Summary-God-is-not-Dead/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7520-God-is-not-Dead-What-Quantum-Physics-Tells-Us.jpg&#34; alt=&#34;Book Summary: God-is-not-Dead&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7520-God-is-not-Dead-What-Quantum-Physics-Tells-Us.jpg&#34; alt=&#34;Book Summary: God-is-not-Dead&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -488,13 +488,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The Self Aware Universe</title>
-      <link>http://localhost:1313/booksummary/The-Self-Aware-Universe/</link>
+      <link>/booksummary/The-Self-Aware-Universe/</link>
       <pubDate>Sat, 24 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Self-Aware-Universe/</guid>
+      <guid>/booksummary/The-Self-Aware-Universe/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7521-The-Self-Aware-Universe.jpg&#34; alt=&#34;Book Summary: The-Self-Aware-Universe&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7521-The-Self-Aware-Universe.jpg&#34; alt=&#34;Book Summary: The-Self-Aware-Universe&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -517,13 +517,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Narrative Economics</title>
-      <link>http://localhost:1313/booksummary/Book-Summary-Narrative-Economics/</link>
+      <link>/booksummary/Book-Summary-Narrative-Economics/</link>
       <pubDate>Mon, 19 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Book-Summary-Narrative-Economics/</guid>
+      <guid>/booksummary/Book-Summary-Narrative-Economics/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg&#34; alt=&#34;Book Summary: Narrative Economics&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg&#34; alt=&#34;Book Summary: Narrative Economics&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -560,13 +560,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The Power of Your Subconscious Mind</title>
-      <link>http://localhost:1313/booksummary/Book-Summary-The-Power-of-Your-Subconscious-Mind/</link>
+      <link>/booksummary/Book-Summary-The-Power-of-Your-Subconscious-Mind/</link>
       <pubDate>Mon, 17 Jun 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Book-Summary-The-Power-of-Your-Subconscious-Mind/</guid>
+      <guid>/booksummary/Book-Summary-The-Power-of-Your-Subconscious-Mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7517-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg&#34; alt=&#34;Book Summary : The Power of Your Subconscious Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7517-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg&#34; alt=&#34;Book Summary : The Power of Your Subconscious Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -606,7 +606,7 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
 &lt;/ol&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7503-The-Power-of-Your-Subconscious-Mind.png&#34; alt=&#34;Mind Map : The Power of Your Subconscious Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7503-The-Power-of-Your-Subconscious-Mind.png&#34; alt=&#34;Mind Map : The Power of Your Subconscious Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;</description>
@@ -615,13 +615,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary : The Power of Intention</title>
-      <link>http://localhost:1313/booksummary/Book-Summary-The-Power-of-Intention/</link>
+      <link>/booksummary/Book-Summary-The-Power-of-Intention/</link>
       <pubDate>Sun, 16 Jun 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Book-Summary-The-Power-of-Intention/</guid>
+      <guid>/booksummary/Book-Summary-The-Power-of-Intention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7516-Book-Summary-The-Power-of-Intention.jpg&#34; alt=&#34;Book Summary : The Power of Intention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7516-Book-Summary-The-Power-of-Intention.jpg&#34; alt=&#34;Book Summary : The Power of Intention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -656,7 +656,7 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
 &lt;/ol&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7502-The-Power-of-Intension.png&#34; alt=&#34;Mind Map : The Power of Intention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7502-The-Power-of-Intension.png&#34; alt=&#34;Mind Map : The Power of Intention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;</description>
@@ -665,13 +665,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>The Waste Land</title>
-      <link>http://localhost:1313/booksummary/The-Waste-Land/</link>
+      <link>/booksummary/The-Waste-Land/</link>
       <pubDate>Wed, 15 May 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Waste-Land/</guid>
+      <guid>/booksummary/The-Waste-Land/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7515-The-Waste-Land.jpg&#34; alt=&#34;The Waste Land&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7515-The-Waste-Land.jpg&#34; alt=&#34;The Waste Land&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -705,13 +705,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The Alchemist by Paulo Coelho</title>
-      <link>http://localhost:1313/booksummary/The-Alchemist-by-Paulo-Coelho/</link>
+      <link>/booksummary/The-Alchemist-by-Paulo-Coelho/</link>
       <pubDate>Tue, 14 May 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Alchemist-by-Paulo-Coelho/</guid>
+      <guid>/booksummary/The-Alchemist-by-Paulo-Coelho/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7514-The-Alchemist-by-Paulo-Coelho.jpg&#34; alt=&#34;The Alchemist by Paulo Coelho&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7514-The-Alchemist-by-Paulo-Coelho.jpg&#34; alt=&#34;The Alchemist by Paulo Coelho&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -753,13 +753,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The Power of Your Subconscious Mind</title>
-      <link>http://localhost:1313/booksummary/The-Power-of-Your-Subconscious-Mind/</link>
+      <link>/booksummary/The-Power-of-Your-Subconscious-Mind/</link>
       <pubDate>Mon, 13 May 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Power-of-Your-Subconscious-Mind/</guid>
+      <guid>/booksummary/The-Power-of-Your-Subconscious-Mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7513-The-Power-of-Your-Subconscious-Mind.jpg&#34; alt=&#34;The Power of Your Subconscious Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7513-The-Power-of-Your-Subconscious-Mind.jpg&#34; alt=&#34;The Power of Your Subconscious Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -802,13 +802,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The Power of Intention by Wayne Dyer</title>
-      <link>http://localhost:1313/booksummary/The-Power-of-Intention-by-Wayne-Dyer/</link>
+      <link>/booksummary/The-Power-of-Intention-by-Wayne-Dyer/</link>
       <pubDate>Fri, 12 Apr 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Power-of-Intention-by-Wayne-Dyer/</guid>
+      <guid>/booksummary/The-Power-of-Intention-by-Wayne-Dyer/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg&#34; alt=&#34;The Power of Intention by Wayne Dyer&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg&#34; alt=&#34;The Power of Intention by Wayne Dyer&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -846,13 +846,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Your Next Five Moves by Patrick Bet David</title>
-      <link>http://localhost:1313/booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David/</link>
+      <link>/booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David/</link>
       <pubDate>Thu, 11 Apr 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David/</guid>
+      <guid>/booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg&#34; alt=&#34;Your Next Five Moves by Patrick Bet David&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg&#34; alt=&#34;Your Next Five Moves by Patrick Bet David&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -888,13 +888,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: How To Develop The Leader Within You by John Maxwell</title>
-      <link>http://localhost:1313/booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell/</link>
+      <link>/booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell/</link>
       <pubDate>Wed, 10 Apr 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell/</guid>
+      <guid>/booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg&#34; alt=&#34;How To Develop The Leader Within You by John Maxwell&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg&#34; alt=&#34;How To Develop The Leader Within You by John Maxwell&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -929,13 +929,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The 4 Disciplines of Execution by Chris McChesney</title>
-      <link>http://localhost:1313/booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney/</link>
+      <link>/booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney/</link>
       <pubDate>Sat, 09 Mar 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney/</guid>
+      <guid>/booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg&#34; alt=&#34;The 4 Disciplines of Execution by Chris McChesney&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg&#34; alt=&#34;The 4 Disciplines of Execution by Chris McChesney&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -970,13 +970,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Focus The Hidden Driver of Excellence by Daniel Goleman</title>
-      <link>http://localhost:1313/booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman/</link>
+      <link>/booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman/</link>
       <pubDate>Fri, 08 Mar 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman/</guid>
+      <guid>/booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7508-Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman.jpg&#34; alt=&#34;Focus The Hidden Driver of Excellence by Daniel Goleman&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7508-Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman.jpg&#34; alt=&#34;Focus The Hidden Driver of Excellence by Daniel Goleman&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1012,13 +1012,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Rest : Why You Get More Done When You Work Less by Alex</title>
-      <link>http://localhost:1313/booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex/</link>
+      <link>/booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex/</link>
       <pubDate>Thu, 07 Mar 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex/</guid>
+      <guid>/booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7507-Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex.jpg&#34; alt=&#34;Rest Why You Get More Done When You Work Less by Alex&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7507-Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex.jpg&#34; alt=&#34;Rest Why You Get More Done When You Work Less by Alex&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1053,13 +1053,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Do It Today by Darius Foroux</title>
-      <link>http://localhost:1313/booksummary/Do-It-Today-by-Darius-Foroux/</link>
+      <link>/booksummary/Do-It-Today-by-Darius-Foroux/</link>
       <pubDate>Tue, 06 Feb 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Do-It-Today-by-Darius-Foroux/</guid>
+      <guid>/booksummary/Do-It-Today-by-Darius-Foroux/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg&#34; alt=&#34;Do It Today by Darius Foroux&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg&#34; alt=&#34;Do It Today by Darius Foroux&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1095,13 +1095,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Finish What You Start by Peter Hollis</title>
-      <link>http://localhost:1313/booksummary/Finish-What-You-Start-by-Peter-Hollis/</link>
+      <link>/booksummary/Finish-What-You-Start-by-Peter-Hollis/</link>
       <pubDate>Mon, 05 Feb 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Finish-What-You-Start-by-Peter-Hollis/</guid>
+      <guid>/booksummary/Finish-What-You-Start-by-Peter-Hollis/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg&#34; alt=&#34;Finish What You Start by Peter Hollis&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg&#34; alt=&#34;Finish What You Start by Peter Hollis&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1141,13 +1141,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: Self discipline in 10 Days by Theodore Bryant</title>
-      <link>http://localhost:1313/booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant/</link>
+      <link>/booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant/</link>
       <pubDate>Sun, 04 Feb 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant/</guid>
+      <guid>/booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg&#34; alt=&#34;Self discipline in 10 Days by Theodore Bryant&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg&#34; alt=&#34;Self discipline in 10 Days by Theodore Bryant&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1181,13 +1181,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: How to Listen by Oscar Trimboli</title>
-      <link>http://localhost:1313/booksummary/How-to-Listen-by-Oscar-Trimboli/</link>
+      <link>/booksummary/How-to-Listen-by-Oscar-Trimboli/</link>
       <pubDate>Wed, 03 Jan 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/How-to-Listen-by-Oscar-Trimboli/</guid>
+      <guid>/booksummary/How-to-Listen-by-Oscar-Trimboli/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg&#34; alt=&#34;How to Listen by Oscar Trimboli&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg&#34; alt=&#34;How to Listen by Oscar Trimboli&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1220,13 +1220,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The 5 Elements of Effective Thinking by Edward Burger</title>
-      <link>http://localhost:1313/booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger/</link>
+      <link>/booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger/</link>
       <pubDate>Tue, 02 Jan 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger/</guid>
+      <guid>/booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7502-The-5-Elements-of-Effective-Thinking-by-Edward-Burger.jpg&#34; alt=&#34;The 5 Elements of Effective Thinking by Edward Burger&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7502-The-5-Elements-of-Effective-Thinking-by-Edward-Burger.jpg&#34; alt=&#34;The 5 Elements of Effective Thinking by Edward Burger&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1260,13 +1260,13 @@ the earliest and most influential works on economics in the world.&lt;/p&gt;</de
     
     <item>
       <title>Book Summary: The Inspirational Leader by Gifford Thomas</title>
-      <link>http://localhost:1313/booksummary/The-Inspirational-Leader-by-Gifford-Thomas/</link>
+      <link>/booksummary/The-Inspirational-Leader-by-Gifford-Thomas/</link>
       <pubDate>Mon, 01 Jan 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/booksummary/The-Inspirational-Leader-by-Gifford-Thomas/</guid>
+      <guid>/booksummary/The-Inspirational-Leader-by-Gifford-Thomas/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg&#34; alt=&#34;The Inspirational Leader by Gifford Thomas&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg&#34; alt=&#34;The Inspirational Leader by Gifford Thomas&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

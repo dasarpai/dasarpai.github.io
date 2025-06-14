@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIOps on </title>
-    <link>http://localhost:1313/tags/aiops/</link>
+    <link>/tags/aiops/</link>
     <description>Recent content in AIOps on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aiops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/aiops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI-Powered DevOps for AIOps</title>
-      <link>http://localhost:1313/dscourses/AI-Powered-DevOps-for-AIOps/</link>
+      <link>/dscourses/AI-Powered-DevOps-for-AIOps/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/AI-Powered-DevOps-for-AIOps/</guid>
+      <guid>/dscourses/AI-Powered-DevOps-for-AIOps/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg&#34; alt=&#34;AI-Powered DevOps for AIOps&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg&#34; alt=&#34;AI-Powered DevOps for AIOps&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

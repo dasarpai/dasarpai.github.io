@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Debt on </title>
-    <link>http://localhost:1313/tags/technical-debt/</link>
+    <link>/tags/technical-debt/</link>
     <description>Recent content in Technical Debt on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dimensions of Software Architecture: Balancing Concerns</title>
-      <link>http://localhost:1313/dsblog/dimensions-of-software-architecture/</link>
+      <link>/dsblog/dimensions-of-software-architecture/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/dimensions-of-software-architecture/</guid>
+      <guid>/dsblog/dimensions-of-software-architecture/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6283-dimensions-of-software-architecture.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6283-dimensions-of-software-architecture.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -35,7 +35,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;Call these &amp;ldquo;Architectural Concern Categories&amp;rdquo; or &amp;ldquo;Dimensions of Software Architecture&amp;rdquo; or &amp;ldquo;Axes of Architectural Design&amp;rdquo; it is your choice. Here I am referring them as Dimensions of Software Architecture. They are extremely important for any software solution creator or software product maker. In this article we are trying to understand these dimensions. I am aware there is some overlapping between these terms.&lt;/p&gt;</description>
+&lt;p&gt;Call these &amp;ldquo;Architectural Concern Categories&amp;rdquo; or &amp;ldquo;Dimensions of Software Architecture&amp;rdquo; or &amp;ldquo;Axes of Architectural Design&amp;rdquo; it is your choice. Here I am referring them as Dimensions of Software Architecture. They are extremely important for any software solution creator or software product maker. Any solution creator or product maker should be aware of these dimensions and choose them carefully. In this article we are trying to understand these dimensions. Once you choose a particular architecture for some requirements there are multiple ways or algorithms or techniques or protocols to implement that. I am aware there is some overlapping between these terms.&lt;/p&gt;</description>
       
     </item>
     

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RAG Models on </title>
-    <link>http://localhost:1313/tags/rag-models/</link>
+    <link>/tags/rag-models/</link>
     <description>Recent content in RAG Models on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rag-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rag-models/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Retrieval-Augmented Generation with Conflicting Evidence</title>
-      <link>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
+      <link>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
+      <guid>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -42,13 +42,13 @@
     
     <item>
       <title>Navigating the LLM Infrastructure Landscape</title>
-      <link>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</link>
+      <link>/dsblog/navigating-llm-infrastructure-landscape/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</guid>
+      <guid>/dsblog/navigating-llm-infrastructure-landscape/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -82,13 +82,13 @@
     
     <item>
       <title>Exploring AnythingLLM</title>
-      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <link>/dsblog/exploring-anythingllm/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <guid>/dsblog/exploring-anythingllm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

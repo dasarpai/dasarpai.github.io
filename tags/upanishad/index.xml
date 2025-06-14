@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Upanishad on </title>
-    <link>http://localhost:1313/tags/upanishad/</link>
+    <link>/tags/upanishad/</link>
     <description>Recent content in Upanishad on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/upanishad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/upanishad/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Upnishadic Prarthana - उपनिषदिय प्रार्थना</title>
-      <link>http://localhost:1313/samskrutyatra/upnishadic-prarthana/</link>
+      <link>/samskrutyatra/upnishadic-prarthana/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/upnishadic-prarthana/</guid>
+      <guid>/samskrutyatra/upnishadic-prarthana/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -56,13 +56,13 @@
     
     <item>
       <title>Mundakoupnishad  - मुण्डकोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/mundakoupnishad/</link>
+      <link>/samskrutyatra/mundakoupnishad/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/mundakoupnishad/</guid>
+      <guid>/samskrutyatra/mundakoupnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -105,13 +105,13 @@
     
     <item>
       <title>Shvetashvatara Upanishad - श्वेताश्वतरोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/shvetashvatara-upanishad/</link>
+      <link>/samskrutyatra/shvetashvatara-upanishad/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shvetashvatara-upanishad/</guid>
+      <guid>/samskrutyatra/shvetashvatara-upanishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -151,13 +151,13 @@
     
     <item>
       <title>Chandogyopnishad 1 - छान्दोग्योपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-1/</link>
+      <link>/samskrutyatra/chandogyopnishad-1/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-1/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-1/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -195,13 +195,13 @@
     
     <item>
       <title>Chandogyopnishad 2 - छान्दोग्योपनिषत् द्वितीयोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-2/</link>
+      <link>/samskrutyatra/chandogyopnishad-2/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-2/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -242,13 +242,13 @@
     
     <item>
       <title>Chandogyopnishad 3 - छान्दोग्योपनिषत् तृतीयोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-3/</link>
+      <link>/samskrutyatra/chandogyopnishad-3/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-3/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-3/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -288,13 +288,13 @@
     
     <item>
       <title>Chandogyopnishad 4 - छान्दोग्योपनिषत् चतुर्थोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-4/</link>
+      <link>/samskrutyatra/chandogyopnishad-4/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-4/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-4/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -334,13 +334,13 @@
     
     <item>
       <title>Chandogyopnishad 5 - छान्दोग्योपनिषत् पञ्चमोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-5/</link>
+      <link>/samskrutyatra/chandogyopnishad-5/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-5/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-5/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -378,13 +378,13 @@
     
     <item>
       <title>Chandogyopnishad 6 - छान्दोग्योपनिषत् षष्ठोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-6/</link>
+      <link>/samskrutyatra/chandogyopnishad-6/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-6/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-6/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -427,13 +427,13 @@
     
     <item>
       <title>Chandogyopnishad 7 - छान्दोग्योपनिषत् सप्तमोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-7/</link>
+      <link>/samskrutyatra/chandogyopnishad-7/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-7/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-7/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -473,13 +473,13 @@
     
     <item>
       <title>Chandogyopnishad 8 - छान्दोग्योपनिषत् अष्टमोऽध्यायः</title>
-      <link>http://localhost:1313/samskrutyatra/chandogyopnishad-8/</link>
+      <link>/samskrutyatra/chandogyopnishad-8/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/chandogyopnishad-8/</guid>
+      <guid>/samskrutyatra/chandogyopnishad-8/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -523,13 +523,13 @@
     
     <item>
       <title>Mandukyopnishad  - माण्डूक्योपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/mandukyopnishad/</link>
+      <link>/samskrutyatra/mandukyopnishad/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/mandukyopnishad/</guid>
+      <guid>/samskrutyatra/mandukyopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -572,13 +572,13 @@
     
     <item>
       <title>IshaaVashyopnishad  - ईशावास्योपषत्</title>
-      <link>http://localhost:1313/samskrutyatra/ishaavashyopnishad/</link>
+      <link>/samskrutyatra/ishaavashyopnishad/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/ishaavashyopnishad/</guid>
+      <guid>/samskrutyatra/ishaavashyopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -613,7 +613,7 @@
 &lt;p&gt;For सस्वर Mychanting please use this image.&lt;/p&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/IshaVaasyopnishad.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/IshaVaasyopnishad.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -626,13 +626,13 @@
     
     <item>
       <title>Narayanopnishad - नारायणोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/narayanopnishad/</link>
+      <link>/samskrutyatra/narayanopnishad/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/narayanopnishad/</guid>
+      <guid>/samskrutyatra/narayanopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -674,13 +674,13 @@
     
     <item>
       <title>Kenopnishad - केनोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/kenopnishad/</link>
+      <link>/samskrutyatra/kenopnishad/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/kenopnishad/</guid>
+      <guid>/samskrutyatra/kenopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -721,13 +721,13 @@
     
     <item>
       <title>Aitreyopnishad - ऐतरेयोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/aitreyopnishad/</link>
+      <link>/samskrutyatra/aitreyopnishad/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/aitreyopnishad/</guid>
+      <guid>/samskrutyatra/aitreyopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -766,13 +766,13 @@
     
     <item>
       <title>Aatmopnishad - आत्मोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/aatmopnishad/</link>
+      <link>/samskrutyatra/aatmopnishad/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/aatmopnishad/</guid>
+      <guid>/samskrutyatra/aatmopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -814,13 +814,13 @@
     
     <item>
       <title>AmrutBindu Upanishad  - अमृतबिन्दुपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/amrutbindu-upanishad/</link>
+      <link>/samskrutyatra/amrutbindu-upanishad/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/amrutbindu-upanishad/</guid>
+      <guid>/samskrutyatra/amrutbindu-upanishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -860,13 +860,13 @@
     
     <item>
       <title>Nirvanopnishad  - निर्वाणोपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/nirvanopnishad/</link>
+      <link>/samskrutyatra/nirvanopnishad/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/nirvanopnishad/</guid>
+      <guid>/samskrutyatra/nirvanopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -909,13 +909,13 @@
     
     <item>
       <title>Yaagyavalkyopnishad - याज्ञवल्क्योपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/yaagyavalkyopnishad/</link>
+      <link>/samskrutyatra/yaagyavalkyopnishad/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/yaagyavalkyopnishad/</guid>
+      <guid>/samskrutyatra/yaagyavalkyopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -971,13 +971,13 @@
     
     <item>
       <title>Kaivalopnishad  - कैवल्योपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/kaivalopnishad/</link>
+      <link>/samskrutyatra/kaivalopnishad/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/kaivalopnishad/</guid>
+      <guid>/samskrutyatra/kaivalopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1023,13 +1023,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>NirvaanShatkam - निर्वाणषट्कम्</title>
-      <link>http://localhost:1313/samskrutyatra/nirvaanshatkam/</link>
+      <link>/samskrutyatra/nirvaanshatkam/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/nirvaanshatkam/</guid>
+      <guid>/samskrutyatra/nirvaanshatkam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1074,13 +1074,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Taitriya Upnishad Bhrugu Valli  - तैत्तिरीयोपनिषत् सस्वरा - तृतीया भृगुवल्ली</title>
-      <link>http://localhost:1313/samskrutyatra/taitriya-upnishad-bhrugu-valli/</link>
+      <link>/samskrutyatra/taitriya-upnishad-bhrugu-valli/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/taitriya-upnishad-bhrugu-valli/</guid>
+      <guid>/samskrutyatra/taitriya-upnishad-bhrugu-valli/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1130,13 +1130,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Taitriya Upnishad Brahmananda Valli - तैत्तिरीयोपनिषत् सस्वरा - द्वितीया ब्रह्मानन्दवल्ली</title>
-      <link>http://localhost:1313/samskrutyatra/taitriya-upnishad-brahmananda-valli/</link>
+      <link>/samskrutyatra/taitriya-upnishad-brahmananda-valli/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/taitriya-upnishad-brahmananda-valli/</guid>
+      <guid>/samskrutyatra/taitriya-upnishad-brahmananda-valli/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1176,13 +1176,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Taitriya Upnishad Sheeksha Valli - तैत्तिरीयोपनिषत् सस्वरा - प्रथमा शीक्षावल्ली</title>
-      <link>http://localhost:1313/samskrutyatra/taitriya-upnishad-sheeksha-valli/</link>
+      <link>/samskrutyatra/taitriya-upnishad-sheeksha-valli/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/taitriya-upnishad-sheeksha-valli/</guid>
+      <guid>/samskrutyatra/taitriya-upnishad-sheeksha-valli/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1224,13 +1224,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>TaitriyaUpanishad BrahmanandaMimamsa - तैत्तिरीयोपनिषत् ब्रह्मानन्दमीमांसा</title>
-      <link>http://localhost:1313/samskrutyatra/brahmanandamimamsa/</link>
+      <link>/samskrutyatra/brahmanandamimamsa/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/brahmanandamimamsa/</guid>
+      <guid>/samskrutyatra/brahmanandamimamsa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1277,13 +1277,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Rudra Prashna  - रुद्रप्रश्नः</title>
-      <link>http://localhost:1313/samskrutyatra/rudra-prashna/</link>
+      <link>/samskrutyatra/rudra-prashna/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/rudra-prashna/</guid>
+      <guid>/samskrutyatra/rudra-prashna/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1327,13 +1327,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Vairagya Shatakam - वैराग्यशतकम्</title>
-      <link>http://localhost:1313/samskrutyatra/vairagyashatakam/</link>
+      <link>/samskrutyatra/vairagyashatakam/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/vairagyashatakam/</guid>
+      <guid>/samskrutyatra/vairagyashatakam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1403,13 +1403,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Madalasa Upadesh - मदालसा उपदेश</title>
-      <link>http://localhost:1313/samskrutyatra/madalasa-upadesha/</link>
+      <link>/samskrutyatra/madalasa-upadesha/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/madalasa-upadesha/</guid>
+      <guid>/samskrutyatra/madalasa-upadesha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1450,13 +1450,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Nasadiya Sukta - नासदीय सूक्तं</title>
-      <link>http://localhost:1313/samskrutyatra/nasadiya-sukta/</link>
+      <link>/samskrutyatra/nasadiya-sukta/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/nasadiya-sukta/</guid>
+      <guid>/samskrutyatra/nasadiya-sukta/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

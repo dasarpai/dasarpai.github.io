@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content Formats on </title>
-    <link>http://localhost:1313/tags/content-formats/</link>
+    <link>/tags/content-formats/</link>
     <description>Recent content in Content Formats on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/content-formats/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/content-formats/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Retrieval-Augmented Generation with Conflicting Evidence</title>
-      <link>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
+      <link>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
+      <guid>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -42,13 +42,13 @@
     
     <item>
       <title>LLM Internal Encoding of Truthfulness and Hallucinations</title>
-      <link>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
+      <link>/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
+      <guid>/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -70,11 +70,11 @@
     
     <item>
       <title>Book Review - Data Science in Marketing Analysis</title>
-      <link>http://localhost:1313/dsblog/bookreview-data-science-for-marketing-analytics/</link>
+      <link>/dsblog/bookreview-data-science-for-marketing-analytics/</link>
       <pubDate>Wed, 26 Oct 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/bookreview-data-science-for-marketing-analytics/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg&#34;&gt;Book Review - Data Science in Marketing Analysis&lt;/a&gt;&lt;/p&gt;
+      <guid>/dsblog/bookreview-data-science-for-marketing-analytics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg&#34;&gt;Book Review - Data Science in Marketing Analysis&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;BOOK REVIEW 
@@ -165,13 +165,13 @@
     
     <item>
       <title>Data Science, AI, ML, eBooks, PDF Books</title>
-      <link>http://localhost:1313/dsblog/ds-ai-ml-books/</link>
+      <link>/dsblog/ds-ai-ml-books/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ds-ai-ml-books/</guid>
+      <guid>/dsblog/ds-ai-ml-books/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg&#34; alt=&#34;DS, AI, ML, Books Available&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg&#34; alt=&#34;DS, AI, ML, Books Available&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

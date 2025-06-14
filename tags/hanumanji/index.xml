@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanumanji on </title>
-    <link>http://localhost:1313/tags/hanumanji/</link>
+    <link>/tags/hanumanji/</link>
     <description>Recent content in Hanumanji on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hanumanji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hanumanji/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Guhagita - गुहगीता</title>
-      <link>http://localhost:1313/samskrutyatra/guha-geeta/</link>
+      <link>/samskrutyatra/guha-geeta/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/guha-geeta/</guid>
+      <guid>/samskrutyatra/guha-geeta/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;Guha Geeta&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;Guha Geeta&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -61,13 +61,13 @@
     
     <item>
       <title>Hanuman Sahsranamavali - हनुमान सहस्त्रनामावली</title>
-      <link>http://localhost:1313/samskrutyatra/shri-hanuman-sahasranamam/</link>
+      <link>/samskrutyatra/shri-hanuman-sahasranamam/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shri-hanuman-sahasranamam/</guid>
+      <guid>/samskrutyatra/shri-hanuman-sahasranamam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;Hanuman Ji&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;Hanuman Ji&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1090,13 +1090,13 @@
     
     <item>
       <title>Bajarang Baan  - बजरंग बाण</title>
-      <link>http://localhost:1313/samskrutyatra/bajarang-baan/</link>
+      <link>/samskrutyatra/bajarang-baan/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bajarang-baan/</guid>
+      <guid>/samskrutyatra/bajarang-baan/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1137,13 +1137,13 @@
     
     <item>
       <title>Hanuman Ashtakam - संकटमोचन हनुमानाष्टकम्</title>
-      <link>http://localhost:1313/samskrutyatra/hanuman-ashtakam/</link>
+      <link>/samskrutyatra/hanuman-ashtakam/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/hanuman-ashtakam/</guid>
+      <guid>/samskrutyatra/hanuman-ashtakam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1180,13 +1180,13 @@
     
     <item>
       <title>Sundarkand Dhyanam - सुन्दरकांड ध्यान श्लोकं</title>
-      <link>http://localhost:1313/samskrutyatra/sundarkand-dhyanam/</link>
+      <link>/samskrutyatra/sundarkand-dhyanam/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sundarkand-dhyanam/</guid>
+      <guid>/samskrutyatra/sundarkand-dhyanam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1231,13 +1231,13 @@
     
     <item>
       <title>Hanuman Chalisa - हनुमान चालीसा</title>
-      <link>http://localhost:1313/samskrutyatra/hanuman-chalisa/</link>
+      <link>/samskrutyatra/hanuman-chalisa/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/hanuman-chalisa/</guid>
+      <guid>/samskrutyatra/hanuman-chalisa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1278,13 +1278,13 @@
     
     <item>
       <title>Sankat Mochan HanumanAshtakam  - संकटमोचन हनुमानाष्टक</title>
-      <link>http://localhost:1313/samskrutyatra/sankat-mochan-hanumanasht/</link>
+      <link>/samskrutyatra/sankat-mochan-hanumanasht/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sankat-mochan-hanumanasht/</guid>
+      <guid>/samskrutyatra/sankat-mochan-hanumanasht/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1322,13 +1322,13 @@
     
     <item>
       <title>ShrihanumatSuktam - श्रीहनुमत्सूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/shrihanumatsuktam/</link>
+      <link>/samskrutyatra/shrihanumatsuktam/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shrihanumatsuktam/</guid>
+      <guid>/samskrutyatra/shrihanumatsuktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

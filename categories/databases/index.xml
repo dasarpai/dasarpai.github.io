@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Databases on </title>
-    <link>http://localhost:1313/categories/databases/</link>
+    <link>/categories/databases/</link>
     <description>Recent content in Databases on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/databases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/databases/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring GraphDB and Neo4j - A Guide to Graph Databases</title>
-      <link>http://localhost:1313/dsblog/exploring-graphdb-and-neo4j/</link>
+      <link>/dsblog/exploring-graphdb-and-neo4j/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-graphdb-and-neo4j/</guid>
+      <guid>/dsblog/exploring-graphdb-and-neo4j/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg&#34; alt=&#34;Exploring GraphDB and Neo4j&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg&#34; alt=&#34;Exploring GraphDB and Neo4j&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Exploring SQL and GraphQL Commands</title>
-      <link>http://localhost:1313/dsblog/Exploring-SQL-and-GraphQL-Commands/</link>
+      <link>/dsblog/Exploring-SQL-and-GraphQL-Commands/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-SQL-and-GraphQL-Commands/</guid>
+      <guid>/dsblog/Exploring-SQL-and-GraphQL-Commands/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg&#34; alt=&#34;Exploring SQL and GraphQL Commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg&#34; alt=&#34;Exploring SQL and GraphQL Commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Selecting Database for Project</title>
-      <link>http://localhost:1313/dsblog/Selecting-Database-for-Project/</link>
+      <link>/dsblog/Selecting-Database-for-Project/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Selecting-Database-for-Project/</guid>
+      <guid>/dsblog/Selecting-Database-for-Project/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg&#34; alt=&#34;Selecting Database for Project&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg&#34; alt=&#34;Selecting Database for Project&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -153,13 +153,13 @@
     
     <item>
       <title>Exploring Apache Hive</title>
-      <link>http://localhost:1313/dsblog/Exploring-Apache-Hive/</link>
+      <link>/dsblog/Exploring-Apache-Hive/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Apache-Hive/</guid>
+      <guid>/dsblog/Exploring-Apache-Hive/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg&#34; alt=&#34;Exploring Apache Hive&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg&#34; alt=&#34;Exploring Apache Hive&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -193,13 +193,13 @@
     
     <item>
       <title>Serverless databases</title>
-      <link>http://localhost:1313/dsblog/Serverless-databases/</link>
+      <link>/dsblog/Serverless-databases/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Serverless-databases/</guid>
+      <guid>/dsblog/Serverless-databases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -236,13 +236,13 @@
     
     <item>
       <title>What is Pinecone</title>
-      <link>http://localhost:1313/dsblog/What-is-Pinecone/</link>
+      <link>/dsblog/What-is-Pinecone/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Pinecone/</guid>
+      <guid>/dsblog/What-is-Pinecone/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -277,13 +277,13 @@
     
     <item>
       <title>SQL and Relational Algebra</title>
-      <link>http://localhost:1313/dsblog/relational-algebra/</link>
+      <link>/dsblog/relational-algebra/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/relational-algebra/</guid>
+      <guid>/dsblog/relational-algebra/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6084-Relational-Algebra.jpg&#34; alt=&#34;Relational Algebra&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6084-Relational-Algebra.jpg&#34; alt=&#34;Relational Algebra&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -306,13 +306,13 @@
     
     <item>
       <title>Database and Analytics Product Services from Google Azure AWS</title>
-      <link>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
+      <link>/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
+      <guid>/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -559,13 +559,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Data Lake vs Data Warehouse vs Data Mart</title>
-      <link>http://localhost:1313/dsblog/Datalake-vs-Data-Warehouse/</link>
+      <link>/dsblog/Datalake-vs-Data-Warehouse/</link>
       <pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Datalake-vs-Data-Warehouse/</guid>
+      <guid>/dsblog/Datalake-vs-Data-Warehouse/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg&#34; alt=&#34;Datalake vs Data Warehouse&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg&#34; alt=&#34;Datalake vs Data Warehouse&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -599,13 +599,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Type of Databases</title>
-      <link>http://localhost:1313/dsblog/Type-of-Databases/</link>
+      <link>/dsblog/Type-of-Databases/</link>
       <pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Type-of-Databases/</guid>
+      <guid>/dsblog/Type-of-Databases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6041-Type-of-Databases.jpg&#34; alt=&#34;Type of Databases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6041-Type-of-Databases.jpg&#34; alt=&#34;Type of Databases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -639,13 +639,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Navigating the Data Landscape: Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects</title>
-      <link>http://localhost:1313/dsblog/navigating-the-data=landscape/</link>
+      <link>/dsblog/navigating-the-data=landscape/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-the-data=landscape/</guid>
+      <guid>/dsblog/navigating-the-data=landscape/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg&#34; alt=&#34;Data Sources, Databases, ETL Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg&#34; alt=&#34;Data Sources, Databases, ETL Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

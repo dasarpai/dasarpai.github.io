@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on </title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>/tags/python/</link>
     <description>Recent content in Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Understanding HTML Templating with Python, Ruby, and PHP</title>
-      <link>http://localhost:1313/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</link>
+      <link>/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</guid>
+      <guid>/dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg&#34; alt=&#34;Understanding HTML Templating with Python, Ruby, and PHP&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg&#34; alt=&#34;Understanding HTML Templating with Python, Ruby, and PHP&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -54,13 +54,13 @@
     
     <item>
       <title>Exploring Python Package Manager</title>
-      <link>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</link>
+      <link>/dsblog/Exploring-Python-Package-Manager/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</guid>
+      <guid>/dsblog/Exploring-Python-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -94,13 +94,13 @@
     
     <item>
       <title>Python Code Snippnet from Colab</title>
-      <link>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</link>
+      <link>/dsblog/Python-Code-Snippnet-from-Colab/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</guid>
+      <guid>/dsblog/Python-Code-Snippnet-from-Colab/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -134,13 +134,13 @@
     
     <item>
       <title>Python Project Folders and Files</title>
-      <link>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</link>
+      <link>/dsblog/Python-Project-Folders-and-Files/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</guid>
+      <guid>/dsblog/Python-Project-Folders-and-Files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -174,13 +174,13 @@
     
     <item>
       <title>Decoding pip install operations</title>
-      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <link>/dsblog/Decoding-pip-install-operations/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <guid>/dsblog/Decoding-pip-install-operations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -216,13 +216,13 @@
     
     <item>
       <title>Python APIs for Data</title>
-      <link>http://localhost:1313/dsblog/python-apis-for-data/</link>
+      <link>/dsblog/python-apis-for-data/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/python-apis-for-data/</guid>
+      <guid>/dsblog/python-apis-for-data/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -254,13 +254,13 @@
     
     <item>
       <title>AWS SageMaker Jumpstart Models</title>
-      <link>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
+      <link>/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
+      <guid>/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1196,13 +1196,13 @@ id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</des
     
     <item>
       <title>Python Decorator Function</title>
-      <link>http://localhost:1313/dsblog/Python-Decorator-Function/</link>
+      <link>/dsblog/Python-Decorator-Function/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Decorator-Function/</guid>
+      <guid>/dsblog/Python-Decorator-Function/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1236,13 +1236,13 @@ id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</des
     
     <item>
       <title>Python Naming Convention</title>
-      <link>http://localhost:1313/dsblog/Python-Naming-Convention/</link>
+      <link>/dsblog/Python-Naming-Convention/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Naming-Convention/</guid>
+      <guid>/dsblog/Python-Naming-Convention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1470,13 +1470,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Timeseries Interview Questions</title>
-      <link>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</link>
+      <link>/dsblog/Timeseries-Interview-Questions/</link>
       <pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</guid>
+      <guid>/dsblog/Timeseries-Interview-Questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1584,13 +1584,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Data Science Cheatsheets</title>
-      <link>http://localhost:1313/dsblog/data-science-cheatsheets/</link>
+      <link>/dsblog/data-science-cheatsheets/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/data-science-cheatsheets/</guid>
+      <guid>/dsblog/data-science-cheatsheets/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg&#34; alt=&#34;Data Science Cheatsheets&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg&#34; alt=&#34;Data Science Cheatsheets&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1819,13 +1819,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Python Software Development and Distribution</title>
-      <link>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</link>
+      <link>/dsblog/Python-Software-Development-and-Distribution/</link>
       <pubDate>Thu, 30 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</guid>
+      <guid>/dsblog/Python-Software-Development-and-Distribution/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1859,13 +1859,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Data Science Interview Question Answers</title>
-      <link>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</link>
+      <link>/dsblog/ds-ai-ml-interview-resources/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</guid>
+      <guid>/dsblog/ds-ai-ml-interview-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1887,13 +1887,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Reinforcement Learning Git Repositories</title>
-      <link>http://localhost:1313/dsblog/rl-git-repo/</link>
+      <link>/dsblog/rl-git-repo/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/rl-git-repo/</guid>
+      <guid>/dsblog/rl-git-repo/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg&#34; alt=&#34;Reinforcement Learning Git Repositories&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg&#34; alt=&#34;Reinforcement Learning Git Repositories&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

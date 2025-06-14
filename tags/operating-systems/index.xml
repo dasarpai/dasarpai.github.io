@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operating Systems on </title>
-    <link>http://localhost:1313/tags/operating-systems/</link>
+    <link>/tags/operating-systems/</link>
     <description>Recent content in Operating Systems on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Working with GitHub from WSL and Windows Folders</title>
-      <link>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
+      <link>/dsblog/working-with-github-from-wsl-and-windows-folders/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
+      <guid>/dsblog/working-with-github-from-wsl-and-windows-folders/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg&#34; alt=&#34;Working with GitHub from WSL and Windows Folders&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Setting Up a Development Environment with Windows 11, WSL2 and Docker</title>
-      <link>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
+      <link>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
+      <guid>/dsblog/development-environment-with-windows-11-wsl2-and-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg&#34; alt=&#34;Setting Development Environment with WSL2, Docker and Github&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -82,13 +82,13 @@
     
     <item>
       <title>Exploring Shell Scripting and Batch Files</title>
-      <link>http://localhost:1313/dsblog/exploring-shell-scripting-and-batch-files/</link>
+      <link>/dsblog/exploring-shell-scripting-and-batch-files/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-shell-scripting-and-batch-files/</guid>
+      <guid>/dsblog/exploring-shell-scripting-and-batch-files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg&#34; alt=&#34;Exploring Shell Scripting and Batch Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg&#34; alt=&#34;Exploring Shell Scripting and Batch Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -110,13 +110,13 @@
     
     <item>
       <title>Exploring the Local Location of Ollama Models on WSL2</title>
-      <link>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</link>
+      <link>/dsblog/exploring-ollama-models-location-on-wsl2/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
+      <guid>/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -150,13 +150,13 @@
     
     <item>
       <title>Decoding Windows User Folder</title>
-      <link>http://localhost:1313/dsblog/Decoding-Windows-User-Folder/</link>
+      <link>/dsblog/Decoding-Windows-User-Folder/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-Windows-User-Folder/</guid>
+      <guid>/dsblog/Decoding-Windows-User-Folder/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg&#34; alt=&#34;Decoding-Windows-User-Folder&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg&#34; alt=&#34;Decoding-Windows-User-Folder&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -190,13 +190,13 @@
     
     <item>
       <title>Linux OS Directories</title>
-      <link>http://localhost:1313/dsblog/Linux-OS-Directories/</link>
+      <link>/dsblog/Linux-OS-Directories/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Linux-OS-Directories/</guid>
+      <guid>/dsblog/Linux-OS-Directories/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6055-Linux-OS-Directories.jpg&#34; alt=&#34;Linux OS Directories&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6055-Linux-OS-Directories.jpg&#34; alt=&#34;Linux OS Directories&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI/ML Research &amp; Evaluation on </title>
-    <link>http://localhost:1313/categories/ai/ml-research--evaluation/</link>
+    <link>/categories/ai/ml-research--evaluation/</link>
     <description>Recent content in AI/ML Research &amp; Evaluation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ai/ml-research--evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/ai/ml-research--evaluation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>LLM Internal Encoding of Truthfulness and Hallucinations</title>
-      <link>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
+      <link>/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
+      <guid>/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>AI Benchmarks for 2025</title>
-      <link>http://localhost:1313/dsblog/ai-benchmarks-2025/</link>
+      <link>/dsblog/ai-benchmarks-2025/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-benchmarks-2025/</guid>
+      <guid>/dsblog/ai-benchmarks-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg&#34; alt=&#34;AI Benchmark for 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg&#34; alt=&#34;AI Benchmark for 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -69,13 +69,13 @@
     
     <item>
       <title>Overview of AI Benchmark Explorer Tool</title>
-      <link>http://localhost:1313/dsblog/aibenchmark-explorer/</link>
+      <link>/dsblog/aibenchmark-explorer/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/aibenchmark-explorer/</guid>
+      <guid>/dsblog/aibenchmark-explorer/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg&#34; alt=&#34;AI Benchmark Explorer&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg&#34; alt=&#34;AI Benchmark Explorer&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -106,13 +106,13 @@
     
     <item>
       <title>A Comprehensive Guide to Evaluate Generative Models</title>
-      <link>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</link>
+      <link>/dsblog/guide-to-evaluate-generative-models/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</guid>
+      <guid>/dsblog/guide-to-evaluate-generative-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -146,13 +146,13 @@
     
     <item>
       <title>Computer Vision Research Work</title>
-      <link>http://localhost:1313/dsblog/computer-vision-research-work/</link>
+      <link>/dsblog/computer-vision-research-work/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/computer-vision-research-work/</guid>
+      <guid>/dsblog/computer-vision-research-work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -174,13 +174,13 @@
     
     <item>
       <title>Exploring AI Benchmarks &amp; Leaderboards</title>
-      <link>http://localhost:1313/dsblog/exploring-ai-benchmarks-and-leaderboards/</link>
+      <link>/dsblog/exploring-ai-benchmarks-and-leaderboards/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ai-benchmarks-and-leaderboards/</guid>
+      <guid>/dsblog/exploring-ai-benchmarks-and-leaderboards/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg&#34; alt=&#34;Exploring AI Benchmarks &amp;amp; Leaderboards&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg&#34; alt=&#34;Exploring AI Benchmarks &amp;amp; Leaderboards&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -214,13 +214,13 @@
     
     <item>
       <title>AI Benchmarks Explained</title>
-      <link>http://localhost:1313/dsblog/AI-Benchmarks-Explained/</link>
+      <link>/dsblog/AI-Benchmarks-Explained/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Benchmarks-Explained/</guid>
+      <guid>/dsblog/AI-Benchmarks-Explained/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg&#34; alt=&#34;AI-Benchmarks-Explained&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg&#34; alt=&#34;AI-Benchmarks-Explained&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -254,13 +254,13 @@
     
     <item>
       <title>NLP BenchMarks</title>
-      <link>http://localhost:1313/dsblog/NLP-BenchMarks1/</link>
+      <link>/dsblog/NLP-BenchMarks1/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/NLP-BenchMarks1/</guid>
+      <guid>/dsblog/NLP-BenchMarks1/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6120-NLP-BenchMarks.jpg&#34; alt=&#34;NLP-BenchMarks&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6120-NLP-BenchMarks.jpg&#34; alt=&#34;NLP-BenchMarks&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -294,13 +294,13 @@
     
     <item>
       <title>Important AI Paper List</title>
-      <link>http://localhost:1313/dsblog/select-ai-papers/</link>
+      <link>/dsblog/select-ai-papers/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/select-ai-papers/</guid>
+      <guid>/dsblog/select-ai-papers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg&#34; alt=&#34;Important AI Paper List&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg&#34; alt=&#34;Important AI Paper List&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -334,13 +334,13 @@
     
     <item>
       <title>Paper with Code Resources</title>
-      <link>http://localhost:1313/dsblog/paperwithcode-resources/</link>
+      <link>/dsblog/paperwithcode-resources/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/paperwithcode-resources/</guid>
+      <guid>/dsblog/paperwithcode-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg&#34; alt=&#34;Paper with Code Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg&#34; alt=&#34;Paper with Code Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1084,20 +1084,20 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title>
-      <link>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
+      <link>/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
+      <guid>/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong&gt;&lt;br&gt;
 Typer of Paper:- Survey Paper&lt;br&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2105.10311&#34; target=&#34;_blank&#34;&gt;Paper URL&lt;/a&gt;&lt;br&gt;
-Paper title of the citations mentioned can be found at &lt;a href=&#34;../../../dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
+Paper title of the citations mentioned can be found at &lt;a href=&#34;/dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;Paper Summary :- Pretrained Language Models for Text Generation 
@@ -1188,16 +1188,16 @@ Paper title of the citations mentioned can be found at &lt;a href=&#34;../../../
 &lt;ul&gt;
 &lt;li&gt;In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )&lt;/li&gt;
 &lt;li&gt;If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
-generation task(generate text without any constraint) &lt;a href=&#34;../../../dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
+generation task(generate text without any constraint) &lt;a href=&#34;/dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
-attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;../../../dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;../../../dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;../../../dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;../../../dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
+attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;/dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;/dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;/dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;/dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system.&lt;/li&gt;
-&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;../../../dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;../../../dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;../../../dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;/dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;/dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;/dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -1214,14 +1214,14 @@ attribute-based generation. X plays the role of guiding the text generation. &lt
 &lt;ul&gt;
 &lt;li&gt;Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
 &lt;ul&gt;
-&lt;li&gt;MASS &lt;a href=&#34;../../../dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;T5 &lt;a href=&#34;../../../dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;BART &lt;a href=&#34;../../../dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MASS &lt;a href=&#34;/dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;T5 &lt;a href=&#34;/dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BART &lt;a href=&#34;/dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens.
 &lt;ul&gt;
-&lt;li&gt;GPT &lt;a href=&#34;../../../dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;../../../dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GPT &lt;a href=&#34;/dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;/dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;CTRL [Keskar2019]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1399,13 +1399,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Major LLM Developers Shaping the AI Landscape</title>
-      <link>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
+      <link>/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
+      <guid>/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1440,13 +1440,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>God Fathers of AI</title>
-      <link>http://localhost:1313/dsblog/God-Fathers-of-AI/</link>
+      <link>/dsblog/God-Fathers-of-AI/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/God-Fathers-of-AI/</guid>
+      <guid>/dsblog/God-Fathers-of-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg&#34; alt=&#34;God Fathers of AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg&#34; alt=&#34;God Fathers of AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1468,13 +1468,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Machine Learning Tasks and Model Evaluation</title>
-      <link>http://localhost:1313/dsblog/ml-tasks-and-model-evaluation/</link>
+      <link>/dsblog/ml-tasks-and-model-evaluation/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ml-tasks-and-model-evaluation/</guid>
+      <guid>/dsblog/ml-tasks-and-model-evaluation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg&#34; alt=&#34;Deep Learning Tasks and Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg&#34; alt=&#34;Deep Learning Tasks and Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1508,13 +1508,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>AI, ML, Deep Learning, NLP Conferences &amp; Journals</title>
-      <link>http://localhost:1313/dsblog/ai-ml-dl-nlp-conferences/</link>
+      <link>/dsblog/ai-ml-dl-nlp-conferences/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-ml-dl-nlp-conferences/</guid>
+      <guid>/dsblog/ai-ml-dl-nlp-conferences/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg&#34; alt=&#34;AI, ML, Deep Learning, NLP Conferences &amp;amp; Journals&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg&#34; alt=&#34;AI, ML, Deep Learning, NLP Conferences &amp;amp; Journals&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1537,13 +1537,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Important AI Research Papers</title>
-      <link>http://localhost:1313/dsblog/important-ai-research-papers/</link>
+      <link>/dsblog/important-ai-research-papers/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/important-ai-research-papers/</guid>
+      <guid>/dsblog/important-ai-research-papers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg&#34; alt=&#34;Important AI Research Papers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg&#34; alt=&#34;Important AI Research Papers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1565,13 +1565,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Reinforcement Learning Git Repositories</title>
-      <link>http://localhost:1313/dsblog/rl-git-repo/</link>
+      <link>/dsblog/rl-git-repo/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/rl-git-repo/</guid>
+      <guid>/dsblog/rl-git-repo/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg&#34; alt=&#34;Reinforcement Learning Git Repositories&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg&#34; alt=&#34;Reinforcement Learning Git Repositories&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

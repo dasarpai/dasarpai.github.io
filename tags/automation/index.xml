@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on </title>
-    <link>http://localhost:1313/tags/automation/</link>
+    <link>/tags/automation/</link>
     <description>Recent content in Automation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring AI Agents</title>
-      <link>http://localhost:1313/dsblog/exploring-ai-agents/</link>
+      <link>/dsblog/exploring-ai-agents/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ai-agents/</guid>
+      <guid>/dsblog/exploring-ai-agents/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg&#34; alt=&#34;Exploring AI Agents&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg&#34; alt=&#34;Exploring AI Agents&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Exploring Make.com: A Comprehensive Guide to Automation and Its Alternatives</title>
-      <link>http://localhost:1313/dsblog/exploring-make-com-a-comprehensive-guide/</link>
+      <link>/dsblog/exploring-make-com-a-comprehensive-guide/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-make-com-a-comprehensive-guide/</guid>
+      <guid>/dsblog/exploring-make-com-a-comprehensive-guide/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg&#34; alt=&#34;Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg&#34; alt=&#34;Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>MLOps Tools</title>
-      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <link>/dsblog/MLOps-Tools/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <guid>/dsblog/MLOps-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -109,13 +109,13 @@
     
     <item>
       <title>Demystifying DevOps, MLOps, and DataOps</title>
-      <link>http://localhost:1313/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</link>
+      <link>/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</guid>
+      <guid>/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -162,13 +162,13 @@
     
     <item>
       <title>AI Use Cases in Food Processing</title>
-      <link>http://localhost:1313/dsblog/AI-Use-Cases-in-Food-Processing/</link>
+      <link>/dsblog/AI-Use-Cases-in-Food-Processing/</link>
       <pubDate>Sun, 22 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Use-Cases-in-Food-Processing/</guid>
+      <guid>/dsblog/AI-Use-Cases-in-Food-Processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg&#34; alt=&#34;&amp;ldquo;AI Use Cases in Food Processing&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg&#34; alt=&#34;&amp;ldquo;AI Use Cases in Food Processing&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -202,13 +202,13 @@
     
     <item>
       <title>Will AI Replace Human?</title>
-      <link>http://localhost:1313/dsblog/Will-AI-Replace-Human/</link>
+      <link>/dsblog/Will-AI-Replace-Human/</link>
       <pubDate>Thu, 19 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Will-AI-Replace-Human/</guid>
+      <guid>/dsblog/Will-AI-Replace-Human/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

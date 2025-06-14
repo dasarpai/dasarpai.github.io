@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Process Consulting on </title>
-    <link>http://localhost:1313/tags/process-consulting/</link>
+    <link>/tags/process-consulting/</link>
     <description>Recent content in Process Consulting on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/process-consulting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/process-consulting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CMMI Consulting</title>
-      <link>http://localhost:1313/management/cmmi-consulting/</link>
+      <link>/management/cmmi-consulting/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/cmmi-consulting/</guid>
+      <guid>/management/cmmi-consulting/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc523-cmmi-consulting.jpg&#34; alt=&#34;Cmmi Consulting&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc523-cmmi-consulting.jpg&#34; alt=&#34;Cmmi Consulting&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -43,13 +43,13 @@
     
     <item>
       <title>ISO 9001 Consulting</title>
-      <link>http://localhost:1313/management/iso-9001-consulting/</link>
+      <link>/management/iso-9001-consulting/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/iso-9001-consulting/</guid>
+      <guid>/management/iso-9001-consulting/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc524-iso9001-consulting.jpg&#34; alt=&#34;Iso9001 Consulting&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc524-iso9001-consulting.jpg&#34; alt=&#34;Iso9001 Consulting&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

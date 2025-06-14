@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Privacy on </title>
-    <link>http://localhost:1313/tags/data-privacy/</link>
+    <link>/tags/data-privacy/</link>
     <description>Recent content in Data Privacy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title>
-      <link>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
+      <link>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
+      <guid>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -54,13 +54,13 @@
     
     <item>
       <title>Exploring Synthetic Data Generation Capabilities</title>
-      <link>http://localhost:1313/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</link>
+      <link>/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</guid>
+      <guid>/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg&#34; alt=&#34;Exploring Synthetic Data Generation Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg&#34; alt=&#34;Exploring Synthetic Data Generation Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -118,13 +118,13 @@
     
     <item>
       <title>LLM Security and Ethics Considerations</title>
-      <link>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</link>
+      <link>/dsblog/LLM-Security-and-Ethics-Considerations/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</guid>
+      <guid>/dsblog/LLM-Security-and-Ethics-Considerations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg&#34; alt=&#34;LLM-Security-and-Ethics-Considerations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg&#34; alt=&#34;LLM-Security-and-Ethics-Considerations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -158,13 +158,13 @@
     
     <item>
       <title>Dealing with Sensitive Data</title>
-      <link>http://localhost:1313/dsblog/Dealing-with-Sensitive-Data/</link>
+      <link>/dsblog/Dealing-with-Sensitive-Data/</link>
       <pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Dealing-with-Sensitive-Data/</guid>
+      <guid>/dsblog/Dealing-with-Sensitive-Data/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg&#34; alt=&#34;XAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg&#34; alt=&#34;XAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

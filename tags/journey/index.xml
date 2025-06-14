@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journey on </title>
-    <link>http://localhost:1313/tags/journey/</link>
+    <link>/tags/journey/</link>
     <description>Recent content in Journey on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/journey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/journey/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Earnings Of Life</title>
-      <link>http://localhost:1313/wiaposts/earnings-of-life/</link>
+      <link>/wiaposts/earnings-of-life/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/earnings-of-life/</guid>
+      <guid>/wiaposts/earnings-of-life/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5151-Earnings-Of-Life.jpg&#34; alt=&#34;Earnings Of Life&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5151-Earnings-Of-Life.jpg&#34; alt=&#34;Earnings Of Life&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -48,13 +48,13 @@ You learn some useful arts and skills.&lt;/p&gt;</description>
     
     <item>
       <title>The Play Is Over</title>
-      <link>http://localhost:1313/wiaposts/the-play-is-over/</link>
+      <link>/wiaposts/the-play-is-over/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-play-is-over/</guid>
+      <guid>/wiaposts/the-play-is-over/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5103-The-Play-Is-Over.jpg&#34; alt=&#34;The Play Is Over&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5103-The-Play-Is-Over.jpg&#34; alt=&#34;The Play Is Over&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

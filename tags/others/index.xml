@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Others on </title>
-    <link>http://localhost:1313/tags/others/</link>
+    <link>/tags/others/</link>
     <description>Recent content in Others on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/others/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gitanjali - गीतांजली</title>
-      <link>http://localhost:1313/samskrutyatra/geetanjali/</link>
+      <link>/samskrutyatra/geetanjali/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/geetanjali/</guid>
+      <guid>/samskrutyatra/geetanjali/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/MySamskrutYatra-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/MySamskrutYatra-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -60,13 +60,13 @@
     
     <item>
       <title>Important Samskrut Sloka</title>
-      <link>http://localhost:1313/samskrutyatra/important-samskrut-sloka/</link>
+      <link>/samskrutyatra/important-samskrut-sloka/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/important-samskrut-sloka/</guid>
+      <guid>/samskrutyatra/important-samskrut-sloka/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -95,13 +95,13 @@
     
     <item>
       <title>Sanskrit Subhashitam - संस्कृत सुभाषितम्</title>
-      <link>http://localhost:1313/samskrutyatra/sanskrit-subhashitas-1/</link>
+      <link>/samskrutyatra/sanskrit-subhashitas-1/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sanskrit-subhashitas-1/</guid>
+      <guid>/samskrutyatra/sanskrit-subhashitas-1/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Subhashitam.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Subhashitam.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -137,13 +137,13 @@ Meaning: Success in life can be achieved only by hard work and not by merely wis
     
     <item>
       <title>Samskrut Video Links</title>
-      <link>http://localhost:1313/samskrutyatra/samskrut-video-links/</link>
+      <link>/samskrutyatra/samskrut-video-links/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/samskrut-video-links/</guid>
+      <guid>/samskrutyatra/samskrut-video-links/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/MySamskrutYatra-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/MySamskrutYatra-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

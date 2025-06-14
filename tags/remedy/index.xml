@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remedy on </title>
-    <link>http://localhost:1313/tags/remedy/</link>
+    <link>/tags/remedy/</link>
     <description>Recent content in Remedy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 29 Apr 2023 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/remedy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 08:33:00 +0530</lastBuildDate><atom:link href="/tags/remedy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pain and Suffering</title>
-      <link>http://localhost:1313/wiaposts/Pain-and-Suffering/</link>
+      <link>/wiaposts/Pain-and-Suffering/</link>
       <pubDate>Sat, 29 Apr 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Pain-and-Suffering/</guid>
+      <guid>/wiaposts/Pain-and-Suffering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5228-Pain-and-Suffering.jpg&#34; alt=&#34;Pain and Suffering &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5228-Pain-and-Suffering.jpg&#34; alt=&#34;Pain and Suffering &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -50,13 +50,13 @@ or have some other nervous issues.&lt;/p&gt;</description>
     
     <item>
       <title>Suffering And Remedy</title>
-      <link>http://localhost:1313/wiaposts/suffering-and-remedy/</link>
+      <link>/wiaposts/suffering-and-remedy/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/suffering-and-remedy/</guid>
+      <guid>/wiaposts/suffering-and-remedy/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5089-Suffering-And-Remedy.jpg&#34; alt=&#34;Suffering And Remedy&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5089-Suffering-And-Remedy.jpg&#34; alt=&#34;Suffering And Remedy&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

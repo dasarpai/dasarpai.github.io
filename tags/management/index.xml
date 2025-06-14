@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Management on </title>
-    <link>http://localhost:1313/tags/management/</link>
+    <link>/tags/management/</link>
     <description>Recent content in Management on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 09:21:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 09:21:57 +0000</lastBuildDate><atom:link href="/tags/management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cost-cutting tools</title>
-      <link>http://localhost:1313/pmbok6/Cost-cutting-tools/</link>
+      <link>/pmbok6/Cost-cutting-tools/</link>
       <pubDate>Mon, 15 Feb 2021 09:21:57 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Cost-cutting-tools/</guid>
+      <guid>/pmbok6/Cost-cutting-tools/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Cost-cutting tools 
     &lt;div id=&#34;cost-cutting-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -53,10 +53,10 @@
     
     <item>
       <title>Tools of Global Executives</title>
-      <link>http://localhost:1313/pmbok6/Tools-of-Global-Executives/</link>
+      <link>/pmbok6/Tools-of-Global-Executives/</link>
       <pubDate>Mon, 15 Feb 2021 07:08:08 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Tools-of-Global-Executives/</guid>
+      <guid>/pmbok6/Tools-of-Global-Executives/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Tools of Global Executives 
     &lt;div id=&#34;tools-of-global-executives&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -94,13 +94,13 @@
     
     <item>
       <title>Managing Source Of Energy</title>
-      <link>http://localhost:1313/wiaposts/managing-source-of-energy/</link>
+      <link>/wiaposts/managing-source-of-energy/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/managing-source-of-energy/</guid>
+      <guid>/wiaposts/managing-source-of-energy/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg&#34; alt=&#34;Managing Source Of Energy&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg&#34; alt=&#34;Managing Source Of Energy&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

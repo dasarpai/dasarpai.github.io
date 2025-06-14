@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Concepts on </title>
-    <link>http://localhost:1313/tags/technology-concepts/</link>
+    <link>/tags/technology-concepts/</link>
     <description>Recent content in Technology Concepts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/technology-concepts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/technology-concepts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title>
-      <link>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
+      <link>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
+      <guid>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Software Development Toolsets Explained</title>
-      <link>http://localhost:1313/dsblog/software-development-toolsets-explained/</link>
+      <link>/dsblog/software-development-toolsets-explained/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/software-development-toolsets-explained/</guid>
+      <guid>/dsblog/software-development-toolsets-explained/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg&#34; alt=&#34;Software Development Toolsets&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -88,13 +88,13 @@
     
     <item>
       <title>Exploring Reasoning Models in AI Marketplace, Feb 25</title>
-      <link>http://localhost:1313/dsblog/exploring-reasoning-models/</link>
+      <link>/dsblog/exploring-reasoning-models/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-reasoning-models/</guid>
+      <guid>/dsblog/exploring-reasoning-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -135,13 +135,13 @@
     
     <item>
       <title>Selecting Database for Project</title>
-      <link>http://localhost:1313/dsblog/Selecting-Database-for-Project/</link>
+      <link>/dsblog/Selecting-Database-for-Project/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Selecting-Database-for-Project/</guid>
+      <guid>/dsblog/Selecting-Database-for-Project/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg&#34; alt=&#34;Selecting Database for Project&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg&#34; alt=&#34;Selecting Database for Project&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -195,13 +195,13 @@
     
     <item>
       <title>Open Source vs Closed Source AI</title>
-      <link>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</link>
+      <link>/dsblog/Open-Source-vs-Closed-Source-AI/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
+      <guid>/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -223,13 +223,13 @@
     
     <item>
       <title>Types of Technologies</title>
-      <link>http://localhost:1313/dsblog/Types-of-Technologies/</link>
+      <link>/dsblog/Types-of-Technologies/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-Technologies/</guid>
+      <guid>/dsblog/Types-of-Technologies/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6052-Types-of-Technologies.jpg&#34; alt=&#34;Types of Technologies&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6052-Types-of-Technologies.jpg&#34; alt=&#34;Types of Technologies&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

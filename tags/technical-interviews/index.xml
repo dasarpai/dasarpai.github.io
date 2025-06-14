@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Interviews on </title>
-    <link>http://localhost:1313/tags/technical-interviews/</link>
+    <link>/tags/technical-interviews/</link>
     <description>Recent content in Technical Interviews on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/technical-interviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/technical-interviews/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Programming Resources</title>
-      <link>http://localhost:1313/dsblog/Programming-Resources/</link>
+      <link>/dsblog/Programming-Resources/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Programming-Resources/</guid>
+      <guid>/dsblog/Programming-Resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6136-Programming-Resources.jpg&#34; alt=&#34;Programming-Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6136-Programming-Resources.jpg&#34; alt=&#34;Programming-Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -400,9 +400,9 @@
     
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md&#34;&gt;design-url-shortner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md&#34;&gt;e-Commerce-site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md&#34;&gt;Whatsapp-Basic-Features-of-a-chat-app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md&#34;&gt;design-url-shortner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md&#34;&gt;e-Commerce-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md&#34;&gt;Whatsapp-Basic-Features-of-a-chat-app&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scottaohara.github.io/accessibility_interview_questions/&#34; target=&#34;_blank&#34;&gt;Accessibility Interview Questions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -758,7 +758,7 @@
 &lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34; target=&#34;_blank&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/&#34; target=&#34;_blank&#34;&gt;Interviewcake&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/&#34; target=&#34;_blank&#34;&gt;InterviewBit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br&#34;&gt;uCoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br&#34;&gt;uCoder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lintcode.com/&#34; target=&#34;_blank&#34;&gt;LintCode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://codecombat.com/&#34; target=&#34;_blank&#34;&gt;CodeCombat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -767,13 +767,13 @@
     
     <item>
       <title>Data Science Interview Question Answers</title>
-      <link>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</link>
+      <link>/dsblog/ds-ai-ml-interview-resources/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</guid>
+      <guid>/dsblog/ds-ai-ml-interview-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interdisciplinary Topics on </title>
-    <link>http://localhost:1313/categories/interdisciplinary-topics/</link>
+    <link>/categories/interdisciplinary-topics/</link>
     <description>Recent content in Interdisciplinary Topics on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/interdisciplinary-topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/interdisciplinary-topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Roadmap to Reality</title>
+      <link>/dsblog/roadmap-to-reality/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>/dsblog/roadmap-to-reality/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6286-roadmap-to-reality.jpg&#34; alt=&#34;Teaser Image&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;&lt;em&gt;Roadmap to Reality&lt;/em&gt; 
+    &lt;div id=&#34;roadmap-to-reality&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#roadmap-to-reality&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;A Scientific Journey to Know the Universe — and the Self 
+    &lt;div id=&#34;a-scientific-journey-to-know-the-universe--and-the-self&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-scientific-journey-to-know-the-universe--and-the-self&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;🌱 Introduction: The Quest 
+    &lt;div id=&#34;-introduction-the-quest&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-introduction-the-quest&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Every curious student eventually encounters two questions:&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title>
-      <link>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
+      <link>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
+      <guid>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +94,13 @@
     
     <item>
       <title>Quantum Physics and Vedanta: Bridging Science and Philosophy</title>
-      <link>http://localhost:1313/dsblog/quantum-physics-and-vedanta/</link>
+      <link>/dsblog/quantum-physics-and-vedanta/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/quantum-physics-and-vedanta/</guid>
+      <guid>/dsblog/quantum-physics-and-vedanta/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6257-quantum-physics-and-vedanta.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6257-quantum-physics-and-vedanta.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -69,13 +122,13 @@
     
     <item>
       <title>Quantum Physics with Deeper Questions with ChatGPT</title>
-      <link>http://localhost:1313/dsblog/quantum-physics-with-deeper-questions/</link>
+      <link>/dsblog/quantum-physics-with-deeper-questions/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/quantum-physics-with-deeper-questions/</guid>
+      <guid>/dsblog/quantum-physics-with-deeper-questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg&#34; alt=&#34;Quantum Physics with Deeper Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg&#34; alt=&#34;Quantum Physics with Deeper Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -109,13 +162,13 @@
     
     <item>
       <title>Grok 3 Model and Sanskrit</title>
-      <link>http://localhost:1313/dsblog/grok3model-and-sanskrit/</link>
+      <link>/dsblog/grok3model-and-sanskrit/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/grok3model-and-sanskrit/</guid>
+      <guid>/dsblog/grok3model-and-sanskrit/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg&#34; alt=&#34;Grok 3 Model and Sanskrit&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg&#34; alt=&#34;Grok 3 Model and Sanskrit&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -149,13 +202,13 @@
     
     <item>
       <title>What are Life Sciences?</title>
-      <link>http://localhost:1313/dsblog/what-are-life-sciences/</link>
+      <link>/dsblog/what-are-life-sciences/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-are-life-sciences/</guid>
+      <guid>/dsblog/what-are-life-sciences/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6243-the-study-of-life.jpg&#34; alt=&#34;The Study of Life: Understanding Its Origins, Sustenance, and Evolution&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6243-the-study-of-life.jpg&#34; alt=&#34;The Study of Life: Understanding Its Origins, Sustenance, and Evolution&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -189,13 +242,13 @@
     
     <item>
       <title>Real-Life Applications of Mathematics</title>
-      <link>http://localhost:1313/dsblog/real-life-applications-of-maths/</link>
+      <link>/dsblog/real-life-applications-of-maths/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/real-life-applications-of-maths/</guid>
+      <guid>/dsblog/real-life-applications-of-maths/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg&#34; alt=&#34;Real-Life Applications of Mathematics&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg&#34; alt=&#34;Real-Life Applications of Mathematics&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -218,13 +271,13 @@
     
     <item>
       <title>The Road to Bharat LLMs Goes Via Sanskrit</title>
-      <link>http://localhost:1313/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</link>
+      <link>/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</guid>
+      <guid>/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg&#34; alt=&#34;The Road to Bharat LLMs Goes Via Sanskrit&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg&#34; alt=&#34;The Road to Bharat LLMs Goes Via Sanskrit&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -259,13 +312,13 @@
     
     <item>
       <title>Exploring the Energy Demand and Supply of India</title>
-      <link>http://localhost:1313/dsblog/exploring-the-energy-demand-and-supply-of-india/</link>
+      <link>/dsblog/exploring-the-energy-demand-and-supply-of-india/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid>
+      <guid>/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg&#34; alt=&#34;Exploring the Energy Demand and Supply of India&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg&#34; alt=&#34;Exploring the Energy Demand and Supply of India&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -299,13 +352,13 @@
     
     <item>
       <title>How AlphaFold is Revolutionizing Protein Science</title>
-      <link>http://localhost:1313/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</link>
+      <link>/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</guid>
+      <guid>/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg&#34; alt=&#34; Answering Big Questions with AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg&#34; alt=&#34; Answering Big Questions with AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -351,13 +404,13 @@
     
     <item>
       <title>Manamath Nath - Ramayana Corpus</title>
-      <link>http://localhost:1313/dsblog/manamath-nath-ramayana-corpus/</link>
+      <link>/dsblog/manamath-nath-ramayana-corpus/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/manamath-nath-ramayana-corpus/</guid>
+      <guid>/dsblog/manamath-nath-ramayana-corpus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg&#34; alt=&#34;Manmath Nath - Ramayana Corpus&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg&#34; alt=&#34;Manmath Nath - Ramayana Corpus&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -374,28 +427,28 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-corpus-intro&#34;&gt;Corpus Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-text-license&#34;&gt;Corpus License&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-1&#34;&gt;Bala Kanda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-2&#34;&gt;Ayodhya Kanda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-3&#34;&gt;Aranyaka Kanda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-4&#34;&gt;Kishkinddha Kanda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-5&#34;&gt;Sunder Kanda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-6&#34;&gt;Lanka Kanda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../ramayan/manmathnath-ramayana-7&#34;&gt;Utter Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-corpus-intro&#34;&gt;Corpus Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-text-license&#34;&gt;Corpus License&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-1&#34;&gt;Bala Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-2&#34;&gt;Ayodhya Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-3&#34;&gt;Aranyaka Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-4&#34;&gt;Kishkinddha Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-5&#34;&gt;Sunder Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-6&#34;&gt;Lanka Kanda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ramayan/manmathnath-ramayana-7&#34;&gt;Utter Kanda&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
       
     </item>
     
     <item>
       <title>KM Ganguli Mahabharat Corpus</title>
-      <link>http://localhost:1313/dsblog/KM-Ganguli-Mahabharat-Corpus/</link>
+      <link>/dsblog/KM-Ganguli-Mahabharat-Corpus/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/KM-Ganguli-Mahabharat-Corpus/</guid>
+      <guid>/dsblog/KM-Ganguli-Mahabharat-Corpus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg&#34; alt=&#34;KM Ganguli Mahabharat Corpus&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg&#34; alt=&#34;KM Ganguli Mahabharat Corpus&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -412,37 +465,37 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-01&#34;&gt;Adi Parva (The Book of the Beginning)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-02&#34;&gt;Sabha Parva (The Book of the Assembly Hall)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-03&#34;&gt;Vana Parva or Aranyaka-Parva (The Book of the Forest)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-04&#34;&gt;Virata Parva (The Book of Virata)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-05&#34;&gt;Udyoga Parva (The Book of the Effort)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-06&#34;&gt;Bhishma Parva (The Book of Bhishma)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-07&#34;&gt;Drona Parva (The Book of Drona)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-08&#34;&gt;Karna Parva (The Book of Karna)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-09&#34;&gt;Shalya Parva (The Book of Shalya)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-10&#34;&gt;Sauptika Parva (The Book of the Sleeping Warriors)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-11&#34;&gt;Stri Parva (The Book of the Women)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-12&#34;&gt;Shanti Parva (The Book of Peace)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-13&#34;&gt;Anushasana Parva (The Book of the Instructions)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-14&#34;&gt;Ashvamedhika Parva (The Book of the Horse Sacrifice)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-15&#34;&gt;Ashramavasika Parva (The Book of the Hermitage)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-16&#34;&gt;Mausala Parva (The Book of the Clubs)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-17&#34;&gt;Mahaprasthanika Parva (The Book of the Great Journey)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../mahabharat/mb-kmganguli-mahabharat-18&#34;&gt;Svargarohana Parva (The Book of the Ascent to Heaven)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-01&#34;&gt;Adi Parva (The Book of the Beginning)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-02&#34;&gt;Sabha Parva (The Book of the Assembly Hall)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-03&#34;&gt;Vana Parva or Aranyaka-Parva (The Book of the Forest)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-04&#34;&gt;Virata Parva (The Book of Virata)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-05&#34;&gt;Udyoga Parva (The Book of the Effort)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-06&#34;&gt;Bhishma Parva (The Book of Bhishma)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-07&#34;&gt;Drona Parva (The Book of Drona)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-08&#34;&gt;Karna Parva (The Book of Karna)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-09&#34;&gt;Shalya Parva (The Book of Shalya)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-10&#34;&gt;Sauptika Parva (The Book of the Sleeping Warriors)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-11&#34;&gt;Stri Parva (The Book of the Women)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-12&#34;&gt;Shanti Parva (The Book of Peace)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-13&#34;&gt;Anushasana Parva (The Book of the Instructions)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-14&#34;&gt;Ashvamedhika Parva (The Book of the Horse Sacrifice)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-15&#34;&gt;Ashramavasika Parva (The Book of the Hermitage)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-16&#34;&gt;Mausala Parva (The Book of the Clubs)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-17&#34;&gt;Mahaprasthanika Parva (The Book of the Great Journey)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mahabharat/mb-kmganguli-mahabharat-18&#34;&gt;Svargarohana Parva (The Book of the Ascent to Heaven)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
       
     </item>
     
     <item>
       <title>The Interconnectedness of Life and Data</title>
-      <link>http://localhost:1313/dsblog/File-Formats-in-Machine-Learning/</link>
+      <link>/dsblog/File-Formats-in-Machine-Learning/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/File-Formats-in-Machine-Learning/</guid>
+      <guid>/dsblog/File-Formats-in-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg&#34; alt=&#34;The Interconnectedness of Life and Data&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg&#34; alt=&#34;The Interconnectedness of Life and Data&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -476,13 +529,13 @@
     
     <item>
       <title>Podcast Lex Fridman Sam Harris Consciousness Free Will Psychedelics</title>
-      <link>http://localhost:1313/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics/</link>
+      <link>/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics/</guid>
+      <guid>/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg&#34; alt=&#34;Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg&#34; alt=&#34;Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

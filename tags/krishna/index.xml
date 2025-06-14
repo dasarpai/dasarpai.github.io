@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krishna on </title>
-    <link>http://localhost:1313/tags/krishna/</link>
+    <link>/tags/krishna/</link>
     <description>Recent content in Krishna on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/krishna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/krishna/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sri Madana Mohana Ashtakam  - श्री मदन मोहन अष्टकम</title>
-      <link>http://localhost:1313/samskrutyatra/sri-madana-mohana-ashtakam/</link>
+      <link>/samskrutyatra/sri-madana-mohana-ashtakam/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sri-madana-mohana-ashtakam/</guid>
+      <guid>/samskrutyatra/sri-madana-mohana-ashtakam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -60,13 +60,13 @@
     
     <item>
       <title>Bhaj Govindam  - भज गोविन्दं</title>
-      <link>http://localhost:1313/samskrutyatra/bhaj-govindam/</link>
+      <link>/samskrutyatra/bhaj-govindam/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bhaj-govindam/</guid>
+      <guid>/samskrutyatra/bhaj-govindam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

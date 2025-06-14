@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transformer Architecture on </title>
-    <link>http://localhost:1313/tags/transformer-architecture/</link>
+    <link>/tags/transformer-architecture/</link>
     <description>Recent content in Transformer Architecture on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/transformer-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/transformer-architecture/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Imperialism: Western Dominance and the Future of Global Technology</title>
-      <link>http://localhost:1313/dsblog/AI-Imperialism/</link>
+      <link>/dsblog/AI-Imperialism/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Imperialism/</guid>
+      <guid>/dsblog/AI-Imperialism/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Visualizing Transformers and Attention</title>
-      <link>http://localhost:1313/dsblog/Visualizing-transformers-and-attention/</link>
+      <link>/dsblog/Visualizing-transformers-and-attention/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Visualizing-transformers-and-attention/</guid>
+      <guid>/dsblog/Visualizing-transformers-and-attention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -63,7 +63,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;../../dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;/dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Transformers and Their Flexibility&lt;/strong&gt; 
@@ -329,13 +329,13 @@
     
     <item>
       <title>Transformers Demystified A Step-by-Step Guide</title>
-      <link>http://localhost:1313/dsblog/transformers-demystified-a-step-by-step-guide/</link>
+      <link>/dsblog/transformers-demystified-a-step-by-step-guide/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/transformers-demystified-a-step-by-step-guide/</guid>
+      <guid>/dsblog/transformers-demystified-a-step-by-step-guide/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg&#34; alt=&#34;Transformers Demystified A Step-by-Step Guide&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg&#34; alt=&#34;Transformers Demystified A Step-by-Step Guide&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -370,13 +370,13 @@
     
     <item>
       <title>Important AI Paper List</title>
-      <link>http://localhost:1313/dsblog/select-ai-papers/</link>
+      <link>/dsblog/select-ai-papers/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/select-ai-papers/</guid>
+      <guid>/dsblog/select-ai-papers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg&#34; alt=&#34;Important AI Paper List&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg&#34; alt=&#34;Important AI Paper List&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -410,13 +410,13 @@
     
     <item>
       <title>What is LLM</title>
-      <link>http://localhost:1313/dsblog/what-is-llm/</link>
+      <link>/dsblog/what-is-llm/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-llm/</guid>
+      <guid>/dsblog/what-is-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -450,13 +450,13 @@
     
     <item>
       <title>GPT Usecases</title>
-      <link>http://localhost:1313/dsblog/gpt-usecases/</link>
+      <link>/dsblog/gpt-usecases/</link>
       <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/gpt-usecases/</guid>
+      <guid>/dsblog/gpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -478,13 +478,13 @@
     
     <item>
       <title>What Are Transformers in AI</title>
-      <link>http://localhost:1313/dsblog/What-Are-Transformers-in-AI/</link>
+      <link>/dsblog/What-Are-Transformers-in-AI/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-Are-Transformers-in-AI/</guid>
+      <guid>/dsblog/What-Are-Transformers-in-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg&#34; alt=&#34;What-are-Transformers-in-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg&#34; alt=&#34;What-are-Transformers-in-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -514,7 +514,7 @@
 &lt;/h2&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/transformer/transformer-arch.jpg&#34; alt=&#34;Transformer&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/transformer/transformer-arch.jpg&#34; alt=&#34;Transformer&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

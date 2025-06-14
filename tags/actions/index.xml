@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actions on </title>
-    <link>http://localhost:1313/tags/actions/</link>
+    <link>/tags/actions/</link>
     <description>Recent content in Actions on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 21 Aug 2024 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/actions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2024 08:33:00 +0530</lastBuildDate><atom:link href="/tags/actions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Nonsenses are Most Sensible</title>
-      <link>http://localhost:1313/wiaposts/my-nonsenses-are-most-sensible/</link>
+      <link>/wiaposts/my-nonsenses-are-most-sensible/</link>
       <pubDate>Wed, 21 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/my-nonsenses-are-most-sensible/</guid>
+      <guid>/wiaposts/my-nonsenses-are-most-sensible/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg&#34; alt=&#34;My Nonsenses are Most Sensible&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg&#34; alt=&#34;My Nonsenses are Most Sensible&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

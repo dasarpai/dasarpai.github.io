@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Platforms on </title>
-    <link>http://localhost:1313/tags/ai-platforms/</link>
+    <link>/tags/ai-platforms/</link>
     <description>Recent content in AI Platforms on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-platforms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-platforms/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Deep Dive into AI Model Marketplaces for Business Managers</title>
-      <link>http://localhost:1313/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</link>
+      <link>/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</guid>
+      <guid>/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg&#34; alt=&#34;AI Model Marketplaces&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg&#34; alt=&#34;AI Model Marketplaces&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Exploring the Local Location of Ollama Models on WSL2</title>
-      <link>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</link>
+      <link>/dsblog/exploring-ollama-models-location-on-wsl2/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
+      <guid>/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Automated Machine Learning</title>
-      <link>http://localhost:1313/dsblog/AutoML-Tools/</link>
+      <link>/dsblog/AutoML-Tools/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AutoML-Tools/</guid>
+      <guid>/dsblog/AutoML-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -138,13 +138,13 @@
     
     <item>
       <title>Exploring Ollama &amp; LM Studio</title>
-      <link>http://localhost:1313/dsblog/Exploring-Ollama/</link>
+      <link>/dsblog/Exploring-Ollama/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Ollama/</guid>
+      <guid>/dsblog/Exploring-Ollama/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -206,13 +206,13 @@
     
     <item>
       <title>Variations of Language Model in Huggingface</title>
-      <link>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
+      <link>/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
+      <guid>/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -246,13 +246,13 @@
     
     <item>
       <title>ML Model Respository from Pinto0309</title>
-      <link>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</link>
+      <link>/dsblog/ML-Model-Repository-from-Pinto0309/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
+      <guid>/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

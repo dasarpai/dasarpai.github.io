@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PMI Templates on </title>
-    <link>http://localhost:1313/tags/pmi-templates/</link>
+    <link>/tags/pmi-templates/</link>
     <description>Recent content in PMI Templates on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmi-templates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pmi-templates/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PMI Templates</title>
-      <link>http://localhost:1313/pmi-templates/</link>
+      <link>/pmi-templates/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmi-templates/</guid>
+      <guid>/pmi-templates/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;PMBOK6 Based Prject Management Templates 
     &lt;div id=&#34;pmbok6-based-prject-management-templates&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -27,58 +27,58 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../assets/docs/pmi-templates/2.2_Project_Charter.doc&#34;&gt;2.2_Project_Charter.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/2.3_Stakeholder_Register.doc&#34;&gt;2.3_Stakeholder_Register.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/2.4_Stakeholder_Analysis_Matrix.doc&#34;&gt;2.4_Stakeholder_Analysis_Matrix.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/2.5_Stakeholder_Management_Strategy.doc&#34;&gt;2.5_Stakeholder_Management_Strategy.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.10_Activity_Attributes.doc&#34;&gt;3.10_Activity_Attributes.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.11_Milestone_List.doc&#34;&gt;3.11_Milestone_List.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.13_Activity_Resource_Requirements.doc&#34;&gt;3.13_Activity_Resource_Requirements.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.15_Activity_Duration_Estimates.xls&#34;&gt;3.15_Activity_Duration_Estimates.xls&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.16_Duration_Estimating_Worksheet.xls&#34;&gt;3.16_Duration_Estimating_Worksheet.xls&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.18_Activity_Cost_Estimates.xls&#34;&gt;3.18_Activity_Cost_Estimates.xls&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.19a_Bottom_Up_Cost_Estimating_Worksheet.xls&#34;&gt;3.19a_Bottom_Up_Cost_Estimating_Worksheet.xls&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.19_Cost_Estimating_Worksheet.xls&#34;&gt;3.19_Cost_Estimating_Worksheet.xls&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.21_Quality_Management_Plan.doc&#34;&gt;3.21_Quality_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.22_Quality_Metrics.doc&#34;&gt;3.22_Quality_Metrics.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.23_Process_Improvement_Plan.doc&#34;&gt;3.23_Process_Improvement_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.25_Roles_and_Responsibilities.doc&#34;&gt;3.25_Roles_and_Responsibilities.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.27_Communications_Management_Plan.doc&#34;&gt;3.27_Communications_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.28_Risk_Management_Plan.doc&#34;&gt;3.28_Risk_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.29_Risk_Register.doc&#34;&gt;3.29_Risk_Register.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.2_Requirements_Documentation.doc&#34;&gt;3.2_Requirements_Documentation.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.30_Probability_and_Impact_Assessment.doc&#34;&gt;3.30_Probability_and_Impact_Assessment.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.31_Probability_and_Impact_Matrix.doc&#34;&gt;3.31_Probability_and_Impact_Matrix.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.32_Risk_Data_Sheet.doc&#34;&gt;3.32_Risk_Data_Sheet.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.35_Project_Management_Plan.doc&#34;&gt;3.35_Project_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.36_Configuration_Management_Plan.doc&#34;&gt;3.36_Configuration_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.37_Change_Management_Plan.doc&#34;&gt;3.37_Change_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.3_Requirements_Management_Plan.doc&#34;&gt;3.3_Requirements_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.4a_Requirements_Inter-Traceability_Matrix.doc&#34;&gt;3.4a_Requirements_Inter-Traceability_Matrix.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.4_Requirements_Traceability_Matrix.doc&#34;&gt;3.4_Requirements_Traceability_Matrix.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.5_Project_Scope_Statement.doc&#34;&gt;3.5_Project_Scope_Statement.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.6_Assumption_and_Constraint_Log.doc&#34;&gt;3.6_Assumption_and_Constraint_Log.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.8_WBS_Dictionary.doc&#34;&gt;3.8_WBS_Dictionary.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/3.9_Activity_List.doc&#34;&gt;3.9_Activity_List.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.10_Team_Member_Performance_Assessment.doc&#34;&gt;4.10_Team_Member_Performance_Assessment.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.11_Issue_Log.doc&#34;&gt;4.11_Issue_Log.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.2_Team_Member_Status_Report.doc&#34;&gt;4.2_Team_Member_Status_Report.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.3_Change_Request.doc&#34;&gt;4.3_Change_Request.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.4_Change_Log.doc&#34;&gt;4.4_Change_Log.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.6_Quality_Audit.doc&#34;&gt;4.6_Quality_Audit.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.7_Team_Directory.doc&#34;&gt;4.7_Team_Directory.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.8_Team_Operating_Agreement.doc&#34;&gt;4.8_Team_Operating_Agreement.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/4.9_Team_Performance_Assessment.doc&#34;&gt;4.9_Team_Performance_Assessment.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/5.2_Project_Performance_Report.doc&#34;&gt;5.2_Project_Performance_Report.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/5.3_Variance_Analysis.doc&#34;&gt;5.3_Variance_Analysis.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/5.4_Earned_Value_Status_Report.xls&#34;&gt;5.4_Earned_Value_Status_Report.xls&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/5.5_Risk_Audit.doc&#34;&gt;5.5_Risk_Audit.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/5.6_Contractor_Status_Report.doc&#34;&gt;5.6_Contractor_Status_Report.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/5.7_Product_Acceptance.doc&#34;&gt;5.7_Product_Acceptance.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/6.2_Procurement_Audit.doc&#34;&gt;6.2_Procurement Audit.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/6.3_Contract_Close-out.doc&#34;&gt;6.3_Contract Close-out.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/6.4_Project_Close-out.doc&#34;&gt;6.4_Project Close-out.doc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../assets/docs/pmi-templates/6.5_Lessons_Learned.doc&#34;&gt;6.5_Lessons Learned.doc&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;/assets/docs/pmi-templates/2.2_Project_Charter.doc&#34;&gt;2.2_Project_Charter.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/2.3_Stakeholder_Register.doc&#34;&gt;2.3_Stakeholder_Register.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/2.4_Stakeholder_Analysis_Matrix.doc&#34;&gt;2.4_Stakeholder_Analysis_Matrix.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/2.5_Stakeholder_Management_Strategy.doc&#34;&gt;2.5_Stakeholder_Management_Strategy.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.10_Activity_Attributes.doc&#34;&gt;3.10_Activity_Attributes.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.11_Milestone_List.doc&#34;&gt;3.11_Milestone_List.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.13_Activity_Resource_Requirements.doc&#34;&gt;3.13_Activity_Resource_Requirements.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.15_Activity_Duration_Estimates.xls&#34;&gt;3.15_Activity_Duration_Estimates.xls&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.16_Duration_Estimating_Worksheet.xls&#34;&gt;3.16_Duration_Estimating_Worksheet.xls&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.18_Activity_Cost_Estimates.xls&#34;&gt;3.18_Activity_Cost_Estimates.xls&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.19a_Bottom_Up_Cost_Estimating_Worksheet.xls&#34;&gt;3.19a_Bottom_Up_Cost_Estimating_Worksheet.xls&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.19_Cost_Estimating_Worksheet.xls&#34;&gt;3.19_Cost_Estimating_Worksheet.xls&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.21_Quality_Management_Plan.doc&#34;&gt;3.21_Quality_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.22_Quality_Metrics.doc&#34;&gt;3.22_Quality_Metrics.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.23_Process_Improvement_Plan.doc&#34;&gt;3.23_Process_Improvement_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.25_Roles_and_Responsibilities.doc&#34;&gt;3.25_Roles_and_Responsibilities.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.27_Communications_Management_Plan.doc&#34;&gt;3.27_Communications_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.28_Risk_Management_Plan.doc&#34;&gt;3.28_Risk_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.29_Risk_Register.doc&#34;&gt;3.29_Risk_Register.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.2_Requirements_Documentation.doc&#34;&gt;3.2_Requirements_Documentation.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.30_Probability_and_Impact_Assessment.doc&#34;&gt;3.30_Probability_and_Impact_Assessment.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.31_Probability_and_Impact_Matrix.doc&#34;&gt;3.31_Probability_and_Impact_Matrix.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.32_Risk_Data_Sheet.doc&#34;&gt;3.32_Risk_Data_Sheet.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.35_Project_Management_Plan.doc&#34;&gt;3.35_Project_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.36_Configuration_Management_Plan.doc&#34;&gt;3.36_Configuration_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.37_Change_Management_Plan.doc&#34;&gt;3.37_Change_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.3_Requirements_Management_Plan.doc&#34;&gt;3.3_Requirements_Management_Plan.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.4a_Requirements_Inter-Traceability_Matrix.doc&#34;&gt;3.4a_Requirements_Inter-Traceability_Matrix.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.4_Requirements_Traceability_Matrix.doc&#34;&gt;3.4_Requirements_Traceability_Matrix.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.5_Project_Scope_Statement.doc&#34;&gt;3.5_Project_Scope_Statement.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.6_Assumption_and_Constraint_Log.doc&#34;&gt;3.6_Assumption_and_Constraint_Log.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.8_WBS_Dictionary.doc&#34;&gt;3.8_WBS_Dictionary.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/3.9_Activity_List.doc&#34;&gt;3.9_Activity_List.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.10_Team_Member_Performance_Assessment.doc&#34;&gt;4.10_Team_Member_Performance_Assessment.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.11_Issue_Log.doc&#34;&gt;4.11_Issue_Log.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.2_Team_Member_Status_Report.doc&#34;&gt;4.2_Team_Member_Status_Report.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.3_Change_Request.doc&#34;&gt;4.3_Change_Request.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.4_Change_Log.doc&#34;&gt;4.4_Change_Log.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.6_Quality_Audit.doc&#34;&gt;4.6_Quality_Audit.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.7_Team_Directory.doc&#34;&gt;4.7_Team_Directory.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.8_Team_Operating_Agreement.doc&#34;&gt;4.8_Team_Operating_Agreement.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/4.9_Team_Performance_Assessment.doc&#34;&gt;4.9_Team_Performance_Assessment.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/5.2_Project_Performance_Report.doc&#34;&gt;5.2_Project_Performance_Report.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/5.3_Variance_Analysis.doc&#34;&gt;5.3_Variance_Analysis.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/5.4_Earned_Value_Status_Report.xls&#34;&gt;5.4_Earned_Value_Status_Report.xls&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/5.5_Risk_Audit.doc&#34;&gt;5.5_Risk_Audit.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/5.6_Contractor_Status_Report.doc&#34;&gt;5.6_Contractor_Status_Report.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/5.7_Product_Acceptance.doc&#34;&gt;5.7_Product_Acceptance.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/6.2_Procurement_Audit.doc&#34;&gt;6.2_Procurement Audit.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/6.3_Contract_Close-out.doc&#34;&gt;6.3_Contract Close-out.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/6.4_Project_Close-out.doc&#34;&gt;6.4_Project Close-out.doc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;/assets/docs/pmi-templates/6.5_Lessons_Learned.doc&#34;&gt;6.5_Lessons Learned.doc&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     

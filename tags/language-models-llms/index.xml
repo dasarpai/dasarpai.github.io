@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language Models (LLMs) on </title>
-    <link>http://localhost:1313/tags/language-models-llms/</link>
+    <link>/tags/language-models-llms/</link>
     <description>Recent content in Language Models (LLMs) on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/language-models-llms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/language-models-llms/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title>
-      <link>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
+      <link>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
+      <guid>/dsblog/BitNet-b1-58-2B4T-for-efficient-ai-processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg&#34; alt=&#34;BitNet b1.58-2B4T&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -54,13 +54,13 @@
     
     <item>
       <title>Retrieval-Augmented Generation with Conflicting Evidence</title>
-      <link>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
+      <link>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
+      <guid>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -83,13 +83,13 @@
     
     <item>
       <title>LLM Internal Encoding of Truthfulness and Hallucinations</title>
-      <link>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
+      <link>/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
+      <guid>/dsblog/ps-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg&#34; alt=&#34;LLM Internal Encoding of Truthfulness and Hallucinations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -111,13 +111,13 @@
     
     <item>
       <title>Quantum Physics with Deeper Questions with ChatGPT</title>
-      <link>http://localhost:1313/dsblog/quantum-physics-with-deeper-questions/</link>
+      <link>/dsblog/quantum-physics-with-deeper-questions/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/quantum-physics-with-deeper-questions/</guid>
+      <guid>/dsblog/quantum-physics-with-deeper-questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg&#34; alt=&#34;Quantum Physics with Deeper Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg&#34; alt=&#34;Quantum Physics with Deeper Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -151,13 +151,13 @@
     
     <item>
       <title>State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview</title>
-      <link>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
+      <link>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
+      <guid>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -191,13 +191,13 @@
     
     <item>
       <title>OpenAI 12 Days 2024 Announcements</title>
-      <link>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</link>
+      <link>/dsblog/OpenAI-12-Days-2024-Announcements/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
+      <guid>/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -233,13 +233,13 @@
     
     <item>
       <title>Framework for using LLM</title>
-      <link>http://localhost:1313/dsblog/Framework-for-using-LLM/</link>
+      <link>/dsblog/Framework-for-using-LLM/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Framework-for-using-LLM/</guid>
+      <guid>/dsblog/Framework-for-using-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -261,13 +261,13 @@
     
     <item>
       <title>AI Models and Creators</title>
-      <link>http://localhost:1313/dsblog/AI-Models-and-Creators/</link>
+      <link>/dsblog/AI-Models-and-Creators/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Models-and-Creators/</guid>
+      <guid>/dsblog/AI-Models-and-Creators/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -339,13 +339,13 @@
     
     <item>
       <title>Exploring AnythingLLM</title>
-      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <link>/dsblog/exploring-anythingllm/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <guid>/dsblog/exploring-anythingllm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -379,13 +379,13 @@
     
     <item>
       <title>Types of Large Language Models (LLM)</title>
-      <link>http://localhost:1313/dsblog/Types-of-LLM/</link>
+      <link>/dsblog/Types-of-LLM/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-LLM/</guid>
+      <guid>/dsblog/Types-of-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -407,13 +407,13 @@
     
     <item>
       <title>Exploring Dense Embedding Models in AI</title>
-      <link>http://localhost:1313/dsblog/Exploring-Dense-Embedding-Models-in-AI/</link>
+      <link>/dsblog/Exploring-Dense-Embedding-Models-in-AI/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Dense-Embedding-Models-in-AI/</guid>
+      <guid>/dsblog/Exploring-Dense-Embedding-Models-in-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg&#34; alt=&#34;Exploring Dense Embedding Models in AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg&#34; alt=&#34;Exploring Dense Embedding Models in AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -436,13 +436,13 @@
     
     <item>
       <title>Introduction to Perplexity AI</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</link>
+      <link>/dsblog/Introduction-to-Perplexity-AI/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</guid>
+      <guid>/dsblog/Introduction-to-Perplexity-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg&#34; alt=&#34;Introduction to Perplexity AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg&#34; alt=&#34;Introduction to Perplexity AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -476,13 +476,13 @@
     
     <item>
       <title>Exploring Ollama &amp; LM Studio</title>
-      <link>http://localhost:1313/dsblog/Exploring-Ollama/</link>
+      <link>/dsblog/Exploring-Ollama/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Ollama/</guid>
+      <guid>/dsblog/Exploring-Ollama/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6143-Exploring-Ollama.jpg&#34; alt=&#34;Exploring Ollama &amp;amp; LM Studio&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -544,13 +544,13 @@
     
     <item>
       <title>Variations of Language Model in Huggingface</title>
-      <link>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
+      <link>/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
+      <guid>/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -584,13 +584,13 @@
     
     <item>
       <title>LLM Architecture and Training</title>
-      <link>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</link>
+      <link>/dsblog/LLM-Architecture-and-Training/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</guid>
+      <guid>/dsblog/LLM-Architecture-and-Training/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -612,13 +612,13 @@
     
     <item>
       <title>Why to Finetune LLM?</title>
-      <link>http://localhost:1313/dsblog/why-to-finetune-llm/</link>
+      <link>/dsblog/why-to-finetune-llm/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/why-to-finetune-llm/</guid>
+      <guid>/dsblog/why-to-finetune-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6115-why-to-finetune-llm.jpg&#34; alt=&#34;Why to Finetune LLM?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg&#34; alt=&#34;Why to Finetune LLM?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -652,13 +652,13 @@
     
     <item>
       <title>Stanford Alpaca</title>
-      <link>http://localhost:1313/dsblog/Stanford-Alpaca/</link>
+      <link>/dsblog/Stanford-Alpaca/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Stanford-Alpaca/</guid>
+      <guid>/dsblog/Stanford-Alpaca/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -748,13 +748,13 @@
     
     <item>
       <title>Understanding LLM GAN and Transformers</title>
-      <link>http://localhost:1313/dsblog/Understanding-LLM-GAN-and-Transformers/</link>
+      <link>/dsblog/Understanding-LLM-GAN-and-Transformers/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Understanding-LLM-GAN-and-Transformers/</guid>
+      <guid>/dsblog/Understanding-LLM-GAN-and-Transformers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg&#34; alt=&#34;Understanding-LLM-GAN-Transformers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg&#34; alt=&#34;Understanding-LLM-GAN-Transformers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -788,13 +788,13 @@
     
     <item>
       <title>NLP BenchMarks</title>
-      <link>http://localhost:1313/dsblog/NLP-BenchMarks1/</link>
+      <link>/dsblog/NLP-BenchMarks1/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/NLP-BenchMarks1/</guid>
+      <guid>/dsblog/NLP-BenchMarks1/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6120-NLP-BenchMarks.jpg&#34; alt=&#34;NLP-BenchMarks&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6120-NLP-BenchMarks.jpg&#34; alt=&#34;NLP-BenchMarks&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -828,13 +828,13 @@
     
     <item>
       <title>Empowering Language with AI NLP Capabilities</title>
-      <link>http://localhost:1313/dsblog/empowering-language-with-ainlp-capabilities/</link>
+      <link>/dsblog/empowering-language-with-ainlp-capabilities/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/empowering-language-with-ainlp-capabilities/</guid>
+      <guid>/dsblog/empowering-language-with-ainlp-capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg&#34; alt=&#34;Empowering-Language-with-AI-NLP-Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg&#34; alt=&#34;Empowering-Language-with-AI-NLP-Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -868,13 +868,13 @@
     
     <item>
       <title>Topic Modeling with BERT</title>
-      <link>http://localhost:1313/dsblog/topic-modeling-with-bert/</link>
+      <link>/dsblog/topic-modeling-with-bert/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/topic-modeling-with-bert/</guid>
+      <guid>/dsblog/topic-modeling-with-bert/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -942,13 +942,13 @@
     
     <item>
       <title>Basics of Word Embedding</title>
-      <link>http://localhost:1313/dsblog/basics-of-word-embedding/</link>
+      <link>/dsblog/basics-of-word-embedding/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/basics-of-word-embedding/</guid>
+      <guid>/dsblog/basics-of-word-embedding/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg&#34; alt=&#34;Basics of Word Embedding&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg&#34; alt=&#34;Basics of Word Embedding&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -987,13 +987,13 @@
     
     <item>
       <title>Graph of Thoughts</title>
-      <link>http://localhost:1313/dsblog/graph-of-thoughts/</link>
+      <link>/dsblog/graph-of-thoughts/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/graph-of-thoughts/</guid>
+      <guid>/dsblog/graph-of-thoughts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg&#34; alt=&#34;Graph of Thoughts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg&#34; alt=&#34;Graph of Thoughts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1015,13 +1015,13 @@
     
     <item>
       <title>Compressing Large Language Model</title>
-      <link>http://localhost:1313/dsblog/compressing-llm/</link>
+      <link>/dsblog/compressing-llm/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/compressing-llm/</guid>
+      <guid>/dsblog/compressing-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6099-Compressing-LLM.jpg&#34; alt=&#34;Compressing Large Language Model&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6099-Compressing-LLM.jpg&#34; alt=&#34;Compressing Large Language Model&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1084,13 +1084,13 @@
     
     <item>
       <title>What is Pinecone</title>
-      <link>http://localhost:1313/dsblog/What-is-Pinecone/</link>
+      <link>/dsblog/What-is-Pinecone/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Pinecone/</guid>
+      <guid>/dsblog/What-is-Pinecone/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1125,13 +1125,13 @@
     
     <item>
       <title>Important AI Paper List</title>
-      <link>http://localhost:1313/dsblog/select-ai-papers/</link>
+      <link>/dsblog/select-ai-papers/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/select-ai-papers/</guid>
+      <guid>/dsblog/select-ai-papers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg&#34; alt=&#34;Important AI Paper List&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg&#34; alt=&#34;Important AI Paper List&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1165,13 +1165,13 @@
     
     <item>
       <title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title>
-      <link>http://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</link>
+      <link>/dsblog/Comprehensive-Glossary-of-LLM/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</guid>
+      <guid>/dsblog/Comprehensive-Glossary-of-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1193,20 +1193,20 @@
     
     <item>
       <title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title>
-      <link>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
+      <link>/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
+      <guid>/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong&gt;&lt;br&gt;
 Typer of Paper:- Survey Paper&lt;br&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2105.10311&#34; target=&#34;_blank&#34;&gt;Paper URL&lt;/a&gt;&lt;br&gt;
-Paper title of the citations mentioned can be found at &lt;a href=&#34;../../dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
+Paper title of the citations mentioned can be found at &lt;a href=&#34;/dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;Paper Summary :- Pretrained Language Models for Text Generation 
@@ -1297,16 +1297,16 @@ Paper title of the citations mentioned can be found at &lt;a href=&#34;../../dsb
 &lt;ul&gt;
 &lt;li&gt;In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )&lt;/li&gt;
 &lt;li&gt;If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
-generation task(generate text without any constraint) &lt;a href=&#34;../../dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
+generation task(generate text without any constraint) &lt;a href=&#34;/dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
-attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;../../dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;../../dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;../../dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;../../dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
+attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;/dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;/dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;/dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;/dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system.&lt;/li&gt;
-&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;../../dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;../../dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;../../dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;/dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;/dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;/dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -1323,14 +1323,14 @@ attribute-based generation. X plays the role of guiding the text generation. &lt
 &lt;ul&gt;
 &lt;li&gt;Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
 &lt;ul&gt;
-&lt;li&gt;MASS &lt;a href=&#34;../../dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;T5 &lt;a href=&#34;../../dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;BART &lt;a href=&#34;../../dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MASS &lt;a href=&#34;/dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;T5 &lt;a href=&#34;/dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BART &lt;a href=&#34;/dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens.
 &lt;ul&gt;
-&lt;li&gt;GPT &lt;a href=&#34;../../dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;../../dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GPT &lt;a href=&#34;/dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;/dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;CTRL [Keskar2019]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1508,13 +1508,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>What is LLM</title>
-      <link>http://localhost:1313/dsblog/what-is-llm/</link>
+      <link>/dsblog/what-is-llm/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-llm/</guid>
+      <guid>/dsblog/what-is-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1548,13 +1548,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>NLP Tasks</title>
-      <link>http://localhost:1313/dsblog/nlp-tasks/</link>
+      <link>/dsblog/nlp-tasks/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/nlp-tasks/</guid>
+      <guid>/dsblog/nlp-tasks/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6085-NLP-Tasks.jpg&#34; alt=&#34;NLP Tasks&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6085-NLP-Tasks.jpg&#34; alt=&#34;NLP Tasks&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1588,13 +1588,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Introduction to Prompt Engineering</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</link>
+      <link>/dsblog/Introduction-to-Prompt-Engineering/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</guid>
+      <guid>/dsblog/Introduction-to-Prompt-Engineering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1616,13 +1616,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Major LLM Developers Shaping the AI Landscape</title>
-      <link>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
+      <link>/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
+      <guid>/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1657,13 +1657,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Capabilities of AI Transformers</title>
-      <link>http://localhost:1313/dsblog/Capabilities-of-AI-Transformers/</link>
+      <link>/dsblog/Capabilities-of-AI-Transformers/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Capabilities-of-AI-Transformers/</guid>
+      <guid>/dsblog/Capabilities-of-AI-Transformers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg&#34; alt=&#34;Capabilities of AI Transformers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg&#34; alt=&#34;Capabilities of AI Transformers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1697,13 +1697,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Business Usecases of GPT</title>
-      <link>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</link>
+      <link>/dsblog/Business-Usecases-of-GPT/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</guid>
+      <guid>/dsblog/Business-Usecases-of-GPT/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1738,13 +1738,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>GPT Usecases</title>
-      <link>http://localhost:1313/dsblog/gpt-usecases/</link>
+      <link>/dsblog/gpt-usecases/</link>
       <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/gpt-usecases/</guid>
+      <guid>/dsblog/gpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1766,13 +1766,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>ChatGPT Usecases</title>
-      <link>http://localhost:1313/dsblog/chatgpt-usecases/</link>
+      <link>/dsblog/chatgpt-usecases/</link>
       <pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/chatgpt-usecases/</guid>
+      <guid>/dsblog/chatgpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1795,13 +1795,13 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
     
     <item>
       <title>What is NLP?</title>
-      <link>http://localhost:1313/dsblog/what-is-nlp/</link>
+      <link>/dsblog/what-is-nlp/</link>
       <pubDate>Mon, 19 Dec 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-nlp/</guid>
+      <guid>/dsblog/what-is-nlp/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6016-What-is-NLP.jpg&#34; alt=&#34;What is NLP?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6016-What-is-NLP.jpg&#34; alt=&#34;What is NLP?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1823,13 +1823,13 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
     
     <item>
       <title>What Are Transformers in AI</title>
-      <link>http://localhost:1313/dsblog/What-Are-Transformers-in-AI/</link>
+      <link>/dsblog/What-Are-Transformers-in-AI/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-Are-Transformers-in-AI/</guid>
+      <guid>/dsblog/What-Are-Transformers-in-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg&#34; alt=&#34;What-are-Transformers-in-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg&#34; alt=&#34;What-are-Transformers-in-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1859,7 +1859,7 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
 &lt;/h2&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/transformer/transformer-arch.jpg&#34; alt=&#34;Transformer&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/transformer/transformer-arch.jpg&#34; alt=&#34;Transformer&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

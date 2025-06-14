@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mychanting on </title>
-    <link>http://localhost:1313/tags/mychanting/</link>
+    <link>/tags/mychanting/</link>
     <description>Recent content in Mychanting on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mychanting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mychanting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bajarang Baan  - बजरंग बाण</title>
-      <link>http://localhost:1313/samskrutyatra/bajarang-baan/</link>
+      <link>/samskrutyatra/bajarang-baan/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bajarang-baan/</guid>
+      <guid>/samskrutyatra/bajarang-baan/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -60,13 +60,13 @@
     
     <item>
       <title>Upnishadic Prarthana - उपनिषदिय प्रार्थना</title>
-      <link>http://localhost:1313/samskrutyatra/upnishadic-prarthana/</link>
+      <link>/samskrutyatra/upnishadic-prarthana/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/upnishadic-prarthana/</guid>
+      <guid>/samskrutyatra/upnishadic-prarthana/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -103,13 +103,13 @@
     
     <item>
       <title>Mandukyopnishad  - माण्डूक्योपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/mandukyopnishad/</link>
+      <link>/samskrutyatra/mandukyopnishad/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/mandukyopnishad/</guid>
+      <guid>/samskrutyatra/mandukyopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -152,13 +152,13 @@
     
     <item>
       <title>Jai Raama Sada Sada Sukhdham Hare - जय राम सदा सुखधाम</title>
-      <link>http://localhost:1313/samskrutyatra/jai-raama-sada-sada-sukhdham-hare/</link>
+      <link>/samskrutyatra/jai-raama-sada-sada-sukhdham-hare/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/jai-raama-sada-sada-sukhdham-hare/</guid>
+      <guid>/samskrutyatra/jai-raama-sada-sada-sukhdham-hare/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -196,13 +196,13 @@
     
     <item>
       <title>Jai Raama Sobha Dham - जय राम सोभा धाम</title>
-      <link>http://localhost:1313/samskrutyatra/jai-raama-sobha-dham/</link>
+      <link>/samskrutyatra/jai-raama-sobha-dham/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/jai-raama-sobha-dham/</guid>
+      <guid>/samskrutyatra/jai-raama-sobha-dham/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -240,13 +240,13 @@
     
     <item>
       <title>IshaaVashyopnishad  - ईशावास्योपषत्</title>
-      <link>http://localhost:1313/samskrutyatra/ishaavashyopnishad/</link>
+      <link>/samskrutyatra/ishaavashyopnishad/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/ishaavashyopnishad/</guid>
+      <guid>/samskrutyatra/ishaavashyopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -281,7 +281,7 @@
 &lt;p&gt;For सस्वर Mychanting please use this image.&lt;/p&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/IshaVaasyopnishad.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/IshaVaasyopnishad.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -294,13 +294,13 @@
     
     <item>
       <title>Rudraghan Paath - रुद्रघन पाठ</title>
-      <link>http://localhost:1313/samskrutyatra/rudraghan-paath/</link>
+      <link>/samskrutyatra/rudraghan-paath/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/rudraghan-paath/</guid>
+      <guid>/samskrutyatra/rudraghan-paath/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -327,13 +327,13 @@
     
     <item>
       <title>AdityaHrudyam Stotram - आदित्यहृदयम् स्त्रोत्रं</title>
-      <link>http://localhost:1313/samskrutyatra/aditya-hridayam-stotram/</link>
+      <link>/samskrutyatra/aditya-hridayam-stotram/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/aditya-hridayam-stotram/</guid>
+      <guid>/samskrutyatra/aditya-hridayam-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/GayatriDevata.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/GayatriDevata.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -406,13 +406,13 @@
     
     <item>
       <title>Jai Jai Surnayak - जय जय सुरनायक</title>
-      <link>http://localhost:1313/samskrutyatra/jai-jai-surnayak/</link>
+      <link>/samskrutyatra/jai-jai-surnayak/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/jai-jai-surnayak/</guid>
+      <guid>/samskrutyatra/jai-jai-surnayak/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -454,13 +454,13 @@
     
     <item>
       <title>Jai Raam Rama Ramanam Samanam - जय राम रमा रमनं समनं</title>
-      <link>http://localhost:1313/samskrutyatra/jai-raam-rama-ramanam-samanam/</link>
+      <link>/samskrutyatra/jai-raam-rama-ramanam-samanam/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/jai-raam-rama-ramanam-samanam/</guid>
+      <guid>/samskrutyatra/jai-raam-rama-ramanam-samanam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -500,13 +500,13 @@
     
     <item>
       <title>Parsat Pad Paavan - परसत पद पावन</title>
-      <link>http://localhost:1313/samskrutyatra/parsat-pad-paavan/</link>
+      <link>/samskrutyatra/parsat-pad-paavan/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/parsat-pad-paavan/</guid>
+      <guid>/samskrutyatra/parsat-pad-paavan/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -548,13 +548,13 @@
     
     <item>
       <title>Ramchandra Stavan - रामचन्द्र स्तवन</title>
-      <link>http://localhost:1313/samskrutyatra/ramchandra-stavan/</link>
+      <link>/samskrutyatra/ramchandra-stavan/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/ramchandra-stavan/</guid>
+      <guid>/samskrutyatra/ramchandra-stavan/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -595,13 +595,13 @@
     
     <item>
       <title>Ramchandra Stuti  - श्री राम स्तुति:</title>
-      <link>http://localhost:1313/samskrutyatra/ramchandra-stuti/</link>
+      <link>/samskrutyatra/ramchandra-stuti/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/ramchandra-stuti/</guid>
+      <guid>/samskrutyatra/ramchandra-stuti/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/RamcharaitMaanas.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -642,13 +642,13 @@
     
     <item>
       <title>Shankarya Mangalam - शंकराय मंगलं</title>
-      <link>http://localhost:1313/samskrutyatra/shankarya-mangalam/</link>
+      <link>/samskrutyatra/shankarya-mangalam/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shankarya-mangalam/</guid>
+      <guid>/samskrutyatra/shankarya-mangalam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -693,13 +693,13 @@
     
     <item>
       <title>Devi Kshama Prarthana - क्षमा-प्रार्थना</title>
-      <link>http://localhost:1313/samskrutyatra/devi-kshama-prarthana/</link>
+      <link>/samskrutyatra/devi-kshama-prarthana/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/devi-kshama-prarthana/</guid>
+      <guid>/samskrutyatra/devi-kshama-prarthana/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -742,13 +742,13 @@
     
     <item>
       <title>Guru Stotram  - गुरु स्तोत्रम्</title>
-      <link>http://localhost:1313/samskrutyatra/guru-stotram/</link>
+      <link>/samskrutyatra/guru-stotram/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/guru-stotram/</guid>
+      <guid>/samskrutyatra/guru-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -791,13 +791,13 @@
     
     <item>
       <title>Hanuman Chalisa - हनुमान चालीसा</title>
-      <link>http://localhost:1313/samskrutyatra/hanuman-chalisa/</link>
+      <link>/samskrutyatra/hanuman-chalisa/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/hanuman-chalisa/</guid>
+      <guid>/samskrutyatra/hanuman-chalisa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Hanumanji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -838,13 +838,13 @@
     
     <item>
       <title>Lakshmi Nrusimha Karavalamba Stotram - लक्ष्मीनृसिंह करावलम्ब स्तोत्र</title>
-      <link>http://localhost:1313/samskrutyatra/lakshmi-nrusimha-karavalamba-stotram/</link>
+      <link>/samskrutyatra/lakshmi-nrusimha-karavalamba-stotram/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/lakshmi-nrusimha-karavalamba-stotram/</guid>
+      <guid>/samskrutyatra/lakshmi-nrusimha-karavalamba-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/LakshmiNrushimhan.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/LakshmiNrushimhan.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -885,13 +885,13 @@
     
     <item>
       <title>Achyutashtakam  - अच्युतस्याष्टकम्</title>
-      <link>http://localhost:1313/samskrutyatra/achyutashtakam/</link>
+      <link>/samskrutyatra/achyutashtakam/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/achyutashtakam/</guid>
+      <guid>/samskrutyatra/achyutashtakam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Vishnu.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Vishnu.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -943,13 +943,13 @@
     
     <item>
       <title>Lingastakam Stotra - लिंगाष्टकमं स्तोत्र</title>
-      <link>http://localhost:1313/samskrutyatra/lingastakam-stotra/</link>
+      <link>/samskrutyatra/lingastakam-stotra/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/lingastakam-stotra/</guid>
+      <guid>/samskrutyatra/lingastakam-stotra/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -990,13 +990,13 @@
     
     <item>
       <title>Vipasana Dohe- Dharma - धर्म</title>
-      <link>http://localhost:1313/samskrutyatra/vipasana-dohe-dharma/</link>
+      <link>/samskrutyatra/vipasana-dohe-dharma/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/vipasana-dohe-dharma/</guid>
+      <guid>/samskrutyatra/vipasana-dohe-dharma/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Vipasana.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Vipasana.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1037,13 +1037,13 @@
     
     <item>
       <title>DurgaSuktam - अथ दुर्गासूक्तम्</title>
-      <link>http://localhost:1313/samskrutyatra/durgasuktam/</link>
+      <link>/samskrutyatra/durgasuktam/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/durgasuktam/</guid>
+      <guid>/samskrutyatra/durgasuktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1085,13 +1085,13 @@
     
     <item>
       <title>Shri Sarada Stava - श्रीसारदास्तवं</title>
-      <link>http://localhost:1313/samskrutyatra/shri-sarada-stava/</link>
+      <link>/samskrutyatra/shri-sarada-stava/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shri-sarada-stava/</guid>
+      <guid>/samskrutyatra/shri-sarada-stava/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SaradaMaa.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SaradaMaa.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1134,13 +1134,13 @@
     
     <item>
       <title>Shri Shiv Mahimna Stotram - श्रीशिवमहिम्नस्तोत्र</title>
-      <link>http://localhost:1313/samskrutyatra/shiv-mahimnstotra/</link>
+      <link>/samskrutyatra/shiv-mahimnstotra/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shiv-mahimnstotra/</guid>
+      <guid>/samskrutyatra/shiv-mahimnstotra/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1184,13 +1184,13 @@
     
     <item>
       <title>Kaivalopnishad  - कैवल्योपनिषत्</title>
-      <link>http://localhost:1313/samskrutyatra/kaivalopnishad/</link>
+      <link>/samskrutyatra/kaivalopnishad/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/kaivalopnishad/</guid>
+      <guid>/samskrutyatra/kaivalopnishad/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1236,13 +1236,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Shiv Tandava Stotram - शिवतांडवस्तोत्रं</title>
-      <link>http://localhost:1313/samskrutyatra/shiv-tandava-stotram/</link>
+      <link>/samskrutyatra/shiv-tandava-stotram/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shiv-tandava-stotram/</guid>
+      <guid>/samskrutyatra/shiv-tandava-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1293,13 +1293,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>TotakaAshtakam - Sankara Deshika Shatakam - तोटकाष्टकं - शंकरदेशिकाष्टकम्</title>
-      <link>http://localhost:1313/samskrutyatra/sankara-deshika-shatakam-totakaashtakam/</link>
+      <link>/samskrutyatra/sankara-deshika-shatakam-totakaashtakam/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sankara-deshika-shatakam-totakaashtakam/</guid>
+      <guid>/samskrutyatra/sankara-deshika-shatakam-totakaashtakam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1340,13 +1340,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Daridrya Dahan Shivstotram - दारिद्र्य दहन शिवस्तोत्रम्</title>
-      <link>http://localhost:1313/samskrutyatra/daridrya-dahan-shivstotram/</link>
+      <link>/samskrutyatra/daridrya-dahan-shivstotram/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/daridrya-dahan-shivstotram/</guid>
+      <guid>/samskrutyatra/daridrya-dahan-shivstotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1387,13 +1387,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Gurvashtaka  - गुर्वष्टकम्</title>
-      <link>http://localhost:1313/samskrutyatra/gurvashtaka/</link>
+      <link>/samskrutyatra/gurvashtaka/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/gurvashtaka/</guid>
+      <guid>/samskrutyatra/gurvashtaka/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Sri-Ramakrishna.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Sri-Ramakrishna.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1434,13 +1434,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Shiva Shadakshara Stotram  - शिवषडाक्षर स्तोत्रं</title>
-      <link>http://localhost:1313/samskrutyatra/shiva-shadakshara-stotram/</link>
+      <link>/samskrutyatra/shiva-shadakshara-stotram/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shiva-shadakshara-stotram/</guid>
+      <guid>/samskrutyatra/shiva-shadakshara-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1481,13 +1481,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Shivmaanaspooja - शिवमानसपूजा</title>
-      <link>http://localhost:1313/samskrutyatra/shivmaanaspooja/</link>
+      <link>/samskrutyatra/shivmaanaspooja/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shivmaanaspooja/</guid>
+      <guid>/samskrutyatra/shivmaanaspooja/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1532,13 +1532,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Shri Shivpanchaakshari Stotram - श्रीशिवपञ्चाक्षरस्तोत्रम्</title>
-      <link>http://localhost:1313/samskrutyatra/shri-shivpanchaakshari-stotram/</link>
+      <link>/samskrutyatra/shri-shivpanchaakshari-stotram/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shri-shivpanchaakshari-stotram/</guid>
+      <guid>/samskrutyatra/shri-shivpanchaakshari-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1583,13 +1583,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Sri Madana Mohana Ashtakam  - श्री मदन मोहन अष्टकम</title>
-      <link>http://localhost:1313/samskrutyatra/sri-madana-mohana-ashtakam/</link>
+      <link>/samskrutyatra/sri-madana-mohana-ashtakam/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/sri-madana-mohana-ashtakam/</guid>
+      <guid>/samskrutyatra/sri-madana-mohana-ashtakam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1630,13 +1630,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Uma Maheshwara Stotram  - उमामहेश्वर स्तोत्रं</title>
-      <link>http://localhost:1313/samskrutyatra/uma-maheshwara-stotram/</link>
+      <link>/samskrutyatra/uma-maheshwara-stotram/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/uma-maheshwara-stotram/</guid>
+      <guid>/samskrutyatra/uma-maheshwara-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Umamaheshwar.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Umamaheshwar.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1685,13 +1685,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Bhaj Govindam  - भज गोविन्दं</title>
-      <link>http://localhost:1313/samskrutyatra/bhaj-govindam/</link>
+      <link>/samskrutyatra/bhaj-govindam/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bhaj-govindam/</guid>
+      <guid>/samskrutyatra/bhaj-govindam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Krishna.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1736,13 +1736,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Shri Kaal Bhairav Ashtakam - श्री काल भैरव अष्टकम्‌</title>
-      <link>http://localhost:1313/samskrutyatra/shri-kaal-bhairav-ashta/</link>
+      <link>/samskrutyatra/shri-kaal-bhairav-ashta/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shri-kaal-bhairav-ashta/</guid>
+      <guid>/samskrutyatra/shri-kaal-bhairav-ashta/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Shiva.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1787,13 +1787,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>NirvaanShatkam - निर्वाणषट्कम्</title>
-      <link>http://localhost:1313/samskrutyatra/nirvaanshatkam/</link>
+      <link>/samskrutyatra/nirvaanshatkam/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/nirvaanshatkam/</guid>
+      <guid>/samskrutyatra/nirvaanshatkam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1838,13 +1838,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>TaitriyaUpanishad BrahmanandaMimamsa - तैत्तिरीयोपनिषत् ब्रह्मानन्दमीमांसा</title>
-      <link>http://localhost:1313/samskrutyatra/brahmanandamimamsa/</link>
+      <link>/samskrutyatra/brahmanandamimamsa/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/brahmanandamimamsa/</guid>
+      <guid>/samskrutyatra/brahmanandamimamsa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1891,13 +1891,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Thirukkural Complete in Hindi - तिरुक्कूरळ हिन्दी अनुवाद</title>
-      <link>http://localhost:1313/samskrutyatra/thirukkural-complete-in-hindi/</link>
+      <link>/samskrutyatra/thirukkural-complete-in-hindi/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/thirukkural-complete-in-hindi/</guid>
+      <guid>/samskrutyatra/thirukkural-complete-in-hindi/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Thiruvalluvar.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Thiruvalluvar.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1931,13 +1931,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Thirukkural in Hindi Chapter 6-10 - तिरुक्कूरळ</title>
-      <link>http://localhost:1313/samskrutyatra/thirukkural-in-hindi-chapter-06-10/</link>
+      <link>/samskrutyatra/thirukkural-in-hindi-chapter-06-10/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/thirukkural-in-hindi-chapter-06-10/</guid>
+      <guid>/samskrutyatra/thirukkural-in-hindi-chapter-06-10/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Thiruvalluvar.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Thiruvalluvar.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1975,13 +1975,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Vipasana Dohe- Dharma  - मन</title>
-      <link>http://localhost:1313/samskrutyatra/vipasana-dohe-manas/</link>
+      <link>/samskrutyatra/vipasana-dohe-manas/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/vipasana-dohe-manas/</guid>
+      <guid>/samskrutyatra/vipasana-dohe-manas/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Vipasana.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Vipasana.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2022,13 +2022,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Annapurna Stotram - अन्नपूर्णा स्तोत्रम्</title>
-      <link>http://localhost:1313/samskrutyatra/annapurna-stotram/</link>
+      <link>/samskrutyatra/annapurna-stotram/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/annapurna-stotram/</guid>
+      <guid>/samskrutyatra/annapurna-stotram/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2074,13 +2074,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Bhaye Pragat Kripala - भए प्रगट कृपाला</title>
-      <link>http://localhost:1313/samskrutyatra/bhaye-pragat-kripala/</link>
+      <link>/samskrutyatra/bhaye-pragat-kripala/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/bhaye-pragat-kripala/</guid>
+      <guid>/samskrutyatra/bhaye-pragat-kripala/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/dRamcharaitMaanas.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/dRamcharaitMaanas.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2118,13 +2118,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Mahishasur Mardini - महिषासुरमर्दिनि</title>
-      <link>http://localhost:1313/samskrutyatra/mahishasur-mardini/</link>
+      <link>/samskrutyatra/mahishasur-mardini/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/mahishasur-mardini/</guid>
+      <guid>/samskrutyatra/mahishasur-mardini/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2171,13 +2171,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>RudraPrashna LaghuNyasa - रुद्रप्रश्नः लघुन्यासः</title>
-      <link>http://localhost:1313/samskrutyatra/rudraprashna-laghunyasa/</link>
+      <link>/samskrutyatra/rudraprashna-laghunyasa/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/rudraprashna-laghunyasa/</guid>
+      <guid>/samskrutyatra/rudraprashna-laghunyasa/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2228,13 +2228,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Lalita Sahasranamam  - ललितासहस्रनामं</title>
-      <link>http://localhost:1313/samskrutyatra/lalita-sahasranamam/</link>
+      <link>/samskrutyatra/lalita-sahasranamam/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/lalita-sahasranamam/</guid>
+      <guid>/samskrutyatra/lalita-sahasranamam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Durga.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2324,13 +2324,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Rudra Prashna  - रुद्रप्रश्नः</title>
-      <link>http://localhost:1313/samskrutyatra/rudra-prashna/</link>
+      <link>/samskrutyatra/rudra-prashna/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/rudra-prashna/</guid>
+      <guid>/samskrutyatra/rudra-prashna/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2374,13 +2374,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Medha Suktam - मेधासूक्तं</title>
-      <link>http://localhost:1313/samskrutyatra/medha-suktam/</link>
+      <link>/samskrutyatra/medha-suktam/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/medha-suktam/</guid>
+      <guid>/samskrutyatra/medha-suktam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2423,13 +2423,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Shanti Patha - शान्तिपाठः</title>
-      <link>http://localhost:1313/samskrutyatra/shanti-paath/</link>
+      <link>/samskrutyatra/shanti-paath/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/shanti-paath/</guid>
+      <guid>/samskrutyatra/shanti-paath/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/SanskritYatra-Sloka.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2471,13 +2471,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>Madalasa Upadesh - मदालसा उपदेश</title>
-      <link>http://localhost:1313/samskrutyatra/madalasa-upadesha/</link>
+      <link>/samskrutyatra/madalasa-upadesha/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/madalasa-upadesha/</guid>
+      <guid>/samskrutyatra/madalasa-upadesha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Upanishad.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2518,13 +2518,13 @@ Your browser does not support the audio element.
     
     <item>
       <title>NamamishMisan - नमामीशमीसान निर्वाणरूपं</title>
-      <link>http://localhost:1313/samskrutyatra/namamishmishan-nirvan-roopam/</link>
+      <link>/samskrutyatra/namamishmishan-nirvan-roopam/</link>
       <pubDate>Sun, 10 Jan 2010 14:33:35 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/namamishmishan-nirvan-roopam/</guid>
+      <guid>/samskrutyatra/namamishmishan-nirvan-roopam/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Rudra.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

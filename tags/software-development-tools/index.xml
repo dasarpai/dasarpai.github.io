@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Development Tools on </title>
-    <link>http://localhost:1313/tags/software-development-tools/</link>
+    <link>/tags/software-development-tools/</link>
     <description>Recent content in Software Development Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/software-development-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title>
-      <link>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</link>
+      <link>/dsblog/code-review-with-coderabbit-ai/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</guid>
+      <guid>/dsblog/code-review-with-coderabbit-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Exploring Python Package Manager</title>
-      <link>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</link>
+      <link>/dsblog/Exploring-Python-Package-Manager/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</guid>
+      <guid>/dsblog/Exploring-Python-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>What is Bundler?</title>
-      <link>http://localhost:1313/dsblog/Exploring-Bundler/</link>
+      <link>/dsblog/Exploring-Bundler/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Bundler/</guid>
+      <guid>/dsblog/Exploring-Bundler/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -121,13 +121,13 @@
     
     <item>
       <title>What is Package Manager?</title>
-      <link>http://localhost:1313/dsblog/What-is-Package-Manager/</link>
+      <link>/dsblog/What-is-Package-Manager/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Package-Manager/</guid>
+      <guid>/dsblog/What-is-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg&#34; alt=&#34;What-is-Package-Manager&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -162,13 +162,13 @@
     
     <item>
       <title>Decoding pip install operations</title>
-      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <link>/dsblog/Decoding-pip-install-operations/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <guid>/dsblog/Decoding-pip-install-operations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

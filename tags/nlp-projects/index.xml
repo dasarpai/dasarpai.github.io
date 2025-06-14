@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP Projects on </title>
-    <link>http://localhost:1313/tags/nlp-projects/</link>
+    <link>/tags/nlp-projects/</link>
     <description>Recent content in NLP Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 15:50:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 15:50:00 +0530</lastBuildDate><atom:link href="/tags/nlp-projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data Science/AI Projects Project Ideas</title>
-      <link>http://localhost:1313/dsblog/DS-AI-Projects-Project-Ideas/</link>
+      <link>/dsblog/DS-AI-Projects-Project-Ideas/</link>
       <pubDate>Thu, 06 Oct 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/DS-AI-Projects-Project-Ideas/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg&#34;&gt;AI Projects Project Ideas&lt;/a&gt;&lt;/p&gt;
+      <guid>/dsblog/DS-AI-Projects-Project-Ideas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg&#34;&gt;AI Projects Project Ideas&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PMBOK on </title>
-    <link>http://localhost:1313/tags/pmbok/</link>
+    <link>/tags/pmbok/</link>
     <description>Recent content in PMBOK on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 18:33:40 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmbok/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 18:33:40 +0000</lastBuildDate><atom:link href="/tags/pmbok/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Input-Output List of PMBOK6</title>
-      <link>http://localhost:1313/pmbok6/Input-Output-List-of-PMBOK6/</link>
+      <link>/pmbok6/Input-Output-List-of-PMBOK6/</link>
       <pubDate>Mon, 15 Feb 2021 18:33:40 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Input-Output-List-of-PMBOK6/</guid>
+      <guid>/pmbok6/Input-Output-List-of-PMBOK6/</guid>
       <description>&lt;p&gt;Input-output of a process can be a subsidiary plan, status (like Approved Change Request ), or project document. Below is the list of input-output name and their frequency of use in PMBOK 6th edition. The frequency of a document below shows the number of times that document is used/modified/created across different processes.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -29,62 +29,62 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/accepted-deliverables&#34;&gt;Accepted Deliverables&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/accepted-deliverables&#34;&gt;Accepted Deliverables&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;2&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/activity-attributes&#34;&gt;Activity Attributes&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/activity-attributes&#34;&gt;Activity Attributes&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/activity-list&#34;&gt;Activity List&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/activity-list&#34;&gt;Activity List&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/agreements&#34;&gt;Agreements&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/agreements&#34;&gt;Agreements&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;12&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/approved-change-requests&#34;&gt;Approved Change Requests&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/approved-change-requests&#34;&gt;Approved Change Requests&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;4&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/assumption-log&#34;&gt;Assumption Log&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/assumption-log&#34;&gt;Assumption Log&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;7&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/basis-of-estimates&#34;&gt;Basis Of Estimates&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/basis-of-estimates&#34;&gt;Basis Of Estimates&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;3&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;8&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/bid-documents&#34;&gt;Bid Documents&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/bid-documents&#34;&gt;Bid Documents&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;9&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/business-documents&#34;&gt;Business Documents&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/business-documents&#34;&gt;Business Documents&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;6&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;10&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/change-requests&#34;&gt;Change Requests&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;25&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;11&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/closed-procurements&#34;&gt;Closed Procurements&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/closed-procurements&#34;&gt;Closed Procurements&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;12&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;../../pmbok6/communications-management-plan&#34;&gt;Communications Management Plan&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;/pmbok6/communications-management-plan&#34;&gt;Communications Management Plan&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -439,10 +439,10 @@
     
     <item>
       <title>PMBOK 6 Tools and Techniques</title>
-      <link>http://localhost:1313/pmbok6/PMBOK-6-Tools-and-Techniques/</link>
+      <link>/pmbok6/PMBOK-6-Tools-and-Techniques/</link>
       <pubDate>Mon, 15 Feb 2021 18:16:03 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/PMBOK-6-Tools-and-Techniques/</guid>
+      <guid>/pmbok6/PMBOK-6-Tools-and-Techniques/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;PMBOK 6 Tools and Techniques 
     &lt;div id=&#34;pmbok-6-tools-and-techniques&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -453,19 +453,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;PMBOK 6th Edition refers to the following 65 broad techniques to manage a project. If you detail these 65 tools and techniques then you may easily end with a list of 200+ tools and techniques. For example, if you detail the “Data Analysis” tool and technique then you will have another list of &lt;a href=&#34;../../pmbok6/data-analysis/&#34;&gt;27 Tools and Techniques of Data Analysis&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;PMBOK 6th Edition refers to the following 65 broad techniques to manage a project. If you detail these 65 tools and techniques then you may easily end with a list of 200+ tools and techniques. For example, if you detail the “Data Analysis” tool and technique then you will have another list of &lt;a href=&#34;/pmbok6/data-analysis/&#34;&gt;27 Tools and Techniques of Data Analysis&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>PMBOK 6th Edition Process Groups</title>
-      <link>http://localhost:1313/pmblog/PMBOK-6th-Edition-Process-Groups/</link>
+      <link>/pmblog/PMBOK-6th-Edition-Process-Groups/</link>
       <pubDate>Fri, 09 Feb 2018 10:34:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMBOK-6th-Edition-Process-Groups/</guid>
+      <guid>/pmblog/PMBOK-6th-Edition-Process-Groups/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1033-PMBOK6.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1033-PMBOK6.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -606,13 +606,13 @@
     
     <item>
       <title>What is Project Management?</title>
-      <link>http://localhost:1313/pmblog/What-is-Project-Management/</link>
+      <link>/pmblog/What-is-Project-Management/</link>
       <pubDate>Thu, 29 Dec 2016 12:38:04 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/What-is-Project-Management/</guid>
+      <guid>/pmblog/What-is-Project-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1025-pmbok.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1025-pmbok.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -646,13 +646,13 @@
     
     <item>
       <title>PMBOK 5 Processes</title>
-      <link>http://localhost:1313/pmblog/PMBOK-5-Processes/</link>
+      <link>/pmblog/PMBOK-5-Processes/</link>
       <pubDate>Sun, 09 Feb 2014 08:07:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMBOK-5-Processes/</guid>
+      <guid>/pmblog/PMBOK-5-Processes/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1010-PMBOK5.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1010-PMBOK5.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -913,13 +913,13 @@
     
     <item>
       <title>PMBOK Knowledge Areas</title>
-      <link>http://localhost:1313/pmblog/PMBOK-Knowledge-Areas/</link>
+      <link>/pmblog/PMBOK-Knowledge-Areas/</link>
       <pubDate>Thu, 22 Aug 2013 09:19:48 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMBOK-Knowledge-Areas/</guid>
+      <guid>/pmblog/PMBOK-Knowledge-Areas/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1004-PMBOK-KA-min.jpg&#34; alt=&#34;PMBOK Knowledge Areas&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1004-PMBOK-KA-min.jpg&#34; alt=&#34;PMBOK Knowledge Areas&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PMBOK Inputs Outputs on </title>
-    <link>http://localhost:1313/tags/pmbok-inputs-outputs/</link>
+    <link>/tags/pmbok-inputs-outputs/</link>
     <description>Recent content in PMBOK Inputs Outputs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 16 Feb 2021 15:37:16 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pmbok-inputs-outputs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 15:37:16 +0000</lastBuildDate><atom:link href="/tags/pmbok-inputs-outputs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Procurement Documentation Updates</title>
-      <link>http://localhost:1313/pmbok6/Procurement-Documentation-Updates/</link>
+      <link>/pmbok6/Procurement-Documentation-Updates/</link>
       <pubDate>Tue, 16 Feb 2021 15:37:16 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Procurement-Documentation-Updates/</guid>
-      <description>&lt;p&gt;Refer to &lt;a href=&#34;../../pmbok6/procurement-documentation&#34;&gt;Procurement Documentation&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/pmbok6/Procurement-Documentation-Updates/</guid>
+      <description>&lt;p&gt;Refer to &lt;a href=&#34;/pmbok6/procurement-documentation&#34;&gt;Procurement Documentation&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Procurement Documentation</title>
-      <link>http://localhost:1313/pmbok6/Procurement-Documentation/</link>
+      <link>/pmbok6/Procurement-Documentation/</link>
       <pubDate>Tue, 16 Feb 2021 15:30:37 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Procurement-Documentation/</guid>
+      <guid>/pmbok6/Procurement-Documentation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Procurement Documentation 
     &lt;div id=&#34;procurement-documentation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,16 +51,16 @@
 &lt;li&gt;Does our contract with our customer allow this or not? If yes then are there any constraints imposed by our customer for third-party buying?&lt;/li&gt;
 &lt;li&gt;Overall purchase from another vendor is increasing risk or decreasing risk?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;These kinds of questions need to be answered in Procurement Documentation. This is the input of the PMBOK processes. One interesting thing to note is this document is not the output of any of the PMBOK processes! It looks PMBOK guide expects that a project should have this document ready before a project starts. It means this document is created before the project charter is signed off or at the stage of creating the project proposal. Another interesting thing to note is &lt;a href=&#34;../../pmbok6/Procurement-Documentation-Updates&#34;&gt;Procurement Documentation &lt;strong&gt;Updates&lt;/strong&gt;&lt;/a&gt; is output of &lt;a href=&#34;../../pmbok6/control-procurements&#34;&gt;Control Procurements&lt;/a&gt; process. It means this document can be updated by this process. But in real life situation, if you want to procure anything from other vendors does the Project Manager create a procurement document during the project life cycle? The answer is a big Yes.&lt;/p&gt;</description>
+&lt;p&gt;These kinds of questions need to be answered in Procurement Documentation. This is the input of the PMBOK processes. One interesting thing to note is this document is not the output of any of the PMBOK processes! It looks PMBOK guide expects that a project should have this document ready before a project starts. It means this document is created before the project charter is signed off or at the stage of creating the project proposal. Another interesting thing to note is &lt;a href=&#34;/pmbok6/Procurement-Documentation-Updates&#34;&gt;Procurement Documentation &lt;strong&gt;Updates&lt;/strong&gt;&lt;/a&gt; is output of &lt;a href=&#34;/pmbok6/control-procurements&#34;&gt;Control Procurements&lt;/a&gt; process. It means this document can be updated by this process. But in real life situation, if you want to procure anything from other vendors does the Project Manager create a procurement document during the project life cycle? The answer is a big Yes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Work Performance Information</title>
-      <link>http://localhost:1313/pmbok6/Work-Performance-Information/</link>
+      <link>/pmbok6/Work-Performance-Information/</link>
       <pubDate>Tue, 16 Feb 2021 11:17:53 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Work-Performance-Information/</guid>
+      <guid>/pmbok6/Work-Performance-Information/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Work Performance Information 
     &lt;div id=&#34;work-performance-information&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -77,10 +77,10 @@
     
     <item>
       <title>Work Performance Data</title>
-      <link>http://localhost:1313/pmbok6/Work-Performance-Data/</link>
+      <link>/pmbok6/Work-Performance-Data/</link>
       <pubDate>Tue, 16 Feb 2021 11:05:43 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Work-Performance-Data/</guid>
+      <guid>/pmbok6/Work-Performance-Data/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Work Performance Data 
     &lt;div id=&#34;work-performance-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -97,10 +97,10 @@
     
     <item>
       <title>Benefits Management Plan</title>
-      <link>http://localhost:1313/pmbok6/Benefits-Management-Plan/</link>
+      <link>/pmbok6/Benefits-Management-Plan/</link>
       <pubDate>Mon, 15 Feb 2021 17:18:33 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Benefits-Management-Plan/</guid>
+      <guid>/pmbok6/Benefits-Management-Plan/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Benefits Management Plan 
     &lt;div id=&#34;benefits-management-plan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -126,10 +126,10 @@
     
     <item>
       <title>Business Documents</title>
-      <link>http://localhost:1313/pmbok6/Business-Documents/</link>
+      <link>/pmbok6/Business-Documents/</link>
       <pubDate>Mon, 15 Feb 2021 17:10:44 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Business-Documents/</guid>
+      <guid>/pmbok6/Business-Documents/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Business Documents 
     &lt;div id=&#34;business-documents&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -142,21 +142,21 @@
 &lt;/h2&gt;
 &lt;p&gt;Business Document is input at many places in PMBOK processes. Based on the process name or process context (industry, project size, organization procedures) this may refer to one of multiple of the following documents.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/agreements&#34;&gt;Agreements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/bid-documents&#34;&gt;Bid documents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/benefits-management-plan&#34;&gt;Benefits Management Plan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/independent-cost-estimates&#34;&gt;Independent cost estimates&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-charter&#34;&gt;Project charter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/final-report&#34;&gt;Final report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/make-or-buy-decisions&#34;&gt;Make-or-buy decisions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/procurement-statement-of-work&#34;&gt;Procurement statement of work&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/procurement-strategy&#34;&gt;Procurement strategy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/project-funding-requirements&#34;&gt;Project funding requirements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/team-performance-assessments&#34;&gt;Team performance assessments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/work-performance-data&#34;&gt;Work performance data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/work-performance-information&#34;&gt;Work performance information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/work-performance-reports&#34;&gt;Work performance reports&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../pmbok6/change-requests&#34;&gt;Change requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/agreements&#34;&gt;Agreements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/bid-documents&#34;&gt;Bid documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/benefits-management-plan&#34;&gt;Benefits Management Plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/independent-cost-estimates&#34;&gt;Independent cost estimates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/project-charter&#34;&gt;Project charter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/final-report&#34;&gt;Final report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/make-or-buy-decisions&#34;&gt;Make-or-buy decisions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/procurement-statement-of-work&#34;&gt;Procurement statement of work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/procurement-strategy&#34;&gt;Procurement strategy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/project-funding-requirements&#34;&gt;Project funding requirements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/team-performance-assessments&#34;&gt;Team performance assessments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/work-performance-data&#34;&gt;Work performance data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/work-performance-information&#34;&gt;Work performance information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/work-performance-reports&#34;&gt;Work performance reports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/pmbok6/change-requests&#34;&gt;Change requests&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Business Document is input to the following processes&lt;/strong&gt;&lt;/p&gt;</description>
       
@@ -164,40 +164,40 @@
     
     <item>
       <title>Project Management Plan Updates</title>
-      <link>http://localhost:1313/pmbok6/Project-Management-Plan-Updates/</link>
+      <link>/pmbok6/Project-Management-Plan-Updates/</link>
       <pubDate>Mon, 15 Feb 2021 16:44:39 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Management-Plan-Updates/</guid>
-      <description>&lt;p&gt;Refer to &lt;a href=&#34;../../pmbok6/Project-Management-Plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/pmbok6/Project-Management-Plan-Updates/</guid>
+      <description>&lt;p&gt;Refer to &lt;a href=&#34;/pmbok6/Project-Management-Plan&#34;&gt;Project Management Plan&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Project Documents Updates</title>
-      <link>http://localhost:1313/pmbok6/Project-Documents-Updates/</link>
+      <link>/pmbok6/Project-Documents-Updates/</link>
       <pubDate>Mon, 15 Feb 2021 16:40:28 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Documents-Updates/</guid>
-      <description>&lt;p&gt;Refer to &lt;a href=&#34;../../pmbok6/Project-Documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/pmbok6/Project-Documents-Updates/</guid>
+      <description>&lt;p&gt;Refer to &lt;a href=&#34;/pmbok6/Project-Documents&#34;&gt;Project Documents&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Organizational Process Assets Updates</title>
-      <link>http://localhost:1313/pmbok6/Organizational-Process-Assets-Updates/</link>
+      <link>/pmbok6/Organizational-Process-Assets-Updates/</link>
       <pubDate>Mon, 15 Feb 2021 16:38:31 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Organizational-Process-Assets-Updates/</guid>
-      <description>&lt;p&gt;Refer to &lt;a href=&#34;../../pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/pmbok6/Organizational-Process-Assets-Updates/</guid>
+      <description>&lt;p&gt;Refer to &lt;a href=&#34;/pmbok6/organizational-process-assets&#34;&gt;Organizational Process Assets&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Change Requests</title>
-      <link>http://localhost:1313/pmbok6/Change-Requests/</link>
+      <link>/pmbok6/Change-Requests/</link>
       <pubDate>Mon, 15 Feb 2021 16:34:11 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Change-Requests/</guid>
+      <guid>/pmbok6/Change-Requests/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Change Requests 
     &lt;div id=&#34;change-requests&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -215,10 +215,10 @@
     
     <item>
       <title>Project Documents</title>
-      <link>http://localhost:1313/pmbok6/Project-Documents/</link>
+      <link>/pmbok6/Project-Documents/</link>
       <pubDate>Mon, 15 Feb 2021 06:31:07 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Documents/</guid>
+      <guid>/pmbok6/Project-Documents/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Project Documents 
     &lt;div id=&#34;project-documents&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -235,10 +235,10 @@
     
     <item>
       <title>Enterprise Environmental Factors</title>
-      <link>http://localhost:1313/pmbok6/Enterprise-Environmental-Factors/</link>
+      <link>/pmbok6/Enterprise-Environmental-Factors/</link>
       <pubDate>Mon, 15 Feb 2021 04:28:04 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Enterprise-Environmental-Factors/</guid>
+      <guid>/pmbok6/Enterprise-Environmental-Factors/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Enterprise Environmental Factors 
     &lt;div id=&#34;enterprise-environmental-factors&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -255,13 +255,13 @@
     
     <item>
       <title>Project Management Plan</title>
-      <link>http://localhost:1313/pmbok6/Project-Management-Plan/</link>
+      <link>/pmbok6/Project-Management-Plan/</link>
       <pubDate>Mon, 15 Feb 2021 03:26:05 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Project-Management-Plan/</guid>
+      <guid>/pmbok6/Project-Management-Plan/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/PMBOK-Process-DPMP.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/PMBOK-Process-DPMP.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -289,16 +289,16 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Project Management Plan may not be a physically single document but a collection of many documents. This consolidation is done in &lt;a href=&#34;../../pmbok6/Develop-Project-Management-Plan&#34;&gt;Develop Project Management Plan&lt;/a&gt; process. A Project Management Plan should include the following items.&lt;/p&gt;</description>
+&lt;p&gt;Project Management Plan may not be a physically single document but a collection of many documents. This consolidation is done in &lt;a href=&#34;/pmbok6/Develop-Project-Management-Plan&#34;&gt;Develop Project Management Plan&lt;/a&gt; process. A Project Management Plan should include the following items.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Organizational Process Assets</title>
-      <link>http://localhost:1313/pmbok6/Organizational-Process-Assets/</link>
+      <link>/pmbok6/Organizational-Process-Assets/</link>
       <pubDate>Mon, 15 Feb 2021 02:43:33 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmbok6/Organizational-Process-Assets/</guid>
+      <guid>/pmbok6/Organizational-Process-Assets/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Organizational Process Assets 
     &lt;div id=&#34;organizational-process-assets&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

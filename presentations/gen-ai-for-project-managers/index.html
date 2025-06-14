@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Gen AI for Project Managers | </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/theme/white.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/highlight/monokai.css">
+    <style>
+       
+         
+          
+         .footer-center {
+            text-align: center;
+            flex: 1;  
+         }
+
+          
+         .footer-right {
+            position: absolute;
+            right: 20px;
+         }
+
+
+         .reveal .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 30px;
+            background-color: rgba(37, 99, 235, 0.9);
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+            font-size: 12px;
+            z-index: 1000;  
+            pointer-events: none;  
+         }
+
+          
+         .reveal .slide-number {
+            font-size: 18px !important;
+            color: #fff !important;
+            background: rgba(0,0,0,0.4) !important;
+            padding: 5px 10px !important;
+            border-radius: 4px !important;
+            right: 20px !important;
+            bottom: 20px !important;
+         }
+
+          
+         .reveal .slide-number {
+            z-index: 1000 !important;
+         }
+
+          
+         .reveal .footer > * {
+            pointer-events: auto;
+         }
+
+          
+         .reveal .slides {
+            margin-bottom: 40px !important;
+         }
+
+          
+         .reveal .slides > section {
+            z-index: 1;
+         }
+
+          
+         .reveal .slide-number {
+            position: fixed !important;
+            bottom: 5px !important;
+            right: 20px !important;
+            color: white !important;
+            font-size: 12px !important;
+            background: transparent !important;
+            padding: 0 !important;
+            z-index: 1001 !important;
+         }
+      
+
+
+
+         
+        html, body, .reveal, .slides {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        
+         
+        .navigate-left, .navigate-right {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            width: 20%;
+            z-index: 100;
+            cursor: pointer;
+        }
+        .navigate-left { left: 0; }
+        .navigate-right { right: 0; }
+        
+         
+        .reveal .slides {
+            text-align: left;
+        }
+   
+          
+         .reveal h1 { 
+            color: #2563eb; 
+            font-size: 1.5em;
+            margin-bottom: 0.5em;
+         }
+         .reveal h2 { 
+            color: #2563eb; 
+            font-size: 1.2em;
+            margin-bottom: 0.5em;
+         }
+         .reveal h3 { 
+            color: #2563eb; 
+            font-size: 1em;
+            margin-bottom: 0.5em;
+         }
+         .reveal .slides section { text-align: left; }
+        
+        
+         
+        .speaker-indicator {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: rgba(0,0,0,0.1);
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 12px;
+            z-index: 1000;
+        }
+        
+         
+        .reveal ul { 
+            display: block; 
+            margin-left: 1em; 
+        }
+        .reveal ol { 
+            display: block; 
+            margin-left: 1em; 
+        }
+        .reveal blockquote { 
+            background: #f8fafc; 
+            border-left: 4px solid #2563eb; 
+            padding: 1rem; 
+            margin: 1rem 0; 
+        }
+
+         
+#manual-slide-number {
+   position: absolute;
+   right: 20px;
+   font-size: 16px;
+   color: white;
+   background: rgba(0,0,0,0.4);
+   padding: 2px 8px;
+   border-radius: 4px;
+   z-index: 1000;
+}
+    </style>
+</head>
+<body>
+
+      
+      <div class="footer">
+         <div class="footer-center">
+            Dr. Hari Thapliyaal
+             | 
+            Gen AI for Project Managers
+            <div id="manual-slide-number">
+               1 / 1  
+           </div>
+         </div>
+  
+      </div>
+      
+    
+    <div class="navigate-left" onclick="Reveal.prev()"></div>
+    <div class="navigate-right" onclick="Reveal.next()"></div>
+    <div class="speaker-indicator">Press 'S' for Speaker Mode | Click right → to advance</div>
+
+    <div class="reveal">
+        <div class="slides">
+            <section 
+                data-markdown
+                data-separator="^---$"
+                data-separator-vertical="^--$"
+                data-separator-notes="^Note:"
+                data-charset="utf-8">
+                <script type="text/template">
+                    
+# Generative AI for Project Managers
+_Unlocking productivity and innovation with AI tools_
+
+---
+
+## Slide 1: Introduction
+
+- What is Generative AI?
+- Why does it matter for project management?
+- Real-world impact and applications
+
+---
+
+## Slide 2: Understanding Generative AI
+
+- Trained on vast datasets
+- Capable of creating content (text, code, images, video)
+- Examples: ChatGPT, GitHub Copilot, DALL·E
+
+---
+
+## Slide 3: Key Capabilities for PMs
+
+- Summarizing documents and emails
+- Generating reports and plans
+- Brainstorming ideas and naming conventions
+
+---
+
+## Slide 4: Use Case - Automating Meeting Minutes
+
+- Input: Meeting transcript or notes
+- Output: Summary, action items, and next steps
+- Saves hours of manual work
+
+---
+
+## Slide 5: Use Case - Risk Identification
+
+- Analyze project documents
+- Detect potential risks and issues
+- Provide suggestions proactively
+
+---
+
+## Slide 6: Use Case - Project Planning
+
+- Draft Gantt charts and WBS from simple prompts
+- Create resource estimates
+- Suggest timelines based on similar past projects
+
+---
+
+## Slide 7: AI-Powered Communication
+
+- Generate stakeholder updates
+- Translate content for global teams
+- Personalize communication tone
+
+---
+
+## Slide 8: Integrating with PM Tools
+
+- Plugins for Jira, Trello, Asana
+- Automate ticket creation
+- Generate progress summaries from tasks
+
+---
+
+## Slide 9: Ethical Considerations
+
+- Accuracy and hallucination risks
+- Data privacy
+- Transparent AI use in teams
+
+---
+
+## Slide 10: Prompt Engineering Basics
+
+- &#34;Give me a 3-point summary of this email&#34;
+- &#34;Generate a risk log for a software project&#34;
+- Context &#43; role = better results
+
+---
+
+## Slide 11: Case Study - Sprint Retrospective Assistant
+
+- AI analyzes sprint data
+- Suggests improvements
+- Creates retrospective summary slides
+
+---
+
+## Slide 12: Time &amp; Cost Savings
+
+- Reduced admin time
+- Faster decision-making
+- Better stakeholder engagement
+
+---
+
+## Slide 13: Skills PMs Need
+
+- AI literacy
+- Data understanding
+- Critical thinking to validate AI outputs
+
+---
+
+## Slide 14: Challenges and Limitations
+
+- Bias in training data
+- Requires human oversight
+- Not a replacement for PM skills
+
+---
+
+## Slide 15: Conclusion
+
+- GenAI = Copilot, not a pilot
+- Helps PMs lead smarter, not harder
+- Start experimenting and upskilling today!
+
+---
+
+## 🎉 Thank You!
+
+### Questions?
+
+**Contact:** hari@dasarpai.com
+
+*Press &#39;O&#39; to see overview of all slides*
+
+Note:
+End with contact information and remind about overview mode.
+That&#39;s it - pure markdown presentation!
+
+                </script>
+            </section>
+        </div>
+    </div>
+
+
+
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/markdown/markdown.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/highlight/highlight.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/notes/notes.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/zoom/zoom.js"></script>
+    <script>
+        
+        Reveal.initialize({
+            hash: true,
+            transition: 'slide',
+            plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ],
+            controls: true,
+            progress: true,
+            center: true,
+            touch: true,
+            fragments: true,
+            fragmentInURL: true,
+            
+            slideNumber: true,  
+            showSlideNumber: 'all',  
+            hashOneBasedIndex: true,  
+            
+            slideNumber: 'c/t',  
+            
+            slideNumber: function() {
+               
+               var current = Reveal.getIndices().h + 1;
+               var total = document.querySelectorAll('.reveal .slides>section').length;
+               return current + ' / ' + total;
+            }
+         });
+
+        
+        let touchStartX = 0;
+        document.addEventListener('touchstart', function(e) {
+            touchStartX = e.touches[0].clientX;
+        }, false);
+        
+        document.addEventListener('touchend', function(e) {
+            const touchEndX = e.changedTouches[0].clientX;
+            const diff = touchStartX - touchEndX;
+            
+            if (Math.abs(diff) > 50) {
+                if (diff > 0) {
+                    Reveal.next();
+                } else {
+                    Reveal.prev();
+                }
+            }
+        });
+        
+        Reveal.addEventListener('ready', function() {
+            console.log('🎉 Presentation ready!');
+            console.log('💡 Click right side to advance slides');
+        });
+
+        
+         function updateSlideNumber() {
+            const current = (Reveal.getIndices().h || 0) + 1;
+            const total = document.querySelectorAll('.reveal .slides>section').length;
+            document.getElementById('manual-slide-number').textContent = `${current} / ${total}`;
+         }
+
+         
+         Reveal.addEventListener('slidechanged', updateSlideNumber);
+
+         
+         updateSlideNumber();
+    </script>
+</body>
+</html>

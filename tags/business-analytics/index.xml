@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business Analytics on </title>
-    <link>http://localhost:1313/tags/business-analytics/</link>
+    <link>/tags/business-analytics/</link>
     <description>Recent content in Business Analytics on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 15:50:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/business-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 15:50:00 +0530</lastBuildDate><atom:link href="/tags/business-analytics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Book Review - Data Science in Marketing Analysis</title>
-      <link>http://localhost:1313/dsblog/bookreview-data-science-for-marketing-analytics/</link>
+      <link>/dsblog/bookreview-data-science-for-marketing-analytics/</link>
       <pubDate>Wed, 26 Oct 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/bookreview-data-science-for-marketing-analytics/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg&#34;&gt;Book Review - Data Science in Marketing Analysis&lt;/a&gt;&lt;/p&gt;
+      <guid>/dsblog/bookreview-data-science-for-marketing-analytics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg&#34;&gt;Book Review - Data Science in Marketing Analysis&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;BOOK REVIEW 

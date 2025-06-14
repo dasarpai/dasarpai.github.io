@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps &amp; MLOps on </title>
-    <link>http://localhost:1313/categories/devops--mlops/</link>
+    <link>/categories/devops--mlops/</link>
     <description>Recent content in DevOps &amp; MLOps on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/devops--mlops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/devops--mlops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title>
-      <link>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</link>
+      <link>/dsblog/code-review-with-coderabbit-ai/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/code-review-with-coderabbit-ai/</guid>
+      <guid>/dsblog/code-review-with-coderabbit-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg&#34; alt=&#34;CodeReview with CodeRabbit AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Why Use Offline AI Models?</title>
-      <link>http://localhost:1313/dsblog/why-use-offline-ai-models/</link>
+      <link>/dsblog/why-use-offline-ai-models/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/why-use-offline-ai-models/</guid>
+      <guid>/dsblog/why-use-offline-ai-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg&#34; alt=&#34;Why to use Offline AI Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg&#34; alt=&#34;Why to use Offline AI Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>Exploring the Local Location of Ollama Models on WSL2</title>
-      <link>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</link>
+      <link>/dsblog/exploring-ollama-models-location-on-wsl2/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
+      <guid>/dsblog/exploring-ollama-models-location-on-wsl2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg&#34; alt=&#34;Exploring the Location of Ollama Models on Local Machine&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -121,13 +121,13 @@
     
     <item>
       <title>Exploring Make.com: A Comprehensive Guide to Automation and Its Alternatives</title>
-      <link>http://localhost:1313/dsblog/exploring-make-com-a-comprehensive-guide/</link>
+      <link>/dsblog/exploring-make-com-a-comprehensive-guide/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-make-com-a-comprehensive-guide/</guid>
+      <guid>/dsblog/exploring-make-com-a-comprehensive-guide/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg&#34; alt=&#34;Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg&#34; alt=&#34;Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -149,13 +149,13 @@
     
     <item>
       <title>Serverless LLM Deployment Platform</title>
-      <link>http://localhost:1313/dsblog/serverless-llm-deployment/</link>
+      <link>/dsblog/serverless-llm-deployment/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/serverless-llm-deployment/</guid>
+      <guid>/dsblog/serverless-llm-deployment/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -201,13 +201,13 @@
     
     <item>
       <title>Introduction to Container Registry</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</link>
+      <link>/dsblog/Introduction-to-Container-Registry/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</guid>
+      <guid>/dsblog/Introduction-to-Container-Registry/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -241,13 +241,13 @@
     
     <item>
       <title>Automated Machine Learning</title>
-      <link>http://localhost:1313/dsblog/AutoML-Tools/</link>
+      <link>/dsblog/AutoML-Tools/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AutoML-Tools/</guid>
+      <guid>/dsblog/AutoML-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -286,13 +286,13 @@
     
     <item>
       <title>MLOps Tools</title>
-      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <link>/dsblog/MLOps-Tools/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <guid>/dsblog/MLOps-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -314,13 +314,13 @@
     
     <item>
       <title>Serverless databases</title>
-      <link>http://localhost:1313/dsblog/Serverless-databases/</link>
+      <link>/dsblog/Serverless-databases/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Serverless-databases/</guid>
+      <guid>/dsblog/Serverless-databases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -357,13 +357,13 @@
     
     <item>
       <title>ML Model Respository from Pinto0309</title>
-      <link>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</link>
+      <link>/dsblog/ML-Model-Repository-from-Pinto0309/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
+      <guid>/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -397,13 +397,13 @@
     
     <item>
       <title>Introduction to ML Model Deployment</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-ML-Model-deployment/</link>
+      <link>/dsblog/Introduction-to-ML-Model-deployment/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-ML-Model-deployment/</guid>
+      <guid>/dsblog/Introduction-to-ML-Model-deployment/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg&#34; alt=&#34;Introduction to AI Model Deployement&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg&#34; alt=&#34;Introduction to AI Model Deployement&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -476,13 +476,13 @@
     
     <item>
       <title>Demystifying DevOps, MLOps, and DataOps</title>
-      <link>http://localhost:1313/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</link>
+      <link>/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</guid>
+      <guid>/dsblog/Demystifying-DevOps-MLOps-and-DataOps/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

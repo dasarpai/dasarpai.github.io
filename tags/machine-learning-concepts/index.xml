@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning Concepts on </title>
-    <link>http://localhost:1313/tags/machine-learning-concepts/</link>
+    <link>/tags/machine-learning-concepts/</link>
     <description>Recent content in Machine Learning Concepts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/machine-learning-concepts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/machine-learning-concepts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring Tokenization and Embedding in NLP</title>
-      <link>http://localhost:1313/dsblog/exploring-tokenization-and-embedding-in-nlp/</link>
+      <link>/dsblog/exploring-tokenization-and-embedding-in-nlp/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid>
+      <guid>/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg&#34; alt=&#34;Exploring Tokenization and Embedding in NLP&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg&#34; alt=&#34;Exploring Tokenization and Embedding in NLP&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -68,13 +68,13 @@
     
     <item>
       <title>Understanding Contextual Embedding in Transformers</title>
-      <link>http://localhost:1313/dsblog/understanding-contextual-embedding-in-transformers/</link>
+      <link>/dsblog/understanding-contextual-embedding-in-transformers/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/understanding-contextual-embedding-in-transformers/</guid>
+      <guid>/dsblog/understanding-contextual-embedding-in-transformers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg&#34; alt=&#34;Understanding Contextual Embedding in Transformers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg&#34; alt=&#34;Understanding Contextual Embedding in Transformers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -120,13 +120,13 @@
     
     <item>
       <title>Exploring Dense Embedding Models in AI</title>
-      <link>http://localhost:1313/dsblog/Exploring-Dense-Embedding-Models-in-AI/</link>
+      <link>/dsblog/Exploring-Dense-Embedding-Models-in-AI/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Dense-Embedding-Models-in-AI/</guid>
+      <guid>/dsblog/Exploring-Dense-Embedding-Models-in-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg&#34; alt=&#34;Exploring Dense Embedding Models in AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg&#34; alt=&#34;Exploring Dense Embedding Models in AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -149,13 +149,13 @@
     
     <item>
       <title>What is Pinecone</title>
-      <link>http://localhost:1313/dsblog/What-is-Pinecone/</link>
+      <link>/dsblog/What-is-Pinecone/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Pinecone/</guid>
+      <guid>/dsblog/What-is-Pinecone/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -190,13 +190,13 @@
     
     <item>
       <title>Generalized AI Model for Prediction</title>
-      <link>http://localhost:1313/dsblog/Generalized-AI-Model-for-Prediction/</link>
+      <link>/dsblog/Generalized-AI-Model-for-Prediction/</link>
       <pubDate>Fri, 17 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Generalized-AI-Model-for-Prediction/</guid>
+      <guid>/dsblog/Generalized-AI-Model-for-Prediction/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg&#34; alt=&#34;Generalized AI Model for Prediction&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg&#34; alt=&#34;Generalized AI Model for Prediction&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

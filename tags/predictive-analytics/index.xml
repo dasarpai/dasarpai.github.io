@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Predictive Analytics on </title>
-    <link>http://localhost:1313/tags/predictive-analytics/</link>
+    <link>/tags/predictive-analytics/</link>
     <description>Recent content in Predictive Analytics on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 27 Dec 2023 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 08:33:00 +0530</lastBuildDate><atom:link href="/tags/predictive-analytics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data Science and Basics of Astrology</title>
-      <link>http://localhost:1313/dsblog/Basics-of-Astrology/</link>
+      <link>/dsblog/Basics-of-Astrology/</link>
       <pubDate>Wed, 27 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Basics-of-Astrology/</guid>
+      <guid>/dsblog/Basics-of-Astrology/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6108-Basics-of-Astrology.jpg&#34; alt=&#34;Basics of Astrology&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6108-Basics-of-Astrology.jpg&#34; alt=&#34;Basics of Astrology&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Timeseries Interview Questions</title>
-      <link>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</link>
+      <link>/dsblog/Timeseries-Interview-Questions/</link>
       <pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Timeseries-Interview-Questions/</guid>
+      <guid>/dsblog/Timeseries-Interview-Questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg&#34; alt=&#34;Timeseries Interview Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -167,13 +167,13 @@
     
     <item>
       <title>Linear Regression Interview Questions</title>
-      <link>http://localhost:1313/dsblog/Linear-Regression-Interview-Questions/</link>
+      <link>/dsblog/Linear-Regression-Interview-Questions/</link>
       <pubDate>Sat, 07 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Linear-Regression-Interview-Questions/</guid>
+      <guid>/dsblog/Linear-Regression-Interview-Questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg&#34; alt=&#34;Prompt Engineering for GPT4&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg&#34; alt=&#34;Prompt Engineering for GPT4&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

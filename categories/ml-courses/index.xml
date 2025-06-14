@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ML Courses on </title>
-    <link>http://localhost:1313/categories/ml-courses/</link>
+    <link>/categories/ml-courses/</link>
     <description>Recent content in ML Courses on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ml-courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/ml-courses/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI for Prospective Email Writing</title>
-      <link>http://localhost:1313/dscourses/ai-for-prospective-email-writing/</link>
+      <link>/dscourses/ai-for-prospective-email-writing/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/ai-for-prospective-email-writing/</guid>
+      <guid>/dscourses/ai-for-prospective-email-writing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc332-ai-for-prospective-email-writing.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc332-ai-for-prospective-email-writing.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -67,13 +67,13 @@
     
     <item>
       <title>GenAI for Cybersecurity</title>
-      <link>http://localhost:1313/dscourses/genai-for-cybersecurity/</link>
+      <link>/dscourses/genai-for-cybersecurity/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/genai-for-cybersecurity/</guid>
+      <guid>/dscourses/genai-for-cybersecurity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc331-genai-for-cybersecurity.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc331-genai-for-cybersecurity.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -111,13 +111,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Train Tensorflow Lite Models for Android</title>
-      <link>http://localhost:1313/dscourses/Developing-Solutions-with-AgenticAI/</link>
+      <link>/dscourses/Developing-Solutions-with-AgenticAI/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Developing-Solutions-with-AgenticAI/</guid>
+      <guid>/dscourses/Developing-Solutions-with-AgenticAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg&#34; alt=&#34;Developing Solutions with Agentic AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg&#34; alt=&#34;Developing Solutions with Agentic AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -173,13 +173,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>AI Powered Account Management Strategies</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-Account-Management-Strategies/</link>
+      <link>/dscourses/GenAI-for-Account-Management-Strategies/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-Account-Management-Strategies/</guid>
+      <guid>/dscourses/GenAI-for-Account-Management-Strategies/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc329-GenAI-for-Account-Management-Strategies.jpg&#34; alt=&#34;AI Powered Account Management Strategies&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc329-GenAI-for-Account-Management-Strategies.jpg&#34; alt=&#34;AI Powered Account Management Strategies&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -239,13 +239,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Generative AI for Client and Stakeholder Engagement</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-Client-and-Stakeholder-Engagement/</link>
+      <link>/dscourses/GenAI-for-Client-and-Stakeholder-Engagement/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-Client-and-Stakeholder-Engagement/</guid>
+      <guid>/dscourses/GenAI-for-Client-and-Stakeholder-Engagement/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg&#34; alt=&#34;AI Powered Client and Stakeholder Engagement&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg&#34; alt=&#34;AI Powered Client and Stakeholder Engagement&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -292,13 +292,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Developing GenAI Solutions with LangChain &amp; LlamaIndex</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-Developing-Solutions-with-RAG/</link>
+      <link>/dscourses/GenAI-for-Developing-Solutions-with-RAG/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-Developing-Solutions-with-RAG/</guid>
+      <guid>/dscourses/GenAI-for-Developing-Solutions-with-RAG/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg&#34; alt=&#34;Developing GenAI Solutions with RAG&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg&#34; alt=&#34;Developing GenAI Solutions with RAG&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -358,13 +358,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Generative AI for Sales and Marketing</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-Sales-and-Marketing/</link>
+      <link>/dscourses/GenAI-for-Sales-and-Marketing/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-Sales-and-Marketing/</guid>
+      <guid>/dscourses/GenAI-for-Sales-and-Marketing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg&#34; alt=&#34;GenAI for Sales and Marketing&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg&#34; alt=&#34;GenAI for Sales and Marketing&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -424,13 +424,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>AI-Powered DevOps for AIOps</title>
-      <link>http://localhost:1313/dscourses/AI-Powered-DevOps-for-AIOps/</link>
+      <link>/dscourses/AI-Powered-DevOps-for-AIOps/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/AI-Powered-DevOps-for-AIOps/</guid>
+      <guid>/dscourses/AI-Powered-DevOps-for-AIOps/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg&#34; alt=&#34;AI-Powered DevOps for AIOps&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg&#34; alt=&#34;AI-Powered DevOps for AIOps&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -490,13 +490,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>GenAI for AI-Assisted Programming</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-AI-Assisted-Programming/</link>
+      <link>/dscourses/GenAI-for-AI-Assisted-Programming/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-AI-Assisted-Programming/</guid>
+      <guid>/dscourses/GenAI-for-AI-Assisted-Programming/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg&#34; alt=&#34;GenAI for AI-Assisted Programming&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg&#34; alt=&#34;GenAI for AI-Assisted Programming&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -556,13 +556,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>GenAI for ALL</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-ALL/</link>
+      <link>/dscourses/GenAI-for-ALL/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-ALL/</guid>
+      <guid>/dscourses/GenAI-for-ALL/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc323-GenAI-for-ALL.jpg&#34; alt=&#34;GenAI for ALL&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc323-GenAI-for-ALL.jpg&#34; alt=&#34;GenAI for ALL&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -622,13 +622,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Train Tensorflow Lite Models for Android</title>
-      <link>http://localhost:1313/dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock/</link>
+      <link>/dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock/</guid>
+      <guid>/dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg&#34; alt=&#34;Building and Deploying Generative AI with Amazon Bedrock&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg&#34; alt=&#34;Building and Deploying Generative AI with Amazon Bedrock&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -662,13 +662,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Design for Cloud Computing with GCP</title>
-      <link>http://localhost:1313/dscourses/Design-for-Cloud-Computing-with-GCP/</link>
+      <link>/dscourses/Design-for-Cloud-Computing-with-GCP/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Design-for-Cloud-Computing-with-GCP/</guid>
+      <guid>/dscourses/Design-for-Cloud-Computing-with-GCP/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg&#34; alt=&#34;Design for Cloud Computing with GCP&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg&#34; alt=&#34;Design for Cloud Computing with GCP&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -708,13 +708,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Train Tensorflow Lite Models for Android</title>
-      <link>http://localhost:1313/dscourses/Train-Tensorflow-Lite-Models-for-Android/</link>
+      <link>/dscourses/Train-Tensorflow-Lite-Models-for-Android/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Train-Tensorflow-Lite-Models-for-Android/</guid>
+      <guid>/dscourses/Train-Tensorflow-Lite-Models-for-Android/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg&#34; alt=&#34;Train Tensorflow Lite Models for Android&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg&#34; alt=&#34;Train Tensorflow Lite Models for Android&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -748,13 +748,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>RDBMS</title>
-      <link>http://localhost:1313/dscourses/rdbms/</link>
+      <link>/dscourses/rdbms/</link>
       <pubDate>Thu, 30 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/rdbms/</guid>
+      <guid>/dscourses/rdbms/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc316-RDBMS.jpg&#34; alt=&#34;RDBMS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc316-RDBMS.jpg&#34; alt=&#34;RDBMS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -936,13 +936,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Big Data</title>
-      <link>http://localhost:1313/dscourses/big-data/</link>
+      <link>/dscourses/big-data/</link>
       <pubDate>Wed, 29 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/big-data/</guid>
+      <guid>/dscourses/big-data/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc315-Big-Data.jpg&#34; alt=&#34;Big Data&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc315-Big-Data.jpg&#34; alt=&#34;Big Data&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1048,13 +1048,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Tableau</title>
-      <link>http://localhost:1313/dscourses/tableau/</link>
+      <link>/dscourses/tableau/</link>
       <pubDate>Tue, 28 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/tableau/</guid>
+      <guid>/dscourses/tableau/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc314-Tableau.jpg&#34; alt=&#34;Tableau&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc314-Tableau.jpg&#34; alt=&#34;Tableau&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1280,13 +1280,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Power BI</title>
-      <link>http://localhost:1313/dscourses/power-bi/</link>
+      <link>/dscourses/power-bi/</link>
       <pubDate>Mon, 27 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/power-bi/</guid>
+      <guid>/dscourses/power-bi/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc313-Power-BI.jpg&#34; alt=&#34;Power BI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc313-Power-BI.jpg&#34; alt=&#34;Power BI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1488,13 +1488,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Reinforcement Learning</title>
-      <link>http://localhost:1313/dscourses/reinforcement-learning/</link>
+      <link>/dscourses/reinforcement-learning/</link>
       <pubDate>Sun, 26 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/reinforcement-learning/</guid>
+      <guid>/dscourses/reinforcement-learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc312-Reinforcement-Learning.jpg&#34; alt=&#34;Reinforcement Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc312-Reinforcement-Learning.jpg&#34; alt=&#34;Reinforcement Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1690,13 +1690,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Explainable AI</title>
-      <link>http://localhost:1313/dscourses/explainable-ai/</link>
+      <link>/dscourses/explainable-ai/</link>
       <pubDate>Sat, 25 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/explainable-ai/</guid>
+      <guid>/dscourses/explainable-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc311-Explainable-AI.jpg&#34; alt=&#34;Explainable AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc311-Explainable-AI.jpg&#34; alt=&#34;Explainable AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1729,13 +1729,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Microsoft Excel</title>
-      <link>http://localhost:1313/dscourses/microsoft-excel/</link>
+      <link>/dscourses/microsoft-excel/</link>
       <pubDate>Fri, 24 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/microsoft-excel/</guid>
+      <guid>/dscourses/microsoft-excel/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc310-Microsoft-Excel.jpg&#34; alt=&#34;Microsoft Excel&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc310-Microsoft-Excel.jpg&#34; alt=&#34;Microsoft Excel&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1973,13 +1973,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Data Engineering</title>
-      <link>http://localhost:1313/dscourses/Data-Engineering/</link>
+      <link>/dscourses/Data-Engineering/</link>
       <pubDate>Thu, 23 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Data-Engineering/</guid>
+      <guid>/dscourses/Data-Engineering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc309-Data-Engineering.jpg&#34; alt=&#34;Data Engineering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc309-Data-Engineering.jpg&#34; alt=&#34;Data Engineering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2108,13 +2108,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Python For Data Science</title>
-      <link>http://localhost:1313/dscourses/python-for-data-science/</link>
+      <link>/dscourses/python-for-data-science/</link>
       <pubDate>Wed, 22 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/python-for-data-science/</guid>
+      <guid>/dscourses/python-for-data-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc308-Python-For-Data-Science.jpg&#34; alt=&#34;Python For Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc308-Python-For-Data-Science.jpg&#34; alt=&#34;Python For Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2136,13 +2136,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Pandas for Data Science</title>
-      <link>http://localhost:1313/dscourses/pandas-for-data-science/</link>
+      <link>/dscourses/pandas-for-data-science/</link>
       <pubDate>Tue, 21 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/pandas-for-data-science/</guid>
+      <guid>/dscourses/pandas-for-data-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg&#34; alt=&#34;Pandas for Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg&#34; alt=&#34;Pandas for Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2164,13 +2164,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Statistics For Data Science</title>
-      <link>http://localhost:1313/dscourses/Statistics-For-Data-Science/</link>
+      <link>/dscourses/Statistics-For-Data-Science/</link>
       <pubDate>Mon, 20 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Statistics-For-Data-Science/</guid>
+      <guid>/dscourses/Statistics-For-Data-Science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg&#34; alt=&#34;Statistics For Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg&#34; alt=&#34;Statistics For Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2302,13 +2302,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Mathematics for Data Scientist</title>
-      <link>http://localhost:1313/dscourses/Mathematics-for-Data-Scientist/</link>
+      <link>/dscourses/Mathematics-for-Data-Scientist/</link>
       <pubDate>Sun, 19 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Mathematics-for-Data-Scientist/</guid>
+      <guid>/dscourses/Mathematics-for-Data-Scientist/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2330,13 +2330,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Deep Learning for Computer Vision</title>
-      <link>http://localhost:1313/dscourses/Deep-Learning-for-Computer-Vision/</link>
+      <link>/dscourses/Deep-Learning-for-Computer-Vision/</link>
       <pubDate>Sat, 18 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Deep-Learning-for-Computer-Vision/</guid>
+      <guid>/dscourses/Deep-Learning-for-Computer-Vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg&#34; alt=&#34;Deep Learning for Computer Vision&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg&#34; alt=&#34;Deep Learning for Computer Vision&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2551,13 +2551,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Natural Language Processing</title>
-      <link>http://localhost:1313/dscourses/Natural-Language-Processing/</link>
+      <link>/dscourses/Natural-Language-Processing/</link>
       <pubDate>Fri, 17 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Natural-Language-Processing/</guid>
+      <guid>/dscourses/Natural-Language-Processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc303-Natural-Language-Processing.jpg&#34; alt=&#34;Natural Language Processing&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc303-Natural-Language-Processing.jpg&#34; alt=&#34;Natural Language Processing&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2778,13 +2778,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Machine Learning for Timeseries</title>
-      <link>http://localhost:1313/dscourses/Machine-Learning-for-Timeseries/</link>
+      <link>/dscourses/Machine-Learning-for-Timeseries/</link>
       <pubDate>Thu, 16 Sep 2021 15:46:43 -0400</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Machine-Learning-for-Timeseries/</guid>
+      <guid>/dscourses/Machine-Learning-for-Timeseries/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg&#34; alt=&#34;Machine Learning for Timeseries&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg&#34; alt=&#34;Machine Learning for Timeseries&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2806,13 +2806,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Machine Learning Course</title>
-      <link>http://localhost:1313/dscourses/machine-learning/</link>
+      <link>/dscourses/machine-learning/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/machine-learning/</guid>
+      <guid>/dscourses/machine-learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc301-Machine-Learning.jpg&#34; alt=&#34;Machine Learning Course&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc301-Machine-Learning.jpg&#34; alt=&#34;Machine Learning Course&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Generative AI on </title>
-    <link>http://localhost:1313/categories/generative-ai/</link>
+    <link>/categories/generative-ai/</link>
     <description>Recent content in Generative AI on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/generative-ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Comprehensive Guide to Evaluate Generative Models</title>
-      <link>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</link>
+      <link>/dsblog/guide-to-evaluate-generative-models/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/guide-to-evaluate-generative-models/</guid>
+      <guid>/dsblog/guide-to-evaluate-generative-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg&#34; alt=&#34;Generative Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Applications of GenAI</title>
-      <link>http://localhost:1313/dsblog/Applications-of-GenAI/</link>
+      <link>/dsblog/Applications-of-GenAI/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Applications-of-GenAI/</guid>
+      <guid>/dsblog/Applications-of-GenAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6169-Applications-of-GenAI.jpg&#34; alt=&#34;Applications of GenAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg&#34; alt=&#34;Applications of GenAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>Exploring Synthetic Data Generation Capabilities</title>
-      <link>http://localhost:1313/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</link>
+      <link>/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</guid>
+      <guid>/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg&#34; alt=&#34;Exploring Synthetic Data Generation Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg&#34; alt=&#34;Exploring Synthetic Data Generation Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -145,13 +145,13 @@
     
     <item>
       <title>GenAI Capabilities from AWS, Azure and GCP</title>
-      <link>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
+      <link>/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
+      <guid>/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -185,13 +185,13 @@
     
     <item>
       <title>Understanding LLM GAN and Transformers</title>
-      <link>http://localhost:1313/dsblog/Understanding-LLM-GAN-and-Transformers/</link>
+      <link>/dsblog/Understanding-LLM-GAN-and-Transformers/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Understanding-LLM-GAN-and-Transformers/</guid>
+      <guid>/dsblog/Understanding-LLM-GAN-and-Transformers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg&#34; alt=&#34;Understanding-LLM-GAN-Transformers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg&#34; alt=&#34;Understanding-LLM-GAN-Transformers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -225,20 +225,20 @@
     
     <item>
       <title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title>
-      <link>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
+      <link>/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
+      <guid>/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong&gt;&lt;br&gt;
 Typer of Paper:- Survey Paper&lt;br&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2105.10311&#34; target=&#34;_blank&#34;&gt;Paper URL&lt;/a&gt;&lt;br&gt;
-Paper title of the citations mentioned can be found at &lt;a href=&#34;../../dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
+Paper title of the citations mentioned can be found at &lt;a href=&#34;/dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;
 
 
 &lt;h1 class=&#34;relative group&#34;&gt;Paper Summary :- Pretrained Language Models for Text Generation 
@@ -329,16 +329,16 @@ Paper title of the citations mentioned can be found at &lt;a href=&#34;../../dsb
 &lt;ul&gt;
 &lt;li&gt;In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )&lt;/li&gt;
 &lt;li&gt;If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
-generation task(generate text without any constraint) &lt;a href=&#34;../../dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
+generation task(generate text without any constraint) &lt;a href=&#34;/dsblog/aip#radford2019&#34;&gt;Radford2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
-attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;../../dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;../../dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;../../dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;../../dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
+attribute-based generation. X plays the role of guiding the text generation. &lt;a href=&#34;/dsblog/aip#Keskar2019&#34;&gt;Keskar2019&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href=&#34;/dsblog/aip#Li2021c&#34;&gt;Li2021c&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as image, the task becomes image caption &lt;a href=&#34;/dsblog/aip#Xia2020&#34;&gt;Xia2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If X is multimedia input such as speech, the task become speech recognition &lt;a href=&#34;/dsblog/aip#Fan2019&#34;&gt;Fan2019&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system.&lt;/li&gt;
-&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;../../dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;../../dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;../../dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Machine translation aims to translate text from one language into another language automatically &lt;a href=&#34;/dsblog/aip#Conneau2019&#34;&gt;Conneau2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Generating condensed summary of a long document &lt;a href=&#34;/dsblog/aip#Zhang2019b&#34;&gt;Zhang2019b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dialogue system to converse with humans using natural language. &lt;a href=&#34;/dsblog/aip#Wolf2019&#34;&gt;Wolf2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -355,14 +355,14 @@ attribute-based generation. X plays the role of guiding the text generation. &lt
 &lt;ul&gt;
 &lt;li&gt;Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
 &lt;ul&gt;
-&lt;li&gt;MASS &lt;a href=&#34;../../dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;T5 &lt;a href=&#34;../../dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;BART &lt;a href=&#34;../../dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MASS &lt;a href=&#34;/dsblog/aip#song2019&#34;&gt;Song2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;T5 &lt;a href=&#34;/dsblog/aip#raffel2020&#34;&gt;Raffel2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BART &lt;a href=&#34;/dsblog/aip#lewis2020&#34;&gt;Lewis2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens.
 &lt;ul&gt;
-&lt;li&gt;GPT &lt;a href=&#34;../../dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;../../dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GPT &lt;a href=&#34;/dsblog/aip#radfordet2019&#34;&gt;Radfordet2019&lt;/a&gt;; &lt;a href=&#34;/dsblog/aip#brown2020&#34;&gt;Brown2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;CTRL [Keskar2019]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -540,13 +540,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>What is GAN Architecture?</title>
-      <link>http://localhost:1313/dsblog/What-is-GAN-Architecture/</link>
+      <link>/dsblog/What-is-GAN-Architecture/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-GAN-Architecture/</guid>
+      <guid>/dsblog/What-is-GAN-Architecture/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg&#34; alt=&#34;What is GAN Architecture?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg&#34; alt=&#34;What is GAN Architecture?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -568,13 +568,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>Business Usecases of GPT</title>
-      <link>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</link>
+      <link>/dsblog/Business-Usecases-of-GPT/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</guid>
+      <guid>/dsblog/Business-Usecases-of-GPT/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -609,13 +609,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>What is GAN?</title>
-      <link>http://localhost:1313/dsblog/What-is-GAN/</link>
+      <link>/dsblog/What-is-GAN/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-GAN/</guid>
+      <guid>/dsblog/What-is-GAN/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6043-gan.jpg&#34; alt=&#34;Partial Dependence Plots&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6043-gan.jpg&#34; alt=&#34;Partial Dependence Plots&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -649,13 +649,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>GPT Usecases</title>
-      <link>http://localhost:1313/dsblog/gpt-usecases/</link>
+      <link>/dsblog/gpt-usecases/</link>
       <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/gpt-usecases/</guid>
+      <guid>/dsblog/gpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -677,13 +677,13 @@ state-of-the-art results.&lt;/li&gt;
     
     <item>
       <title>ChatGPT Usecases</title>
-      <link>http://localhost:1313/dsblog/chatgpt-usecases/</link>
+      <link>/dsblog/chatgpt-usecases/</link>
       <pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/chatgpt-usecases/</guid>
+      <guid>/dsblog/chatgpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

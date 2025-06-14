@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on </title>
-    <link>http://localhost:1313/categories/nature/</link>
+    <link>/categories/nature/</link>
     <description>Recent content in Nature on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Meaning of Prakriti in Bhagwat Gita</title>
-      <link>http://localhost:1313/wiaposts/meaning-of-prakriti-in-bhagavad-gita/</link>
+      <link>/wiaposts/meaning-of-prakriti-in-bhagavad-gita/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/meaning-of-prakriti-in-bhagavad-gita/</guid>
+      <guid>/wiaposts/meaning-of-prakriti-in-bhagavad-gita/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5293-meaning-of-prakriti-in-bhagavad-gita.jpg&#34; alt=&#34;The Meaning of Prakriti in Bhagwat Gita&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5293-meaning-of-prakriti-in-bhagavad-gita.jpg&#34; alt=&#34;The Meaning of Prakriti in Bhagwat Gita&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Are you not Nature?</title>
-      <link>http://localhost:1313/wiaposts/are-you-not-nature/</link>
+      <link>/wiaposts/are-you-not-nature/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/are-you-not-nature/</guid>
+      <guid>/wiaposts/are-you-not-nature/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5192-Are-You-Not-Nature.jpg&#34; alt=&#34;Are you not Nature?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5192-Are-You-Not-Nature.jpg&#34; alt=&#34;Are you not Nature?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -72,13 +72,13 @@ There is no other separate nature away from your own bodily existence.&lt;/p&gt;
     
     <item>
       <title>Biological Footprint of Human</title>
-      <link>http://localhost:1313/wiaposts/biological-footprint-of-human/</link>
+      <link>/wiaposts/biological-footprint-of-human/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/biological-footprint-of-human/</guid>
+      <guid>/wiaposts/biological-footprint-of-human/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg&#34; alt=&#34;Biological Footprint of Human&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg&#34; alt=&#34;Biological Footprint of Human&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -109,13 +109,13 @@ for other animals to eat.&lt;/p&gt;</description>
     
     <item>
       <title>Light vs Darkness</title>
-      <link>http://localhost:1313/wiaposts/light-vs-darkness/</link>
+      <link>/wiaposts/light-vs-darkness/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/light-vs-darkness/</guid>
+      <guid>/wiaposts/light-vs-darkness/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5184-Light-Vs-Darkness.jpg&#34; alt=&#34;Light vs Darkness&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5184-Light-Vs-Darkness.jpg&#34; alt=&#34;Light vs Darkness&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -146,13 +146,13 @@ in the world because it has been displaced?&lt;/p&gt;</description>
     
     <item>
       <title>Searching the Creator</title>
-      <link>http://localhost:1313/wiaposts/searching-the-creator/</link>
+      <link>/wiaposts/searching-the-creator/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/searching-the-creator/</guid>
+      <guid>/wiaposts/searching-the-creator/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5170-Searching-The-Creator.jpg&#34; alt=&#34;Searching the Creator&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5170-Searching-The-Creator.jpg&#34; alt=&#34;Searching the Creator&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -179,13 +179,13 @@ I am breathing, this proves I have lungs.&lt;/p&gt;</description>
     
     <item>
       <title>Universal Constants</title>
-      <link>http://localhost:1313/wiaposts/universal-constants/</link>
+      <link>/wiaposts/universal-constants/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/universal-constants/</guid>
+      <guid>/wiaposts/universal-constants/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5137-Universal-Constants.jpg&#34; alt=&#34;Universal Constants&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5137-Universal-Constants.jpg&#34; alt=&#34;Universal Constants&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -315,13 +315,13 @@ I am breathing, this proves I have lungs.&lt;/p&gt;</description>
     
     <item>
       <title>Source Of The Color</title>
-      <link>http://localhost:1313/wiaposts/source-of-the-color/</link>
+      <link>/wiaposts/source-of-the-color/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/source-of-the-color/</guid>
+      <guid>/wiaposts/source-of-the-color/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5073-Source-Of-The-Color.jpg&#34; alt=&#34;Source Of The Color&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5073-Source-Of-The-Color.jpg&#34; alt=&#34;Source Of The Color&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -350,13 +350,13 @@ If not then what gives color to the objects made of carbon?&lt;/p&gt;</descripti
     
     <item>
       <title>Learning From The Nature</title>
-      <link>http://localhost:1313/wiaposts/learning-from-the-nature/</link>
+      <link>/wiaposts/learning-from-the-nature/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/learning-from-the-nature/</guid>
+      <guid>/wiaposts/learning-from-the-nature/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5053-Learning-From-The-Nature.jpg&#34; alt=&#34;Learning From The Nature&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5053-Learning-From-The-Nature.jpg&#34; alt=&#34;Learning From The Nature&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

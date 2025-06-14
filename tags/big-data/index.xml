@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data on </title>
-    <link>http://localhost:1313/tags/big-data/</link>
+    <link>/tags/big-data/</link>
     <description>Recent content in Big Data on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring Apache Hive</title>
-      <link>http://localhost:1313/dsblog/Exploring-Apache-Hive/</link>
+      <link>/dsblog/Exploring-Apache-Hive/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Apache-Hive/</guid>
+      <guid>/dsblog/Exploring-Apache-Hive/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg&#34; alt=&#34;Exploring Apache Hive&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg&#34; alt=&#34;Exploring Apache Hive&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Database and Analytics Product Services from Google Azure AWS</title>
-      <link>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
+      <link>/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
+      <guid>/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -306,13 +306,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Data Lake vs Data Warehouse vs Data Mart</title>
-      <link>http://localhost:1313/dsblog/Datalake-vs-Data-Warehouse/</link>
+      <link>/dsblog/Datalake-vs-Data-Warehouse/</link>
       <pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Datalake-vs-Data-Warehouse/</guid>
+      <guid>/dsblog/Datalake-vs-Data-Warehouse/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg&#34; alt=&#34;Datalake vs Data Warehouse&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg&#34; alt=&#34;Datalake vs Data Warehouse&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

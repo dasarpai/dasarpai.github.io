@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Architecture &amp; Design on </title>
-    <link>http://localhost:1313/categories/software-architecture--design/</link>
+    <link>/categories/software-architecture--design/</link>
     <description>Recent content in Software Architecture &amp; Design on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/software-architecture--design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software-architecture--design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building AI-Powered Flutter Apps: Best Practices for Folder Structure</title>
-      <link>http://localhost:1313/dsblog/Building-AI-Powered-Flutter-Apps/</link>
+      <link>/dsblog/Building-AI-Powered-Flutter-Apps/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Building-AI-Powered-Flutter-Apps/</guid>
+      <guid>/dsblog/Building-AI-Powered-Flutter-Apps/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -70,13 +70,13 @@
     
     <item>
       <title>Python Project Folders and Files</title>
-      <link>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</link>
+      <link>/dsblog/Python-Project-Folders-and-Files/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</guid>
+      <guid>/dsblog/Python-Project-Folders-and-Files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -110,13 +110,13 @@
     
     <item>
       <title>LLM Architecture and Training</title>
-      <link>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</link>
+      <link>/dsblog/LLM-Architecture-and-Training/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</guid>
+      <guid>/dsblog/LLM-Architecture-and-Training/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -138,13 +138,13 @@
     
     <item>
       <title>What is GAN Architecture?</title>
-      <link>http://localhost:1313/dsblog/What-is-GAN-Architecture/</link>
+      <link>/dsblog/What-is-GAN-Architecture/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-GAN-Architecture/</guid>
+      <guid>/dsblog/What-is-GAN-Architecture/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg&#34; alt=&#34;What is GAN Architecture?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg&#34; alt=&#34;What is GAN Architecture?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -166,13 +166,13 @@
     
     <item>
       <title>Folder Structure for ML Project</title>
-      <link>http://localhost:1313/dsblog/Folder-Structure-for-ML-Project/</link>
+      <link>/dsblog/Folder-Structure-for-ML-Project/</link>
       <pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Folder-Structure-for-ML-Project/</guid>
+      <guid>/dsblog/Folder-Structure-for-ML-Project/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg&#34; alt=&#34;Configuration Management&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg&#34; alt=&#34;Configuration Management&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

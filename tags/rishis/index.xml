@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rishis on </title>
-    <link>http://localhost:1313/tags/rishis/</link>
+    <link>/tags/rishis/</link>
     <description>Recent content in Rishis on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 09 Jan 2023 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/rishis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 08:33:00 +0530</lastBuildDate><atom:link href="/tags/rishis/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Logic of Entangled Mind</title>
-      <link>http://localhost:1313/wiaposts/Logic-of-Entangled-Mind/</link>
+      <link>/wiaposts/Logic-of-Entangled-Mind/</link>
       <pubDate>Mon, 09 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Logic-of-Entangled-Mind/</guid>
+      <guid>/wiaposts/Logic-of-Entangled-Mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -51,13 +51,13 @@ They can do Nitya-Anitya vivek.&lt;/p&gt;</description>
     
     <item>
       <title>Where Are Todays Rishis</title>
-      <link>http://localhost:1313/wiaposts/where-are-todays-rishis/</link>
+      <link>/wiaposts/where-are-todays-rishis/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/where-are-todays-rishis/</guid>
+      <guid>/wiaposts/where-are-todays-rishis/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg&#34; alt=&#34;Where Are Todays Rishis&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg&#34; alt=&#34;Where Are Todays Rishis&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

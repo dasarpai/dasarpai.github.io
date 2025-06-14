@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile Courses on </title>
-    <link>http://localhost:1313/tags/agile-courses/</link>
+    <link>/tags/agile-courses/</link>
     <description>Recent content in Agile Courses on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/agile-courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/agile-courses/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Agile Scrum Project Management</title>
-      <link>http://localhost:1313/management/agile-scrum/</link>
+      <link>/management/agile-scrum/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/agile-scrum/</guid>
+      <guid>/management/agile-scrum/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc525-agile-scrum.jpg&#34; alt=&#34;Agile Scrum&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc525-agile-scrum.jpg&#34; alt=&#34;Agile Scrum&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

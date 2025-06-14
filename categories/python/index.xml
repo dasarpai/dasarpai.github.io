@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on </title>
-    <link>http://localhost:1313/categories/python/</link>
+    <link>/categories/python/</link>
     <description>Recent content in Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Understanding `async`, `await`, and Concurrency in Python</title>
-      <link>http://localhost:1313/dsblog/Understanding-async-await-and-Concurrency/</link>
+      <link>/dsblog/Understanding-async-await-and-Concurrency/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Understanding-async-await-and-Concurrency/</guid>
+      <guid>/dsblog/Understanding-async-await-and-Concurrency/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6282-Understanding-async-await-and-Concurrency.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6282-Understanding-async-await-and-Concurrency.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -42,13 +42,13 @@
     
     <item>
       <title>Navigating Python Ecosystem</title>
-      <link>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</link>
+      <link>/dsblog/Navigating-Python-Ecosystem/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</guid>
+      <guid>/dsblog/Navigating-Python-Ecosystem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -82,13 +82,13 @@
     
     <item>
       <title>Exploring Python Package Manager</title>
-      <link>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</link>
+      <link>/dsblog/Exploring-Python-Package-Manager/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</guid>
+      <guid>/dsblog/Exploring-Python-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -122,13 +122,13 @@
     
     <item>
       <title>Python Code Snippnet from Colab</title>
-      <link>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</link>
+      <link>/dsblog/Python-Code-Snippnet-from-Colab/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Code-Snippnet-from-Colab/</guid>
+      <guid>/dsblog/Python-Code-Snippnet-from-Colab/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg&#34; alt=&#34;Python Code Snippnet from Colab&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -162,13 +162,13 @@
     
     <item>
       <title>Python Project Folders and Files</title>
-      <link>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</link>
+      <link>/dsblog/Python-Project-Folders-and-Files/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Project-Folders-and-Files/</guid>
+      <guid>/dsblog/Python-Project-Folders-and-Files/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg&#34; alt=&#34;Python Project Folders and Files&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -202,13 +202,13 @@
     
     <item>
       <title>Decoding pip install operations</title>
-      <link>http://localhost:1313/dsblog/Decoding-pip-install-operations/</link>
+      <link>/dsblog/Decoding-pip-install-operations/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-pip-install-operations/</guid>
+      <guid>/dsblog/Decoding-pip-install-operations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg&#34; alt=&#34;Decoding-pip-install-operations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -244,13 +244,13 @@
     
     <item>
       <title>Python APIs for Data</title>
-      <link>http://localhost:1313/dsblog/python-apis-for-data/</link>
+      <link>/dsblog/python-apis-for-data/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/python-apis-for-data/</guid>
+      <guid>/dsblog/python-apis-for-data/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -282,13 +282,13 @@
     
     <item>
       <title>Python Decorator Function</title>
-      <link>http://localhost:1313/dsblog/Python-Decorator-Function/</link>
+      <link>/dsblog/Python-Decorator-Function/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Decorator-Function/</guid>
+      <guid>/dsblog/Python-Decorator-Function/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -322,13 +322,13 @@
     
     <item>
       <title>Python Naming Convention</title>
-      <link>http://localhost:1313/dsblog/Python-Naming-Convention/</link>
+      <link>/dsblog/Python-Naming-Convention/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Naming-Convention/</guid>
+      <guid>/dsblog/Python-Naming-Convention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -556,13 +556,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Python Software Development and Distribution</title>
-      <link>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</link>
+      <link>/dsblog/Python-Software-Development-and-Distribution/</link>
       <pubDate>Thu, 30 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</guid>
+      <guid>/dsblog/Python-Software-Development-and-Distribution/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -596,13 +596,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Best Resources to Learn Python</title>
-      <link>http://localhost:1313/dsblog/best-resources-to-learn-python/</link>
+      <link>/dsblog/best-resources-to-learn-python/</link>
       <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/best-resources-to-learn-python/</guid>
+      <guid>/dsblog/best-resources-to-learn-python/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg&#34; alt=&#34;Best Resources to Learn Python&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg&#34; alt=&#34;Best Resources to Learn Python&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

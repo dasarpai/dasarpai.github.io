@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud AI Services on </title>
-    <link>http://localhost:1313/tags/cloud-ai-services/</link>
+    <link>/tags/cloud-ai-services/</link>
     <description>Recent content in Cloud AI Services on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-ai-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cloud-ai-services/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unlocking the Power of Prompts: A Comprehensive Guide to Prompt Engineering</title>
-      <link>http://localhost:1313/dsblog/unlocking-the-power-of-prompts/</link>
+      <link>/dsblog/unlocking-the-power-of-prompts/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/unlocking-the-power-of-prompts/</guid>
+      <guid>/dsblog/unlocking-the-power-of-prompts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg&#34; alt=&#34;Unlocking the Power of Prompts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg&#34; alt=&#34;Unlocking the Power of Prompts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Automated Machine Learning</title>
-      <link>http://localhost:1313/dsblog/AutoML-Tools/</link>
+      <link>/dsblog/AutoML-Tools/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AutoML-Tools/</guid>
+      <guid>/dsblog/AutoML-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6150-AutoML-Tools.jpg&#34; alt=&#34;What is AutoML&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -98,13 +98,13 @@
     
     <item>
       <title>GenAI Capabilities from AWS, Azure and GCP</title>
-      <link>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
+      <link>/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
+      <guid>/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -138,13 +138,13 @@
     
     <item>
       <title>Model Tuning with VertexAI</title>
-      <link>http://localhost:1313/dsblog/Model-Tuning-with-VertexAI/</link>
+      <link>/dsblog/Model-Tuning-with-VertexAI/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Model-Tuning-with-VertexAI/</guid>
+      <guid>/dsblog/Model-Tuning-with-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg&#34; alt=&#34;Model Tuning with VertexAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg&#34; alt=&#34;Model Tuning with VertexAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -203,13 +203,13 @@
     
     <item>
       <title>AI Product and Services from Google, Azure and AWS</title>
-      <link>http://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
+      <link>/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
+      <guid>/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -426,13 +426,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Model Garden of VertexAI</title>
-      <link>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</link>
+      <link>/dsblog/Model-Garden-of-VertexAI/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</guid>
+      <guid>/dsblog/Model-Garden-of-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

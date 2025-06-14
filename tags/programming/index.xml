@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on </title>
-    <link>http://localhost:1313/tags/programming/</link>
+    <link>/tags/programming/</link>
     <description>Recent content in Programming on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GenAI for AI-Assisted Programming</title>
-      <link>http://localhost:1313/dscourses/GenAI-for-AI-Assisted-Programming/</link>
+      <link>/dscourses/GenAI-for-AI-Assisted-Programming/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/GenAI-for-AI-Assisted-Programming/</guid>
+      <guid>/dscourses/GenAI-for-AI-Assisted-Programming/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg&#34; alt=&#34;GenAI for AI-Assisted Programming&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg&#34; alt=&#34;GenAI for AI-Assisted Programming&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -79,13 +79,13 @@
     
     <item>
       <title>Exploring Synthetic Data Generation Capabilities</title>
-      <link>http://localhost:1313/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</link>
+      <link>/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</guid>
+      <guid>/dsblog/Exploring-Synthetic-Data-Generation-Capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg&#34; alt=&#34;Exploring Synthetic Data Generation Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg&#34; alt=&#34;Exploring Synthetic Data Generation Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -143,13 +143,13 @@
     
     <item>
       <title>Exploring SQL and GraphQL Commands</title>
-      <link>http://localhost:1313/dsblog/Exploring-SQL-and-GraphQL-Commands/</link>
+      <link>/dsblog/Exploring-SQL-and-GraphQL-Commands/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-SQL-and-GraphQL-Commands/</guid>
+      <guid>/dsblog/Exploring-SQL-and-GraphQL-Commands/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg&#34; alt=&#34;Exploring SQL and GraphQL Commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg&#34; alt=&#34;Exploring SQL and GraphQL Commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -183,13 +183,13 @@
     
     <item>
       <title>Exploring Python Package Manager</title>
-      <link>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</link>
+      <link>/dsblog/Exploring-Python-Package-Manager/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Python-Package-Manager/</guid>
+      <guid>/dsblog/Exploring-Python-Package-Manager/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg&#34; alt=&#34;Exploring Python Package Managers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -223,13 +223,13 @@
     
     <item>
       <title>Understanding Linux Distributions</title>
-      <link>http://localhost:1313/dsblog/Exploring-Linux-Distributions/</link>
+      <link>/dsblog/Exploring-Linux-Distributions/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Linux-Distributions/</guid>
+      <guid>/dsblog/Exploring-Linux-Distributions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg&#34; alt=&#34;Understanding Linux Distributions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg&#34; alt=&#34;Understanding Linux Distributions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -263,13 +263,13 @@
     
     <item>
       <title>Exploring Google Firebase</title>
-      <link>http://localhost:1313/dsblog/Exploring-Firebase/</link>
+      <link>/dsblog/Exploring-Firebase/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Firebase/</guid>
+      <guid>/dsblog/Exploring-Firebase/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6159-Exploring-Firebase.jpg&#34; alt=&#34;Exploring Firebase&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6159-Exploring-Firebase.jpg&#34; alt=&#34;Exploring Firebase&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -303,13 +303,13 @@
     
     <item>
       <title>What is Bundler?</title>
-      <link>http://localhost:1313/dsblog/Exploring-Bundler/</link>
+      <link>/dsblog/Exploring-Bundler/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Bundler/</guid>
+      <guid>/dsblog/Exploring-Bundler/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6158-Exploring-Bundler.jpg&#34; alt=&#34;Exploring Bundler&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -331,13 +331,13 @@
     
     <item>
       <title>Programming Resources</title>
-      <link>http://localhost:1313/dsblog/Programming-Resources/</link>
+      <link>/dsblog/Programming-Resources/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Programming-Resources/</guid>
+      <guid>/dsblog/Programming-Resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6136-Programming-Resources.jpg&#34; alt=&#34;Programming-Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6136-Programming-Resources.jpg&#34; alt=&#34;Programming-Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -718,9 +718,9 @@
     
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md&#34;&gt;design-url-shortner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md&#34;&gt;e-Commerce-site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md&#34;&gt;Whatsapp-Basic-Features-of-a-chat-app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md&#34;&gt;design-url-shortner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md&#34;&gt;e-Commerce-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md&#34;&gt;Whatsapp-Basic-Features-of-a-chat-app&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scottaohara.github.io/accessibility_interview_questions/&#34; target=&#34;_blank&#34;&gt;Accessibility Interview Questions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1076,7 +1076,7 @@
 &lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34; target=&#34;_blank&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.interviewcake.com/&#34; target=&#34;_blank&#34;&gt;Interviewcake&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.interviewbit.com/&#34; target=&#34;_blank&#34;&gt;InterviewBit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br&#34;&gt;uCoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br&#34;&gt;uCoder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lintcode.com/&#34; target=&#34;_blank&#34;&gt;LintCode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://codecombat.com/&#34; target=&#34;_blank&#34;&gt;CodeCombat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
@@ -1085,13 +1085,13 @@
     
     <item>
       <title>What is Unicode and how does it works?</title>
-      <link>http://localhost:1313/dsblog/what-is-unicode-and-how-does-it-works/</link>
+      <link>/dsblog/what-is-unicode-and-how-does-it-works/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-unicode-and-how-does-it-works/</guid>
+      <guid>/dsblog/what-is-unicode-and-how-does-it-works/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg&#34; alt=&#34;What is Unicode and how does it works?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg&#34; alt=&#34;What is Unicode and how does it works?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1125,13 +1125,13 @@
     
     <item>
       <title>Python APIs for Data</title>
-      <link>http://localhost:1313/dsblog/python-apis-for-data/</link>
+      <link>/dsblog/python-apis-for-data/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/python-apis-for-data/</guid>
+      <guid>/dsblog/python-apis-for-data/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg&#34; alt=&#34;Python APIs for Data&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1163,13 +1163,13 @@
     
     <item>
       <title>AWS SageMaker Jumpstart Models</title>
-      <link>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
+      <link>/dsblog/AWS-SageMaker-Jumpstart-Models/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
+      <guid>/dsblog/AWS-SageMaker-Jumpstart-Models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg&#34; alt=&#34;AWS SageMaker Jumpstart Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2105,13 +2105,13 @@ id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</des
     
     <item>
       <title>Python Decorator Function</title>
-      <link>http://localhost:1313/dsblog/Python-Decorator-Function/</link>
+      <link>/dsblog/Python-Decorator-Function/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Decorator-Function/</guid>
+      <guid>/dsblog/Python-Decorator-Function/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg&#34; alt=&#34;Python Decorator Function&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2145,13 +2145,13 @@ id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p&gt;</des
     
     <item>
       <title>Python Naming Convention</title>
-      <link>http://localhost:1313/dsblog/Python-Naming-Convention/</link>
+      <link>/dsblog/Python-Naming-Convention/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Naming-Convention/</guid>
+      <guid>/dsblog/Python-Naming-Convention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg&#34; alt=&#34;Python Naming Convention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2379,13 +2379,13 @@ if type(obj) is type(1):&lt;/li&gt;
     
     <item>
       <title>Sorting Algorithm A Summary</title>
-      <link>http://localhost:1313/dsblog/Sorting-Algorithm-A-Summary/</link>
+      <link>/dsblog/Sorting-Algorithm-A-Summary/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Sorting-Algorithm-A-Summary/</guid>
+      <guid>/dsblog/Sorting-Algorithm-A-Summary/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg&#34; alt=&#34;Sorting Algorithm A Summary&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg&#34; alt=&#34;Sorting Algorithm A Summary&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

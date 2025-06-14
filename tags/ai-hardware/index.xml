@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Hardware on </title>
-    <link>http://localhost:1313/tags/ai-hardware/</link>
+    <link>/tags/ai-hardware/</link>
     <description>Recent content in AI Hardware on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-hardware/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Demystifying NVIDIA GPUs</title>
-      <link>http://localhost:1313/dsblog/demystify-nvidia-gpus/</link>
+      <link>/dsblog/demystify-nvidia-gpus/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/demystify-nvidia-gpus/</guid>
+      <guid>/dsblog/demystify-nvidia-gpus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg&#34; alt=&#34;Demystifying NVIDIA GPUs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg&#34; alt=&#34;Demystifying NVIDIA GPUs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence</title>
-      <link>http://localhost:1313/dsblog/shaping-tomorrow-with-ai-nvidia/</link>
+      <link>/dsblog/shaping-tomorrow-with-ai-nvidia/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/shaping-tomorrow-with-ai-nvidia/</guid>
+      <guid>/dsblog/shaping-tomorrow-with-ai-nvidia/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg&#34; alt=&#34;Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg&#34; alt=&#34;Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -94,13 +94,13 @@
     
     <item>
       <title>Exploring Graphics Processing Units (GPUs)</title>
-      <link>http://localhost:1313/dsblog/Exploring-GPUs/</link>
+      <link>/dsblog/Exploring-GPUs/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-GPUs/</guid>
+      <guid>/dsblog/Exploring-GPUs/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -296,13 +296,13 @@
     
     <item>
       <title>Introduction to NVIDIA and Products</title>
-      <link>http://localhost:1313/dsblog/introduction-nvidia-products/</link>
+      <link>/dsblog/introduction-nvidia-products/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/introduction-nvidia-products/</guid>
+      <guid>/dsblog/introduction-nvidia-products/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -375,13 +375,13 @@
     
     <item>
       <title>GPU for Data Science Work</title>
-      <link>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</link>
+      <link>/dsblog/GPU-for-Data-Science-Work/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/GPU-for-Data-Science-Work/</guid>
+      <guid>/dsblog/GPU-for-Data-Science-Work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg&#34; alt=&#34;GPU for Data Science Work&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

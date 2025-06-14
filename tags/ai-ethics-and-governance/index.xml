@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Ethics and Governance on </title>
-    <link>http://localhost:1313/tags/ai-ethics-and-governance/</link>
+    <link>/tags/ai-ethics-and-governance/</link>
     <description>Recent content in AI Ethics and Governance on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-ethics-and-governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-ethics-and-governance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>All About AI Hype</title>
-      <link>http://localhost:1313/dsblog/All-About-ai-Hype/</link>
+      <link>/dsblog/All-About-ai-Hype/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/All-About-ai-Hype/</guid>
+      <guid>/dsblog/All-About-ai-Hype/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>AI Usecases in Cybersecurity</title>
-      <link>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</link>
+      <link>/dsblog/AI-Usecases-in-Cybersecurity/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</guid>
+      <guid>/dsblog/AI-Usecases-in-Cybersecurity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -96,13 +96,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Open Source vs Closed Source AI</title>
-      <link>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</link>
+      <link>/dsblog/Open-Source-vs-Closed-Source-AI/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
+      <guid>/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -124,13 +124,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>LLM Security and Ethics Considerations</title>
-      <link>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</link>
+      <link>/dsblog/LLM-Security-and-Ethics-Considerations/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/LLM-Security-and-Ethics-Considerations/</guid>
+      <guid>/dsblog/LLM-Security-and-Ethics-Considerations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg&#34; alt=&#34;LLM-Security-and-Ethics-Considerations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg&#34; alt=&#34;LLM-Security-and-Ethics-Considerations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -164,13 +164,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Responsible AI</title>
-      <link>http://localhost:1313/dsblog/Responsible-AI/</link>
+      <link>/dsblog/Responsible-AI/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Responsible-AI/</guid>
+      <guid>/dsblog/Responsible-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6047-Responsible-AI.jpg&#34; alt=&#34;Responsible-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6047-Responsible-AI.jpg&#34; alt=&#34;Responsible-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -204,13 +204,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>What is XAI?</title>
-      <link>http://localhost:1313/dsblog/What-is-XAI/</link>
+      <link>/dsblog/What-is-XAI/</link>
       <pubDate>Fri, 15 May 2020 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-XAI/</guid>
+      <guid>/dsblog/What-is-XAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6003-XAI.jpg&#34; alt=&#34;XAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6003-XAI.jpg&#34; alt=&#34;XAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

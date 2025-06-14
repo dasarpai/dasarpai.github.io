@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curiosity on </title>
-    <link>http://localhost:1313/tags/curiosity/</link>
+    <link>/tags/curiosity/</link>
     <description>Recent content in Curiosity on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/curiosity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/curiosity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Biggest Mistake</title>
-      <link>http://localhost:1313/wiaposts/the-biggest-mistake/</link>
+      <link>/wiaposts/the-biggest-mistake/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-biggest-mistake/</guid>
+      <guid>/wiaposts/the-biggest-mistake/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5162-The-Biggest-Mistake.jpg&#34; alt=&#34;The Biggest Mistake&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5162-The-Biggest-Mistake.jpg&#34; alt=&#34;The Biggest Mistake&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -48,13 +48,13 @@ Most of them answered all the questions from memory.&lt;/p&gt;</description>
     
     <item>
       <title>Unanswered Questions Of Science</title>
-      <link>http://localhost:1313/wiaposts/unanswered-questions-of-science/</link>
+      <link>/wiaposts/unanswered-questions-of-science/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/unanswered-questions-of-science/</guid>
+      <guid>/wiaposts/unanswered-questions-of-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5136-Unanswered-Questions-Of-Science.jpg&#34; alt=&#34;Unanswered Questions Of Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5136-Unanswered-Questions-Of-Science.jpg&#34; alt=&#34;Unanswered Questions Of Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -76,13 +76,13 @@ Most of them answered all the questions from memory.&lt;/p&gt;</description>
     
     <item>
       <title>Boring Maths and Science</title>
-      <link>http://localhost:1313/wiaposts/boring-maths-and-science/</link>
+      <link>/wiaposts/boring-maths-and-science/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/boring-maths-and-science/</guid>
+      <guid>/wiaposts/boring-maths-and-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5123-Boring-Maths-And-Science.jpg&#34; alt=&#34;Boring Maths and Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5123-Boring-Maths-And-Science.jpg&#34; alt=&#34;Boring Maths and Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

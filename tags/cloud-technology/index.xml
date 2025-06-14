@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Technology on </title>
-    <link>http://localhost:1313/tags/cloud-technology/</link>
+    <link>/tags/cloud-technology/</link>
     <description>Recent content in Cloud Technology on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cloud-technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Comprehensive Guide to 210&#43; AWS Services</title>
-      <link>http://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</link>
+      <link>/dsblog/AWS-Cloud-Service-Catalog/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</guid>
+      <guid>/dsblog/AWS-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -55,13 +55,13 @@ All these services are availalbe at &lt;a href=&#34;https://us-east-1.console.aw
     
     <item>
       <title>Unlocking the Power of Azure- Exploring 300&#43; Cloud Services and Their Purposes</title>
-      <link>http://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</link>
+      <link>/dsblog/Azure-Cloud-Service-Catalog/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</guid>
+      <guid>/dsblog/Azure-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -97,13 +97,13 @@ All these services are availalbe at &lt;a href=&#34;https://azure.microsoft.com/
     
     <item>
       <title>Google Cloud Service Catalog - A Comprehensive Overview of 250&#43; Google Cloud Services</title>
-      <link>http://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</link>
+      <link>/dsblog/Google-Cloud-Service-Catalog/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</guid>
+      <guid>/dsblog/Google-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

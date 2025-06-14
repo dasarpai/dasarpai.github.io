@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on </title>
-    <link>http://localhost:1313/tags/mathematics/</link>
+    <link>/tags/mathematics/</link>
     <description>Recent content in Mathematics on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Real-Life Applications of Mathematics</title>
-      <link>http://localhost:1313/dsblog/real-life-applications-of-maths/</link>
+      <link>/dsblog/real-life-applications-of-maths/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/real-life-applications-of-maths/</guid>
+      <guid>/dsblog/real-life-applications-of-maths/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg&#34; alt=&#34;Real-Life Applications of Mathematics&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg&#34; alt=&#34;Real-Life Applications of Mathematics&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -42,13 +42,13 @@
     
     <item>
       <title>Distances in Machine Learning</title>
-      <link>http://localhost:1313/dsblog/Distances-in-Machine-Learning/</link>
+      <link>/dsblog/Distances-in-Machine-Learning/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Distances-in-Machine-Learning/</guid>
+      <guid>/dsblog/Distances-in-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg&#34; alt=&#34;Distances in Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg&#34; alt=&#34;Distances in Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -71,13 +71,13 @@
     
     <item>
       <title>Statistics Interview Question for Data Scientist</title>
-      <link>http://localhost:1313/dsblog/Statistics-Interview-Question-for-Data-Scientist/</link>
+      <link>/dsblog/Statistics-Interview-Question-for-Data-Scientist/</link>
       <pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Statistics-Interview-Question-for-Data-Scientist/</guid>
+      <guid>/dsblog/Statistics-Interview-Question-for-Data-Scientist/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg&#34; alt=&#34;Statistics Interview Question for Data Scientist&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg&#34; alt=&#34;Statistics Interview Question for Data Scientist&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -100,13 +100,13 @@
     
     <item>
       <title>Mathematics for Data Scientist</title>
-      <link>http://localhost:1313/dsblog/maths-for-ds/</link>
+      <link>/dsblog/maths-for-ds/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/maths-for-ds/</guid>
+      <guid>/dsblog/maths-for-ds/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -128,13 +128,13 @@
     
     <item>
       <title>Learning Process</title>
-      <link>http://localhost:1313/wiaposts/learning-process/</link>
+      <link>/wiaposts/learning-process/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/learning-process/</guid>
+      <guid>/wiaposts/learning-process/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5152-Learning-Process.jpg&#34; alt=&#34;Learning Process&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5152-Learning-Process.jpg&#34; alt=&#34;Learning Process&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -156,13 +156,13 @@
     
     <item>
       <title>Boring Maths and Science</title>
-      <link>http://localhost:1313/wiaposts/boring-maths-and-science/</link>
+      <link>/wiaposts/boring-maths-and-science/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/boring-maths-and-science/</guid>
+      <guid>/wiaposts/boring-maths-and-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5123-Boring-Maths-And-Science.jpg&#34; alt=&#34;Boring Maths and Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5123-Boring-Maths-And-Science.jpg&#34; alt=&#34;Boring Maths and Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

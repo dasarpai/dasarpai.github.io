@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Applications on </title>
-    <link>http://localhost:1313/categories/ai-applications/</link>
+    <link>/categories/ai-applications/</link>
     <description>Recent content in AI Applications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ai-applications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/ai-applications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring AI Agents</title>
-      <link>http://localhost:1313/dsblog/exploring-ai-agents/</link>
+      <link>/dsblog/exploring-ai-agents/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ai-agents/</guid>
+      <guid>/dsblog/exploring-ai-agents/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg&#34; alt=&#34;Exploring AI Agents&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg&#34; alt=&#34;Exploring AI Agents&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>How AlphaFold is Revolutionizing Protein Science</title>
-      <link>http://localhost:1313/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</link>
+      <link>/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</guid>
+      <guid>/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg&#34; alt=&#34; Answering Big Questions with AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg&#34; alt=&#34; Answering Big Questions with AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -105,13 +105,13 @@
     
     <item>
       <title>Features ofShazam Econometrics Software</title>
-      <link>http://localhost:1313/dsblog/shazam-features/</link>
+      <link>/dsblog/shazam-features/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/shazam-features/</guid>
+      <guid>/dsblog/shazam-features/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6186-Shazam-Features.jpg&#34; alt=&#34;Shazam-Features&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6186-Shazam-Features.jpg&#34; alt=&#34;Shazam-Features&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -135,13 +135,13 @@
     
     <item>
       <title>Exploring LLM Application Development</title>
-      <link>http://localhost:1313/dsblog/Exploring-LLM-App-Development/</link>
+      <link>/dsblog/Exploring-LLM-App-Development/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-LLM-App-Development/</guid>
+      <guid>/dsblog/Exploring-LLM-App-Development/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg&#34; alt=&#34;Exploring LLM Application Development&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg&#34; alt=&#34;Exploring LLM Application Development&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -175,13 +175,13 @@
     
     <item>
       <title>Applications of GenAI</title>
-      <link>http://localhost:1313/dsblog/Applications-of-GenAI/</link>
+      <link>/dsblog/Applications-of-GenAI/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Applications-of-GenAI/</guid>
+      <guid>/dsblog/Applications-of-GenAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6169-Applications-of-GenAI.jpg&#34; alt=&#34;Applications of GenAI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg&#34; alt=&#34;Applications of GenAI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -203,13 +203,13 @@
     
     <item>
       <title>AI Usecases in Cybersecurity</title>
-      <link>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</link>
+      <link>/dsblog/AI-Usecases-in-Cybersecurity/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</guid>
+      <guid>/dsblog/AI-Usecases-in-Cybersecurity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -258,13 +258,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>AI in Health Care</title>
-      <link>http://localhost:1313/dsblog/AI-in-Health-Care/</link>
+      <link>/dsblog/AI-in-Health-Care/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-in-Health-Care/</guid>
+      <guid>/dsblog/AI-in-Health-Care/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6124-AI-in-Health-Care.jpg&#34; alt=&#34;Health-Authority-Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6124-AI-in-Health-Care.jpg&#34; alt=&#34;Health-Authority-Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -286,13 +286,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>AI Usecases in Government</title>
-      <link>http://localhost:1313/dsblog/AI-Usecases-in-Government/</link>
+      <link>/dsblog/AI-Usecases-in-Government/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Usecases-in-Government/</guid>
+      <guid>/dsblog/AI-Usecases-in-Government/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg&#34; alt=&#34;AI Usecases in Government&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg&#34; alt=&#34;AI Usecases in Government&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -400,13 +400,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>AI in School Education</title>
-      <link>http://localhost:1313/dsblog/AI-in-School-Education/</link>
+      <link>/dsblog/AI-in-School-Education/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-in-School-Education/</guid>
+      <guid>/dsblog/AI-in-School-Education/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg&#34; alt=&#34;AI in School Education&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg&#34; alt=&#34;AI in School Education&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -440,13 +440,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Empowering Language with AI NLP Capabilities</title>
-      <link>http://localhost:1313/dsblog/empowering-language-with-ainlp-capabilities/</link>
+      <link>/dsblog/empowering-language-with-ainlp-capabilities/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/empowering-language-with-ainlp-capabilities/</guid>
+      <guid>/dsblog/empowering-language-with-ainlp-capabilities/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg&#34; alt=&#34;Empowering-Language-with-AI-NLP-Capabilities&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg&#34; alt=&#34;Empowering-Language-with-AI-NLP-Capabilities&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -480,13 +480,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Application of AI in BFSI</title>
-      <link>http://localhost:1313/dsblog/Application-of-AI-in-BFSI/</link>
+      <link>/dsblog/Application-of-AI-in-BFSI/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Application-of-AI-in-BFSI/</guid>
+      <guid>/dsblog/Application-of-AI-in-BFSI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg&#34; alt=&#34;Application-of-AI-in-BFSI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg&#34; alt=&#34;Application-of-AI-in-BFSI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -520,13 +520,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>AI Usecases in Agriculture Industry</title>
-      <link>http://localhost:1313/dsblog/AI-usecases-in-Agriculture-Industry/</link>
+      <link>/dsblog/AI-usecases-in-Agriculture-Industry/</link>
       <pubDate>Mon, 23 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-usecases-in-Agriculture-Industry/</guid>
+      <guid>/dsblog/AI-usecases-in-Agriculture-Industry/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg&#34; alt=&#34;AI Usecases in Agriculture Industry&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg&#34; alt=&#34;AI Usecases in Agriculture Industry&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -560,13 +560,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>AI Use Cases in Food Processing</title>
-      <link>http://localhost:1313/dsblog/AI-Use-Cases-in-Food-Processing/</link>
+      <link>/dsblog/AI-Use-Cases-in-Food-Processing/</link>
       <pubDate>Sun, 22 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Use-Cases-in-Food-Processing/</guid>
+      <guid>/dsblog/AI-Use-Cases-in-Food-Processing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg&#34; alt=&#34;&amp;ldquo;AI Use Cases in Food Processing&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg&#34; alt=&#34;&amp;ldquo;AI Use Cases in Food Processing&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -600,13 +600,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>GPT Usecases</title>
-      <link>http://localhost:1313/dsblog/gpt-usecases/</link>
+      <link>/dsblog/gpt-usecases/</link>
       <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/gpt-usecases/</guid>
+      <guid>/dsblog/gpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -628,13 +628,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>ChatGPT Usecases</title>
-      <link>http://localhost:1313/dsblog/chatgpt-usecases/</link>
+      <link>/dsblog/chatgpt-usecases/</link>
       <pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/chatgpt-usecases/</guid>
+      <guid>/dsblog/chatgpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -657,13 +657,13 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
     
     <item>
       <title>AI in Energy Management</title>
-      <link>http://localhost:1313/dsblog/AI-in-Energy-Management/</link>
+      <link>/dsblog/AI-in-Energy-Management/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-in-Energy-Management/</guid>
+      <guid>/dsblog/AI-in-Energy-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg&#34; alt=&#34;AI in Energy Management&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg&#34; alt=&#34;AI in Energy Management&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -697,11 +697,11 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
     
     <item>
       <title>Data Science/AI Projects Project Ideas</title>
-      <link>http://localhost:1313/dsblog/DS-AI-Projects-Project-Ideas/</link>
+      <link>/dsblog/DS-AI-Projects-Project-Ideas/</link>
       <pubDate>Thu, 06 Oct 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/DS-AI-Projects-Project-Ideas/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg&#34;&gt;AI Projects Project Ideas&lt;/a&gt;&lt;/p&gt;
+      <guid>/dsblog/DS-AI-Projects-Project-Ideas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg&#34;&gt;AI Projects Project Ideas&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas 
@@ -1161,13 +1161,13 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
     
     <item>
       <title>20 Reasons Why AI Project Fails</title>
-      <link>http://localhost:1313/dsblog/20-Reasons-Why-AI-Project-Fails/</link>
+      <link>/dsblog/20-Reasons-Why-AI-Project-Fails/</link>
       <pubDate>Fri, 20 Aug 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/20-Reasons-Why-AI-Project-Fails/</guid>
+      <guid>/dsblog/20-Reasons-Why-AI-Project-Fails/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg&#34; alt=&#34;Why AI Project Fails&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg&#34; alt=&#34;Why AI Project Fails&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1189,13 +1189,13 @@ BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accoun
     
     <item>
       <title>100&#43; High Level AI Usecases and Future Prediction for AI as on 2020</title>
-      <link>http://localhost:1313/dsblog/100&#43;High-Level-AI-Usecases/</link>
+      <link>/dsblog/100&#43;High-Level-AI-Usecases/</link>
       <pubDate>Sat, 02 May 2020 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/100&#43;High-Level-AI-Usecases/</guid>
+      <guid>/dsblog/100&#43;High-Level-AI-Usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg&#34; alt=&#34;HighLevel-UsesCases-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg&#34; alt=&#34;HighLevel-UsesCases-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

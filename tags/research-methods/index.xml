@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Methods on </title>
-    <link>http://localhost:1313/tags/research-methods/</link>
+    <link>/tags/research-methods/</link>
     <description>Recent content in Research Methods on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/research-methods/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Power of Chinese AI Models</title>
-      <link>http://localhost:1313/dsblog/power-of-chinese-ai-models/</link>
+      <link>/dsblog/power-of-chinese-ai-models/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/power-of-chinese-ai-models/</guid>
+      <guid>/dsblog/power-of-chinese-ai-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Computer Vision Research Work</title>
-      <link>http://localhost:1313/dsblog/computer-vision-research-work/</link>
+      <link>/dsblog/computer-vision-research-work/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/computer-vision-research-work/</guid>
+      <guid>/dsblog/computer-vision-research-work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>My Journey from Master to PhD in Data Science and AI</title>
-      <link>http://localhost:1313/dsblog/journey-from-master-to-phd/</link>
+      <link>/dsblog/journey-from-master-to-phd/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/journey-from-master-to-phd/</guid>
+      <guid>/dsblog/journey-from-master-to-phd/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg&#34; alt=&#34;My Journey from Master to PhD in Data Science and AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg&#34; alt=&#34;My Journey from Master to PhD in Data Science and AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -109,13 +109,13 @@
     
     <item>
       <title>Paper with Code Resources</title>
-      <link>http://localhost:1313/dsblog/paperwithcode-resources/</link>
+      <link>/dsblog/paperwithcode-resources/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/paperwithcode-resources/</guid>
+      <guid>/dsblog/paperwithcode-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg&#34; alt=&#34;Paper with Code Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg&#34; alt=&#34;Paper with Code Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -859,13 +859,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>How to do Literature Review</title>
-      <link>http://localhost:1313/dsblog/How-To-Do-Literature-Review/</link>
+      <link>/dsblog/How-To-Do-Literature-Review/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-To-Do-Literature-Review/</guid>
+      <guid>/dsblog/How-To-Do-Literature-Review/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg&#34; alt=&#34;How to do Literature Review&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg&#34; alt=&#34;How to do Literature Review&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -899,13 +899,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Types of Questions</title>
-      <link>http://localhost:1313/dsblog/types-of-questions/</link>
+      <link>/dsblog/types-of-questions/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/types-of-questions/</guid>
+      <guid>/dsblog/types-of-questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6083-Types-of-Questions.jpg&#34; alt=&#34;Types of Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6083-Types-of-Questions.jpg&#34; alt=&#34;Types of Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Containerization on </title>
-    <link>http://localhost:1313/tags/containerization/</link>
+    <link>/tags/containerization/</link>
     <description>Recent content in Containerization on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/containerization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/containerization/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to Container Registry</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</link>
+      <link>/dsblog/Introduction-to-Container-Registry/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Container-Registry/</guid>
+      <guid>/dsblog/Introduction-to-Container-Registry/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg&#34; alt=&#34;Introduction to Container Registry&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Exploring Docker and VS Code Integration</title>
-      <link>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
+      <link>/dsblog/Exploring-Docker-and-VS-Code-Integration/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
+      <guid>/dsblog/Exploring-Docker-and-VS-Code-Integration/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -115,13 +115,13 @@
     
     <item>
       <title>Creating Docker Image</title>
-      <link>http://localhost:1313/dsblog/Creating-Docker-Image/</link>
+      <link>/dsblog/Creating-Docker-Image/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Creating-Docker-Image/</guid>
+      <guid>/dsblog/Creating-Docker-Image/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6122-Creating-Docker-Image.jpg&#34; alt=&#34;Creating-Docker-Image&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6122-Creating-Docker-Image.jpg&#34; alt=&#34;Creating-Docker-Image&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -187,13 +187,13 @@
     
     <item>
       <title>Decoding docker commands</title>
-      <link>http://localhost:1313/dsblog/Decoding-docker-commands/</link>
+      <link>/dsblog/Decoding-docker-commands/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Decoding-docker-commands/</guid>
+      <guid>/dsblog/Decoding-docker-commands/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6117-Decoding-docker-commands.jpg&#34; alt=&#34;Decoding-docker-commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

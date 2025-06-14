@@ -2,24 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Trends &amp; Future on </title>
-    <link>http://localhost:1313/categories/technology-trends--future/</link>
+    <link>/categories/technology-trends--future/</link>
     <description>Recent content in Technology Trends &amp; Future on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/technology-trends--future/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/technology-trends--future/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>From Being Hacked to Being Reborn: How I Rebuilt My LinkedIn Identity in 48 Hours</title>
+      <link>/dsblog/from-being-hacked-to-being-reborn-linkedin-profile/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
+      <guid>/dsblog/from-being-hacked-to-being-reborn-linkedin-profile/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6285-from-being-hacked-to-being-reborn-linkedin-profile.jpg&#34; alt=&#34;Teaser Image&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;💔 From Being Hacked to Being Reborn: How I Rebuilt My LinkedIn Identity in 48 Hours 
+    &lt;div id=&#34;-from-being-hacked-to-being-reborn-how-i-rebuilt-my-linkedin-identity-in-48-hours&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-from-being-hacked-to-being-reborn-how-i-rebuilt-my-linkedin-identity-in-48-hours&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;In just a few clicks, 32 years of my professional life disappeared. But in 48 hours, I chose to rise.&amp;rdquo;&lt;/em&gt;
+— Dr. Hari Thapliyaal&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;🔹 The Day I Lost Everything 
+    &lt;div id=&#34;-the-day-i-lost-everything&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-the-day-i-lost-everything&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Recently, I experienced something no professional should ever have to endure: &lt;strong&gt;my LinkedIn account was hacked&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>What is a Digital Twin?</title>
-      <link>http://localhost:1313/dsblog/what-is-a-digital-twin/</link>
+      <link>/dsblog/what-is-a-digital-twin/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-a-digital-twin/</guid>
+      <guid>/dsblog/what-is-a-digital-twin/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6268-what-is-a-digital-twin.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6268-what-is-a-digital-twin.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +85,13 @@
     
     <item>
       <title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title>
-      <link>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
+      <link>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
+      <guid>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -69,13 +113,13 @@
     
     <item>
       <title>Future of Programming - Capabilities of AI Coding IDEs</title>
-      <link>http://localhost:1313/dsblog/future-of-programming/</link>
+      <link>/dsblog/future-of-programming/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/future-of-programming/</guid>
+      <guid>/dsblog/future-of-programming/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6259-future-of-programming.jpg&#34; alt=&#34;future-of-programming&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6259-future-of-programming.jpg&#34; alt=&#34;future-of-programming&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -135,13 +179,13 @@
     
     <item>
       <title>AI Benchmarks for 2025</title>
-      <link>http://localhost:1313/dsblog/ai-benchmarks-2025/</link>
+      <link>/dsblog/ai-benchmarks-2025/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-benchmarks-2025/</guid>
+      <guid>/dsblog/ai-benchmarks-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg&#34; alt=&#34;AI Benchmark for 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg&#34; alt=&#34;AI Benchmark for 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -163,13 +207,13 @@
     
     <item>
       <title>Exploring the Energy Demand and Supply of India</title>
-      <link>http://localhost:1313/dsblog/exploring-the-energy-demand-and-supply-of-india/</link>
+      <link>/dsblog/exploring-the-energy-demand-and-supply-of-india/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid>
+      <guid>/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg&#34; alt=&#34;Exploring the Energy Demand and Supply of India&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg&#34; alt=&#34;Exploring the Energy Demand and Supply of India&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -203,13 +247,13 @@
     
     <item>
       <title>Power of Chinese AI Models</title>
-      <link>http://localhost:1313/dsblog/power-of-chinese-ai-models/</link>
+      <link>/dsblog/power-of-chinese-ai-models/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/power-of-chinese-ai-models/</guid>
+      <guid>/dsblog/power-of-chinese-ai-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -243,13 +287,13 @@
     
     <item>
       <title>AI Product Ideas 2025</title>
-      <link>http://localhost:1313/dsblog/AI-Product-Ideas-2025/</link>
+      <link>/dsblog/AI-Product-Ideas-2025/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Product-Ideas-2025/</guid>
+      <guid>/dsblog/AI-Product-Ideas-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6206-AI-Product-Ideas.jpg&#34; alt=&#34;AI Product Ideas 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6206-AI-Product-Ideas.jpg&#34; alt=&#34;AI Product Ideas 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -283,13 +327,13 @@
     
     <item>
       <title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title>
-      <link>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
+      <link>/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
+      <guid>/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -323,13 +367,13 @@
     
     <item>
       <title>AI Predictions for 2025</title>
-      <link>http://localhost:1313/dsblog/ai-predictions-for-2025/</link>
+      <link>/dsblog/ai-predictions-for-2025/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-predictions-for-2025/</guid>
+      <guid>/dsblog/ai-predictions-for-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -638,19 +682,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;My 2020, article on &lt;a href=&#34;../../dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;My 2020, article on &lt;a href=&#34;/dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Complete Ecosystem of Software Development</title>
-      <link>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</link>
+      <link>/dsblog/the-complete-ecosystem-of-software-development/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</guid>
+      <guid>/dsblog/the-complete-ecosystem-of-software-development/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -672,13 +716,13 @@
     
     <item>
       <title>OpenAI 12 Days 2024 Announcements</title>
-      <link>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</link>
+      <link>/dsblog/OpenAI-12-Days-2024-Announcements/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
+      <guid>/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -714,13 +758,13 @@
     
     <item>
       <title>AI Imperialism: Western Dominance and the Future of Global Technology</title>
-      <link>http://localhost:1313/dsblog/AI-Imperialism/</link>
+      <link>/dsblog/AI-Imperialism/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Imperialism/</guid>
+      <guid>/dsblog/AI-Imperialism/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -742,13 +786,13 @@
     
     <item>
       <title>AI Models and Creators</title>
-      <link>http://localhost:1313/dsblog/AI-Models-and-Creators/</link>
+      <link>/dsblog/AI-Models-and-Creators/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Models-and-Creators/</guid>
+      <guid>/dsblog/AI-Models-and-Creators/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -820,13 +864,13 @@
     
     <item>
       <title>Navigating Python Ecosystem</title>
-      <link>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</link>
+      <link>/dsblog/Navigating-Python-Ecosystem/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</guid>
+      <guid>/dsblog/Navigating-Python-Ecosystem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -860,13 +904,13 @@
     
     <item>
       <title>Navigating the JavaScript Ecosystem</title>
-      <link>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</link>
+      <link>/dsblog/Navigating-the-JavaScript-Ecosystem/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</guid>
+      <guid>/dsblog/Navigating-the-JavaScript-Ecosystem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg&#34; alt=&#34;Navigating the JavaScript Ecosystem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg&#34; alt=&#34;Navigating the JavaScript Ecosystem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -918,13 +962,13 @@
     
     <item>
       <title>SEO Keyword Planning</title>
-      <link>http://localhost:1313/dsblog/SEO-Keyword-Planning/</link>
+      <link>/dsblog/SEO-Keyword-Planning/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/SEO-Keyword-Planning/</guid>
+      <guid>/dsblog/SEO-Keyword-Planning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg&#34; alt=&#34;SEO Keyword Planning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg&#34; alt=&#34;SEO Keyword Planning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -973,13 +1017,13 @@
     
     <item>
       <title>All About AI Hype</title>
-      <link>http://localhost:1313/dsblog/All-About-ai-Hype/</link>
+      <link>/dsblog/All-About-ai-Hype/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/All-About-ai-Hype/</guid>
+      <guid>/dsblog/All-About-ai-Hype/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1001,13 +1045,13 @@
     
     <item>
       <title>Open Source vs Closed Source AI</title>
-      <link>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</link>
+      <link>/dsblog/Open-Source-vs-Closed-Source-AI/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
+      <guid>/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1029,13 +1073,13 @@
     
     <item>
       <title>Stanford Alpaca</title>
-      <link>http://localhost:1313/dsblog/Stanford-Alpaca/</link>
+      <link>/dsblog/Stanford-Alpaca/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Stanford-Alpaca/</guid>
+      <guid>/dsblog/Stanford-Alpaca/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1125,13 +1169,13 @@
     
     <item>
       <title>Major LLM Developers Shaping the AI Landscape</title>
-      <link>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
+      <link>/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
+      <guid>/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1166,13 +1210,13 @@
     
     <item>
       <title>Unraveling the Google Web - Exploring the Purpose of Google&#39;s Websites</title>
-      <link>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</link>
+      <link>/dsblog/Unraveling-the-Google-Web/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</guid>
+      <guid>/dsblog/Unraveling-the-Google-Web/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1206,13 +1250,13 @@
     
     <item>
       <title>Types of Technologies</title>
-      <link>http://localhost:1313/dsblog/Types-of-Technologies/</link>
+      <link>/dsblog/Types-of-Technologies/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-Technologies/</guid>
+      <guid>/dsblog/Types-of-Technologies/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6052-Types-of-Technologies.jpg&#34; alt=&#34;Types of Technologies&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6052-Types-of-Technologies.jpg&#34; alt=&#34;Types of Technologies&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1246,13 +1290,13 @@
     
     <item>
       <title>Will AI Replace Human?</title>
-      <link>http://localhost:1313/dsblog/Will-AI-Replace-Human/</link>
+      <link>/dsblog/Will-AI-Replace-Human/</link>
       <pubDate>Thu, 19 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Will-AI-Replace-Human/</guid>
+      <guid>/dsblog/Will-AI-Replace-Human/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1274,13 +1318,13 @@
     
     <item>
       <title>Top 10 Technologies of Future</title>
-      <link>http://localhost:1313/dsblog/Top-10-Technologies-of-Future/</link>
+      <link>/dsblog/Top-10-Technologies-of-Future/</link>
       <pubDate>Thu, 04 Mar 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Top-10-Technologies-of-Future/</guid>
+      <guid>/dsblog/Top-10-Technologies-of-Future/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg&#34; alt=&#34;Future Technologies&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg&#34; alt=&#34;Future Technologies&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

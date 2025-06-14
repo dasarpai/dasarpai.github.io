@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Management Best Practices on </title>
-    <link>http://localhost:1313/tags/project-management-best-practices/</link>
+    <link>/tags/project-management-best-practices/</link>
     <description>Recent content in Project Management Best Practices on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 14:35:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/project-management-best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2016 14:35:03 +0000</lastBuildDate><atom:link href="/tags/project-management-best-practices/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Best Practices of Project Management</title>
-      <link>http://localhost:1313/pmblog/Best-Practices-of-Project-Management/</link>
+      <link>/pmblog/Best-Practices-of-Project-Management/</link>
       <pubDate>Wed, 28 Dec 2016 14:35:03 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Best-Practices-of-Project-Management/</guid>
+      <guid>/pmblog/Best-Practices-of-Project-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1022-IT-PM-Best-Practices-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1022-IT-PM-Best-Practices-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

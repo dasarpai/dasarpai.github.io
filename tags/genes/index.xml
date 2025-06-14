@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genes on </title>
-    <link>http://localhost:1313/tags/genes/</link>
+    <link>/tags/genes/</link>
     <description>Recent content in Genes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/genes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Indian Genes Inner Science</title>
-      <link>http://localhost:1313/wiaposts/indian-genes-inner-science/</link>
+      <link>/wiaposts/indian-genes-inner-science/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/indian-genes-inner-science/</guid>
+      <guid>/wiaposts/indian-genes-inner-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg&#34; alt=&#34;Indian Genes Inner Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg&#34; alt=&#34;Indian Genes Inner Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

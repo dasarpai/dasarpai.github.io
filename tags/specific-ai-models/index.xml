@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Specific AI Models on </title>
-    <link>http://localhost:1313/tags/specific-ai-models/</link>
+    <link>/tags/specific-ai-models/</link>
     <description>Recent content in Specific AI Models on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/specific-ai-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/specific-ai-models/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Retrieval-Augmented Generation with Conflicting Evidence</title>
-      <link>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
+      <link>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
+      <guid>/dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -42,13 +42,13 @@
     
     <item>
       <title>Grok 3 Model and Sanskrit</title>
-      <link>http://localhost:1313/dsblog/grok3model-and-sanskrit/</link>
+      <link>/dsblog/grok3model-and-sanskrit/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/grok3model-and-sanskrit/</guid>
+      <guid>/dsblog/grok3model-and-sanskrit/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg&#34; alt=&#34;Grok 3 Model and Sanskrit&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg&#34; alt=&#34;Grok 3 Model and Sanskrit&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -82,13 +82,13 @@
     
     <item>
       <title>Exploring DeepSeek R1: The AI That Thinks Like a Human</title>
-      <link>http://localhost:1313/dsblog/exploring-deepseek-r1/</link>
+      <link>/dsblog/exploring-deepseek-r1/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-deepseek-r1/</guid>
+      <guid>/dsblog/exploring-deepseek-r1/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -110,13 +110,13 @@
     
     <item>
       <title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title>
-      <link>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
+      <link>/dsblog/integrating-ollama-and-open-webui-with-docker/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
+      <guid>/dsblog/integrating-ollama-and-open-webui-with-docker/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -150,13 +150,13 @@
     
     <item>
       <title>The Road to Bharat LLMs Goes Via Sanskrit</title>
-      <link>http://localhost:1313/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</link>
+      <link>/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</guid>
+      <guid>/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg&#34; alt=&#34;The Road to Bharat LLMs Goes Via Sanskrit&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg&#34; alt=&#34;The Road to Bharat LLMs Goes Via Sanskrit&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -191,13 +191,13 @@
     
     <item>
       <title>Variations of Language Model in Huggingface</title>
-      <link>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
+      <link>/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
+      <guid>/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -231,13 +231,13 @@
     
     <item>
       <title>Stanford Alpaca</title>
-      <link>http://localhost:1313/dsblog/Stanford-Alpaca/</link>
+      <link>/dsblog/Stanford-Alpaca/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Stanford-Alpaca/</guid>
+      <guid>/dsblog/Stanford-Alpaca/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -327,13 +327,13 @@
     
     <item>
       <title>What is LLM</title>
-      <link>http://localhost:1313/dsblog/what-is-llm/</link>
+      <link>/dsblog/what-is-llm/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-llm/</guid>
+      <guid>/dsblog/what-is-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -367,13 +367,13 @@
     
     <item>
       <title>Introduction to Prompt Engineering</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</link>
+      <link>/dsblog/Introduction-to-Prompt-Engineering/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</guid>
+      <guid>/dsblog/Introduction-to-Prompt-Engineering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -395,13 +395,13 @@
     
     <item>
       <title>Business Usecases of GPT</title>
-      <link>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</link>
+      <link>/dsblog/Business-Usecases-of-GPT/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Business-Usecases-of-GPT/</guid>
+      <guid>/dsblog/Business-Usecases-of-GPT/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg&#34; alt=&#34;Application of GPT&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -436,13 +436,13 @@
     
     <item>
       <title>GPT Usecases</title>
-      <link>http://localhost:1313/dsblog/gpt-usecases/</link>
+      <link>/dsblog/gpt-usecases/</link>
       <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/gpt-usecases/</guid>
+      <guid>/dsblog/gpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -464,13 +464,13 @@
     
     <item>
       <title>ChatGPT Usecases</title>
-      <link>http://localhost:1313/dsblog/chatgpt-usecases/</link>
+      <link>/dsblog/chatgpt-usecases/</link>
       <pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/chatgpt-usecases/</guid>
+      <guid>/dsblog/chatgpt-usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

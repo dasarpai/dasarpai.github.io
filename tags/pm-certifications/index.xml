@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PM Certifications on </title>
-    <link>http://localhost:1313/tags/pm-certifications/</link>
+    <link>/tags/pm-certifications/</link>
     <description>Recent content in PM Certifications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 08:17:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pm-certifications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2016 08:17:13 +0000</lastBuildDate><atom:link href="/tags/pm-certifications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What are PMI Certifications?</title>
-      <link>http://localhost:1313/pmblog/What-are-PMI-Certifications/</link>
+      <link>/pmblog/What-are-PMI-Certifications/</link>
       <pubDate>Wed, 28 Dec 2016 08:17:13 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/What-are-PMI-Certifications/</guid>
+      <guid>/pmblog/What-are-PMI-Certifications/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1023-PMI-Certification-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1023-PMI-Certification-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -35,7 +35,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;../../assets/docs/PMI-Certifications.pdf&#34;&gt;Download&lt;/a&gt; This Table&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/assets/docs/PMI-Certifications.pdf&#34;&gt;Download&lt;/a&gt; This Table&lt;/p&gt;
 &lt;p&gt;PMP&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -55,13 +55,13 @@ Member: US$405.00 / Non-member: US$555.00&lt;/p&gt;</description>
     
     <item>
       <title>PMI ACP vs Scrum Master</title>
-      <link>http://localhost:1313/pmblog/PMI-ACP-vs-Scrum-Master/</link>
+      <link>/pmblog/PMI-ACP-vs-Scrum-Master/</link>
       <pubDate>Mon, 19 Sep 2016 14:15:39 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMI-ACP-vs-Scrum-Master/</guid>
+      <guid>/pmblog/PMI-ACP-vs-Scrum-Master/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1019-PMI-ACP-Scrum-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1019-PMI-ACP-Scrum-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -84,13 +84,13 @@ Member: US$405.00 / Non-member: US$555.00&lt;/p&gt;</description>
     
     <item>
       <title>Difference between PMP and PRINCE2</title>
-      <link>http://localhost:1313/pmblog/Difference-between-PMP-and-PRINCE2/</link>
+      <link>/pmblog/Difference-between-PMP-and-PRINCE2/</link>
       <pubDate>Sun, 19 Jun 2016 11:02:47 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/Difference-between-PMP-and-PRINCE2/</guid>
+      <guid>/pmblog/Difference-between-PMP-and-PRINCE2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1013-PMP-PRINCE2-min.png&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1013-PMP-PRINCE2-min.png&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -112,13 +112,13 @@ Member: US$405.00 / Non-member: US$555.00&lt;/p&gt;</description>
     
     <item>
       <title>CMMI Version 1.3</title>
-      <link>http://localhost:1313/pmblog/CMMI-Version-13/</link>
+      <link>/pmblog/CMMI-Version-13/</link>
       <pubDate>Sat, 30 Jan 2016 12:31:50 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/CMMI-Version-13/</guid>
+      <guid>/pmblog/CMMI-Version-13/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1012-SEI-CMMI.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1012-SEI-CMMI.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -140,13 +140,13 @@ Member: US$405.00 / Non-member: US$555.00&lt;/p&gt;</description>
     
     <item>
       <title>PMI Exam Change Schedule 2013</title>
-      <link>http://localhost:1313/pmblog/PMI-Exam-Change-Schedule-2013/</link>
+      <link>/pmblog/PMI-Exam-Change-Schedule-2013/</link>
       <pubDate>Thu, 22 Aug 2013 05:55:39 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMI-Exam-Change-Schedule-2013/</guid>
+      <guid>/pmblog/PMI-Exam-Change-Schedule-2013/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1006-Virtual-Team-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1006-Virtual-Team-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -239,13 +239,13 @@ Member: US$405.00 / Non-member: US$555.00&lt;/p&gt;</description>
     
     <item>
       <title>PMI Standards and Credentials</title>
-      <link>http://localhost:1313/pmblog/PMI-Standards-and-Credentials/</link>
+      <link>/pmblog/PMI-Standards-and-Credentials/</link>
       <pubDate>Thu, 22 Aug 2013 05:42:09 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/pmblog/PMI-Standards-and-Credentials/</guid>
+      <guid>/pmblog/PMI-Standards-and-Credentials/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmblog/1007-PMI-Standards-Certification-min.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmblog/1007-PMI-Standards-Certification-min.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

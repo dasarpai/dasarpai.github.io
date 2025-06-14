@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PM Tools on </title>
-    <link>http://localhost:1313/categories/pm-tools/</link>
+    <link>/categories/pm-tools/</link>
     <description>Recent content in PM Tools on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/pm-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/pm-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Microsoft Enterprise Project Server for Administrators</title>
-      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-administrators/</link>
+      <link>/management/microsoft-enterprise-project-server-for-administrators/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-administrators/</guid>
+      <guid>/management/microsoft-enterprise-project-server-for-administrators/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc519-microsoft-enterprise-project-server-for-administrators.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Administrators&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc519-microsoft-enterprise-project-server-for-administrators.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Administrators&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -121,13 +121,13 @@
     
     <item>
       <title>Microsoft Enterprise Project Server for Executives</title>
-      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-executives/</link>
+      <link>/management/microsoft-enterprise-project-server-for-executives/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-executives/</guid>
+      <guid>/management/microsoft-enterprise-project-server-for-executives/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc518-microsoft-enterprise-project-server-for-executives.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Executives&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc518-microsoft-enterprise-project-server-for-executives.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Executives&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -351,13 +351,13 @@
     
     <item>
       <title>Microsoft Enterprise Project Server for Project Managers</title>
-      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-project-managers/</link>
+      <link>/management/microsoft-enterprise-project-server-for-project-managers/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-project-managers/</guid>
+      <guid>/management/microsoft-enterprise-project-server-for-project-managers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc516-microsoft-enterprise-project-server-for-project-managers.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Project Managers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc516-microsoft-enterprise-project-server-for-project-managers.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Project Managers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -659,13 +659,13 @@
     
     <item>
       <title>Microsoft Enterprise Project Server for Team Members</title>
-      <link>http://localhost:1313/management/microsoft-enterprise-project-server-for-team-members/</link>
+      <link>/management/microsoft-enterprise-project-server-for-team-members/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/microsoft-enterprise-project-server-for-team-members/</guid>
+      <guid>/management/microsoft-enterprise-project-server-for-team-members/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc517-microsoft-enterprise-project-server-for-team-members.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Team Members&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc517-microsoft-enterprise-project-server-for-team-members.jpg&#34; alt=&#34;Microsoft Enterprise Project Server For Team Members&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -888,13 +888,13 @@
     
     <item>
       <title>Microsoft Project Course</title>
-      <link>http://localhost:1313/management/microsoft-project/</link>
+      <link>/management/microsoft-project/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/microsoft-project/</guid>
+      <guid>/management/microsoft-project/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc515-microsoft-project.jpg&#34; alt=&#34;Microsoft Project&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc515-microsoft-project.jpg&#34; alt=&#34;Microsoft Project&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -917,13 +917,13 @@
     
     <item>
       <title>Microsoft Project for PMO Team</title>
-      <link>http://localhost:1313/management/microsoft-project-for-pmo-team/</link>
+      <link>/management/microsoft-project-for-pmo-team/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/management/microsoft-project-for-pmo-team/</guid>
+      <guid>/management/microsoft-project-for-pmo-team/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/pmlogy/pmc520-microsoft-project-for-pmo-team.jpg&#34; alt=&#34;Microsoft Project For Pmo Team&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/pmlogy/pmc520-microsoft-project-for-pmo-team.jpg&#34; alt=&#34;Microsoft Project For Pmo Team&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -941,10 +941,10 @@
 &lt;/h1&gt;
 &lt;p&gt;Project Online (Microsoft Project Professional) training based on the role of project team members.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-executives&#34;&gt;Microsoft Project for CxO and PMO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-team-members&#34;&gt;Microsoft Project for Project Team&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-administrators&#34;&gt;Microsoft Project for Admin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../management/microsoft-enterprise-project-server-for-project-managers&#34;&gt;Microsoft Project for Project Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/management/microsoft-enterprise-project-server-for-executives&#34;&gt;Microsoft Project for CxO and PMO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/management/microsoft-enterprise-project-server-for-team-members&#34;&gt;Microsoft Project for Project Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/management/microsoft-enterprise-project-server-for-administrators&#34;&gt;Microsoft Project for Admin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/management/microsoft-enterprise-project-server-for-project-managers&#34;&gt;Microsoft Project for Project Manager&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>

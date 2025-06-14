@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Retrieval on </title>
-    <link>http://localhost:1313/tags/information-retrieval/</link>
+    <link>/tags/information-retrieval/</link>
     <description>Recent content in Information Retrieval on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/information-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/information-retrieval/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is Pinecone</title>
-      <link>http://localhost:1313/dsblog/What-is-Pinecone/</link>
+      <link>/dsblog/What-is-Pinecone/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Pinecone/</guid>
+      <guid>/dsblog/What-is-Pinecone/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6097-What-is-Pinecone.jpg&#34; alt=&#34;What is Pinecone&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

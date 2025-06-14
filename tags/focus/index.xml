@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Focus on </title>
-    <link>http://localhost:1313/tags/focus/</link>
+    <link>/tags/focus/</link>
     <description>Recent content in Focus on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/focus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/focus/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Eyes On The Ground</title>
-      <link>http://localhost:1313/wiaposts/eyes-on-the-ground/</link>
+      <link>/wiaposts/eyes-on-the-ground/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/eyes-on-the-ground/</guid>
+      <guid>/wiaposts/eyes-on-the-ground/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5095-Eyes-On-The-Ground.jpg&#34; alt=&#34;Eyes On The Ground&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5095-Eyes-On-The-Ground.jpg&#34; alt=&#34;Eyes On The Ground&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -49,13 +49,13 @@ and miseries are 100% my doing.&lt;/p&gt;</description>
     
     <item>
       <title>Where Is The Focus Of Hindus?</title>
-      <link>http://localhost:1313/wiaposts/where-is-the-focus-of-hindus/</link>
+      <link>/wiaposts/where-is-the-focus-of-hindus/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/where-is-the-focus-of-hindus/</guid>
+      <guid>/wiaposts/where-is-the-focus-of-hindus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg&#34; alt=&#34;Where Is The Focus Of Hindus?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg&#34; alt=&#34;Where Is The Focus Of Hindus?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

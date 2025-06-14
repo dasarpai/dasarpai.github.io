@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Model Training on </title>
-    <link>http://localhost:1313/tags/ai-model-training/</link>
+    <link>/tags/ai-model-training/</link>
     <description>Recent content in AI Model Training on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-model-training/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-model-training/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>LLM Architecture and Training</title>
-      <link>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</link>
+      <link>/dsblog/LLM-Architecture-and-Training/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/LLM-Architecture-and-Training/</guid>
+      <guid>/dsblog/LLM-Architecture-and-Training/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg&#34; alt=&#34;LLM-Architecture-and-Training&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Why to Finetune LLM?</title>
-      <link>http://localhost:1313/dsblog/why-to-finetune-llm/</link>
+      <link>/dsblog/why-to-finetune-llm/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/why-to-finetune-llm/</guid>
+      <guid>/dsblog/why-to-finetune-llm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6115-why-to-finetune-llm.jpg&#34; alt=&#34;Why to Finetune LLM?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg&#34; alt=&#34;Why to Finetune LLM?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>Stanford Alpaca</title>
-      <link>http://localhost:1313/dsblog/Stanford-Alpaca/</link>
+      <link>/dsblog/Stanford-Alpaca/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Stanford-Alpaca/</guid>
+      <guid>/dsblog/Stanford-Alpaca/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg&#34; alt=&#34;Stanford-Alpaca&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -177,13 +177,13 @@
     
     <item>
       <title>Cost Functions and Optimizers in Machine Learning</title>
-      <link>http://localhost:1313/dsblog/Cost-Functions-and-Optimizers-in-Machine-Learning/</link>
+      <link>/dsblog/Cost-Functions-and-Optimizers-in-Machine-Learning/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Cost-Functions-and-Optimizers-in-Machine-Learning/</guid>
+      <guid>/dsblog/Cost-Functions-and-Optimizers-in-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg&#34; alt=&#34;Cost-Functions-and-Optimizers-in-Machine-Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg&#34; alt=&#34;Cost-Functions-and-Optimizers-in-Machine-Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -218,13 +218,13 @@
     
     <item>
       <title>Introduction to Neural Network</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Neural-Network/</link>
+      <link>/dsblog/Introduction-to-Neural-Network/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Neural-Network/</guid>
+      <guid>/dsblog/Introduction-to-Neural-Network/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg&#34; alt=&#34;Introduction to Neural Network&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg&#34; alt=&#34;Introduction to Neural Network&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

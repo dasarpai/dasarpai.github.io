@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Model Management on </title>
-    <link>http://localhost:1313/tags/ai-model-management/</link>
+    <link>/tags/ai-model-management/</link>
     <description>Recent content in AI Model Management on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-model-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-model-management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Deep Dive into AI Model Marketplaces for Business Managers</title>
-      <link>http://localhost:1313/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</link>
+      <link>/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</guid>
+      <guid>/dsblog/A-Deep-Dive-into-AI-Model-Marketplaces-for-Business-Managers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg&#34; alt=&#34;AI Model Marketplaces&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg&#34; alt=&#34;AI Model Marketplaces&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>MLOps Tools</title>
-      <link>http://localhost:1313/dsblog/MLOps-Tools/</link>
+      <link>/dsblog/MLOps-Tools/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/MLOps-Tools/</guid>
+      <guid>/dsblog/MLOps-Tools/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6137-MLOps-Tools.jpg&#34; alt=&#34;MLOps-Tools&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>Model Garden of VertexAI</title>
-      <link>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</link>
+      <link>/dsblog/Model-Garden-of-VertexAI/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Model-Garden-of-VertexAI/</guid>
+      <guid>/dsblog/Model-Garden-of-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

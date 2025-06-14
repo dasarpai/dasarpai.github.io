@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Resources on </title>
-    <link>http://localhost:1313/tags/ai-resources/</link>
+    <link>/tags/ai-resources/</link>
     <description>Recent content in AI Resources on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-resources/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-resources/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Resources: Ultimate Collection of Cutting-Edge Tools for AI Enthusiasts</title>
-      <link>http://localhost:1313/dsblog/ai-resources/</link>
+      <link>/dsblog/ai-resources/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-resources/</guid>
+      <guid>/dsblog/ai-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6224-AI-Resources.jpg&#34; alt=&#34;AI Resources&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6224-AI-Resources.jpg&#34; alt=&#34;AI Resources&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>Bookmark Blog Articles from Browser</title>
-      <link>http://localhost:1313/dsblog/mybookmark-blog-articles/</link>
+      <link>/dsblog/mybookmark-blog-articles/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/mybookmark-blog-articles/</guid>
+      <guid>/dsblog/mybookmark-blog-articles/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -75,7 +75,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;This web page serves as a continuation of the &lt;a href=&#34;../../dsblog/ai-resources&#34;&gt;AI Resources&lt;/a&gt; page. As the original page grew excessively long and cumbersome to navigate, I created this dedicated page to house bookmarked articles from blogs.&lt;/p&gt;
+&lt;p&gt;This web page serves as a continuation of the &lt;a href=&#34;/dsblog/ai-resources&#34;&gt;AI Resources&lt;/a&gt; page. As the original page grew excessively long and cumbersome to navigate, I created this dedicated page to house bookmarked articles from blogs.&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;My bookmarked Articles 
@@ -252,13 +252,13 @@
     
     <item>
       <title>ML Model Respository from Pinto0309</title>
-      <link>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</link>
+      <link>/dsblog/ML-Model-Repository-from-Pinto0309/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
+      <guid>/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -292,13 +292,13 @@
     
     <item>
       <title>AI, ML, DL Blogs Sites</title>
-      <link>http://localhost:1313/dsblog/ai-ml-blogs/</link>
+      <link>/dsblog/ai-ml-blogs/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-ml-blogs/</guid>
+      <guid>/dsblog/ai-ml-blogs/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg&#34; alt=&#34;AI, ML, DL Blogs Sites&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg&#34; alt=&#34;AI, ML, DL Blogs Sites&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -692,13 +692,13 @@
     
     <item>
       <title>Best YouTube Channels to Learn Data Science</title>
-      <link>http://localhost:1313/dsblog/best-youtube-channels-for-ds/</link>
+      <link>/dsblog/best-youtube-channels-for-ds/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/best-youtube-channels-for-ds/</guid>
+      <guid>/dsblog/best-youtube-channels-for-ds/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg&#34; alt=&#34;Best YouTube Channels to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg&#34; alt=&#34;Best YouTube Channels to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

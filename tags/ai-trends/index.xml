@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Trends on </title>
-    <link>http://localhost:1313/tags/ai-trends/</link>
+    <link>/tags/ai-trends/</link>
     <description>Recent content in AI Trends on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-trends/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ai-trends/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview</title>
-      <link>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
+      <link>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
+      <guid>/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg&#34; alt=&#34;State-of-the-Art 3D Image Generation Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>AI Predictions for 2025</title>
-      <link>http://localhost:1313/dsblog/ai-predictions-for-2025/</link>
+      <link>/dsblog/ai-predictions-for-2025/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-predictions-for-2025/</guid>
+      <guid>/dsblog/ai-predictions-for-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -368,19 +368,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;My 2020, article on &lt;a href=&#34;../../dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;My 2020, article on &lt;a href=&#34;/dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>All About AI Hype</title>
-      <link>http://localhost:1313/dsblog/All-About-ai-Hype/</link>
+      <link>/dsblog/All-About-ai-Hype/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/All-About-ai-Hype/</guid>
+      <guid>/dsblog/All-About-ai-Hype/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6139-All-About-ai-Hype.jpg&#34; alt=&#34;All About AI Hype&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -402,13 +402,13 @@
     
     <item>
       <title>Open Source vs Closed Source AI</title>
-      <link>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</link>
+      <link>/dsblog/Open-Source-vs-Closed-Source-AI/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
+      <guid>/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

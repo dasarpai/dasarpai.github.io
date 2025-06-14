@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Development Lifecycle (SDLC) on </title>
-    <link>http://localhost:1313/tags/software-development-lifecycle-sdlc/</link>
+    <link>/tags/software-development-lifecycle-sdlc/</link>
     <description>Recent content in Software Development Lifecycle (SDLC) on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-development-lifecycle-sdlc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/software-development-lifecycle-sdlc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Complete Ecosystem of Software Development</title>
-      <link>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</link>
+      <link>/dsblog/the-complete-ecosystem-of-software-development/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-complete-ecosystem-of-software-development/</guid>
+      <guid>/dsblog/the-complete-ecosystem-of-software-development/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg&#34; alt=&#34;The Complete Ecosystem of Software Development&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Python Software Development and Distribution</title>
-      <link>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</link>
+      <link>/dsblog/Python-Software-Development-and-Distribution/</link>
       <pubDate>Thu, 30 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Python-Software-Development-and-Distribution/</guid>
+      <guid>/dsblog/Python-Software-Development-and-Distribution/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg&#34; alt=&#34;Software Distribution&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

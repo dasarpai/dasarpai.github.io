@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on </title>
-    <link>http://localhost:1313/tags/web-development/</link>
+    <link>/tags/web-development/</link>
     <description>Recent content in Web Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>High-Level View of HTML CSS JavaScript</title>
-      <link>http://localhost:1313/dsblog/high-level-view-of-html-css-javascript/</link>
+      <link>/dsblog/high-level-view-of-html-css-javascript/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/high-level-view-of-html-css-javascript/</guid>
+      <guid>/dsblog/high-level-view-of-html-css-javascript/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6281-high-level-view-of-html-css-javascript.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6281-high-level-view-of-html-css-javascript.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>A Developer&#39;s Guide to Templating Engines</title>
-      <link>http://localhost:1313/dsblog/A-Developers-Guide-to-Templating-Engines/</link>
+      <link>/dsblog/A-Developers-Guide-to-Templating-Engines/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/A-Developers-Guide-to-Templating-Engines/</guid>
+      <guid>/dsblog/A-Developers-Guide-to-Templating-Engines/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6274-A-Developers-Guide-to-Templating-Engines.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6274-A-Developers-Guide-to-Templating-Engines.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Exploring Hugo Framework - Part 2: Advanced Implementations</title>
-      <link>http://localhost:1313/dsblog/exploring-hugo-framework-part2/</link>
+      <link>/dsblog/exploring-hugo-framework-part2/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-hugo-framework-part2/</guid>
+      <guid>/dsblog/exploring-hugo-framework-part2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6272-exploring-hugo-framework-part2.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6272-exploring-hugo-framework-part2.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -127,19 +127,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you&amp;rsquo;re looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is &lt;a href=&#34;../../dsblog/exploring-go-hugo-framework-part1&#34;&gt;here&lt;/a&gt;. Together, they will give you a solid understanding of the entire ecosystem. Even if you&amp;rsquo;re new to website development, you&amp;rsquo;ll gain clarity on how the various components work. At the very least, you&amp;rsquo;ll come away with a valuable set of questions to ask AI during your own implementation.&lt;/p&gt;</description>
+&lt;p&gt;This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you&amp;rsquo;re looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is &lt;a href=&#34;/dsblog/exploring-go-hugo-framework-part1&#34;&gt;here&lt;/a&gt;. Together, they will give you a solid understanding of the entire ecosystem. Even if you&amp;rsquo;re new to website development, you&amp;rsquo;ll gain clarity on how the various components work. At the very least, you&amp;rsquo;ll come away with a valuable set of questions to ask AI during your own implementation.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Exploring go Hugo Framework for SSG</title>
-      <link>http://localhost:1313/dsblog/exploring-go-hugo-framework-part1/</link>
+      <link>/dsblog/exploring-go-hugo-framework-part1/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-go-hugo-framework-part1/</guid>
+      <guid>/dsblog/exploring-go-hugo-framework-part1/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6270-exploring-go-hugo-framework-part1.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6270-exploring-go-hugo-framework-part1.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -161,13 +161,13 @@
     
     <item>
       <title>Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding</title>
-      <link>http://localhost:1313/dsblog/Exploring-Possibilities-with-CSS/</link>
+      <link>/dsblog/Exploring-Possibilities-with-CSS/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Possibilities-with-CSS/</guid>
+      <guid>/dsblog/Exploring-Possibilities-with-CSS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg&#34; alt=&#34;Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg&#34; alt=&#34;Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -189,13 +189,13 @@
     
     <item>
       <title>curl Commands</title>
-      <link>http://localhost:1313/dsblog/curl-commands/</link>
+      <link>/dsblog/curl-commands/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/curl-commands/</guid>
+      <guid>/dsblog/curl-commands/</guid>
       <description>&lt;p&gt;!
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6195-curl-commands.jpg&#34; alt=&#34;curl Commands&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -217,13 +217,13 @@
     
     <item>
       <title>Navigating Python Ecosystem</title>
-      <link>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</link>
+      <link>/dsblog/Navigating-Python-Ecosystem/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Navigating-Python-Ecosystem/</guid>
+      <guid>/dsblog/Navigating-Python-Ecosystem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg&#34; alt=&#34;Navigating Python Ecosystem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -257,13 +257,13 @@
     
     <item>
       <title>Processors for HTML CSS JS Code</title>
-      <link>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</link>
+      <link>/dsblog/Processors-for-HTML-CSS-JS-Code/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Processors-for-HTML-CSS-JS-Code/</guid>
+      <guid>/dsblog/Processors-for-HTML-CSS-JS-Code/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg&#34; alt=&#34;Processors for HTML CSS JS Code&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg&#34; alt=&#34;Processors for HTML CSS JS Code&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -297,13 +297,13 @@
     
     <item>
       <title>Exploring Popular Web Server</title>
-      <link>http://localhost:1313/dsblog/Exploring-Popular-Web-Server/</link>
+      <link>/dsblog/Exploring-Popular-Web-Server/</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-Popular-Web-Server/</guid>
+      <guid>/dsblog/Exploring-Popular-Web-Server/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg&#34; alt=&#34;Exploring Popular Web Server&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg&#34; alt=&#34;Exploring Popular Web Server&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -337,13 +337,13 @@
     
     <item>
       <title>REST API</title>
-      <link>http://localhost:1313/dsblog/REST-API/</link>
+      <link>/dsblog/REST-API/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/REST-API/</guid>
+      <guid>/dsblog/REST-API/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6121-REST-API.jpg&#34; alt=&#34;REST-API&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6121-REST-API.jpg&#34; alt=&#34;REST-API&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -366,13 +366,13 @@
     
     <item>
       <title>What is CAPTCHA?</title>
-      <link>http://localhost:1313/dsblog/What-is-Captcha/</link>
+      <link>/dsblog/What-is-Captcha/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/What-is-Captcha/</guid>
+      <guid>/dsblog/What-is-Captcha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6070-What-is-Captcha.jpg&#34; alt=&#34;What is CAPTCHA?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6070-What-is-Captcha.jpg&#34; alt=&#34;What is CAPTCHA?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -394,13 +394,13 @@
     
     <item>
       <title>Unraveling the Google Web - Exploring the Purpose of Google&#39;s Websites</title>
-      <link>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</link>
+      <link>/dsblog/Unraveling-the-Google-Web/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Unraveling-the-Google-Web/</guid>
+      <guid>/dsblog/Unraveling-the-Google-Web/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg&#34; alt=&#34;Unraveling the Google Web Exploring the Purpose of Google&amp;rsquo;s Websites&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

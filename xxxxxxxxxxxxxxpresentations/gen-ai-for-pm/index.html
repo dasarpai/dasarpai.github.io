@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Markdown Presentation</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/theme/white.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/highlight/monokai.css">
+    
+    <style>
+        /* Click zones for navigation */
+        .reveal .navigate-left, .reveal .navigate-right {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            width: 20%;
+            z-index: 100;
+            cursor: pointer;
+        }
+        .reveal .navigate-left { left: 0; }
+        .reveal .navigate-right { right: 0; }
+        
+        /* Custom styling */
+        .reveal h1, .reveal h2, .reveal h3 { color: #2563eb; }
+        .reveal .slides section { text-align: left; }
+        .reveal .title-slide { text-align: center; }
+        .reveal .progress span { background: #2563eb; }
+        
+        /* Markdown content styling */
+        .reveal ul { display: block; margin-left: 1em; }
+        .reveal ol { display: block; margin-left: 1em; }
+        .reveal blockquote { 
+            background: #f8fafc; 
+            border-left: 4px solid #2563eb; 
+            padding: 1rem; 
+            margin: 1rem 0; 
+        }
+        
+        /* Speaker notes indicator */
+        .speaker-indicator {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: rgba(0,0,0,0.1);
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 12px;
+            z-index: 200;
+        }
+    </style>
+</head>
+<body>
+    <!-- Click zones for navigation -->
+    <div class="navigate-left" onclick="Reveal.prev()"></div>
+    <div class="navigate-right" onclick="Reveal.next()"></div>
+    
+    <!-- Speaker mode indicator -->
+    <div class="speaker-indicator">Press 'S' for Speaker Mode | Click right → to advance</div>
+
+    <div class="reveal">
+        <div class="slides">
+            
+            <!-- All content loaded from markdown -->
+            <section 
+                data-markdown="index.md"
+                data-separator="^---$"
+                data-separator-vertical="^--$"
+                data-separator-notes="^Note:"
+                data-charset="utf-8">
+            </section>
+            
+        </div>
+    </div>
+
+    <!-- Reveal.js scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/notes/notes.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/markdown/markdown.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/highlight/highlight.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/search/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/zoom/zoom.js"></script>
+
+    <script>
+        Reveal.initialize({
+            // Basic configuration
+            hash: true,
+            transition: 'slide',
+            transitionSpeed: 'default',
+            backgroundTransition: 'fade',
+            
+            // Display options
+            controls: true,
+            progress: true,
+            center: true,
+            touch: true,
+            
+            // Navigation
+            fragments: true,
+            fragmentInURL: true,
+            
+            // Keyboard shortcuts
+            keyboard: {
+                27: function() { 
+                    if (document.fullscreenElement) {
+                        document.exitFullscreen();
+                    }
+                },
+                70: function() { 
+                    if (!document.fullscreenElement) {
+                        document.documentElement.requestFullscreen();
+                    } else {
+                        document.exitFullscreen();
+                    }
+                }
+            },
+            
+            // Size
+            width: 960,
+            height: 700,
+            margin: 0.04,
+            minScale: 0.2,
+            maxScale: 2.0,
+            
+            // Plugins
+            plugins: [ 
+                RevealMarkdown, 
+                RevealHighlight, 
+                RevealNotes, 
+                RevealSearch, 
+                RevealZoom 
+            ]
+        });
+        
+        // Right-click navigation
+        document.addEventListener('contextmenu', function(e) {
+            e.preventDefault();
+            const rect = e.target.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const width = rect.width;
+            
+            if (x > width / 2) {
+                Reveal.next();
+            } else {
+                Reveal.prev();
+            }
+        });
+        
+        // Touch support
+        let touchStartX = 0;
+        document.addEventListener('touchstart', function(e) {
+            touchStartX = e.touches[0].clientX;
+        });
+        
+        document.addEventListener('touchend', function(e) {
+            const touchEndX = e.changedTouches[0].clientX;
+            const diff = touchStartX - touchEndX;
+            
+            if (Math.abs(diff) > 50) {
+                if (diff > 0) {
+                    Reveal.next();
+                } else {
+                    Reveal.prev();
+                }
+            }
+        });
+        
+        Reveal.addEventListener('ready', function(event) {
+            console.log('🎉 Markdown presentation ready!');
+            console.log('💡 Click right side to advance slides');
+        });
+    </script>
+</body>
+</html>

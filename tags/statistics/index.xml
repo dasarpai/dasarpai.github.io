@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on </title>
-    <link>http://localhost:1313/tags/statistics/</link>
+    <link>/tags/statistics/</link>
     <description>Recent content in Statistics on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Frequencies in Time and Space: Understanding Nyquist Theorem &amp; its Applications</title>
-      <link>http://localhost:1313/dsblog/frequencies-in-time-and-space/</link>
+      <link>/dsblog/frequencies-in-time-and-space/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/frequencies-in-time-and-space/</guid>
+      <guid>/dsblog/frequencies-in-time-and-space/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -65,13 +65,13 @@
     
     <item>
       <title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title>
-      <link>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
+      <link>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
+      <guid>/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Features ofShazam Econometrics Software</title>
-      <link>http://localhost:1313/dsblog/shazam-features/</link>
+      <link>/dsblog/shazam-features/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/shazam-features/</guid>
+      <guid>/dsblog/shazam-features/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6186-Shazam-Features.jpg&#34; alt=&#34;Shazam-Features&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6186-Shazam-Features.jpg&#34; alt=&#34;Shazam-Features&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -123,13 +123,13 @@
     
     <item>
       <title>Navigating Conflict, Power, and Compassion</title>
-      <link>http://localhost:1313/wiaposts/Navigating-Conflict-Power-and-Compassion/</link>
+      <link>/wiaposts/Navigating-Conflict-Power-and-Compassion/</link>
       <pubDate>Mon, 20 Nov 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Navigating-Conflict-Power-and-Compassion/</guid>
+      <guid>/wiaposts/Navigating-Conflict-Power-and-Compassion/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg&#34; alt=&#34;Navigating Conflict, Power, and Compassion&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg&#34; alt=&#34;Navigating Conflict, Power, and Compassion&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -157,13 +157,13 @@ This approach serves four purposes:&lt;/p&gt;</description>
     
     <item>
       <title>Statistics Interview Question for Data Scientist</title>
-      <link>http://localhost:1313/dsblog/Statistics-Interview-Question-for-Data-Scientist/</link>
+      <link>/dsblog/Statistics-Interview-Question-for-Data-Scientist/</link>
       <pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Statistics-Interview-Question-for-Data-Scientist/</guid>
+      <guid>/dsblog/Statistics-Interview-Question-for-Data-Scientist/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg&#34; alt=&#34;Statistics Interview Question for Data Scientist&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg&#34; alt=&#34;Statistics Interview Question for Data Scientist&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -186,10 +186,10 @@ This approach serves four purposes:&lt;/p&gt;</description>
     
     <item>
       <title>300 Important Statistical Terms</title>
-      <link>http://localhost:1313/dsblog/300-Important-Statistical-Terms/</link>
+      <link>/dsblog/300-Important-Statistical-Terms/</link>
       <pubDate>Wed, 29 Sep 2021 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/300-Important-Statistical-Terms/</guid>
+      <guid>/dsblog/300-Important-Statistical-Terms/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Important Statistical Terms 
     &lt;div id=&#34;important-statistical-terms&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -202,7 +202,7 @@ This approach serves four purposes:&lt;/p&gt;</description>
 &lt;/h1&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6011-300&amp;#43;Important-Statitical-Terms.jpg&#34; alt=&#34;300 Important Statistical Terms&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6011-300&amp;#43;Important-Statitical-Terms.jpg&#34; alt=&#34;300 Important Statistical Terms&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1163,13 +1163,13 @@ id: If the forecast calls for rain, I will not wear sandals. The forecast calls 
     
     <item>
       <title>Mathematics for Data Scientist</title>
-      <link>http://localhost:1313/dsblog/maths-for-ds/</link>
+      <link>/dsblog/maths-for-ds/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/maths-for-ds/</guid>
+      <guid>/dsblog/maths-for-ds/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg&#34; alt=&#34;Mathematics for Data Scientist&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1191,13 +1191,13 @@ id: If the forecast calls for rain, I will not wear sandals. The forecast calls 
     
     <item>
       <title>AI And Free Soul</title>
-      <link>http://localhost:1313/wiaposts/ai-and-free-soul/</link>
+      <link>/wiaposts/ai-and-free-soul/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/ai-and-free-soul/</guid>
+      <guid>/wiaposts/ai-and-free-soul/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5148-Ai-And-Free-Soul.jpg&#34; alt=&#34;AI And Free Soul&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg&#34; alt=&#34;AI And Free Soul&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1232,13 +1232,13 @@ This is how AI takes birth to tell you the future.&lt;/p&gt;</description>
     
     <item>
       <title>Data Science Interview Question Answers</title>
-      <link>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</link>
+      <link>/dsblog/ds-ai-ml-interview-resources/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ds-ai-ml-interview-resources/</guid>
+      <guid>/dsblog/ds-ai-ml-interview-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg&#34; alt=&#34;Data Science Interview Question Answers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

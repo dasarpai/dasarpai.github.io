@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy on </title>
-    <link>http://localhost:1313/tags/energy/</link>
+    <link>/tags/energy/</link>
     <description>Recent content in Energy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/energy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/energy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring the Energy Demand and Supply of India</title>
-      <link>http://localhost:1313/dsblog/exploring-the-energy-demand-and-supply-of-india/</link>
+      <link>/dsblog/exploring-the-energy-demand-and-supply-of-india/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid>
+      <guid>/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg&#34; alt=&#34;Exploring the Energy Demand and Supply of India&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg&#34; alt=&#34;Exploring the Energy Demand and Supply of India&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>AI in Energy Management</title>
-      <link>http://localhost:1313/dsblog/AI-in-Energy-Management/</link>
+      <link>/dsblog/AI-in-Energy-Management/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-in-Energy-Management/</guid>
+      <guid>/dsblog/AI-in-Energy-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg&#34; alt=&#34;AI in Energy Management&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg&#34; alt=&#34;AI in Energy Management&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Human Peace</title>
-      <link>http://localhost:1313/wiaposts/human-peace/</link>
+      <link>/wiaposts/human-peace/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/human-peace/</guid>
+      <guid>/wiaposts/human-peace/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5164-Human-Peace.jpg&#34; alt=&#34;Human Peace&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5164-Human-Peace.jpg&#34; alt=&#34;Human Peace&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -128,13 +128,13 @@ through new mobile communication technologies.&lt;/p&gt;
     
     <item>
       <title>Managing Source Of Energy</title>
-      <link>http://localhost:1313/wiaposts/managing-source-of-energy/</link>
+      <link>/wiaposts/managing-source-of-energy/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/managing-source-of-energy/</guid>
+      <guid>/wiaposts/managing-source-of-energy/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg&#34; alt=&#34;Managing Source Of Energy&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg&#34; alt=&#34;Managing Source Of Energy&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

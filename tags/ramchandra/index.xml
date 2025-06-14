@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramchandra on </title>
-    <link>http://localhost:1313/tags/ramchandra/</link>
+    <link>/tags/ramchandra/</link>
     <description>Recent content in Ramchandra on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ramchandra/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ramchandra/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Naam Ramayan  - नाम रामायण</title>
-      <link>http://localhost:1313/samskrutyatra/naam-ramayan/</link>
+      <link>/samskrutyatra/naam-ramayan/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/samskrutyatra/naam-ramayan/</guid>
+      <guid>/samskrutyatra/naam-ramayan/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/samskrut/Ramchandraji.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/samskrut/Ramchandraji.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

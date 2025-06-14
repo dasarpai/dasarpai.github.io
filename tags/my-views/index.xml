@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Views on </title>
-    <link>http://localhost:1313/tags/my-views/</link>
+    <link>/tags/my-views/</link>
     <description>Recent content in My Views on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/my-views/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/my-views/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What Keeps Me Moving?</title>
-      <link>http://localhost:1313/wiaposts/what-keeps-me-moving/</link>
+      <link>/wiaposts/what-keeps-me-moving/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-keeps-me-moving/</guid>
+      <guid>/wiaposts/what-keeps-me-moving/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5289-what-keeps-me-moving.jpg&#34; alt=&#34;What Keeps Me Moving&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5289-what-keeps-me-moving.jpg&#34; alt=&#34;What Keeps Me Moving&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -50,13 +50,13 @@ on both worldly and inner sciences,&lt;/p&gt;</description>
     
     <item>
       <title>Embracing Responsibility for Change</title>
-      <link>http://localhost:1313/wiaposts/Embracing-Responsibility-for-Change/</link>
+      <link>/wiaposts/Embracing-Responsibility-for-Change/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Embracing-Responsibility-for-Change/</guid>
+      <guid>/wiaposts/Embracing-Responsibility-for-Change/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg&#34; alt=&#34;Embracing Responsibility for Change&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg&#34; alt=&#34;Embracing Responsibility for Change&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -86,13 +86,13 @@ then there is a high chance I am part of the problem.&lt;/p&gt;</description>
     
     <item>
       <title>Happy Vijayadashami 2024</title>
-      <link>http://localhost:1313/wiaposts/Happy-Vijayadashami-2024/</link>
+      <link>/wiaposts/Happy-Vijayadashami-2024/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Happy-Vijayadashami-2024/</guid>
+      <guid>/wiaposts/Happy-Vijayadashami-2024/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg&#34; alt=&#34;Happy Vijayadashami 2024&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg&#34; alt=&#34;Happy Vijayadashami 2024&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -115,13 +115,13 @@ then there is a high chance I am part of the problem.&lt;/p&gt;</description>
     
     <item>
       <title>How to know the truth?</title>
-      <link>http://localhost:1313/wiaposts/How-to-know-the-truth/</link>
+      <link>/wiaposts/How-to-know-the-truth/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/How-to-know-the-truth/</guid>
+      <guid>/wiaposts/How-to-know-the-truth/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5267-How-to-know-the-truth.jpg&#34; alt=&#34;How to Know the Truth?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5267-How-to-know-the-truth.jpg&#34; alt=&#34;How to Know the Truth?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -152,13 +152,13 @@ If not, you can choose to believe me.&lt;/p&gt;</description>
     
     <item>
       <title>Insights from the First Chapter of Durga Saptashati</title>
-      <link>http://localhost:1313/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati/</link>
+      <link>/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati/</guid>
+      <guid>/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg&#34; alt=&#34;What is Purana?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg&#34; alt=&#34;What is Purana?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -193,13 +193,13 @@ If not, you can choose to believe me.&lt;/p&gt;</description>
     
     <item>
       <title>Insights from the First Chapter of Durga Saptashati - Hindi</title>
-      <link>http://localhost:1313/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati-hi/</link>
+      <link>/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati-hi/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati-hi/</guid>
+      <guid>/wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati-hi/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg&#34; alt=&#34;How to Know the Truth?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg&#34; alt=&#34;How to Know the Truth?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -234,13 +234,13 @@ If not, you can choose to believe me.&lt;/p&gt;</description>
     
     <item>
       <title>Meaning of Beej Mantra from Durga Saptashati</title>
-      <link>http://localhost:1313/wiaposts/Meaning-of-Beej-Mantra-from-Durga-Saptashati/</link>
+      <link>/wiaposts/Meaning-of-Beej-Mantra-from-Durga-Saptashati/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Meaning-of-Beej-Mantra-from-Durga-Saptashati/</guid>
+      <guid>/wiaposts/Meaning-of-Beej-Mantra-from-Durga-Saptashati/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg&#34; alt=&#34;How to Know the Truth?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg&#34; alt=&#34;How to Know the Truth?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -275,13 +275,13 @@ If not, you can choose to believe me.&lt;/p&gt;</description>
     
     <item>
       <title>विजयादशमी 2024 की हार्दिक शुभकामनाएँ</title>
-      <link>http://localhost:1313/wiaposts/Happy-Vijayadashami-2024-Hindi/</link>
+      <link>/wiaposts/Happy-Vijayadashami-2024-Hindi/</link>
       <pubDate>Tue, 01 Oct 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Happy-Vijayadashami-2024-Hindi/</guid>
+      <guid>/wiaposts/Happy-Vijayadashami-2024-Hindi/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg&#34; alt=&#34;विजयादशमी 2024 की हार्दिक शुभकामनाएँ&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg&#34; alt=&#34;विजयादशमी 2024 की हार्दिक शुभकामनाएँ&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -304,13 +304,13 @@ If not, you can choose to believe me.&lt;/p&gt;</description>
     
     <item>
       <title>What is Renunciation?</title>
-      <link>http://localhost:1313/wiaposts/What-is-renunciation/</link>
+      <link>/wiaposts/What-is-renunciation/</link>
       <pubDate>Mon, 30 Sep 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/What-is-renunciation/</guid>
+      <guid>/wiaposts/What-is-renunciation/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5265-What-is-renunciation.jpg&#34; alt=&#34;What is Renunciation?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5265-What-is-renunciation.jpg&#34; alt=&#34;What is Renunciation?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -347,13 +347,13 @@ and other because of maturity.&lt;/p&gt;</description>
     
     <item>
       <title>Why is there conflict in the Society?</title>
-      <link>http://localhost:1313/wiaposts/Why-there-is-Conflict-in-society/</link>
+      <link>/wiaposts/Why-there-is-Conflict-in-society/</link>
       <pubDate>Thu, 26 Sep 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Why-there-is-Conflict-in-society/</guid>
+      <guid>/wiaposts/Why-there-is-Conflict-in-society/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg&#34; alt=&#34;Why is there conflict in the Society?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg&#34; alt=&#34;Why is there conflict in the Society?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -385,13 +385,13 @@ It is a mix of all and much more.&lt;/p&gt;</description>
     
     <item>
       <title>The Search for Truth: Why Do We Rush to Conclusions?</title>
-      <link>http://localhost:1313/wiaposts/why-do-we-conclude/</link>
+      <link>/wiaposts/why-do-we-conclude/</link>
       <pubDate>Sun, 22 Sep 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/why-do-we-conclude/</guid>
+      <guid>/wiaposts/why-do-we-conclude/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5262-why-do-we-conclude.jpg&#34; alt=&#34;why do we conclude?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5262-why-do-we-conclude.jpg&#34; alt=&#34;why do we conclude?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -420,13 +420,13 @@ they are becoming a tree, and generating fruits.&lt;/p&gt;</description>
     
     <item>
       <title>What is Relationship?</title>
-      <link>http://localhost:1313/wiaposts/what-is-relationship/</link>
+      <link>/wiaposts/what-is-relationship/</link>
       <pubDate>Fri, 23 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-is-relationship/</guid>
+      <guid>/wiaposts/what-is-relationship/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5260-what-is-relationship.jpg&#34; alt=&#34;What is Relationships&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5260-what-is-relationship.jpg&#34; alt=&#34;What is Relationships&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -449,13 +449,13 @@ they are becoming a tree, and generating fruits.&lt;/p&gt;</description>
     
     <item>
       <title>What is Relationship - Poem</title>
-      <link>http://localhost:1313/wiaposts/what-is-relationship-poem/</link>
+      <link>/wiaposts/what-is-relationship-poem/</link>
       <pubDate>Thu, 22 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-is-relationship-poem/</guid>
+      <guid>/wiaposts/what-is-relationship-poem/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5260-what-is-relationship.jpg&#34; alt=&#34;What is Relationships - Poem&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5260-what-is-relationship.jpg&#34; alt=&#34;What is Relationships - Poem&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -484,13 +484,13 @@ But found his riches couldn’t meet the need.&lt;/p&gt;</description>
     
     <item>
       <title>My Nonsenses are Most Sensible</title>
-      <link>http://localhost:1313/wiaposts/my-nonsenses-are-most-sensible/</link>
+      <link>/wiaposts/my-nonsenses-are-most-sensible/</link>
       <pubDate>Wed, 21 Aug 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/my-nonsenses-are-most-sensible/</guid>
+      <guid>/wiaposts/my-nonsenses-are-most-sensible/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg&#34; alt=&#34;My Nonsenses are Most Sensible&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg&#34; alt=&#34;My Nonsenses are Most Sensible&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -513,13 +513,13 @@ But found his riches couldn’t meet the need.&lt;/p&gt;</description>
     
     <item>
       <title>The Meaning of Understanding</title>
-      <link>http://localhost:1313/wiaposts/The-Meaning-of-Understanding/</link>
+      <link>/wiaposts/The-Meaning-of-Understanding/</link>
       <pubDate>Sat, 27 Jul 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Meaning-of-Understanding/</guid>
+      <guid>/wiaposts/The-Meaning-of-Understanding/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg&#34; alt=&#34;The Meaning of Understanding&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg&#34; alt=&#34;The Meaning of Understanding&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -542,13 +542,13 @@ But found his riches couldn’t meet the need.&lt;/p&gt;</description>
     
     <item>
       <title>Happy Guru Purnima 2024</title>
-      <link>http://localhost:1313/wiaposts/Happy-Guru-Purnima-2024/</link>
+      <link>/wiaposts/Happy-Guru-Purnima-2024/</link>
       <pubDate>Sun, 21 Jul 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Happy-Guru-Purnima-2024/</guid>
+      <guid>/wiaposts/Happy-Guru-Purnima-2024/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5257-Happy-Guru-Purnima-2024.jpg&#34; alt=&#34;Happy Guru Purnima 2024&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5257-Happy-Guru-Purnima-2024.jpg&#34; alt=&#34;Happy Guru Purnima 2024&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -594,13 +594,13 @@ today in Sarnath to those interested in this inner journey.&lt;/p&gt;</descripti
     
     <item>
       <title>Solution of Inside problem is not outside</title>
-      <link>http://localhost:1313/wiaposts/solution-of-inside-problem-is-not-outside/</link>
+      <link>/wiaposts/solution-of-inside-problem-is-not-outside/</link>
       <pubDate>Fri, 12 Jul 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/solution-of-inside-problem-is-not-outside/</guid>
+      <guid>/wiaposts/solution-of-inside-problem-is-not-outside/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg&#34; alt=&#34;Solution of Inside problem is not outside&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg&#34; alt=&#34;Solution of Inside problem is not outside&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -627,13 +627,13 @@ Who yearns for peace, to be whole again?&lt;/p&gt;</description>
     
     <item>
       <title>What is Sin?</title>
-      <link>http://localhost:1313/wiaposts/What-is-Sin/</link>
+      <link>/wiaposts/What-is-Sin/</link>
       <pubDate>Tue, 25 Jun 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/What-is-Sin/</guid>
+      <guid>/wiaposts/What-is-Sin/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5255-What-is-Sin.jpg&#34; alt=&#34;What-is-Sin&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5255-What-is-Sin.jpg&#34; alt=&#34;What-is-Sin&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -662,13 +662,13 @@ The suffering lingers, it seems to last.&lt;/p&gt;</description>
     
     <item>
       <title>The Power Within</title>
-      <link>http://localhost:1313/wiaposts/the-power-within/</link>
+      <link>/wiaposts/the-power-within/</link>
       <pubDate>Wed, 22 May 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-power-within/</guid>
+      <guid>/wiaposts/the-power-within/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5254-The-Power-Within.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5254-The-Power-Within.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -697,13 +697,13 @@ But they choose their freedom, again and again.&lt;/p&gt;</description>
     
     <item>
       <title>The Cause of Dukkha</title>
-      <link>http://localhost:1313/wiaposts/the-cause-of-dukkha/</link>
+      <link>/wiaposts/the-cause-of-dukkha/</link>
       <pubDate>Tue, 21 May 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-cause-of-dukkha/</guid>
+      <guid>/wiaposts/the-cause-of-dukkha/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -732,13 +732,13 @@ So it runs in circles, round and round.&lt;/p&gt;</description>
     
     <item>
       <title>All Religions are not Same</title>
-      <link>http://localhost:1313/wiaposts/All-Religions-are-not-Same/</link>
+      <link>/wiaposts/All-Religions-are-not-Same/</link>
       <pubDate>Sat, 03 Feb 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/All-Religions-are-not-Same/</guid>
+      <guid>/wiaposts/All-Religions-are-not-Same/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5249-All-Religions-are-not-Same.jpg&#34; alt=&#34;All-Religions-are-not-Same&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5249-All-Religions-are-not-Same.jpg&#34; alt=&#34;All-Religions-are-not-Same&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -772,13 +772,13 @@ So it runs in circles, round and round.&lt;/p&gt;</description>
     
     <item>
       <title>Why do we need family?</title>
-      <link>http://localhost:1313/wiaposts/why-do-we-need-family/</link>
+      <link>/wiaposts/why-do-we-need-family/</link>
       <pubDate>Fri, 29 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/why-do-we-need-family/</guid>
+      <guid>/wiaposts/why-do-we-need-family/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5245-why-do-we-need-family.jpg&#34; alt=&#34;Why do we need family&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5245-why-do-we-need-family.jpg&#34; alt=&#34;Why do we need family&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -809,13 +809,13 @@ A family is necessary to pass knowledge to the next generation.&lt;/p&gt;</descr
     
     <item>
       <title>Life Process</title>
-      <link>http://localhost:1313/wiaposts/life-is-a-process/</link>
+      <link>/wiaposts/life-is-a-process/</link>
       <pubDate>Thu, 28 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/life-is-a-process/</guid>
+      <guid>/wiaposts/life-is-a-process/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5244-Life-Process.jpg&#34; alt=&#34;Life is a Process&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5244-Life-Process.jpg&#34; alt=&#34;Life is a Process&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -844,13 +844,13 @@ What matters is what this process is generating.&lt;/p&gt;</description>
     
     <item>
       <title>What is the Truth</title>
-      <link>http://localhost:1313/wiaposts/What-is-the-Truth/</link>
+      <link>/wiaposts/What-is-the-Truth/</link>
       <pubDate>Mon, 11 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/What-is-the-Truth/</guid>
+      <guid>/wiaposts/What-is-the-Truth/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5242-What-is-the-Truth.jpg&#34; alt=&#34;What is the Truth&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5242-What-is-the-Truth.jpg&#34; alt=&#34;What is the Truth&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -880,13 +880,13 @@ who are already weak, poor and broken.&lt;/p&gt;</description>
     
     <item>
       <title>The Middle Path</title>
-      <link>http://localhost:1313/wiaposts/The-Middle-Path/</link>
+      <link>/wiaposts/The-Middle-Path/</link>
       <pubDate>Tue, 05 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Middle-Path/</guid>
+      <guid>/wiaposts/The-Middle-Path/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5241-The-Middle-Path.jpg&#34; alt=&#34;The Middle Path&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5241-The-Middle-Path.jpg&#34; alt=&#34;The Middle Path&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -912,13 +912,13 @@ life becomes increasingly mundane and devoid of meaning.&lt;/p&gt;</description>
     
     <item>
       <title>Sentences and Their Interpretations</title>
-      <link>http://localhost:1313/wiaposts/sentences-and-their-interpretations/</link>
+      <link>/wiaposts/sentences-and-their-interpretations/</link>
       <pubDate>Sun, 03 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/sentences-and-their-interpretations/</guid>
+      <guid>/wiaposts/sentences-and-their-interpretations/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg&#34; alt=&#34;Sentences and Their Interpretations&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg&#34; alt=&#34;Sentences and Their Interpretations&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -946,13 +946,13 @@ This is trust or helplessness or ignorance?&lt;/p&gt;</description>
     
     <item>
       <title>The Meaning of Success</title>
-      <link>http://localhost:1313/wiaposts/The-Meaning-of-Success/</link>
+      <link>/wiaposts/The-Meaning-of-Success/</link>
       <pubDate>Fri, 01 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Meaning-of-Success/</guid>
+      <guid>/wiaposts/The-Meaning-of-Success/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5240-The-Meaning-of-Success.jpg&#34; alt=&#34;The Meaning of Success&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5240-The-Meaning-of-Success.jpg&#34; alt=&#34;The Meaning of Success&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -982,13 +982,13 @@ And others want to walk any length to become successful.&lt;/p&gt;</description>
     
     <item>
       <title>Language, Script and Devanagari</title>
-      <link>http://localhost:1313/wiaposts/Language-Script-and-Devanagari/</link>
+      <link>/wiaposts/Language-Script-and-Devanagari/</link>
       <pubDate>Tue, 28 Nov 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Language-Script-and-Devanagari/</guid>
+      <guid>/wiaposts/Language-Script-and-Devanagari/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg&#34; alt=&#34;Language, Script and Devanagari&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg&#34; alt=&#34;Language, Script and Devanagari&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1015,13 +1015,13 @@ Roman is script to write European languages like English or Spanish.&lt;/p&gt;</
     
     <item>
       <title>Ways to Experience the Bliss</title>
-      <link>http://localhost:1313/wiaposts/Ways-to-Experience-the-Bliss/</link>
+      <link>/wiaposts/Ways-to-Experience-the-Bliss/</link>
       <pubDate>Sun, 24 Sep 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Ways-to-Experience-the-Bliss/</guid>
+      <guid>/wiaposts/Ways-to-Experience-the-Bliss/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg&#34; alt=&#34;Ways to Experience the Bliss&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg&#34; alt=&#34;Ways to Experience the Bliss&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1055,13 +1055,13 @@ Are they the ones who find peace and experience bliss?&lt;/p&gt;</description>
     
     <item>
       <title>The Ways to Hurt the Self</title>
-      <link>http://localhost:1313/wiaposts/The-Ways-to-Hurt-the-Self/</link>
+      <link>/wiaposts/The-Ways-to-Hurt-the-Self/</link>
       <pubDate>Thu, 14 Sep 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Ways-to-Hurt-the-Self/</guid>
+      <guid>/wiaposts/The-Ways-to-Hurt-the-Self/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg&#34; alt=&#34;The Ways to Hurt the Self&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg&#34; alt=&#34;The Ways to Hurt the Self&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1088,13 +1088,13 @@ Do not say harshword say sweet word and hit me physically I am ok with that.&lt;
     
     <item>
       <title>Layers of Identities and Bondage</title>
-      <link>http://localhost:1313/wiaposts/Layers-of-Identities-and-Bondage/</link>
+      <link>/wiaposts/Layers-of-Identities-and-Bondage/</link>
       <pubDate>Mon, 04 Sep 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Layers-of-Identities-and-Bondage/</guid>
+      <guid>/wiaposts/Layers-of-Identities-and-Bondage/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg&#34; alt=&#34;Layers of Identities and Bondage&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg&#34; alt=&#34;Layers of Identities and Bondage&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1121,13 +1121,13 @@ the objects and events around and within both my physical and dream bodies.&lt;/
     
     <item>
       <title>Questioning &amp; Answering (Problem Solving)</title>
-      <link>http://localhost:1313/wiaposts/Question-Answering-Problem-Solving/</link>
+      <link>/wiaposts/Question-Answering-Problem-Solving/</link>
       <pubDate>Mon, 04 Sep 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Question-Answering-Problem-Solving/</guid>
+      <guid>/wiaposts/Question-Answering-Problem-Solving/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5233-Question-Answering.jpg&#34; alt=&#34;Question Answering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5233-Question-Answering.jpg&#34; alt=&#34;Question Answering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1158,13 +1158,13 @@ this leads to incomplete or incorrect answer.&lt;/p&gt;</description>
     
     <item>
       <title>The Purpose of Education</title>
-      <link>http://localhost:1313/wiaposts/The-Purpose-of-Education/</link>
+      <link>/wiaposts/The-Purpose-of-Education/</link>
       <pubDate>Thu, 24 Aug 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Purpose-of-Education/</guid>
+      <guid>/wiaposts/The-Purpose-of-Education/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5232-The-Purpose-of-Education.jpg&#34; alt=&#34;The Purpose of Education&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5232-The-Purpose-of-Education.jpg&#34; alt=&#34;The Purpose of Education&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1197,13 +1197,13 @@ we also have our own opinion.&lt;/p&gt;</description>
     
     <item>
       <title>What is the Reality?</title>
-      <link>http://localhost:1313/wiaposts/What-is-the-Reality/</link>
+      <link>/wiaposts/What-is-the-Reality/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/What-is-the-Reality/</guid>
+      <guid>/wiaposts/What-is-the-Reality/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5231-What-is-the-Reality.jpg&#34; alt=&#34;PWhat is the Reality?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5231-What-is-the-Reality.jpg&#34; alt=&#34;PWhat is the Reality?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1230,13 +1230,13 @@ You know the truth after asking these two questions.&lt;/p&gt;</description>
     
     <item>
       <title>Is old really Gold?</title>
-      <link>http://localhost:1313/wiaposts/Is-old-really-Gold/</link>
+      <link>/wiaposts/Is-old-really-Gold/</link>
       <pubDate>Thu, 29 Jun 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Is-old-really-Gold/</guid>
+      <guid>/wiaposts/Is-old-really-Gold/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5230-Is-old-really-Gold.jpg&#34; alt=&#34;Is Old Really Gold&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5230-Is-old-really-Gold.jpg&#34; alt=&#34;Is Old Really Gold&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1264,13 +1264,13 @@ So, finding pleasure is only possible by living in the past.&lt;/p&gt;</descript
     
     <item>
       <title>Pain and Suffering</title>
-      <link>http://localhost:1313/wiaposts/Pain-and-Suffering/</link>
+      <link>/wiaposts/Pain-and-Suffering/</link>
       <pubDate>Sat, 29 Apr 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Pain-and-Suffering/</guid>
+      <guid>/wiaposts/Pain-and-Suffering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5228-Pain-and-Suffering.jpg&#34; alt=&#34;Pain and Suffering &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5228-Pain-and-Suffering.jpg&#34; alt=&#34;Pain and Suffering &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1301,13 +1301,13 @@ or have some other nervous issues.&lt;/p&gt;</description>
     
     <item>
       <title>Importance of Skills in The AI Age</title>
-      <link>http://localhost:1313/wiaposts/Importance-of-Skills-in-the-AI-Age/</link>
+      <link>/wiaposts/Importance-of-Skills-in-the-AI-Age/</link>
       <pubDate>Fri, 28 Apr 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Importance-of-Skills-in-the-AI-Age/</guid>
+      <guid>/wiaposts/Importance-of-Skills-in-the-AI-Age/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg&#34; alt=&#34;Importance of Skills in AI Age&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg&#34; alt=&#34;Importance of Skills in AI Age&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1335,13 +1335,13 @@ The questions of humans remain the same.&lt;/p&gt;</description>
     
     <item>
       <title>Sign of Wisdom</title>
-      <link>http://localhost:1313/wiaposts/Sign-of-Wisdom/</link>
+      <link>/wiaposts/Sign-of-Wisdom/</link>
       <pubDate>Fri, 28 Apr 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Sign-of-Wisdom/</guid>
+      <guid>/wiaposts/Sign-of-Wisdom/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5229-Sign-of-Wisdom.jpg&#34; alt=&#34;Dream Body and Physical Action&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5229-Sign-of-Wisdom.jpg&#34; alt=&#34;Dream Body and Physical Action&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1378,13 +1378,13 @@ but by changing themselves.&lt;/p&gt;</description>
     
     <item>
       <title>How Do You Want to Live?</title>
-      <link>http://localhost:1313/wiaposts/How-Do-You-Want-to-Live/</link>
+      <link>/wiaposts/How-Do-You-Want-to-Live/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/How-Do-You-Want-to-Live/</guid>
+      <guid>/wiaposts/How-Do-You-Want-to-Live/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg&#34; alt=&#34;How Do You Want to Live?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg&#34; alt=&#34;How Do You Want to Live?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1412,13 +1412,13 @@ meets your expectations and sometimes not.&lt;/p&gt;</description>
     
     <item>
       <title>Is Dying Painful?</title>
-      <link>http://localhost:1313/wiaposts/Is-Dying-Painful/</link>
+      <link>/wiaposts/Is-Dying-Painful/</link>
       <pubDate>Sat, 22 Apr 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Is-Dying-Painful/</guid>
+      <guid>/wiaposts/Is-Dying-Painful/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5224-Is-Dying-Painful.jpg&#34; alt=&#34;Dying is Painful?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5224-Is-Dying-Painful.jpg&#34; alt=&#34;Dying is Painful?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1448,13 +1448,13 @@ Yet, a lasting solution to suffering remains elusive.&lt;/p&gt;</description>
     
     <item>
       <title>The Real Hell of False Ego</title>
-      <link>http://localhost:1313/wiaposts/The-Real-Hell-of-False-Ego/</link>
+      <link>/wiaposts/The-Real-Hell-of-False-Ego/</link>
       <pubDate>Thu, 26 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Real-Hell-of-False-Ego/</guid>
+      <guid>/wiaposts/The-Real-Hell-of-False-Ego/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg&#34; alt=&#34;The-Real-Hell-of-False-Ego&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg&#34; alt=&#34;The-Real-Hell-of-False-Ego&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1482,13 +1482,13 @@ my planet and my life is too insignificant.&lt;/p&gt;</description>
     
     <item>
       <title>The Art -Of Missing Life</title>
-      <link>http://localhost:1313/wiaposts/The-Art-Of-Missing-Life/</link>
+      <link>/wiaposts/The-Art-Of-Missing-Life/</link>
       <pubDate>Thu, 19 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Art-Of-Missing-Life/</guid>
+      <guid>/wiaposts/The-Art-Of-Missing-Life/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1517,13 +1517,13 @@ you experienced the smell but the flower is far away.&lt;/p&gt;</description>
     
     <item>
       <title>Continuum of life</title>
-      <link>http://localhost:1313/wiaposts/Continuum-of-life/</link>
+      <link>/wiaposts/Continuum-of-life/</link>
       <pubDate>Mon, 16 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Continuum-of-life/</guid>
+      <guid>/wiaposts/Continuum-of-life/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5214-Continuum-of-life.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5214-Continuum-of-life.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1556,13 +1556,13 @@ it has nothing to do with the objectivity of life or life as it exists in the co
     
     <item>
       <title>Yours Value System and Contradictions</title>
-      <link>http://localhost:1313/wiaposts/Yours-Value-System-and-Contradictions/</link>
+      <link>/wiaposts/Yours-Value-System-and-Contradictions/</link>
       <pubDate>Sun, 15 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Yours-Value-System-and-Contradictions/</guid>
+      <guid>/wiaposts/Yours-Value-System-and-Contradictions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1590,13 +1590,13 @@ the ultimate goal of life is Moksha or Nirvana, or Kaivalya.&lt;/p&gt;</descript
     
     <item>
       <title>You Can Never Speak The Truth</title>
-      <link>http://localhost:1313/wiaposts/You-Can-Never-Speak-the-Truth/</link>
+      <link>/wiaposts/You-Can-Never-Speak-the-Truth/</link>
       <pubDate>Sat, 14 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/You-Can-Never-Speak-the-Truth/</guid>
+      <guid>/wiaposts/You-Can-Never-Speak-the-Truth/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1625,13 +1625,13 @@ It exists even today.&lt;/p&gt;</description>
     
     <item>
       <title>The Logic of Entangled Mind</title>
-      <link>http://localhost:1313/wiaposts/Logic-of-Entangled-Mind/</link>
+      <link>/wiaposts/Logic-of-Entangled-Mind/</link>
       <pubDate>Mon, 09 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Logic-of-Entangled-Mind/</guid>
+      <guid>/wiaposts/Logic-of-Entangled-Mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1663,13 +1663,13 @@ They can do Nitya-Anitya vivek.&lt;/p&gt;</description>
     
     <item>
       <title>The Way of Learning</title>
-      <link>http://localhost:1313/wiaposts/The-Way-of-Learning/</link>
+      <link>/wiaposts/The-Way-of-Learning/</link>
       <pubDate>Mon, 19 Dec 2022 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/The-Way-of-Learning/</guid>
+      <guid>/wiaposts/The-Way-of-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5208-The-Way-of-Learning.jpg&#34; alt=&#34;The Way of Learning &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5208-The-Way-of-Learning.jpg&#34; alt=&#34;The Way of Learning &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1699,13 +1699,13 @@ You are Yamraj and they are living in hell.&lt;/p&gt;</description>
     
     <item>
       <title>Are You Feeling Stuck in Life</title>
-      <link>http://localhost:1313/wiaposts/Are-You-Feeling-Stuck-in-Life/</link>
+      <link>/wiaposts/Are-You-Feeling-Stuck-in-Life/</link>
       <pubDate>Fri, 16 Dec 2022 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Are-You-Feeling-Stuck-in-Life/</guid>
+      <guid>/wiaposts/Are-You-Feeling-Stuck-in-Life/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg&#34; alt=&#34;Classical Literature&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg&#34; alt=&#34;Classical Literature&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1727,13 +1727,13 @@ You are Yamraj and they are living in hell.&lt;/p&gt;</description>
     
     <item>
       <title>Jeevan Mukta</title>
-      <link>http://localhost:1313/wiaposts/jeevan-mukta/</link>
+      <link>/wiaposts/jeevan-mukta/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/jeevan-mukta/</guid>
+      <guid>/wiaposts/jeevan-mukta/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5200-Jeevan-Mukta.jpg&#34; alt=&#34;Jeevan Mukta&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5200-Jeevan-Mukta.jpg&#34; alt=&#34;Jeevan Mukta&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1758,13 +1758,13 @@ With this ability to think you can decide a goal, determine why that goal is imp
     
     <item>
       <title>Greeting and Culture</title>
-      <link>http://localhost:1313/wiaposts/greeting-and-culture/</link>
+      <link>/wiaposts/greeting-and-culture/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/greeting-and-culture/</guid>
+      <guid>/wiaposts/greeting-and-culture/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5190-Greeting-And-Culture.jpg&#34; alt=&#34;Greeting and Culture&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5190-Greeting-And-Culture.jpg&#34; alt=&#34;Greeting and Culture&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1794,13 +1794,13 @@ Choose when you greet, go slow and know what you mean.&lt;/p&gt;</description>
     
     <item>
       <title>Biological Footprint of Human</title>
-      <link>http://localhost:1313/wiaposts/biological-footprint-of-human/</link>
+      <link>/wiaposts/biological-footprint-of-human/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/biological-footprint-of-human/</guid>
+      <guid>/wiaposts/biological-footprint-of-human/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg&#34; alt=&#34;Biological Footprint of Human&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg&#34; alt=&#34;Biological Footprint of Human&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1831,13 +1831,13 @@ for other animals to eat.&lt;/p&gt;</description>
     
     <item>
       <title>Effect of Maya</title>
-      <link>http://localhost:1313/wiaposts/effect-of-maya/</link>
+      <link>/wiaposts/effect-of-maya/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/effect-of-maya/</guid>
+      <guid>/wiaposts/effect-of-maya/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5187-Effect-Of-Maya.jpg&#34; alt=&#34;Effect of Maya&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5187-Effect-Of-Maya.jpg&#34; alt=&#34;Effect of Maya&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1864,13 +1864,13 @@ This is the effect of Maya.&lt;/p&gt;</description>
     
     <item>
       <title>Thinking and Feeling</title>
-      <link>http://localhost:1313/wiaposts/thinking-and-feeling/</link>
+      <link>/wiaposts/thinking-and-feeling/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/thinking-and-feeling/</guid>
+      <guid>/wiaposts/thinking-and-feeling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5186-Thinking-And-Feeling.jpg&#34; alt=&#34;Thinking and Feeling&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5186-Thinking-And-Feeling.jpg&#34; alt=&#34;Thinking and Feeling&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1901,13 +1901,13 @@ you think about some past event and you become emotional?&lt;/p&gt;</description
     
     <item>
       <title>Paapam and Punyam in Awareness</title>
-      <link>http://localhost:1313/wiaposts/paapam-and-punyam-in-awareness/</link>
+      <link>/wiaposts/paapam-and-punyam-in-awareness/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/paapam-and-punyam-in-awareness/</guid>
+      <guid>/wiaposts/paapam-and-punyam-in-awareness/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg&#34; alt=&#34;Paapam and Punyam in Awareness&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg&#34; alt=&#34;Paapam and Punyam in Awareness&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1936,13 +1936,13 @@ What happened to him during his sleep was because of his Paapam or Punyam?&lt;/p
     
     <item>
       <title>Light vs Darkness</title>
-      <link>http://localhost:1313/wiaposts/light-vs-darkness/</link>
+      <link>/wiaposts/light-vs-darkness/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/light-vs-darkness/</guid>
+      <guid>/wiaposts/light-vs-darkness/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5184-Light-Vs-Darkness.jpg&#34; alt=&#34;Light vs Darkness&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5184-Light-Vs-Darkness.jpg&#34; alt=&#34;Light vs Darkness&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1973,13 +1973,13 @@ in the world because it has been displaced?&lt;/p&gt;</description>
     
     <item>
       <title>Undying Love</title>
-      <link>http://localhost:1313/wiaposts/undying-love/</link>
+      <link>/wiaposts/undying-love/</link>
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/undying-love/</guid>
+      <guid>/wiaposts/undying-love/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5182-Undying-Love.jpg&#34; alt=&#34;Undying Love&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5182-Undying-Love.jpg&#34; alt=&#34;Undying Love&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2015,13 +2015,13 @@ it has dried away over the age of that relation.&lt;/p&gt;</description>
     
     <item>
       <title>Awareness and Who Am I</title>
-      <link>http://localhost:1313/wiaposts/awareness-and-who-am-i/</link>
+      <link>/wiaposts/awareness-and-who-am-i/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/awareness-and-who-am-i/</guid>
+      <guid>/wiaposts/awareness-and-who-am-i/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg&#34; alt=&#34;Awareness and Who Am I&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg&#34; alt=&#34;Awareness and Who Am I&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2052,13 +2052,13 @@ for birds and animals to ask this question.&lt;/p&gt;</description>
     
     <item>
       <title>There is no God!</title>
-      <link>http://localhost:1313/wiaposts/there-is-no-god/</link>
+      <link>/wiaposts/there-is-no-god/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/there-is-no-god/</guid>
+      <guid>/wiaposts/there-is-no-god/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5180-There-Is-No-God.jpg&#34; alt=&#34;There is no God!&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5180-There-Is-No-God.jpg&#34; alt=&#34;There is no God!&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2081,13 +2081,13 @@ for birds and animals to ask this question.&lt;/p&gt;</description>
     
     <item>
       <title>Why is life complex?</title>
-      <link>http://localhost:1313/wiaposts/why-is-life-complex/</link>
+      <link>/wiaposts/why-is-life-complex/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/why-is-life-complex/</guid>
+      <guid>/wiaposts/why-is-life-complex/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5179-Why-Is-Life-Complex.jpg&#34; alt=&#34;Why is life complex?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5179-Why-Is-Life-Complex.jpg&#34; alt=&#34;Why is life complex?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2114,13 +2114,13 @@ These are the capabilities of reasoning and intuition.&lt;/p&gt;</description>
     
     <item>
       <title>Dussehra 2021</title>
-      <link>http://localhost:1313/wiaposts/dussehra-2021/</link>
+      <link>/wiaposts/dussehra-2021/</link>
       <pubDate>Fri, 15 Oct 2021 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/dussehra-2021/</guid>
+      <guid>/wiaposts/dussehra-2021/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5142-Dussehra-2021.jpg&#34; alt=&#34;Dussehra 2021&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5142-Dussehra-2021.jpg&#34; alt=&#34;Dussehra 2021&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2160,13 +2160,13 @@ Otherwise, many people quit on the way.&lt;/p&gt;</description>
     
     <item>
       <title>Don&#39;t Be Afraid Of Covid</title>
-      <link>http://localhost:1313/wiaposts/dont-be-afraid-of-covid/</link>
+      <link>/wiaposts/dont-be-afraid-of-covid/</link>
       <pubDate>Sat, 15 May 2021 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/dont-be-afraid-of-covid/</guid>
+      <guid>/wiaposts/dont-be-afraid-of-covid/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg&#34; alt=&#34;Don&amp;rsquo;t Be Afraid Of Covid&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg&#34; alt=&#34;Don&amp;rsquo;t Be Afraid Of Covid&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2193,13 +2193,13 @@ That is why a newborn baby’s body becomes&lt;br&gt;
     
     <item>
       <title>What Is Success?</title>
-      <link>http://localhost:1313/wiaposts/what-is-success/</link>
+      <link>/wiaposts/what-is-success/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-is-success/</guid>
+      <guid>/wiaposts/what-is-success/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5153-What-Is-Success.jpg&#34; alt=&#34;What Is Success?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5153-What-Is-Success.jpg&#34; alt=&#34;What Is Success?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2229,13 +2229,13 @@ and it goes there inside, it is a success.&lt;/p&gt;</description>
     
     <item>
       <title>Learning Process</title>
-      <link>http://localhost:1313/wiaposts/learning-process/</link>
+      <link>/wiaposts/learning-process/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/learning-process/</guid>
+      <guid>/wiaposts/learning-process/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5152-Learning-Process.jpg&#34; alt=&#34;Learning Process&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5152-Learning-Process.jpg&#34; alt=&#34;Learning Process&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2257,13 +2257,13 @@ and it goes there inside, it is a success.&lt;/p&gt;</description>
     
     <item>
       <title>Earnings Of Life</title>
-      <link>http://localhost:1313/wiaposts/earnings-of-life/</link>
+      <link>/wiaposts/earnings-of-life/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/earnings-of-life/</guid>
+      <guid>/wiaposts/earnings-of-life/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5151-Earnings-Of-Life.jpg&#34; alt=&#34;Earnings Of Life&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5151-Earnings-Of-Life.jpg&#34; alt=&#34;Earnings Of Life&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2292,13 +2292,13 @@ You learn some useful arts and skills.&lt;/p&gt;</description>
     
     <item>
       <title>The Art Of Dying 2</title>
-      <link>http://localhost:1313/wiaposts/the-art-of-dying-2/</link>
+      <link>/wiaposts/the-art-of-dying-2/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-art-of-dying-2/</guid>
+      <guid>/wiaposts/the-art-of-dying-2/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg&#34; alt=&#34;The Art Of Dying 2&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg&#34; alt=&#34;The Art Of Dying 2&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2328,13 +2328,13 @@ Without exhaling, there is no hope for inhaling.&lt;/p&gt;</description>
     
     <item>
       <title>A Price For The Wrong Identification</title>
-      <link>http://localhost:1313/wiaposts/a-price-for-the-wrong-identification/</link>
+      <link>/wiaposts/a-price-for-the-wrong-identification/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/a-price-for-the-wrong-identification/</guid>
+      <guid>/wiaposts/a-price-for-the-wrong-identification/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg&#34; alt=&#34;A Price For The Wrong Identification&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg&#34; alt=&#34;A Price For The Wrong Identification&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2364,13 +2364,13 @@ to objects and concepts around the answerer.&lt;/p&gt;</description>
     
     <item>
       <title>World Around</title>
-      <link>http://localhost:1313/wiaposts/world-around/</link>
+      <link>/wiaposts/world-around/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/world-around/</guid>
+      <guid>/wiaposts/world-around/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5145-World-Around.jpg&#34; alt=&#34;World Around&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5145-World-Around.jpg&#34; alt=&#34;World Around&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2400,13 +2400,13 @@ about it in your own individual subjective world.&lt;/p&gt;</description>
     
     <item>
       <title>About Food And Nourishment</title>
-      <link>http://localhost:1313/wiaposts/about-food-and-nourishment/</link>
+      <link>/wiaposts/about-food-and-nourishment/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/about-food-and-nourishment/</guid>
+      <guid>/wiaposts/about-food-and-nourishment/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5143-About-Food-And-Nourishment.jpg&#34; alt=&#34;About Food And Nourishment&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5143-About-Food-And-Nourishment.jpg&#34; alt=&#34;About Food And Nourishment&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2433,13 +2433,13 @@ If you do it willingly, then it is a type of slow suicide.&lt;/p&gt;</descriptio
     
     <item>
       <title>Limitations Of Logic</title>
-      <link>http://localhost:1313/wiaposts/limitations-of-logic/</link>
+      <link>/wiaposts/limitations-of-logic/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/limitations-of-logic/</guid>
+      <guid>/wiaposts/limitations-of-logic/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5141-Limitations-Of-Logic.jpg&#34; alt=&#34;Limitations Of Logic&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5141-Limitations-Of-Logic.jpg&#34; alt=&#34;Limitations Of Logic&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2477,13 +2477,13 @@ advanced culture in the 21st century.&lt;/p&gt;</description>
     
     <item>
       <title>Hinduism And Celibacy</title>
-      <link>http://localhost:1313/wiaposts/hinduism-and-celibacy/</link>
+      <link>/wiaposts/hinduism-and-celibacy/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/hinduism-and-celibacy/</guid>
+      <guid>/wiaposts/hinduism-and-celibacy/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg&#34; alt=&#34;Hinduism And Celibacy&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg&#34; alt=&#34;Hinduism And Celibacy&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2513,13 +2513,13 @@ And we humans are the creation of that.&lt;/p&gt;</description>
     
     <item>
       <title>What Is Love?</title>
-      <link>http://localhost:1313/wiaposts/what-is-love/</link>
+      <link>/wiaposts/what-is-love/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-is-love/</guid>
+      <guid>/wiaposts/what-is-love/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5139-What-Is-Love.jpg&#34; alt=&#34;What Is Love?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5139-What-Is-Love.jpg&#34; alt=&#34;What Is Love?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2548,13 +2548,13 @@ There are some who say I love eating, sleeping, dancing.&lt;/p&gt;</description>
     
     <item>
       <title>Choose Your Attitude</title>
-      <link>http://localhost:1313/wiaposts/choose-your-attitude/</link>
+      <link>/wiaposts/choose-your-attitude/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/choose-your-attitude/</guid>
+      <guid>/wiaposts/choose-your-attitude/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5132-Choose-Your-Attitude.jpg&#34; alt=&#34;Choose Your Attitude&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5132-Choose-Your-Attitude.jpg&#34; alt=&#34;Choose Your Attitude&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2582,13 +2582,13 @@ in another one enjoys and wants to continue the game.&lt;/p&gt;</description>
     
     <item>
       <title>What Is Balance Food Diet?</title>
-      <link>http://localhost:1313/wiaposts/what-is-balance-food-diet/</link>
+      <link>/wiaposts/what-is-balance-food-diet/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-is-balance-food-diet/</guid>
+      <guid>/wiaposts/what-is-balance-food-diet/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg&#34; alt=&#34;What Is Balance Food Diet?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg&#34; alt=&#34;What Is Balance Food Diet?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2611,13 +2611,13 @@ in another one enjoys and wants to continue the game.&lt;/p&gt;</description>
     
     <item>
       <title>Thinking In Human Vs Computers</title>
-      <link>http://localhost:1313/wiaposts/thinking-in-human-vs-computers/</link>
+      <link>/wiaposts/thinking-in-human-vs-computers/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/thinking-in-human-vs-computers/</guid>
+      <guid>/wiaposts/thinking-in-human-vs-computers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg&#34; alt=&#34;Thinking In Human Vs Computers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg&#34; alt=&#34;Thinking In Human Vs Computers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2639,13 +2639,13 @@ in another one enjoys and wants to continue the game.&lt;/p&gt;</description>
     
     <item>
       <title>Knocking Your Own Door</title>
-      <link>http://localhost:1313/wiaposts/knocking-your-own-door/</link>
+      <link>/wiaposts/knocking-your-own-door/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/knocking-your-own-door/</guid>
+      <guid>/wiaposts/knocking-your-own-door/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg&#34; alt=&#34;Knocking Your Own Door&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg&#34; alt=&#34;Knocking Your Own Door&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2667,13 +2667,13 @@ in another one enjoys and wants to continue the game.&lt;/p&gt;</description>
     
     <item>
       <title>Human Compulsiveness</title>
-      <link>http://localhost:1313/wiaposts/human-compulsiveness/</link>
+      <link>/wiaposts/human-compulsiveness/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/human-compulsiveness/</guid>
+      <guid>/wiaposts/human-compulsiveness/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5126-Human-Compulsiveness.jpg&#34; alt=&#34;Human Compulsiveness&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5126-Human-Compulsiveness.jpg&#34; alt=&#34;Human Compulsiveness&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2696,13 +2696,13 @@ in another one enjoys and wants to continue the game.&lt;/p&gt;</description>
     
     <item>
       <title>Do We Have A Free Will</title>
-      <link>http://localhost:1313/wiaposts/do-we-have-a-free-will/</link>
+      <link>/wiaposts/do-we-have-a-free-will/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/do-we-have-a-free-will/</guid>
+      <guid>/wiaposts/do-we-have-a-free-will/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg&#34; alt=&#34;Do We Have A Free Will&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg&#34; alt=&#34;Do We Have A Free Will&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2737,13 +2737,13 @@ human is a slave and doesn’t have any free will.&lt;/p&gt;</description>
     
     <item>
       <title>Cause Of Pain And Suffering</title>
-      <link>http://localhost:1313/wiaposts/cause-of-pain-and-suffering/</link>
+      <link>/wiaposts/cause-of-pain-and-suffering/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/cause-of-pain-and-suffering/</guid>
+      <guid>/wiaposts/cause-of-pain-and-suffering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg&#34; alt=&#34;Cause Of Pain And Suffering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg&#34; alt=&#34;Cause Of Pain And Suffering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2771,13 +2771,13 @@ And as a mind, I can cause enjoyment and suffering for others.&lt;/p&gt;</descri
     
     <item>
       <title>Boring Maths and Science</title>
-      <link>http://localhost:1313/wiaposts/boring-maths-and-science/</link>
+      <link>/wiaposts/boring-maths-and-science/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/boring-maths-and-science/</guid>
+      <guid>/wiaposts/boring-maths-and-science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5123-Boring-Maths-And-Science.jpg&#34; alt=&#34;Boring Maths and Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5123-Boring-Maths-And-Science.jpg&#34; alt=&#34;Boring Maths and Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2800,13 +2800,13 @@ And as a mind, I can cause enjoyment and suffering for others.&lt;/p&gt;</descri
     
     <item>
       <title>Meaning Of Understanding</title>
-      <link>http://localhost:1313/wiaposts/meaning-of-understanding/</link>
+      <link>/wiaposts/meaning-of-understanding/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/meaning-of-understanding/</guid>
+      <guid>/wiaposts/meaning-of-understanding/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5121-Meaning-Of-Understanding.jpg&#34; alt=&#34;Meaning Of Understanding&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5121-Meaning-Of-Understanding.jpg&#34; alt=&#34;Meaning Of Understanding&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2828,13 +2828,13 @@ And as a mind, I can cause enjoyment and suffering for others.&lt;/p&gt;</descri
     
     <item>
       <title>Thanks To Covid19</title>
-      <link>http://localhost:1313/wiaposts/thanks-to-covid19/</link>
+      <link>/wiaposts/thanks-to-covid19/</link>
       <pubDate>Mon, 16 Mar 2020 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/thanks-to-covid19/</guid>
+      <guid>/wiaposts/thanks-to-covid19/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5100-Thanks-To-Covid19.jpg&#34; alt=&#34;Thanks To Covid19&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5100-Thanks-To-Covid19.jpg&#34; alt=&#34;Thanks To Covid19&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2861,13 +2861,13 @@ Today that person is considered a potential source of Corona.&lt;/p&gt;</descrip
     
     <item>
       <title>I Don&#39;t Know</title>
-      <link>http://localhost:1313/wiaposts/i-dont-know/</link>
+      <link>/wiaposts/i-dont-know/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/i-dont-know/</guid>
+      <guid>/wiaposts/i-dont-know/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5120-I-Dont-Know.jpg&#34; alt=&#34;I Don&amp;rsquo;t Know&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5120-I-Dont-Know.jpg&#34; alt=&#34;I Don&amp;rsquo;t Know&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2890,13 +2890,13 @@ Today that person is considered a potential source of Corona.&lt;/p&gt;</descrip
     
     <item>
       <title>I Hate Reading</title>
-      <link>http://localhost:1313/wiaposts/i-hate-reading/</link>
+      <link>/wiaposts/i-hate-reading/</link>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/i-hate-reading/</guid>
+      <guid>/wiaposts/i-hate-reading/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5098-I-Hate-Reading.jpg&#34; alt=&#34;I Hate Reading&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5098-I-Hate-Reading.jpg&#34; alt=&#34;I Hate Reading&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2930,13 +2930,13 @@ I wanted to quit software development.&lt;/p&gt;</description>
     
     <item>
       <title>Where Is The Focus Of Hindus?</title>
-      <link>http://localhost:1313/wiaposts/where-is-the-focus-of-hindus/</link>
+      <link>/wiaposts/where-is-the-focus-of-hindus/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/where-is-the-focus-of-hindus/</guid>
+      <guid>/wiaposts/where-is-the-focus-of-hindus/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg&#34; alt=&#34;Where Is The Focus Of Hindus?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg&#34; alt=&#34;Where Is The Focus Of Hindus?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2973,13 +2973,13 @@ some physical comfort to individual human beings.&lt;/p&gt;</description>
     
     <item>
       <title>Meaning Of Secular</title>
-      <link>http://localhost:1313/wiaposts/meaning-of-secular/</link>
+      <link>/wiaposts/meaning-of-secular/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/meaning-of-secular/</guid>
+      <guid>/wiaposts/meaning-of-secular/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5052-Meaning-Of-Secular.jpg&#34; alt=&#34;Meaning Of Secular&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5052-Meaning-Of-Secular.jpg&#34; alt=&#34;Meaning Of Secular&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -3010,13 +3010,13 @@ who never told in his life-time that Lingayat is a religion.&lt;/p&gt;</descript
     
     <item>
       <title>Religion Of Humanity</title>
-      <link>http://localhost:1313/wiaposts/religion-of-humanity/</link>
+      <link>/wiaposts/religion-of-humanity/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/religion-of-humanity/</guid>
+      <guid>/wiaposts/religion-of-humanity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5051-Religion-Of-Humanity.jpg&#34; alt=&#34;Religion Of Humanity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5051-Religion-Of-Humanity.jpg&#34; alt=&#34;Religion Of Humanity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -3046,13 +3046,13 @@ Biologists and theoretical physicists still debating the point.&lt;/p&gt;</descr
     
     <item>
       <title>Role Of Leftists In The Indian Society</title>
-      <link>http://localhost:1313/wiaposts/role-of-leftists-in-the-indian-society/</link>
+      <link>/wiaposts/role-of-leftists-in-the-indian-society/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/role-of-leftists-in-the-indian-society/</guid>
+      <guid>/wiaposts/role-of-leftists-in-the-indian-society/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg&#34; alt=&#34;Role Of Leftists In The Indian Society&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg&#34; alt=&#34;Role Of Leftists In The Indian Society&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -3085,13 +3085,13 @@ praying method of people, and the belief system of the people.&lt;/p&gt;</descri
     
     <item>
       <title>How To Acquire New Skills</title>
-      <link>http://localhost:1313/wiaposts/how-to-acquire-new-skills/</link>
+      <link>/wiaposts/how-to-acquire-new-skills/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/how-to-acquire-new-skills/</guid>
+      <guid>/wiaposts/how-to-acquire-new-skills/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg&#34; alt=&#34;How To Acquire New Skills&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg&#34; alt=&#34;How To Acquire New Skills&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -3129,13 +3129,13 @@ extremely difficult to reproduced and scale.&lt;/p&gt;</description>
     
     <item>
       <title>Prisoner Of The Mind</title>
-      <link>http://localhost:1313/wiaposts/prisoner-of-the-mind/</link>
+      <link>/wiaposts/prisoner-of-the-mind/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/prisoner-of-the-mind/</guid>
+      <guid>/wiaposts/prisoner-of-the-mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg&#34; alt=&#34;Prisoner Of The Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg&#34; alt=&#34;Prisoner Of The Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -3162,13 +3162,13 @@ I bothered not anything more than food.&lt;/p&gt;</description>
     
     <item>
       <title>Who Is The Real Enemy Of A Hindu</title>
-      <link>http://localhost:1313/wiaposts/who-is-the-real-enemy-of-a-hindu/</link>
+      <link>/wiaposts/who-is-the-real-enemy-of-a-hindu/</link>
       <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/who-is-the-real-enemy-of-a-hindu/</guid>
+      <guid>/wiaposts/who-is-the-real-enemy-of-a-hindu/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg&#34; alt=&#34;Who Is The Real Enemy Of A Hindu&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg&#34; alt=&#34;Who Is The Real Enemy Of A Hindu&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

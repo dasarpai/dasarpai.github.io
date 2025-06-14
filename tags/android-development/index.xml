@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android Development on </title>
-    <link>http://localhost:1313/tags/android-development/</link>
+    <link>/tags/android-development/</link>
     <description>Recent content in Android Development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/android-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/android-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI for Prospective Email Writing</title>
-      <link>http://localhost:1313/dscourses/ai-for-prospective-email-writing/</link>
+      <link>/dscourses/ai-for-prospective-email-writing/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/ai-for-prospective-email-writing/</guid>
+      <guid>/dscourses/ai-for-prospective-email-writing/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc332-ai-for-prospective-email-writing.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc332-ai-for-prospective-email-writing.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -67,13 +67,13 @@
     
     <item>
       <title>GenAI for Cybersecurity</title>
-      <link>http://localhost:1313/dscourses/genai-for-cybersecurity/</link>
+      <link>/dscourses/genai-for-cybersecurity/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/genai-for-cybersecurity/</guid>
+      <guid>/dscourses/genai-for-cybersecurity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc331-genai-for-cybersecurity.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc331-genai-for-cybersecurity.jpg&#34; alt=&#34;GenAI for Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -111,13 +111,13 @@ This 3–4 day hands-on workshop introduces how Generative AI is transforming th
     
     <item>
       <title>Train Tensorflow Lite Models for Android</title>
-      <link>http://localhost:1313/dscourses/Developing-Solutions-with-AgenticAI/</link>
+      <link>/dscourses/Developing-Solutions-with-AgenticAI/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dscourses/Developing-Solutions-with-AgenticAI/</guid>
+      <guid>/dscourses/Developing-Solutions-with-AgenticAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg&#34; alt=&#34;Developing Solutions with Agentic AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg&#34; alt=&#34;Developing Solutions with Agentic AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

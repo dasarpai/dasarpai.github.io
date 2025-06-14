@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinforcement Learning (RL) on </title>
-    <link>http://localhost:1313/tags/reinforcement-learning-rl/</link>
+    <link>/tags/reinforcement-learning-rl/</link>
     <description>Recent content in Reinforcement Learning (RL) on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/reinforcement-learning-rl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/reinforcement-learning-rl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring Reinforcement Learning Concepts: A Comprehensive Guide</title>
-      <link>http://localhost:1313/dsblog/exploring-reinforcement-learning-concepts/</link>
+      <link>/dsblog/exploring-reinforcement-learning-concepts/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-reinforcement-learning-concepts/</guid>
+      <guid>/dsblog/exploring-reinforcement-learning-concepts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg&#34; alt=&#34;Exploring Reinforcement  Learning Concepts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg&#34; alt=&#34;Exploring Reinforcement  Learning Concepts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -511,13 +511,13 @@
     
     <item>
       <title>Types of Machine Learning</title>
-      <link>http://localhost:1313/dsblog/Types-of-Machine-Learning/</link>
+      <link>/dsblog/Types-of-Machine-Learning/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-Machine-Learning/</guid>
+      <guid>/dsblog/Types-of-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg&#34; alt=&#34;Types of Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg&#34; alt=&#34;Types of Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -551,13 +551,13 @@
     
     <item>
       <title>Important AI Research Papers</title>
-      <link>http://localhost:1313/dsblog/important-ai-research-papers/</link>
+      <link>/dsblog/important-ai-research-papers/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/important-ai-research-papers/</guid>
+      <guid>/dsblog/important-ai-research-papers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg&#34; alt=&#34;Important AI Research Papers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg&#34; alt=&#34;Important AI Research Papers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -579,13 +579,13 @@
     
     <item>
       <title>Reinforcement Learning Git Repositories</title>
-      <link>http://localhost:1313/dsblog/rl-git-repo/</link>
+      <link>/dsblog/rl-git-repo/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/rl-git-repo/</guid>
+      <guid>/dsblog/rl-git-repo/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg&#34; alt=&#34;Reinforcement Learning Git Repositories&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg&#34; alt=&#34;Reinforcement Learning Git Repositories&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

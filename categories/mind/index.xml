@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mind on </title>
-    <link>http://localhost:1313/categories/mind/</link>
+    <link>/categories/mind/</link>
     <description>Recent content in Mind on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Wed, 22 May 2024 08:33:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/mind/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2024 08:33:00 +0530</lastBuildDate><atom:link href="/categories/mind/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Power Within</title>
-      <link>http://localhost:1313/wiaposts/the-power-within/</link>
+      <link>/wiaposts/the-power-within/</link>
       <pubDate>Wed, 22 May 2024 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-power-within/</guid>
+      <guid>/wiaposts/the-power-within/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5254-The-Power-Within.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5254-The-Power-Within.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -48,13 +48,13 @@ But they choose their freedom, again and again.&lt;/p&gt;</description>
     
     <item>
       <title>Life Process</title>
-      <link>http://localhost:1313/wiaposts/life-is-a-process/</link>
+      <link>/wiaposts/life-is-a-process/</link>
       <pubDate>Thu, 28 Dec 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/life-is-a-process/</guid>
+      <guid>/wiaposts/life-is-a-process/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5244-Life-Process.jpg&#34; alt=&#34;Life is a Process&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5244-Life-Process.jpg&#34; alt=&#34;Life is a Process&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -83,13 +83,13 @@ What matters is what this process is generating.&lt;/p&gt;</description>
     
     <item>
       <title>What is the Reality?</title>
-      <link>http://localhost:1313/wiaposts/What-is-the-Reality/</link>
+      <link>/wiaposts/What-is-the-Reality/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/What-is-the-Reality/</guid>
+      <guid>/wiaposts/What-is-the-Reality/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5231-What-is-the-Reality.jpg&#34; alt=&#34;PWhat is the Reality?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5231-What-is-the-Reality.jpg&#34; alt=&#34;PWhat is the Reality?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -116,13 +116,13 @@ You know the truth after asking these two questions.&lt;/p&gt;</description>
     
     <item>
       <title>The Logic of Entangled Mind</title>
-      <link>http://localhost:1313/wiaposts/Logic-of-Entangled-Mind/</link>
+      <link>/wiaposts/Logic-of-Entangled-Mind/</link>
       <pubDate>Mon, 09 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/Logic-of-Entangled-Mind/</guid>
+      <guid>/wiaposts/Logic-of-Entangled-Mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg&#34; alt=&#34;The Logic of Entangled Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -154,13 +154,13 @@ They can do Nitya-Anitya vivek.&lt;/p&gt;</description>
     
     <item>
       <title>Mind and Manas</title>
-      <link>http://localhost:1313/wiaposts/mind-and-manas/</link>
+      <link>/wiaposts/mind-and-manas/</link>
       <pubDate>Wed, 14 Dec 2022 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/mind-and-manas/</guid>
+      <guid>/wiaposts/mind-and-manas/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5206-mind-and-manas.jpg&#34; alt=&#34;Classical Literature&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5206-mind-and-manas.jpg&#34; alt=&#34;Classical Literature&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -194,13 +194,13 @@ They can do Nitya-Anitya vivek.&lt;/p&gt;</description>
     
     <item>
       <title>Bhaav-Vivek Balance</title>
-      <link>http://localhost:1313/wiaposts/bhaav-vivek-balance/</link>
+      <link>/wiaposts/bhaav-vivek-balance/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/bhaav-vivek-balance/</guid>
+      <guid>/wiaposts/bhaav-vivek-balance/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg&#34; alt=&#34;Bhaav-Vivek Balance&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg&#34; alt=&#34;Bhaav-Vivek Balance&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -229,13 +229,13 @@ when we are dealing with these, striking a balance is a must.&lt;/p&gt;</descrip
     
     <item>
       <title>Thinking and Feeling</title>
-      <link>http://localhost:1313/wiaposts/thinking-and-feeling/</link>
+      <link>/wiaposts/thinking-and-feeling/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/thinking-and-feeling/</guid>
+      <guid>/wiaposts/thinking-and-feeling/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5186-Thinking-And-Feeling.jpg&#34; alt=&#34;Thinking and Feeling&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5186-Thinking-And-Feeling.jpg&#34; alt=&#34;Thinking and Feeling&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -266,13 +266,13 @@ you think about some past event and you become emotional?&lt;/p&gt;</description
     
     <item>
       <title>Appreciate the Architecture of Mind</title>
-      <link>http://localhost:1313/wiaposts/appreciate-the-architecture-of-mind/</link>
+      <link>/wiaposts/appreciate-the-architecture-of-mind/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/appreciate-the-architecture-of-mind/</guid>
+      <guid>/wiaposts/appreciate-the-architecture-of-mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg&#34; alt=&#34;Appreciate the Architecture of Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg&#34; alt=&#34;Appreciate the Architecture of Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -295,13 +295,13 @@ you think about some past event and you become emotional?&lt;/p&gt;</description
     
     <item>
       <title>Awareness and Consciousness</title>
-      <link>http://localhost:1313/wiaposts/awareness-and-consciousness/</link>
+      <link>/wiaposts/awareness-and-consciousness/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/awareness-and-consciousness/</guid>
+      <guid>/wiaposts/awareness-and-consciousness/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5171-Awareness-And-Consciousness.jpg&#34; alt=&#34;Awareness and Consciousness&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5171-Awareness-And-Consciousness.jpg&#34; alt=&#34;Awareness and Consciousness&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -323,13 +323,13 @@ you think about some past event and you become emotional?&lt;/p&gt;</description
     
     <item>
       <title>How to Evaluate IQ</title>
-      <link>http://localhost:1313/wiaposts/how-to-evaluate-iq/</link>
+      <link>/wiaposts/how-to-evaluate-iq/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/how-to-evaluate-iq/</guid>
+      <guid>/wiaposts/how-to-evaluate-iq/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg&#34; alt=&#34;How to Evaluate IQ&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg&#34; alt=&#34;How to Evaluate IQ&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -351,13 +351,13 @@ you think about some past event and you become emotional?&lt;/p&gt;</description
     
     <item>
       <title>Training of the mind</title>
-      <link>http://localhost:1313/wiaposts/training-of-the-mind/</link>
+      <link>/wiaposts/training-of-the-mind/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/training-of-the-mind/</guid>
+      <guid>/wiaposts/training-of-the-mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5161-Training-Of-The-Mind.jpg&#34; alt=&#34;Training of the mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5161-Training-Of-The-Mind.jpg&#34; alt=&#34;Training of the mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -387,13 +387,13 @@ that to us in the classroom and playground.&lt;/p&gt;</description>
     
     <item>
       <title>Challenges In The Meditation Process</title>
-      <link>http://localhost:1313/wiaposts/challenges-in-the-meditation-process/</link>
+      <link>/wiaposts/challenges-in-the-meditation-process/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/challenges-in-the-meditation-process/</guid>
+      <guid>/wiaposts/challenges-in-the-meditation-process/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg&#34; alt=&#34;Challenges In The Meditation Process&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg&#34; alt=&#34;Challenges In The Meditation Process&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -427,13 +427,13 @@ Raga and Dvesa of your mind.&lt;/p&gt;</description>
     
     <item>
       <title>World Around</title>
-      <link>http://localhost:1313/wiaposts/world-around/</link>
+      <link>/wiaposts/world-around/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/world-around/</guid>
+      <guid>/wiaposts/world-around/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5145-World-Around.jpg&#34; alt=&#34;World Around&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5145-World-Around.jpg&#34; alt=&#34;World Around&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -463,13 +463,13 @@ about it in your own individual subjective world.&lt;/p&gt;</description>
     
     <item>
       <title>Limitations Of Logic</title>
-      <link>http://localhost:1313/wiaposts/limitations-of-logic/</link>
+      <link>/wiaposts/limitations-of-logic/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/limitations-of-logic/</guid>
+      <guid>/wiaposts/limitations-of-logic/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5141-Limitations-Of-Logic.jpg&#34; alt=&#34;Limitations Of Logic&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5141-Limitations-Of-Logic.jpg&#34; alt=&#34;Limitations Of Logic&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -507,13 +507,13 @@ advanced culture in the 21st century.&lt;/p&gt;</description>
     
     <item>
       <title>Thinking In Human Vs Computers</title>
-      <link>http://localhost:1313/wiaposts/thinking-in-human-vs-computers/</link>
+      <link>/wiaposts/thinking-in-human-vs-computers/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/thinking-in-human-vs-computers/</guid>
+      <guid>/wiaposts/thinking-in-human-vs-computers/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg&#34; alt=&#34;Thinking In Human Vs Computers&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg&#34; alt=&#34;Thinking In Human Vs Computers&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -535,13 +535,13 @@ advanced culture in the 21st century.&lt;/p&gt;</description>
     
     <item>
       <title>Knocking Your Own Door</title>
-      <link>http://localhost:1313/wiaposts/knocking-your-own-door/</link>
+      <link>/wiaposts/knocking-your-own-door/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/knocking-your-own-door/</guid>
+      <guid>/wiaposts/knocking-your-own-door/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg&#34; alt=&#34;Knocking Your Own Door&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg&#34; alt=&#34;Knocking Your Own Door&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -563,13 +563,13 @@ advanced culture in the 21st century.&lt;/p&gt;</description>
     
     <item>
       <title>Paradox Of Learning</title>
-      <link>http://localhost:1313/wiaposts/paradox-of-learning/</link>
+      <link>/wiaposts/paradox-of-learning/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/paradox-of-learning/</guid>
+      <guid>/wiaposts/paradox-of-learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5090-Paradox-Of-Learning.jpg&#34; alt=&#34;Paradox Of Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5090-Paradox-Of-Learning.jpg&#34; alt=&#34;Paradox Of Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -600,13 +600,13 @@ you want to leave the learning setup.&lt;/p&gt;</description>
     
     <item>
       <title>Who Is Really Sleeping?</title>
-      <link>http://localhost:1313/wiaposts/who-is-really-sleeping/</link>
+      <link>/wiaposts/who-is-really-sleeping/</link>
       <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/who-is-really-sleeping/</guid>
+      <guid>/wiaposts/who-is-really-sleeping/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg&#34; alt=&#34;Who Is Really Sleeping?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg&#34; alt=&#34;Who Is Really Sleeping?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -635,13 +635,13 @@ running behind something.&lt;/p&gt;</description>
     
     <item>
       <title>Happening Human Reasoning</title>
-      <link>http://localhost:1313/wiaposts/happening-human-reasoning/</link>
+      <link>/wiaposts/happening-human-reasoning/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/happening-human-reasoning/</guid>
+      <guid>/wiaposts/happening-human-reasoning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5079-Happening-Human-Reasoning.jpg&#34; alt=&#34;Happening Human Reasoning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5079-Happening-Human-Reasoning.jpg&#34; alt=&#34;Happening Human Reasoning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -673,13 +673,13 @@ Who gave meaning to the time that it is good and bad?&lt;/p&gt;</description>
     
     <item>
       <title>Location Of Mind</title>
-      <link>http://localhost:1313/wiaposts/location-of-mind/</link>
+      <link>/wiaposts/location-of-mind/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/location-of-mind/</guid>
+      <guid>/wiaposts/location-of-mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5054-Location-Of-Mind.jpg&#34; alt=&#34;Location Of Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5054-Location-Of-Mind.jpg&#34; alt=&#34;Location Of Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -713,13 +713,13 @@ Who gave meaning to the time that it is good and bad?&lt;/p&gt;</description>
     
     <item>
       <title>Boundaryless In Boundary</title>
-      <link>http://localhost:1313/wiaposts/boundaryless-in-boundary/</link>
+      <link>/wiaposts/boundaryless-in-boundary/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/boundaryless-in-boundary/</guid>
+      <guid>/wiaposts/boundaryless-in-boundary/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg&#34; alt=&#34;Boundaryless In Boundary&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg&#34; alt=&#34;Boundaryless In Boundary&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -751,13 +751,13 @@ your past good moments.&lt;/p&gt;</description>
     
     <item>
       <title>What Is A Positive Mindset</title>
-      <link>http://localhost:1313/wiaposts/what-is-a-positive-mindset/</link>
+      <link>/wiaposts/what-is-a-positive-mindset/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/what-is-a-positive-mindset/</guid>
+      <guid>/wiaposts/what-is-a-positive-mindset/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg&#34; alt=&#34;What Is A Positive Mindset&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg&#34; alt=&#34;What Is A Positive Mindset&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -785,13 +785,13 @@ people, thoughts, places, around us?&lt;/p&gt;</description>
     
     <item>
       <title>About Silence And Listening</title>
-      <link>http://localhost:1313/wiaposts/about-silence-and-listening/</link>
+      <link>/wiaposts/about-silence-and-listening/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/about-silence-and-listening/</guid>
+      <guid>/wiaposts/about-silence-and-listening/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5031-About-Silence-And-Listening.jpg&#34; alt=&#34;About Silence And Listening&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5031-About-Silence-And-Listening.jpg&#34; alt=&#34;About Silence And Listening&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -816,13 +816,13 @@ And it is also possible that with a deaf ear I may not hear but listen.&lt;/p&gt
     
     <item>
       <title>The Mind Is Friend Or Enemy</title>
-      <link>http://localhost:1313/wiaposts/the-mind-is-friend-or-enemy/</link>
+      <link>/wiaposts/the-mind-is-friend-or-enemy/</link>
       <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/the-mind-is-friend-or-enemy/</guid>
+      <guid>/wiaposts/the-mind-is-friend-or-enemy/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg&#34; alt=&#34;The Mind Is Friend Or Enemy&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg&#34; alt=&#34;The Mind Is Friend Or Enemy&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -853,13 +853,13 @@ then it has shorter joy and long-suffering.&lt;/p&gt;</description>
     
     <item>
       <title>Gate Of Mind</title>
-      <link>http://localhost:1313/wiaposts/gate-of-mind/</link>
+      <link>/wiaposts/gate-of-mind/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/gate-of-mind/</guid>
+      <guid>/wiaposts/gate-of-mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5021-Gate-Of-Mind.jpg&#34; alt=&#34;Gate Of Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5021-Gate-Of-Mind.jpg&#34; alt=&#34;Gate Of Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -889,13 +889,13 @@ playfully through any smallest possible window.&lt;/p&gt;</description>
     
     <item>
       <title>Mind And Pleasure</title>
-      <link>http://localhost:1313/wiaposts/mind-and-pleasure/</link>
+      <link>/wiaposts/mind-and-pleasure/</link>
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/mind-and-pleasure/</guid>
+      <guid>/wiaposts/mind-and-pleasure/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5015-Mind-And-Pleasure.jpg&#34; alt=&#34;Mind And Pleasure&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5015-Mind-And-Pleasure.jpg&#34; alt=&#34;Mind And Pleasure&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -921,13 +921,13 @@ The whole body is the home of the mind.&lt;/p&gt;</description>
     
     <item>
       <title>Prisoner Of The Mind</title>
-      <link>http://localhost:1313/wiaposts/prisoner-of-the-mind/</link>
+      <link>/wiaposts/prisoner-of-the-mind/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/prisoner-of-the-mind/</guid>
+      <guid>/wiaposts/prisoner-of-the-mind/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg&#34; alt=&#34;Prisoner Of The Mind&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg&#34; alt=&#34;Prisoner Of The Mind&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -954,13 +954,13 @@ I bothered not anything more than food.&lt;/p&gt;</description>
     
     <item>
       <title>About Experience</title>
-      <link>http://localhost:1313/wiaposts/about-experience/</link>
+      <link>/wiaposts/about-experience/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/wiaposts/about-experience/</guid>
+      <guid>/wiaposts/about-experience/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/wiapost/5010-About-Experience.jpg&#34; alt=&#34;About Experience&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/wiapost/5010-About-Experience.jpg&#34; alt=&#34;About Experience&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

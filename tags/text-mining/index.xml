@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text Mining on </title>
-    <link>http://localhost:1313/tags/text-mining/</link>
+    <link>/tags/text-mining/</link>
     <description>Recent content in Text Mining on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Topic Modeling with BERT</title>
-      <link>http://localhost:1313/dsblog/topic-modeling-with-bert/</link>
+      <link>/dsblog/topic-modeling-with-bert/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/topic-modeling-with-bert/</guid>
+      <guid>/dsblog/topic-modeling-with-bert/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -87,13 +87,13 @@
     
     <item>
       <title>What is NLP?</title>
-      <link>http://localhost:1313/dsblog/what-is-nlp/</link>
+      <link>/dsblog/what-is-nlp/</link>
       <pubDate>Mon, 19 Dec 2022 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-nlp/</guid>
+      <guid>/dsblog/what-is-nlp/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6016-What-is-NLP.jpg&#34; alt=&#34;What is NLP?&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6016-What-is-NLP.jpg&#34; alt=&#34;What is NLP?&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

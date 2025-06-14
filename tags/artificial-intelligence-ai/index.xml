@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence (AI) on </title>
-    <link>http://localhost:1313/tags/artificial-intelligence-ai/</link>
+    <link>/tags/artificial-intelligence-ai/</link>
     <description>Recent content in Artificial Intelligence (AI) on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Dr. Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/artificial-intelligence-ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/artificial-intelligence-ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is a Digital Twin?</title>
-      <link>http://localhost:1313/dsblog/what-is-a-digital-twin/</link>
+      <link>/dsblog/what-is-a-digital-twin/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/what-is-a-digital-twin/</guid>
+      <guid>/dsblog/what-is-a-digital-twin/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6268-what-is-a-digital-twin.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6268-what-is-a-digital-twin.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>Quantum Physics with Deeper Questions with ChatGPT</title>
-      <link>http://localhost:1313/dsblog/quantum-physics-with-deeper-questions/</link>
+      <link>/dsblog/quantum-physics-with-deeper-questions/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/quantum-physics-with-deeper-questions/</guid>
+      <guid>/dsblog/quantum-physics-with-deeper-questions/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg&#34; alt=&#34;Quantum Physics with Deeper Questions&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg&#34; alt=&#34;Quantum Physics with Deeper Questions&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -81,13 +81,13 @@
     
     <item>
       <title>Understanding the Working of CNN</title>
-      <link>http://localhost:1313/dsblog/understanding-working-of-cnn/</link>
+      <link>/dsblog/understanding-working-of-cnn/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/understanding-working-of-cnn/</guid>
+      <guid>/dsblog/understanding-working-of-cnn/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg&#34; alt=&#34;Understanding the Working of CNN&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg&#34; alt=&#34;Understanding the Working of CNN&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -109,13 +109,13 @@
     
     <item>
       <title>Computer Vision Research Work</title>
-      <link>http://localhost:1313/dsblog/computer-vision-research-work/</link>
+      <link>/dsblog/computer-vision-research-work/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/computer-vision-research-work/</guid>
+      <guid>/dsblog/computer-vision-research-work/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -137,13 +137,13 @@
     
     <item>
       <title>Exploring AI Benchmarks &amp; Leaderboards</title>
-      <link>http://localhost:1313/dsblog/exploring-ai-benchmarks-and-leaderboards/</link>
+      <link>/dsblog/exploring-ai-benchmarks-and-leaderboards/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ai-benchmarks-and-leaderboards/</guid>
+      <guid>/dsblog/exploring-ai-benchmarks-and-leaderboards/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg&#34; alt=&#34;Exploring AI Benchmarks &amp;amp; Leaderboards&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg&#34; alt=&#34;Exploring AI Benchmarks &amp;amp; Leaderboards&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -177,13 +177,13 @@
     
     <item>
       <title>Exploring Types of Models</title>
-      <link>http://localhost:1313/dsblog/exploring-types-of-models/</link>
+      <link>/dsblog/exploring-types-of-models/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-types-of-models/</guid>
+      <guid>/dsblog/exploring-types-of-models/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg&#34; alt=&#34;Exploring Types of Models&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg&#34; alt=&#34;Exploring Types of Models&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -217,13 +217,13 @@
     
     <item>
       <title>Exploring AI Agents</title>
-      <link>http://localhost:1313/dsblog/exploring-ai-agents/</link>
+      <link>/dsblog/exploring-ai-agents/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-ai-agents/</guid>
+      <guid>/dsblog/exploring-ai-agents/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg&#34; alt=&#34;Exploring AI Agents&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg&#34; alt=&#34;Exploring AI Agents&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -257,13 +257,13 @@
     
     <item>
       <title>AI Product Ideas 2025</title>
-      <link>http://localhost:1313/dsblog/AI-Product-Ideas-2025/</link>
+      <link>/dsblog/AI-Product-Ideas-2025/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Product-Ideas-2025/</guid>
+      <guid>/dsblog/AI-Product-Ideas-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6206-AI-Product-Ideas.jpg&#34; alt=&#34;AI Product Ideas 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6206-AI-Product-Ideas.jpg&#34; alt=&#34;AI Product Ideas 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -297,13 +297,13 @@
     
     <item>
       <title>AI ML Project Ideas</title>
-      <link>http://localhost:1313/dsblog/AI-Project-Ideas/</link>
+      <link>/dsblog/AI-Project-Ideas/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Project-Ideas/</guid>
+      <guid>/dsblog/AI-Project-Ideas/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6205-AI-Project-Ideas.jpg&#34; alt=&#34;AI Project Ideas&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg&#34; alt=&#34;AI Project Ideas&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -337,13 +337,13 @@
     
     <item>
       <title>Adapting AI Models to the Latest Information: Methods and Approaches</title>
-      <link>http://localhost:1313/dsblog/adapting-ai-models-to-the-latest-information/</link>
+      <link>/dsblog/adapting-ai-models-to-the-latest-information/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/adapting-ai-models-to-the-latest-information/</guid>
+      <guid>/dsblog/adapting-ai-models-to-the-latest-information/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -377,13 +377,13 @@
     
     <item>
       <title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title>
-      <link>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
+      <link>/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
+      <guid>/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -417,13 +417,13 @@
     
     <item>
       <title>Rethinking AI Infrastructure: Advantages of On-Prem Over Cloud Solutions</title>
-      <link>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
+      <link>/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
+      <guid>/dsblog/cloud-vs-on-premse-ai-solutions-and-infrastructures/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6199-Rethinking-AI-Infrastructure-Advantages-of-On-Prem-Over-Cloud-Solutions.jpg&#34; alt=&#34;Cloud vs On-Premse AI Solutions and Infrastructures&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -457,13 +457,13 @@
     
     <item>
       <title>Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence</title>
-      <link>http://localhost:1313/dsblog/shaping-tomorrow-with-ai-nvidia/</link>
+      <link>/dsblog/shaping-tomorrow-with-ai-nvidia/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/shaping-tomorrow-with-ai-nvidia/</guid>
+      <guid>/dsblog/shaping-tomorrow-with-ai-nvidia/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg&#34; alt=&#34;Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg&#34; alt=&#34;Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -498,13 +498,13 @@
     
     <item>
       <title>AI Predictions for 2025</title>
-      <link>http://localhost:1313/dsblog/ai-predictions-for-2025/</link>
+      <link>/dsblog/ai-predictions-for-2025/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ai-predictions-for-2025/</guid>
+      <guid>/dsblog/ai-predictions-for-2025/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg&#34; alt=&#34;AI Predictions for 2025&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -813,19 +813,19 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;My 2020, article on &lt;a href=&#34;../../dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;My 2020, article on &lt;a href=&#34;/dsblog/100&amp;#43;High-Level-AI-Usecases&#34;&gt;100+ AI Usecase - Future Predictions for AI&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>How AlphaFold is Revolutionizing Protein Science</title>
-      <link>http://localhost:1313/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</link>
+      <link>/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</guid>
+      <guid>/dsblog/How-AlphaFold-is-Revolutionizing-Protein-Science/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg&#34; alt=&#34; Answering Big Questions with AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg&#34; alt=&#34; Answering Big Questions with AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -871,13 +871,13 @@
     
     <item>
       <title>OpenAI 12 Days 2024 Announcements</title>
-      <link>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</link>
+      <link>/dsblog/OpenAI-12-Days-2024-Announcements/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
+      <guid>/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -913,13 +913,13 @@
     
     <item>
       <title>Framework for using LLM</title>
-      <link>http://localhost:1313/dsblog/Framework-for-using-LLM/</link>
+      <link>/dsblog/Framework-for-using-LLM/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Framework-for-using-LLM/</guid>
+      <guid>/dsblog/Framework-for-using-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -941,13 +941,13 @@
     
     <item>
       <title>AI Imperialism: Western Dominance and the Future of Global Technology</title>
-      <link>http://localhost:1313/dsblog/AI-Imperialism/</link>
+      <link>/dsblog/AI-Imperialism/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Imperialism/</guid>
+      <guid>/dsblog/AI-Imperialism/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -969,13 +969,13 @@
     
     <item>
       <title>Visualizing Transformers and Attention</title>
-      <link>http://localhost:1313/dsblog/Visualizing-transformers-and-attention/</link>
+      <link>/dsblog/Visualizing-transformers-and-attention/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Visualizing-transformers-and-attention/</guid>
+      <guid>/dsblog/Visualizing-transformers-and-attention/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -991,7 +991,7 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;../../dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;/dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Transformers and Their Flexibility&lt;/strong&gt; 
@@ -1257,13 +1257,13 @@
     
     <item>
       <title>Exploring Graphics Processing Units (GPUs)</title>
-      <link>http://localhost:1313/dsblog/Exploring-GPUs/</link>
+      <link>/dsblog/Exploring-GPUs/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Exploring-GPUs/</guid>
+      <guid>/dsblog/Exploring-GPUs/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6188-Exploring-GPUs.jpg&#34; alt=&#34;Exploring Graphics Processing Units (GPUs)&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1459,13 +1459,13 @@
     
     <item>
       <title>AI Models and Creators</title>
-      <link>http://localhost:1313/dsblog/AI-Models-and-Creators/</link>
+      <link>/dsblog/AI-Models-and-Creators/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Models-and-Creators/</guid>
+      <guid>/dsblog/AI-Models-and-Creators/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6187-ai-models-and-creators.jpg&#34; alt=&#34;AI Models and Creators&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1537,13 +1537,13 @@
     
     <item>
       <title>Serverless LLM Deployment Platform</title>
-      <link>http://localhost:1313/dsblog/serverless-llm-deployment/</link>
+      <link>/dsblog/serverless-llm-deployment/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/serverless-llm-deployment/</guid>
+      <guid>/dsblog/serverless-llm-deployment/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1589,13 +1589,13 @@
     
     <item>
       <title>Google AI Studio vs Vertex AI</title>
-      <link>http://localhost:1313/dsblog/google-ai-studio-vs-vertexai/</link>
+      <link>/dsblog/google-ai-studio-vs-vertexai/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/google-ai-studio-vs-vertexai/</guid>
+      <guid>/dsblog/google-ai-studio-vs-vertexai/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg&#34; alt=&#34;Google AI Studio vs Vertex AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg&#34; alt=&#34;Google AI Studio vs Vertex AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1631,13 +1631,13 @@
     
     <item>
       <title>Introduction to NVIDIA and Products</title>
-      <link>http://localhost:1313/dsblog/introduction-nvidia-products/</link>
+      <link>/dsblog/introduction-nvidia-products/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/introduction-nvidia-products/</guid>
+      <guid>/dsblog/introduction-nvidia-products/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg&#34; alt=&#34;Introduction-NVIDIA-Products&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1710,13 +1710,13 @@
     
     <item>
       <title>Exploring GGUF and Other Model Formats</title>
-      <link>http://localhost:1313/dsblog/exploring-gguf-and-other-model-formats/</link>
+      <link>/dsblog/exploring-gguf-and-other-model-formats/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-gguf-and-other-model-formats/</guid>
+      <guid>/dsblog/exploring-gguf-and-other-model-formats/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6180-exploring-gguf.jpg&#34; alt=&#34;Understanding GGUF and Other Model Formats in Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6180-exploring-gguf.jpg&#34; alt=&#34;Understanding GGUF and Other Model Formats in Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1738,13 +1738,13 @@
     
     <item>
       <title>Exploring AnythingLLM</title>
-      <link>http://localhost:1313/dsblog/exploring-anythingllm/</link>
+      <link>/dsblog/exploring-anythingllm/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/exploring-anythingllm/</guid>
+      <guid>/dsblog/exploring-anythingllm/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6179-exploring-anythingllm.jpg&#34; alt=&#34;Exploring AnythingLLM &#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1778,13 +1778,13 @@
     
     <item>
       <title>Types of Large Language Models (LLM)</title>
-      <link>http://localhost:1313/dsblog/Types-of-LLM/</link>
+      <link>/dsblog/Types-of-LLM/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-LLM/</guid>
+      <guid>/dsblog/Types-of-LLM/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6171-Types-of-LLM.jpg&#34; alt=&#34;&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1806,13 +1806,13 @@
     
     <item>
       <title>AI/ML with Oracle Cloud</title>
-      <link>http://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</link>
+      <link>/dsblog/AI-ML-With-Oracle-Cloud/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</guid>
+      <guid>/dsblog/AI-ML-With-Oracle-Cloud/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg&#34; alt=&#34;AI/ML with Oracle Cloud&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg&#34; alt=&#34;AI/ML with Oracle Cloud&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1880,13 +1880,13 @@
     
     <item>
       <title>Introduction to Perplexity AI</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</link>
+      <link>/dsblog/Introduction-to-Perplexity-AI/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</guid>
+      <guid>/dsblog/Introduction-to-Perplexity-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg&#34; alt=&#34;Introduction to Perplexity AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg&#34; alt=&#34;Introduction to Perplexity AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1920,13 +1920,13 @@
     
     <item>
       <title>AI Usecases in Cybersecurity</title>
-      <link>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</link>
+      <link>/dsblog/AI-Usecases-in-Cybersecurity/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-Usecases-in-Cybersecurity/</guid>
+      <guid>/dsblog/AI-Usecases-in-Cybersecurity/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg&#34; alt=&#34;AI-Usecases-in-Cybersecurity&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -1975,13 +1975,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Open Source vs Closed Source AI</title>
-      <link>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</link>
+      <link>/dsblog/Open-Source-vs-Closed-Source-AI/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
+      <guid>/dsblog/Open-Source-vs-Closed-Source-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg&#34; alt=&#34;Open-Source-vs-Closed-Source-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2003,13 +2003,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>LLM Skills and Human Skills</title>
-      <link>http://localhost:1313/dsblog/LLM-Skills-and-Human-Skills/</link>
+      <link>/dsblog/LLM-Skills-and-Human-Skills/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/LLM-Skills-and-Human-Skills/</guid>
+      <guid>/dsblog/LLM-Skills-and-Human-Skills/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg&#34; alt=&#34;LLM-Skills-and-Human-Skills&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg&#34; alt=&#34;LLM-Skills-and-Human-Skills&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2043,13 +2043,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Graph of Thoughts</title>
-      <link>http://localhost:1313/dsblog/graph-of-thoughts/</link>
+      <link>/dsblog/graph-of-thoughts/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/graph-of-thoughts/</guid>
+      <guid>/dsblog/graph-of-thoughts/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg&#34; alt=&#34;Graph of Thoughts&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg&#34; alt=&#34;Graph of Thoughts&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2071,13 +2071,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>NLP Tasks</title>
-      <link>http://localhost:1313/dsblog/nlp-tasks/</link>
+      <link>/dsblog/nlp-tasks/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/nlp-tasks/</guid>
+      <guid>/dsblog/nlp-tasks/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6085-NLP-Tasks.jpg&#34; alt=&#34;NLP Tasks&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6085-NLP-Tasks.jpg&#34; alt=&#34;NLP Tasks&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2111,13 +2111,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Introduction to Prompt Engineering</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</link>
+      <link>/dsblog/Introduction-to-Prompt-Engineering/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</guid>
+      <guid>/dsblog/Introduction-to-Prompt-Engineering/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg&#34; alt=&#34;Introduction to Prompt Engineering&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2139,13 +2139,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>God Fathers of AI</title>
-      <link>http://localhost:1313/dsblog/God-Fathers-of-AI/</link>
+      <link>/dsblog/God-Fathers-of-AI/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/God-Fathers-of-AI/</guid>
+      <guid>/dsblog/God-Fathers-of-AI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg&#34; alt=&#34;God Fathers of AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg&#34; alt=&#34;God Fathers of AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2167,13 +2167,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Types of Machine Learning</title>
-      <link>http://localhost:1313/dsblog/Types-of-Machine-Learning/</link>
+      <link>/dsblog/Types-of-Machine-Learning/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Types-of-Machine-Learning/</guid>
+      <guid>/dsblog/Types-of-Machine-Learning/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg&#34; alt=&#34;Types of Machine Learning&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg&#34; alt=&#34;Types of Machine Learning&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2207,13 +2207,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Will AI Replace Human?</title>
-      <link>http://localhost:1313/dsblog/Will-AI-Replace-Human/</link>
+      <link>/dsblog/Will-AI-Replace-Human/</link>
       <pubDate>Thu, 19 Jan 2023 08:33:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Will-AI-Replace-Human/</guid>
+      <guid>/dsblog/Will-AI-Replace-Human/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg&#34; alt=&#34;Will AI Replace Human&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2235,13 +2235,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Introduction to Neural Network</title>
-      <link>http://localhost:1313/dsblog/Introduction-to-Neural-Network/</link>
+      <link>/dsblog/Introduction-to-Neural-Network/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/Introduction-to-Neural-Network/</guid>
+      <guid>/dsblog/Introduction-to-Neural-Network/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg&#34; alt=&#34;Introduction to Neural Network&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg&#34; alt=&#34;Introduction to Neural Network&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2275,13 +2275,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>AI in Energy Management</title>
-      <link>http://localhost:1313/dsblog/AI-in-Energy-Management/</link>
+      <link>/dsblog/AI-in-Energy-Management/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/AI-in-Energy-Management/</guid>
+      <guid>/dsblog/AI-in-Energy-Management/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg&#34; alt=&#34;AI in Energy Management&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg&#34; alt=&#34;AI in Energy Management&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2315,13 +2315,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>Data Science, AI, ML, eBooks, PDF Books</title>
-      <link>http://localhost:1313/dsblog/ds-ai-ml-books/</link>
+      <link>/dsblog/ds-ai-ml-books/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/ds-ai-ml-books/</guid>
+      <guid>/dsblog/ds-ai-ml-books/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg&#34; alt=&#34;DS, AI, ML, Books Available&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg&#34; alt=&#34;DS, AI, ML, Books Available&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2344,13 +2344,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>DS, AI, ML Online Course, Tutorial, Videos</title>
-      <link>http://localhost:1313/dsblog/data-science-tutorial-video-resources/</link>
+      <link>/dsblog/data-science-tutorial-video-resources/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/data-science-tutorial-video-resources/</guid>
+      <guid>/dsblog/data-science-tutorial-video-resources/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg&#34; alt=&#34;DS, AI, ML Online Course, Tutorial, Videos&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg&#34; alt=&#34;DS, AI, ML Online Course, Tutorial, Videos&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -2568,13 +2568,13 @@ AI can enhance the detection and response to cybersecurity threats by:&lt;/p&gt;
     
     <item>
       <title>100&#43; High Level AI Usecases and Future Prediction for AI as on 2020</title>
-      <link>http://localhost:1313/dsblog/100&#43;High-Level-AI-Usecases/</link>
+      <link>/dsblog/100&#43;High-Level-AI-Usecases/</link>
       <pubDate>Sat, 02 May 2020 15:50:00 +0530</pubDate>
       <author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author>
-      <guid>http://localhost:1313/dsblog/100&#43;High-Level-AI-Usecases/</guid>
+      <guid>/dsblog/100&#43;High-Level-AI-Usecases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;../../assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg&#34; alt=&#34;HighLevel-UsesCases-AI&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;/assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg&#34; alt=&#34;HighLevel-UsesCases-AI&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
