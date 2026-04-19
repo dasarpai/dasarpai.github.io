@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source on</title><link>https://dasarpai.github.io/tags/open-source/</link><description>Recent content in Open Source on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title><link>https://dasarpai.github.io/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations
+&lt;div id="navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Software products, at their core, are solutions designed to address specific problems. Just as there are many ways to solve a problem in life, there are numerous ways to design software to tackle the same issue. In software development, you don’t always have to reinvent the wheel—open-source code and third-party APIs provide a wealth of solutions that can be integrated into your project. These resources, developed by various organizations, teams, and individuals over time, can range from generic solutions to highly specialized ones. However, integrating them into your product requires careful thought and consideration.&lt;/p></description></item><item><title>Open Source vs Closed Source AI</title><link>https://dasarpai.github.io/dsblog/open-source-vs-closed-source-ai/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/open-source-vs-closed-source-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg" alt="Open-Source-vs-Closed-Source-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Open Source AI vs Closed Source AI
+&lt;div id="open-source-ai-vs-closed-source-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#open-source-ai-vs-closed-source-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Major players in the AI industry, such as Google, Microsoft, IBM, Salesforce, etc each have their own proprietary models and infrastructure to host these models. They offer AI services that companies use to develop AI products for either their end customers or internal use. Training or developing AI models requires expensive hardware and highly skilled personnel, making it a costly process. However, the deployment and inference stages are even more expensive, as they involve ongoing costs for hardware and monitoring.&lt;/p></description></item><item><title>Reinforcement Learning Git Repositories</title><link>https://dasarpai.github.io/dsblog/rl-git-repo/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rl-git-repo/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg" alt="Reinforcement Learning Git Repositories" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Reinforcement Learning Git Repositories
+&lt;div id="reinforcement-learning-git-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reinforcement-learning-git-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno.&lt;/th>
+&lt;th>URL&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>OpenAI Baselines: high-quality implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>A fork of OpenAI Baselines, implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>An educational resource to help anyone learn deep reinforcement learning.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>TF-Agents is a library for Reinforcement Learning in TensorFlow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>TensorFlow Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>A platform for Applied Reinforcement Learning (Applied RL)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>An End-To-End, Lightweight and Flexible Platform for Game Research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>A fast and simple framework for building and running distributed applications.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Deep Reinforcement Learning for Keras.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>Rainbow: Combining Improvements in Deep Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>Velocity in deep-learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorforce: A TensorFlow library for applied reinforcement learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>Modular Deep Reinforcement Learning framework in PyTorch.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>A framework for reproducible reinforcement learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>Reproducible and fast DL &amp;amp; RL.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>21&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>A toolkit for developing and comparing reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>A customisable 3D platform for agent-based AI research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>23&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. — For installation instruct&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro Games in Gym&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>25&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>The DeepMind Control Suite and Package&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO – A Massively Multiagent Game Environment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>27&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>Gym @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>Lab @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>29&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo @ Microsoft&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>31&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>Control Suite @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>32&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>33&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>34&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Antonin Raffin, Ashley Hill&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>35&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Sergey Kolesnikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>36&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Ray Team&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>37&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>38&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>39&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Intel&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by community&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>41&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Wah Loon Keng, Laura Graesser&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>42&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>43&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>44&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>45&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/scalable_agent" target="_blank">https://github.com/deepmind/scalable_agent&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>46&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>47&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Matthias Plappert&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>48&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Ilya Kostrikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>49&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Kai Arulkumaran&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>50&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Jerry (?)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>51&lt;/td>
+&lt;td>&lt;a href="https://github.com/Khrylx/PyTorch-RL" target="_blank">https://github.com/Khrylx/PyTorch-RL&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>52&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>53&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>54&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>55&lt;/td>
+&lt;td>&lt;a href="https://github.com/SurrealAI/surreal" target="_blank">https://github.com/SurrealAI/surreal&lt;/a>&lt;/td>
+&lt;td>TorchX&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>56&lt;/td>
+&lt;td>&lt;a href="https://github.com/zuoxingdong/lagom" target="_blank">https://github.com/zuoxingdong/lagom&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>57&lt;/td>
+&lt;td>&lt;a href="https://github.com/dennybritz/reinforcement-learning" target="_blank">https://github.com/dennybritz/reinforcement-learning&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>58&lt;/td>
+&lt;td>&lt;a href="https://github.com/unixpickle/anyrl-py" target="_blank">https://github.com/unixpickle/anyrl-py&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>59&lt;/td>
+&lt;td>&lt;a href="https://github.com/Scitator/rl-course-experiments" target="_blank">https://github.com/Scitator/rl-course-experiments&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>&lt;a href="https://github.com/oxwhirl/pymarl" target="_blank">https://github.com/oxwhirl/pymarl&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

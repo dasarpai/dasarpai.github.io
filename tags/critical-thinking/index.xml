@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Critical Thinking on</title><link>https://dasarpai.github.io/tags/critical-thinking/</link><description>Recent content in Critical Thinking on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/critical-thinking/index.xml" rel="self" type="application/rss+xml"/><item><title>Retrieval-Augmented Generation with Conflicting Evidence</title><link>https://dasarpai.github.io/dsblog/ps-retrieval-augmented-generation-with-conflicting-evidence/</link><pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ps-retrieval-augmented-generation-with-conflicting-evidence/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Paper Summary: Retrieval-Augmented Generation with Conflicting Evidence
+&lt;div id="paper-summary-retrieval-augmented-generation-with-conflicting-evidence" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-summary-retrieval-augmented-generation-with-conflicting-evidence" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.13079" target="_blank">arXiv Paper&lt;/a>&lt;/p>
+&lt;p>The hypothesis of this paper is that &lt;strong>real-world retrieval-augmented generation (RAG) systems must simultaneously handle various sources of conflicting information, including ambiguity in user queries and contradictory information arising from misinformation and noise in retrieved documents&lt;/strong>. The authors argue that prior work has largely addressed these challenges in isolation.&lt;/p></description></item><item><title>Types of Questions</title><link>https://dasarpai.github.io/dsblog/types-of-questions/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6083-Types-of-Questions.jpg" alt="Types of Questions" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Questions
+&lt;div id="types-of-questions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-questions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Question-Answering task is one of the tasks in NLP-Task. To create a high-performing AI system that can understand the question correctly and answer appropriately, we need to train a model. And to train a model, we need to have a good-quality dataset in place. Without understanding what are the different formats of questions and answers, we cannot create a dataset. In our day-to-day life we never pay attention to this minute detail but to create an AI system that can perform QA tasks, we need to understand the different formats of questions. In this article, I am creating a list of these different types of questions. To create an AI system that can perform all these kinds of QA tasks, we need to craft the dataset very carefully. Although, we see lots of data around, but to create an NLP-Task specific dataset is tedious task.&lt;/p></description></item><item><title>The Science of Reasoning</title><link>https://dasarpai.github.io/dsblog/the-science-of-reasoning/</link><pubDate>Wed, 21 Dec 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/the-science-of-reasoning/</guid><description>&lt;h1 class="relative group">The Science of Reasoning
+&lt;div id="the-science-of-reasoning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-science-of-reasoning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg" alt="The Science of Reasoning" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">About Reasoning
+&lt;div id="about-reasoning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about-reasoning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Reasoning is a unique ability in humans. Whatever civilizational advancement we see, it is because of our ability to think, imagine and reason. We all give reasons and ask for reasons but most humans don&amp;rsquo;t understand the fallacies of reasoning. Due to this sometimes we are putting forward a correct point but we are using the wrong reasoning.&lt;/p></description></item></channel></rss>

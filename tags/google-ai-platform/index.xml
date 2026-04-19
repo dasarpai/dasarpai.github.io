@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Google AI Platform on</title><link>https://dasarpai.github.io/tags/google-ai-platform/</link><description>Recent content in Google AI Platform on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/google-ai-platform/index.xml" rel="self" type="application/rss+xml"/><item><title>Google AI Studio vs Vertex AI</title><link>https://dasarpai.github.io/dsblog/google-ai-studio-vs-vertexai/</link><pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/google-ai-studio-vs-vertexai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg" alt="Google AI Studio vs Vertex AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Google AI Studio vs Vertex AI
+&lt;div id="google-ai-studio-vs-vertex-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#google-ai-studio-vs-vertex-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>The difference between &lt;strong>Vertex AI&lt;/strong> and &lt;strong>Google AI Studio&lt;/strong> lies in their scope, functionality, and target audiences within Google&amp;rsquo;s suite of AI tools.&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>1. Vertex AI&lt;/strong>
+&lt;div id="1-vertex-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-vertex-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Vertex AI&lt;/strong> is Google&amp;rsquo;s &lt;strong>end-to-end AI platform&lt;/strong> for machine learning (ML) and AI model development, training, deployment, and management. It is designed for developers and data scientists who want a comprehensive environment to build, deploy, and scale ML models.&lt;/p></description></item><item><title>Model Tuning with VertexAI</title><link>https://dasarpai.github.io/dsblog/model-tuning-with-vertexai/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/model-tuning-with-vertexai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg" alt="Model Tuning with VertexAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Tuning Large Language Model with VertexAI
+&lt;div id="tuning-large-language-model-with-vertexai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tuning-large-language-model-with-vertexai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why Model Tuning?
+&lt;div id="why-model-tuning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-model-tuning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tuning is required when you want the model to learn something niche or specific that deviates from general language patterns.&lt;/p>
+&lt;h2 class="relative group">Goal of Tuning
+&lt;div id="goal-of-tuning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#goal-of-tuning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Classification
+&lt;div id="classification" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#classification" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>prompt: &amp;ldquo;Classify the following text into one of the following classes: [business, entertainment].&amp;rdquo;&lt;/p></description></item><item><title>Model Garden of VertexAI</title><link>https://dasarpai.github.io/dsblog/model-garden-of-vertexai/</link><pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/model-garden-of-vertexai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg" alt="All Resources to Learn Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Model Garden of VertexAI:
+&lt;div id="model-garden-of-vertexai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#model-garden-of-vertexai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Unlocking the Power of Google&amp;rsquo;s VertexAI: Exploring the World of Pre-Built Models for AI Tasks
+&lt;div id="unlocking-the-power-of-googles-vertexai-exploring-the-world-of-pre-built-models-for-ai-tasks" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#unlocking-the-power-of-googles-vertexai-exploring-the-world-of-pre-built-models-for-ai-tasks" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Introduction:
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Artificial Intelligence (AI) has transformed numerous industries, from healthcare and finance to e-commerce, logistic, eduction and entertainment. But the complexity of developing machine learning models often poses a challenge. As the demand for AI-powered solutions continues to rise, data scientists seek efficient ways to leverage pre-trained models or build custom models to address specific tasks. In this regard, Google&amp;rsquo;s VertexAI emerges as a robust platform that offers an extensive selection of pre-built models for a wide range of AI tasks. VertexAI platform has revolutionized the landscape by seamlessly leveraging LLM (Large Language Models) and Prompt Engineering techniques to perform complex machine learning tasks effortlessly. With VertexAI, data scientists can harness the power of state-of-the-art language models, such as LLM, to accelerate their ML development process. Additionally, the innovative concept of Prompt Engineering enables users to effectively communicate with the models, guiding them to deliver precise and accurate results. From computer vision and natural language processing to speech processing and structured tabular data analysis, Vertex AI&amp;rsquo;s repertoire includes over 100 models catering to diverse application domains. This article explores how Vertex AI, through its integration of LLM and Prompt Engineering, empowers users to effortlessly tackle intricate machine learning tasks across diverse domains, revolutionizing the AI development experience.&lt;/p></description></item></channel></rss>

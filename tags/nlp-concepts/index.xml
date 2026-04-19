@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NLP Concepts on</title><link>https://dasarpai.github.io/tags/nlp-concepts/</link><description>Recent content in NLP Concepts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/nlp-concepts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Road to Bharat LLMs Goes Via Sanskrit</title><link>https://dasarpai.github.io/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</link><pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/the-road-to-bharat-llms-goes-via-sanskrit/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg" alt="The Road to Bharat LLMs Goes Via Sanskrit" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>The Road to Bharat LLMs Goes Via Sanskrit&lt;/strong>
+&lt;div id="the-road-to-bharat-llms-goes-via-sanskrit" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-road-to-bharat-llms-goes-via-sanskrit" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>The Case for Sanskrit as India’s AI Language&lt;/strong>&lt;/p>
+&lt;h2 class="relative group">&lt;strong>The National Language Debate and Its Impact on AI&lt;/strong>
+&lt;div id="the-national-language-debate-and-its-impact-on-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-national-language-debate-and-its-impact-on-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Since India&amp;rsquo;s independence, the debate over a national language has been intense. This issue becomes especially heated when considering the different regional perspectives, particularly in South India. For instance, Tamil Nadu politicians strongly believe that Tamil is their primary language, while Sanskrit is often seen as North Indian. At the time of independence, few would have predicted that 75 years later, we would be struggling to develop our own AI technology—partly due to not making Sanskrit the national language.&lt;/p></description></item><item><title>Exploring Tokenization and Embedding in NLP</title><link>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</link><pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg" alt="Exploring Tokenization and Embedding in NLP" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Tokenization and Embedding in NLP
+&lt;div id="exploring-tokenization-and-embedding-in-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-tokenization-and-embedding-in-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.&lt;/p>
+&lt;ol>
+&lt;li>What is tokenization?&lt;/li>
+&lt;li>What are different Tokenzation schemes?&lt;/li>
+&lt;li>What is OOV (Out-of-Vocabulary) in Tokenization?&lt;/li>
+&lt;li>If a word does not exist in embedding model&amp;rsquo;s vocabulary, then how tokenization and embedding is done?&lt;/li>
+&lt;li>What is criteria of splitting a word?&lt;/li>
+&lt;li>What is Subword Tokenization?&lt;/li>
+&lt;li>How FastText Tokenization works?&lt;/li>
+&lt;li>What is role of [CLS] token?&lt;/li>
+&lt;li>What is WordPiece and how it works?&lt;/li>
+&lt;li>What is BPE (Byte Pair Encoding), and how it works?&lt;/li>
+&lt;li>What is SentencePiece and how it works?&lt;/li>
+&lt;li>For Indian languages what tokenization schemes is the best?&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">What is tokenization?
+&lt;div id="what-is-tokenization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-tokenization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tokenization is the process of breaking text into smaller units (tokens), such as words, subwords, or characters, for NLP tasks.&lt;/p></description></item><item><title>Manamath Nath - Ramayana Corpus</title><link>https://dasarpai.github.io/dsblog/manamath-nath-ramayana-corpus/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/manamath-nath-ramayana-corpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg" alt="Manmath Nath - Ramayana Corpus" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Manmath Nath - Ramayana Corpus
+&lt;div id="manmath-nath---ramayana-corpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#manmath-nath---ramayana-corpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-corpus-intro">Corpus Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-text-license">Corpus License&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-1">Bala Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-2">Ayodhya Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-3">Aranyaka Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-4">Kishkinddha Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-5">Sunder Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-6">Lanka Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-7">Utter Kanda&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>KM Ganguli Mahabharat Corpus</title><link>https://dasarpai.github.io/dsblog/km-ganguli-mahabharat-corpus/</link><pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/km-ganguli-mahabharat-corpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg" alt="KM Ganguli Mahabharat Corpus" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">KM Ganguli Mahabharat Corpus
+&lt;div id="km-ganguli-mahabharat-corpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#km-ganguli-mahabharat-corpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-01">Adi Parva (The Book of the Beginning)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-02">Sabha Parva (The Book of the Assembly Hall)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-03">Vana Parva or Aranyaka-Parva (The Book of the Forest)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-04">Virata Parva (The Book of Virata)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-05">Udyoga Parva (The Book of the Effort)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-06">Bhishma Parva (The Book of Bhishma)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-07">Drona Parva (The Book of Drona)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-08">Karna Parva (The Book of Karna)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-09">Shalya Parva (The Book of Shalya)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-10">Sauptika Parva (The Book of the Sleeping Warriors)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-11">Stri Parva (The Book of the Women)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-12">Shanti Parva (The Book of Peace)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-13">Anushasana Parva (The Book of the Instructions)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-14">Ashvamedhika Parva (The Book of the Horse Sacrifice)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-15">Ashramavasika Parva (The Book of the Hermitage)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-16">Mausala Parva (The Book of the Clubs)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-17">Mahaprasthanika Parva (The Book of the Great Journey)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-18">Svargarohana Parva (The Book of the Ascent to Heaven)&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Basics of Word Embedding</title><link>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg" alt="Basics of Word Embedding" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Basics of Word Embedding
+&lt;div id="basics-of-word-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-word-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Context, target and window?
+&lt;div id="what-is-context-target-and-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-context-target-and-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li>
+&lt;li>The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li>
+&lt;li>The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li>
+&lt;/ul>
+&lt;p>Let&amp;rsquo;s take a sentence&lt;/p></description></item><item><title>Embedding with FastText</title><link>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg" alt="Embedding with FastText" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Embedding with FastText
+&lt;div id="embedding-with-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-with-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-is-embedding">What is Embedding?&lt;/a>&lt;br>
+&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-are-different-embedding-types">What are Different Types of Embedding&lt;/a>&lt;/p>
+&lt;h2 class="relative group">What is FastText?
+&lt;div id="what-is-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for &lt;strong>training&lt;/strong> and &lt;strong>using word embeddings&lt;/strong>.&lt;/p></description></item></channel></rss>

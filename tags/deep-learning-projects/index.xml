@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning Projects on</title><link>https://dasarpai.github.io/tags/deep-learning-projects/</link><description>Recent content in Deep Learning Projects on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 06 Oct 2022 15:50:00 +0530</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/deep-learning-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Science/AI Projects Project Ideas</title><link>https://dasarpai.github.io/dsblog/ds-ai-projects-project-ideas/</link><pubDate>Thu, 06 Oct 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-projects-project-ideas/</guid><description>&lt;p>&lt;a href="https://dasarpai.github.io/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg">AI Projects Project Ideas&lt;/a>&lt;/p>
+&lt;h2 class="relative group">AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas
+&lt;div id="ai-data-science-machine-learning-deep-learning-nlp-project-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-data-science-machine-learning-deep-learning-nlp-project-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Project Name/Idea&lt;/th>
+&lt;th>Type of Project&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>IPL 2022 Analysis using Python&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Uber Trips Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Waiter Tips Analysis &amp;amp; Prediction&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Time Series Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stock Market Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Movie Rating Analysis for Beginners&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Unemployment Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Water Quality Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Google Search Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WhatsApp Chats Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Smartwatch Data Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Instagram Reach Analysis and Prediction&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Smartwatch Data Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Covid-19 Vaccine Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Financial Budget Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Worldwide Billionaires Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Best Streaming Service Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Virat Kohli Performance Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Covid-19 Spread and Impacts Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data Science Project on Birth Rate Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Twitter Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Real-time Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Squid Game Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hotel Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tinder Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tiktok Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pfizer Vaccine Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WhatsApp Chats Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Omicron Variant Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Flipkart Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Google Play Store Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Amazon Alexa Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Amazon Product Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ukraine vs Russia Twitter Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Adding Labels to a Dataset for Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Classification Model Evaluation&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>MNIST Digits Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Classification with Neural Networks&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>News Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Iris Flower Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Comparison of Classification Algorithms&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Insurance Prediction&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spam Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sarcasm Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hate Speech Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Hate Speech Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Fake News Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Spam Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Real-time Gender Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Social Media Ads Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fake News Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gender Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mobile Price Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Password Strength Checker with Machine Learning&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spam Comments Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Online Payments Fraud Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Breast Cancer Survival Prediction&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stress Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Language Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Language Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Clustering Music Genres with Machine Learning&lt;/td>
+&lt;td>Clustering&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AlexNet Neural Network Architecture&lt;/td>
+&lt;td>CV&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Count Objects in Image&lt;/td>
+&lt;td>CV-Object Detection&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-End Machine Learning Model&lt;/td>
+&lt;td>ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Machine Learning Project&lt;/td>
+&lt;td>ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complete Process of NLP with Python&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Interactive Language Translator&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Create a Chatbot with Python&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Text Summarization&lt;/td>
+&lt;td>NLP-IE&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Keyword Extraction&lt;/td>
+&lt;td>NLP-IE&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Netflix Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Restaurant Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Book Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Instagram Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Article Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Amazon Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>House Rent Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Website Traffic Forecasting&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Online Food Order Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Student Marks Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Netflix Stock Price Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Health Insurance Premium Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Car Price Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Video Game Sales Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Student Grades Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Click-Through Rate Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data Science Project on Area and Population&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Apple Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tesla Stock Price Prediction Model&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data Science Project on Time Series&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Social Media Followers Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dogecoin Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sales Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Currency Exchange Rate Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Automatic Time Series Forecasting&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Future Sales Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Time Series Forecasting with ARIMA&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cryptocurrency Price Prediction for the next 30 days&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Covid-19 Deaths Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stock Price Prediction with LSTM Neural Network&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Future Sales Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Product Demand Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Electricity Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cryptocurrency Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tata Motors Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of Orders Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Microsoft Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on</title><link>https://dasarpai.github.io/tags/programming/</link><description>Recent content in Programming on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>GenAI for AI-Assisted Programming</title><link>https://dasarpai.github.io/dscourses/genai-for-ai-assisted-programming/</link><pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/genai-for-ai-assisted-programming/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg" alt="GenAI for AI-Assisted Programming" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Program Outline: AI Assisted Programming
+&lt;div id="program-outline-ai-assisted-programming" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#program-outline-ai-assisted-programming" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Duration:
+&lt;div id="duration" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#duration" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>4 Days&lt;/p>
+&lt;h2 class="relative group">Course Audience:
+&lt;div id="course-audience" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-audience" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Technical Leads, Technical Architects, Service Delivery Managers&lt;/p>
+&lt;h2 class="relative group">Target Unit:
+&lt;div id="target-unit" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#target-unit" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Delivery CoE, Product, Internal Applications&lt;/p></description></item><item><title>Exploring Synthetic Data Generation Capabilities</title><link>https://dasarpai.github.io/dsblog/exploring-synthetic-data-generation-capabilities/</link><pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-synthetic-data-generation-capabilities/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg" alt="Exploring Synthetic Data Generation Capabilities" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Synthetic Data Generation Capabilities
+&lt;div id="exploring-synthetic-data-generation-capabilities" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-synthetic-data-generation-capabilities" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Are you looking answers to these questions?&lt;/p>
+&lt;ul>
+&lt;li>What is Synthetic Data?&lt;/li>
+&lt;li>What is data anonymization?&lt;/li>
+&lt;li>What are different techniques for generating Anonymized Data?&lt;/li>
+&lt;li>Why is anonymizing not sufficient to address PII data issues?&lt;/li>
+&lt;li>When there is lots of data available around then why do we need synthetic data?&lt;/li>
+&lt;li>What are the challenges in synthetic data generation?&lt;/li>
+&lt;li>What are the tools for Synthetic Data Generator for Marketing&lt;/li>
+&lt;li>What are the tools for Graph Synthetic Data generation?&lt;/li>
+&lt;li>List of popular synthetic data generation tools for different industries&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is Synthetic Data?
+&lt;div id="what-is-synthetic-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-synthetic-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Synthetic data&lt;/strong> is artificially generated data that mimics the characteristics and statistical properties of real-world data but is not derived directly from real-world events or observations. It is created using algorithms, simulations, or models to represent patterns, structures, and relationships found in actual datasets. Synthetic data can take various forms, such as text, images, audio, or structured tabular data, depending on the context. It is used across various industries to train AI models, simulate environments, and conduct research.&lt;/p></description></item><item><title>Exploring SQL and GraphQL Commands</title><link>https://dasarpai.github.io/dsblog/exploring-sql-and-graphql-commands/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-sql-and-graphql-commands/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg" alt="Exploring SQL and GraphQL Commands" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring SQL and GraphQL Commands
+&lt;div id="exploring-sql-and-graphql-commands" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-sql-and-graphql-commands" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is SQL?
+&lt;div id="what-is-sql" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-sql" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>SQL, or Structured Query Language, is a standardized programming language used for managing and manipulating relational databases. It allows users to perform various operations on the data stored in a database, including:&lt;/p></description></item><item><title>Exploring Python Package Manager</title><link>https://dasarpai.github.io/dsblog/exploring-python-package-manager/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-python-package-manager/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg" alt="Exploring Python Package Managers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Python Package Managers
+&lt;div id="exploring-python-package-managers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-python-package-managers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Package Manager?
+&lt;div id="what-is-package-manager" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-package-manager" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>package manager&lt;/strong> is a tool that automates the process of installing, upgrading, configuring, and removing software packages (libraries, frameworks, tools, etc.). It helps manage dependencies between packages and ensures that the correct versions are installed.&lt;/p></description></item><item><title>Understanding Linux Distributions</title><link>https://dasarpai.github.io/dsblog/exploring-linux-distributions/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-linux-distributions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg" alt="Understanding Linux Distributions" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Linux Distributions
+&lt;div id="understanding-linux-distributions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-linux-distributions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are Linux Distributions?
+&lt;div id="what-are-linux-distributions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-linux-distributions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>Linux distribution&lt;/strong> (often abbreviated as &amp;ldquo;distro&amp;rdquo;) is a version of the Linux operating system that includes the Linux kernel along with a variety of software packages, libraries, and system tools. Distributions vary in their package management systems, user interfaces, included software, and target audiences. They cater to different user needs, from desktop usage to server environments, embedded systems, and more.&lt;/p></description></item><item><title>Exploring Google Firebase</title><link>https://dasarpai.github.io/dsblog/exploring-firebase/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-firebase/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6159-Exploring-Firebase.jpg" alt="Exploring Firebase" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Firebase
+&lt;div id="exploring-firebase" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-firebase" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Firebase?
+&lt;div id="what-is-firebase" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-firebase" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Originally, Firebase started as a product called &lt;strong>Envolve&lt;/strong> in 2011, which was a real-time chat service. It was co-founded by &lt;strong>James Tamplin&lt;/strong> and &lt;strong>Andrew Lee&lt;/strong>. While developing Envolve, they realized that developers were using its real-time system to sync application data, not just chat messages. This led them to pivot and create Firebase as a real-time database product in 2012. Google acquired Firebase in &lt;strong>2014&lt;/strong> and integrated it into its broader ecosystem, expanding it into a full-fledged platform for app development.&lt;/p></description></item><item><title>What is Bundler?</title><link>https://dasarpai.github.io/dsblog/exploring-bundler/</link><pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-bundler/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6158-Exploring-Bundler.jpg" alt="Exploring Bundler" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is Bundler?
+&lt;div id="what-is-bundler" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-bundler" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Bundler&lt;/strong> is a dependency management tool for Ruby applications. It ensures that the right versions of gems (libraries) are installed and used in a project. Ruby packages are called Gem. Bundler is commonly used in situations where you need to manage multiple Ruby projects with different dependencies or need to ensure that a project has all the necessary gems with specific versions.&lt;/p></description></item><item><title>Programming Resources</title><link>https://dasarpai.github.io/dsblog/programming-resources/</link><pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/programming-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6136-Programming-Resources.jpg" alt="Programming-Resources" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Programming Resources
+&lt;div id="programming-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Programming
+&lt;div id="programming" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Learning with Others
+&lt;div id="learning-with-others" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#learning-with-others" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.codementor.io" target="_blank">Codementor&lt;/a> : A mentorship community to learn from fellow developers via live 1:1 help and more.&lt;/li>
+&lt;li>&lt;a href="https://www.devrant.io" target="_blank">devRant&lt;/a> : Community where you can rant and release your stress&lt;/li>
+&lt;li>&lt;a href="https://learn-anything.xyz" target="_blank">Learn Anything&lt;/a> : Community curated knowledge graph of best paths for learning anything&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com" target="_blank">Quora&lt;/a> : A place to share knowledge and better understand the world&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com" target="_blank">Stack Overflow&lt;/a> : subscribe to their weekly newsletter and any other topic which you find interesting&lt;/li>
+&lt;li>&lt;a href="https://dashboard.nbshare.io/apps/stackoverflow/top-javascript-questions/" target="_blank">Stackoverflow High Scored JS Questions&lt;/a> : Dashboard to track top Javascript questions asked on Stackoverflow&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Some Project Ideas
+&lt;div id="some-project-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#some-project-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11" target="_blank">freeCodeCamp - React project ideas&lt;/a> : 27 fun app ideas you can build while learning React.&lt;/li>
+&lt;li>&lt;a href="http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/" target="_blank">martyr2s-mega-project-ideas-list&lt;/a> : contains about 125 project ideas from beginner to intermediate level.&lt;/li>
+&lt;li>&lt;a href="https://github.com/karan/Projects" target="_blank">karan/Projects&lt;/a> : a large collection of small projects for beginners with&lt;/li>
+&lt;li>&lt;a href="https://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners" target="_blank">Wrong &amp;ldquo;big projects&amp;rdquo; for beginners&lt;/a> : How to choose where to start&lt;/li>
+&lt;li>&lt;a href="https://github.com/vicky002/1000_Projects" target="_blank">vicky002/1000-Projects&lt;/a> : Mega List of practical projects that one can solve in any programming language!&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/AppIdeas/" target="_blank">reddit.com/r/AppIdeas&lt;/a> : A place to discuss ideas for applications, for bored developers.&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/SomebodyMakeThis/" target="_blank">reddit.com/r/SomebodyMakeThis&lt;/a> : A home for ideas by people who lack time, money, or skills.&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/blog/javascript-projects/" target="_blank">InterviewBit - JavaScript Projects Ideas&lt;/a> : Top 15+ JavaScript Projects Ideas.&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Some Important Coding Artciles
+&lt;div id="some-important-coding-artciles" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#some-important-coding-artciles" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png" target="_blank">10-ways-to-be-a-better-developer&lt;/a> : Ways to become a better dev!&lt;/li>
+&lt;li>&lt;a href="https://www.infoq.com/articles/Starting-With-MongoDB/" target="_blank">14 Things I Wish I’d Known When Starting with MongoDB&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://carlcheo.com/compsci" target="_blank">40 Keys Computer Science Concepts Explained In Layman’s Terms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory" target="_blank">A Gentle Introduction To Graph Theory&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://moonscript.org" target="_blank">A programmer-friendly language that compiles to Lua.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevewedig.com/2014/02/03/software-developers-reading-list/" target="_blank">A Software Developer’s Reading List&lt;/a> : Some good books and links in there.&lt;/li>
+&lt;li>&lt;a href="http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/" target="_blank">Code a TCP/IP stack&lt;/a> : Let&amp;rsquo;s code a TCP/IP stack, 5: TCP Retransmission&lt;/li>
+&lt;li>&lt;a href="https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html" target="_blank">Code Review Best Practices&lt;/a> : Kevin London&amp;rsquo;s blog&lt;/li>
+&lt;li>&lt;a href="https://codewords.recurse.com/issues/four/the-language-of-choice" target="_blank">Codewords.recurse&lt;/a> : The language of choice&lt;/li>
+&lt;li>&lt;a href="https://sourcemaking.com/design_patterns" target="_blank">Design Patterns&lt;/a> : Design Patterns explained in detail with examples.&lt;/li>
+&lt;li>&lt;a href="http://developforperformance.com" target="_blank">Develop for Performance&lt;/a> : High-performance computing techniques for software architects and developers&lt;/li>
+&lt;li>&lt;a href="https://www.wikiwand.com/en/Java_bytecode" target="_blank">Dive into the byte code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/" target="_blank">Expectations of a Junior Developer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://studio3t.com/knowledge-base/articles/mongodb-getting-started/" target="_blank">Getting Started with MongoDB – An Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/" target="_blank">How to become a programmer or the art of Googling well&lt;/a> : How to become a programmer or the art of Googling well&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40" target="_blank">How to escape tutorial purgatory as a new developer — or at any time in your career&lt;/a> : How to escape tutorial purgatory&lt;/li>
+&lt;li>&lt;a href="https://logit.io/blog/post/elk-stack-guide" target="_blank">How to install ELK&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/wearehive/project-guidelines" target="_blank">JS Project Guidelines&lt;/a> : A set of best practices for JavaScript projects.&lt;/li>
+&lt;li>&lt;a href="https://learntocodewith.me" target="_blank">Learn to Code With Me&lt;/a> : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world&lt;/li>
+&lt;li>&lt;a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/" target="_blank">Learning JavaScript Design Patterns&lt;/a> : the online version of the Learning JavaScript Design Patterns published by O&amp;rsquo;Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7" target="_blank">Learning Vim&lt;/a> : What I Wish I Knew&lt;/li>
+&lt;li>&lt;a href="http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer" target="_blank">Lessons From A Lifetime Of Being A Programmer&lt;/a> : The Codist Header Lessons From A Lifetime Of Being A Programmer&lt;/li>
+&lt;li>&lt;a href="https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html" target="_blank">Linux Inside&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wikiwand.com/en/List_of_algorithms" target="_blank">List of algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.pixelbeat.org/docs/unix-parallel-tools.html" target="_blank">Pixel Beat - Unix&lt;/a> : Parallel processing with Unix tools&lt;/li>
+&lt;li>&lt;a href="https://qotoqot.com/blog/improving-focus/" target="_blank">qotoqot - improving-focus&lt;/a> : How I got to 200 productive hours a month&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Software_design_pattern" target="_blank">Software design pattern&lt;/a> : The entire collection of Design Patterns.&lt;/li>
+&lt;li>&lt;a href="https://www.databasestar.com/normalization-in-dbms/" target="_blank">Step by Step Guide to Database Normalization&lt;/a>: A guide to database normalization.&lt;/li>
+&lt;li>&lt;a href="http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/" target="_blank">The Key To Accelerating Your Coding Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.owasp.org" target="_blank">The Open Web Application Security Project (OWASP)&lt;/a> : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be" target="_blank">Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp&lt;/a> : What I’ve learned from teaching others&lt;/li>
+&lt;li>&lt;a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/" target="_blank">Unicode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://multithreaded.stitchfix.com" target="_blank">We are reinventing the retail industry through innovative technology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://matt.might.net/articles/what-cs-majors-should-know/" target="_blank">What every computer science major should know&lt;/a> : The Principles of Good Programming&lt;/li>
+&lt;li>&lt;a href="http://kunststube.net/encoding/" target="_blank">What every programmer absolutely, positively needs to know about encodings and character sets to work with text&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://futuretech.blinkenlights.nl/misc/cpumemory.pdf" target="_blank">What every programmer should know about memory - PDF&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://henrikwarne.com/2012/12/12/working-as-a-software-developer/" target="_blank">Working as a Software Developer&lt;/a> : Henrik Warne&amp;rsquo;s blog&lt;/li>
+&lt;li>&lt;a href="https://requestbin.com/blog/working-with-webhooks/" target="_blank">Working with Webhooks&lt;/a> : a comprehensive guide on webhooks&lt;/li>
+&lt;li>&lt;a href="http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel" target="_blank">Write a Kernel&lt;/a> : Kernel 101 – Let’s write a Kernel&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Coding Style
+&lt;div id="coding-style" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#coding-style" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/airbnb/javascript" target="_blank">Airbnb JS Style Guide&lt;/a> : A mostly reasonable approach to JavaScript&lt;/li>
+&lt;li>&lt;a href="https://github.com/airbnb/ruby" target="_blank">Airbnb Ruby Style Guide&lt;/a> : A ruby style guide by Airbnb&lt;/li>
+&lt;li>&lt;a href="https://github.com/bbatsov/ruby-style-guide" target="_blank">Ruby coding style guide&lt;/a> : A community-driven Ruby coding style guide&lt;/li>
+&lt;li>&lt;a href="https://github.com/johnpapa/angular-styleguide/tree/master/a1" target="_blank">Angular Style Guide&lt;/a> : Officially endorsed style guide by John Pappa&lt;/li>
+&lt;li>&lt;a href="http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml" target="_blank">CS 106B Coding Style Guide&lt;/a> : must see for those who create spaghetti&lt;/li>
+&lt;li>&lt;a href="http://www.umich.edu/~eecs381/generalFAQ/Debugging.html" target="_blank">Debugging Faqs&lt;/a> : Check out how to debug your program&lt;/li>
+&lt;li>&lt;a href="https://github.com/prakhar1989/awesome-courses" target="_blank">Directory of CS Courses (many with online lectures)&lt;/a> : Another online CS courses&lt;/li>
+&lt;li>&lt;a href="https://github.com/ossu/computer-science" target="_blank">Directory of Online CS Courses&lt;/a> : Free online CS courses&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/" target="_blank">Good C programming habits. • /r/C_Programming&lt;/a> : C programming habits to adopt&lt;/li>
+&lt;li>&lt;a href="https://google.github.io/styleguide/cppguide.html" target="_blank">Google C++ Style Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.chiark.greenend.org.uk/~sgtatham/bugs.html" target="_blank">How to Report Bugs Effectively&lt;/a> : Want to report a bug but you don&amp;rsquo;t how? Check out this post&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/" target="_blank">What are some bad coding habits you would recommend a beginner avoid getting into?&lt;/a> : Bad habits to avoid when you get start&lt;/li>
+&lt;li>&lt;a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">PEP8 - Style Guide for Python Code&lt;/a> : Style Guide for Python Code&lt;/li>
+&lt;li>&lt;a href="https://standardjs.com" target="_blank">Standard JS Style Guide&lt;/a> : JavaScript style guide, with linter &amp;amp; automatic code fixer&lt;/li>
+&lt;li>&lt;a href="https://google.github.io/styleguide/pyguide.html" target="_blank">Google Python Style Guide&lt;/a> : Google Python Style Guide&lt;/li>
+&lt;li>&lt;a href="https://github.com/behzad888/Aurelia-styleguide" target="_blank">Aurelia Style Guide&lt;/a> : An Aurelia style guide by Behzad Abbasi(Behzad888)&lt;/li>
+&lt;li>&lt;a href="https://sourcemaking.com/" target="_blank">Source Making&lt;/a> : Design Patterns &amp;amp; Refactoring&lt;/li>
+&lt;li>&lt;a href="https://refactoring.guru/" target="_blank">Refactoring Guru&lt;/a>: Refactoring And Design Patterns&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Collection of Leetcode Problem solution
+&lt;div id="collection-of-leetcode-problem-solution" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#collection-of-leetcode-problem-solution" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/AlanWei/LeetCode" target="_blank">github.com/AlanWei/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript" target="_blank">github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ecmadao/algorithms/tree/master/leetcode" target="_blank">github.com/ecmadao/algorithms/tree/master/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/paopao2/leetcode-js" target="_blank">github.com/paopao2/leetcode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/cs1707/leetcode" target="_blank">github.com/cs1707/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/EasyHard/leetcodejs" target="_blank">github.com/EasyHard/leetcodejs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/fa-ge/leetcode" target="_blank">github.com/fa-ge/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ktorng/AlgoInterviewPrep/tree/master/misc/LeetCode" target="_blank">github.com/ktorng/AlgoInterviewPrep/tree/master/misc/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/bluesh/LeetCode" target="_blank">github.com/bluesh/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/chihungyu1116/leetcode-javascript" target="_blank">github.com/chihungyu1116/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/didi0613/leetcode-javascript" target="_blank">github.com/didi0613/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dnshi/Leetcode/tree/master/algorithms" target="_blank">github.com/dnshi/Leetcode/tree/master/algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/xiaoyu2er/leetcode-js" target="_blank">github.com/xiaoyu2er/leetcode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blog.sodhanalibrary.com/search/label/JavaScript" target="_blank">blog.sodhanalibrary.com/search/label/JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/imcoddy/leetcode" target="_blank">github.com/imcoddy/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/iwantooxxoox/leetcode" target="_blank">github.com/iwantooxxoox/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/karenpeng/leetCode" target="_blank">github.com/karenpeng/leetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KMBaby-zyl/leetcode/tree/master/Algorithms" target="_blank">github.com/KMBaby-zyl/leetcode/tree/master/Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MrErHu/Leetcode/tree/master/algorithms" target="_blank">github.com/MrErHu/Leetcode/tree/master/algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/zzxboy1/leetcode/tree/master/algorithms" target="_blank">github.com/zzxboy1/leetcode/tree/master/algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/loatheb/leetcode-javascript" target="_blank">github.com/loatheb/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/paopao2/leetcode-js" target="_blank">github.com/paopao2/leetcode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/theFool32/LeetCode" target="_blank">github.com/theFool32/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/whwei/LeetCode" target="_blank">github.com/whwei/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jiangxiaoli/leetcode-javascript" target="_blank">github.com/jiangxiaoli/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/299md.html" target="_blank">skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/299md.html&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/HandsomeOne/LeetCode/tree/master/Algorithms" target="_blank">github.com/HandsomeOne/LeetCode/tree/master/Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/zj972/leetcode/tree/master/code" target="_blank">github.com/zj972/leetcode/tree/master/code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/xiaoliwang/leetcode/tree/master/iojs" target="_blank">github.com/xiaoliwang/leetcode/tree/master/iojs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dieface/leetcode/tree/master/javascript" target="_blank">github.com/dieface/leetcode/tree/master/javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/magicly/leetcode/tree/master/js" target="_blank">github.com/magicly/leetcode/tree/master/js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/LuciferChiu/leetcode/tree/master/solutions" target="_blank">github.com/LuciferChiu/leetcode/tree/master/solutions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/alenny/leetcode/tree/master/src" target="_blank">github.com/alenny/leetcode/tree/master/src&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/kpman/leetcode/tree/master/src" target="_blank">github.com/kpman/leetcode/tree/master/src&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hijiangtao/LeetCode-with-JavaScript/tree/master/src" target="_blank">github.com/hijiangtao/LeetCode-with-JavaScript/tree/master/src&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cnblogs.com/Liok3187/default.html?page=1" target="_blank">www.cnblogs.com/Liok3187/default.html?page=1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/yuguo/LeetCode" target="_blank">github.com/yuguo/LeetCode&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Designing
+&lt;div id="designing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#designing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">System-Design related useful articles
+&lt;div id="system-design-related-useful-articles" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#system-design-related-useful-articles" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.hiredintech.com/app#system-design" target="_blank">System Interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.lecloud.net/tagged/scalability" target="_blank">Scalability for Dummies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.aosabook.org/en/distsys.html" target="_blank">Scalable Web Architecture and Distributed Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/" target="_blank">Numbers Everyone Should Know&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf" target="_blank">Fallacies of distributed systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html" target="_blank">Scalable System Design Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://lethain.com/introduction-to-architecting-systems-for-scale/" target="_blank">Introduction to Architecting Systems for Scale&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://snarfed.org/transactions_across_datacenters_io.html" target="_blank">Transactions Across Datacenters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/henryr/cap-faq" target="_blank">The CAP FAQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf" target="_blank">Paxos Made Simple&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.tom-e-white.com/2007/11/consistent-hashing.html" target="_blank">Consistent Hashing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://horicky.blogspot.com/2009/11/nosql-patterns.html" target="_blank">NOSQL Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/jboner/scalability-availability-stability-patterns" target="_blank">Scalability, Availability &amp;amp; Stability Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&amp;amp;context=compsci" target="_blank">Design a CDN network-Globally Distributed Content Delivery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/system-design-interview-questions/" target="_blank">System Design Interview Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/google-mobwrite/" target="_blank">Google document system: google-mobwrite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://neil.fraser.name/writing/sync/" target="_blank">Google document system: Differential Synchronization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.twitter.com/2010/announcing-snowflake" target="_blank">Announcing Snowflake at X&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/dvirsky/introduction-to-redis" target="_blank">Introduction to Redis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed" target="_blank">What are best practices for building something like a News Feed?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed" target="_blank">What are the scaling issues to keep in mind while developing a social network feed?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture" target="_blank">Facebook Activity Feeds Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/note.php?note_id=10150468255628920" target="_blank">Building Timeline&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://highscalability.com/blog/2011/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html" target="_blank">Facebook Timeline&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf" target="_blank">Efficient Computation of Frequent and Top-k Elements in Data Streams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf" target="_blank">An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html" target="_blank">How to Create an Asynchronous Multiplayer Game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.indieflashblog.com/how-to-create-async-part2.html" target="_blank">How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.indieflashblog.com/how-to-create-async-part3.html" target="_blank">How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://buildnewgames.com/real-time-multiplayer/" target="_blank">Real Time Multiplayer in HTML5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920" target="_blank">Building out the infrastructure for Graph Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920" target="_blank">Indexing and ranking in Graph Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920" target="_blank">The natural language interface of Graph Search&lt;/a> and &lt;a href="http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf" target="_blank">Erlang at Facebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://highscalability.com/flickr-architecture" target="_blank">Flickr Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html" target="_blank">Instagram Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search" target="_blank">How would you implement Google Search?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.ardendertat.com/2012/01/11/implementing-search-engines/" target="_blank">Implementing Search Engines&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tech.hulu.com/blog/2011/09/19/recommendation-system.html" target="_blank">Hulu’s Recommendation System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://ijcai13.org/files/tutorial_slides/td3.pdf" target="_blank">Recommender Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://n00tc0d3r.blogspot.com/" target="_blank">System Design for Big Data-tinyurl&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/" target="_blank">Baby&amp;rsquo;s First Garbage Collector&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch" target="_blank">How can I build a web crawler from scratch?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf" target="_blank">Design Facebook chat function&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/" target="_blank">Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/" target="_blank">Early detection of Twitter trends explained&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/oemebamo/introduction-to-memcached" target="_blank">Design a cache system*: Introduction to Memcached&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Github Repositories with coding problems-and-solutions
+&lt;div id="github-repositories-with-coding-problems-and-solutions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#github-repositories-with-coding-problems-and-solutions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript" target="_blank">Algorithms-Leetcode-Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/Algorithm-in-JavaScript" target="_blank">Algorithm-in-JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/Javascript-Challenges" target="_blank">Javascript-Challenges&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/The-Hacking-School-Full-Stack-Bootcamp-Projects/tree/master/JS-Challenges" target="_blank">JS-Challenges&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/mkshen/code-problems-solutions" target="_blank">code-problems-solutions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gist.github.com/Smakar20?page=1" target="_blank">some common problems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/careercup/CtCI-6th-Edition-JavaScript" target="_blank">Cracking the Coding Interview - Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/kennymkchan/interview-questions-in-javascript" target="_blank">interview-questions-in-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank">javascript-interview-questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/kolodny/exercises" target="_blank">javascript-Exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/30-seconds/30-seconds-of-interviews" target="_blank">30-seconds-of-interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/vvscode/js--interview-questions" target="_blank">js&amp;ndash;interview-questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sadanandpai/javascript-code-challenges" target="_blank">JavaScript-Code-Challenges&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">System-Design-Company engineering blog
+&lt;div id="system-design-company-engineering-blog" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#system-design-company-engineering-blog" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://highscalability.com/" target="_blank">High Scalability&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/blog/category/engineering" target="_blank">The GitHub Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.quora.com/" target="_blank">Engineering at Quora&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineeringblog.yelp.com/" target="_blank">Yelp Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.twitter.com/" target="_blank">Twitter Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/Engineering" target="_blank">Facebook Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://eng.yammer.com/blog/" target="_blank">Yammer Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://codeascraft.com/" target="_blank">Etsy Code as Craft&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.foursquare.com/" target="_blank">Foursquare Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nerds.airbnb.com/" target="_blank">Airbnb Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.webengage.com/" target="_blank">WebEngage Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.linkedin.com/blog" target="_blank">LinkedIn Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://techblog.netflix.com/" target="_blank">The Netflix Tech Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.simple.com/engineering/" target="_blank">BankSimple Simple Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://corner.squareup.com/" target="_blank">Square The Corner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developers.soundcloud.com/blog/" target="_blank">SoundCloud Backstage Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://code.flickr.net/" target="_blank">Flickr Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://instagram-engineering.tumblr.com/" target="_blank">Instagram Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tech.dropbox.com/" target="_blank">Dropbox Tech Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.cloudera.com/" target="_blank">Cloudera Developer Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://bandcamptech.wordpress.com/" target="_blank">Bandcamp Tech&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tech.oyster.com/" target="_blank">Oyster Tech Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.redditblog.com/" target="_blank">THE REDDIT BLOG&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.groupon.com/" target="_blank">Groupon Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://devblog.songkick.com/" target="_blank">Songkick Technology Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://googleresearch.blogspot.com/" target="_blank">Google Research Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.pinterest.com/" target="_blank">Pinterest Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.twilio.com/engineering" target="_blank">Twilio Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://word.bitly.com/" target="_blank">Bitly Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://eng.uber.com/" target="_blank">Uber Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.godaddy.com/" target="_blank">Godaddy Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blogs.splunk.com/" target="_blank">Splunk Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://building.coursera.org/" target="_blank">Coursera Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.paypal-engineering.com/" target="_blank">PayPal Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engblog.nextdoor.com/" target="_blank">Nextdoor Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.booking.com/" target="_blank">Booking.com Development Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.scalyr.com/" target="_blank">Scalyr Engineering Blog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Interview
+&lt;div id="interview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#interview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Design Interview Questions
+&lt;div id="design-interview-questions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#design-interview-questions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md">design-url-shortner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md">e-Commerce-site&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md">Whatsapp-Basic-Features-of-a-chat-app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scottaohara.github.io/accessibility_interview_questions/" target="_blank">Accessibility Interview Questions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Books: Cracking the Coding Interview
+&lt;div id="books-cracking-the-coding-interview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#books-cracking-the-coding-interview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/sharlatta/cracking" target="_blank">github.com/sharlatta/cracking&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ammiranda/CrackingTheCodingInterview" target="_blank">github.com/ammiranda/CrackingTheCodingInterview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/bryclee/ctci" target="_blank">github.com/bryclee/ctci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/macalinao/node-ctci" target="_blank">github.com/macalinao/node-ctci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/seemaullal/CrackingTheCodingInterview-JS" target="_blank">github.com/seemaullal/CrackingTheCodingInterview-JS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rcerf/MyCtci" target="_blank">github.com/rcerf/MyCtci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/SashaBayan/CCI" target="_blank">github.com/SashaBayan/CCI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015" target="_blank">github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ktorng/AlgoInterviewPrep/tree/master/CrackingTheCodingInterview" target="_blank">github.com/ktorng/AlgoInterviewPrep/tree/master/CrackingTheCodingInterview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/muddybarefeet/Cracking-the-Coding-Interview-Problems/tree/master/toyProblems" target="_blank">github.com/muddybarefeet/Cracking-the-Coding-Interview-Problems/tree/master/toyProblems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/randy909/coding-interview/tree/master/cracking" target="_blank">github.com/randy909/coding-interview/tree/master/cracking&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution" target="_blank">github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/careercup/ctci/tree/master/javascript/lib/data-structures" target="_blank">github.com/careercup/ctci/tree/master/javascript/lib/data-structures&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/miguelmota/ctci-js" target="_blank">github.com/miguelmota/ctci-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ChirpingMermaid/CTCI" target="_blank">github.com/ChirpingMermaid/CTCI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Programming Interview Questions and Answers Resources
+&lt;div id="programming-interview-questions-and-answers-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming-interview-questions-and-answers-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://bigocheatsheet.com/" target="_blank">Big O Cheatsheet&lt;/a> &lt;a href="https://medium.com/@jayshah_84248/big-o-for-coding-interviews-e6ca8897f926" target="_blank">Quick Big O understanding for coding interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.toptal.com/developers/sorting-algorithms" target="_blank">developers/sorting-algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@yanganif/tackling-javascript-algorithms-66f1ac9770dc" target="_blank">tackling-javascript-algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript" target="_blank">sorting-algorithms-in-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Javascript" target="_blank">Learn-Data_Structure-Algorithm-by-Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target="_blank">Grokking Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="_blank">Algorithms Visualization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b" target="_blank">coding-interviews-for-dummies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002" target="_blank">educative.io/collection/page/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm" target="_blank">Karp_algorithm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/" target="_blank">www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">best javascript-algorithms github repo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed" target="_blank">14-patterns-to-ace-any-coding-interview-question&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.educative.io/collection/5668639101419520/5671464854355968" target="_blank">Grokking the Coding Interview: Patterns for Coding Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript" target="_blank">https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jwasham/coding-interview-university" target="_blank">coding-interview-university&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank">reactjs-interview-questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank">Front-end-Developer-Interview-Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/yangshun/front-end-interview-handbook" target="_blank">front-end-interview-handbook&lt;/a> - Almost complete answers to &amp;ldquo;Front-end Job Interview Questions&amp;rdquo; which you can use to interview potential candidates, test yourself or completely ignore&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/algorithm-interview-questions/" target="_blank">Algorithm Interview Questions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Some resources for JavaScript Interviews
+&lt;div id="some-resources-for-javascript-interviews" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#some-resources-for-javascript-interviews" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm_source=hashnode.com" target="_blank">10 JavaScript concepts you need to know for interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Chalarangelo/30-seconds-of-code" target="_blank">Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions" target="_blank">123 Essential JavaScript Interview Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ggomaeng/awesome-js" target="_blank">A curated list of JavaScript fundamentals and algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa" target="_blank">A Quick Introduction to Functional JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703" target="_blank">A Tricky JavaScript Interview Question Asked by Google and Amazon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d" target="_blank">A perfect guide for cracking a JavaScript interview - A developer’s perspective&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a" target="_blank">Common Misconceptions About Inheritance in JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36" target="_blank">Master the JavaScript Interview: What is a Closure?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0" target="_blank">Master the JavaScript Interview: What is Function Composition?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb" target="_blank">3 JavaScript questions to watch out for during coding interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thatjsdude.com/interview/dom.html" target="_blank">JS: Interview Questions Part-3&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thatjsdude.com/interview/js1.html" target="_blank">JS: Interview Algorithm Part-1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thatjsdude.com/interview/js2.html" target="_blank">JS: Basics and Tricky Questions Part-2: intermediate&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.toptal.com/javascript/interview-questions" target="_blank">37 Essential JavaScript Interview Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/javascript-interview-questions/" target="_blank">Prepare from this comprehensive list of the latest JavaScript Interview Questions and ace your interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/lydiahallie/javascript-questions" target="_blank">Many tricky and common JavaScript questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9" target="_blank">Master the JavaScript Interview: What’s the Difference Between Class &amp;amp; Prototypal Inheritance?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Jobs
+&lt;div id="jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Getting your first programming job
+&lt;div id="getting-your-first-programming-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#getting-your-first-programming-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110" target="_blank">Every-developer-needs-a-code-portfolio- Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5" target="_blank">Collection of Resources for Interview preparations and practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4" target="_blank">How I cleared the Amazon SDE 2 interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106" target="_blank">How I got 7 Job Offers in 8 Weeks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466" target="_blank">master-the-javascript-interview-soft-skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2" target="_blank">google-lost-a-chance-to-hire-me-finally-amazon-hired-me&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00" target="_blank">the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/7-key-steps-to-getting-your-first-software-engineering-job-6ef80543cad9" target="_blank">7-key-steps-to-getting-your-first-software-engineering-job&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331" target="_blank">5-key-learnings-from-the-post-bootcamp-job-search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/https-medium-com-samwcoding-how-to-get-your-first-developer-job-in-4-months-ec86da6e5d9a" target="_blank">how-to-get-your-first-developer-job-in-4-months&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/swlh/how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree-e83d08db4615" target="_blank">how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d" target="_blank">how-to-land-a-top-notch-tech-job-as-a-student&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/appsflyer/unlocking-the-javascript-code-interview-an-interviewer-perspective-f4fe06246b29" target="_blank">unlocking-the-javascript-code-interview-an-interviewer-perspective&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html" target="_blank">get-that-job-at-google.html&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.usejournal.com/i-failed-my-effing-coding-interview" target="_blank">i-failed-my-effing-coding-interview-ab720c339c8a&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051" target="_blank">how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them-a644a88b2241" target="_blank">here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-to-get-a-tech-job-with-no-previous-work-experience-6d3d7d25e1" target="_blank">how-to-get-a-tech-job-with-no-previous-work-experience&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/the-hard-thing-about-learning-hard-things-168e655ac7f2" target="_blank">the-hard-thing-about-learning-hard-things&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be" target="_blank">70-job-find-websites-for-developers-other-tech-professionals&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=xKOPqWWmxEQ" target="_blank">YouTube - 70+ Websites To Find Developer Jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=EJDZ2L95Sjo" target="_blank">YouTube - I&amp;rsquo;m 47 And Now I Want to be a Programmer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=V71Cv7mjgfI" target="_blank">YouTube - How To Be A Well-Paid Programmer In 1 Year?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c" target="_blank">the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Sites for searching developer job
+&lt;div id="sites-for-searching-developer-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sites-for-searching-developer-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://joblist.app" target="_blank">Joblist.app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://angel.co" target="_blank">AngelList&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://authenticjobs.com" target="_blank">Authentic jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://developersforhire.com" target="_blank">Developers for Hire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://devitjobs.uk" target="_blank">DevITjobs uk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://devitjobs.us" target="_blank">DevITjobs us&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://dice.com" target="_blank">Dice&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://fullstackjob.com" target="_blank">Fullstack Job&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://glassdoor.com" target="_blank">Glassdoor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hired.com" target="_blank">Hired&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://indeed.com" target="_blank">Indeed&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://landing.jobs" target="_blank">Jobs in Europe&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobspresso.co" target="_blank">Jobspresso&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://krop.com" target="_blank">Krop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://linkedIn.com" target="_blank">LinkedIn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobs.mashable.com/jobs" target="_blank">Mashable&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://monster.com" target="_blank">Monster&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://themuse.com/jobs" target="_blank">Muse&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://powertofly.com/jobs" target="_blank">PowerToFly&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://simplyhired.com" target="_blank">Simply Hired&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/jobs" target="_blank">StackOverflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://toptal.com" target="_blank">Toptal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://triplebyte.com" target="_blank">TripleByte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobs.tutsplus.com" target="_blank">Tuts+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Startup job
+&lt;div id="startup-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#startup-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://angel.co/jobs" target="_blank">AngelList&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://producthunt.com/jobs" target="_blank">Product Hunt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://startuphire.com" target="_blank">Startup Hire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://startupers.com" target="_blank">Startupers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://news.ycombinator.com/jobs" target="_blank">YCombinator&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Best places to job hunt for remote jobs:
+&lt;div id="best-places-to-job-hunt-for-remote-jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-places-to-job-hunt-for-remote-jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dailyremote.com" target="_blank">DailyRemote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://flexjobs.com" target="_blank">FlexJobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://frontendremotejobs.com" target="_blank">Front-end remote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://iwantremote.com" target="_blank">IWantRemote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jsremotely.com" target="_blank">JS Remotely&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://justremote.co/remote-developer-jobs" target="_blank">JustRemote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://outsourcely.com/remote-web-development-jobs" target="_blank">Outsourcely&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pangian.com/job-travel-remote/" target="_blank">Pangian&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://remote.co/remote-jobs/developer/" target="_blank">Remote . co&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remotetalent.co/jobs" target="_blank">Remote Talent&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remoteleads.io" target="_blank">RemoteLeads&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://remoteleaf.com" target="_blank">RemoteLeaf&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remoteok.io/remote-dev-jobs" target="_blank">RemoteOk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remoters.net/jobs/software-development" target="_blank">Remoters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://remotive.io/remote-jobs/software-dev" target="_blank">Remotive&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sitepoint.com/jobs/" target="_blank">Sitepoint&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/jobs/remote-developer-jobs" target="_blank">Stackoverflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://weworkremotely.com" target="_blank">WeWorkRemotely&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://workingnomads.co/remote-development-jobs" target="_blank">Working Nomads&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">A few places to hunt for ios, react, vue and more
+&lt;div id="a-few-places-to-hunt-for-ios-react-vue-and-more" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-few-places-to-hunt-for-ios-react-vue-and-more" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://iosdevjobs.com" target="_blank">iOS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://reactjobboard.com" target="_blank">React&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vuejobs.com" target="_blank">Vue jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobs.emberjs.com" target="_blank">Ember&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://python.org/jobs" target="_blank">Python Jobs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Want a list of just JavaScript jobs?
+&lt;div id="want-a-list-of-just-javascript-jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#want-a-list-of-just-javascript-jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://javascriptjob.xyz" target="_blank">JavaScript job XYZ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jsremotely.com" target="_blank">Javascript remotely&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Are you looking for a junior dev job?
+&lt;div id="are-you-looking-for-a-junior-dev-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#are-you-looking-for-a-junior-dev-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://jrdevjobs.com" target="_blank">JrDevJobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/jobs/junior-developer-jobs" target="_blank">Stackoverflow Junior jobs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Women focused job boards!
+&lt;div id="women-focused-job-boards" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#women-focused-job-boards" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://womenwhocode.com/jobs" target="_blank">Women Who Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hiretechladies.com" target="_blank">Tech Ladies&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Want a job as a freelance dev? Here&amp;rsquo;s a list
+&lt;div id="want-a-job-as-a-freelance-dev-heres-a-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#want-a-job-as-a-freelance-dev-heres-a-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://freelancer.com/jobs" target="_blank">Freelancer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://upwork.com" target="_blank">Upwork&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://flexjobs.com/jobs" target="_blank">FlexJobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://freelancermap.com" target="_blank">FreelancerMap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://gun.io" target="_blank">Gun io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://guru.com/d/jobs" target="_blank">Guru&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Others
+&lt;div id="others" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#others" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://interviewing.io/" target="_blank">interviewing.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://leetcode.com/" target="_blank">Leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.hackerrank.com/" target="_blank">HackerRank&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://codeforces.com/" target="_blank">CodeForces&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.codechef.com" target="_blank">CodeChef&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderbyte.com/" target="_blank">Coderbyte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.codingame.com/" target="_blank">CodinGame&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://csacademy.com/" target="_blank">Cs Academy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dailycodingproblem.com/" target="_blank">Daily Coding Problem&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://spoj.com/" target="_blank">Spoj&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackerearth.com/" target="_blank">HackerEarth&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.topcoder.com/" target="_blank">TopCoder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codewars.com/" target="_blank">Codewars&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.exercism.io/" target="_blank">Exercism&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codefights.com/" target="_blank">CodeFights&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://projecteuler.net/" target="_blank">Project Euler&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewcake.com/" target="_blank">Interviewcake&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/" target="_blank">InterviewBit&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br">uCoder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lintcode.com/" target="_blank">LintCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codecombat.com/" target="_blank">CodeCombat&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>What is Unicode and how does it works?</title><link>https://dasarpai.github.io/dsblog/what-is-unicode-and-how-does-it-works/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-unicode-and-how-does-it-works/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg" alt="What is Unicode and how does it works?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Unicode and how does it works?
+&lt;div id="what-is-unicode-and-how-does-it-works" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-unicode-and-how-does-it-works" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Unicode: A Universal Character Set
+&lt;div id="what-is-unicode-a-universal-character-set" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-unicode-a-universal-character-set" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Unicode&lt;/strong> is a standard that assigns a unique number to every character, no matter the platform, program, or language. It&amp;rsquo;s like a global dictionary for characters.&lt;/p></description></item><item><title>Python APIs for Data</title><link>https://dasarpai.github.io/dsblog/python-apis-for-data/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-apis-for-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg" alt="Python APIs for Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python APIs for Data
+&lt;div id="python-apis-for-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-apis-for-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://www.bing.com/" target="_blank">Bing&lt;/a> Bing is a search engine that brings together the best of search and people in your social networks to help you spend less time searching and more time doing.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.bing.com/dev/en-us/dev-center" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/pybing/" target="_blank">Python wrapper for the Bing search API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="http://www.bitly.com/" target="_blank">Bitly&lt;/a> URL shortening and bookmarking service&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://dev.bitly.com/get_started.html" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/python-bitly/" target="_blank">Python wrapper around the bit.ly API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://blogger.com/" target="_blank">Blogger&lt;/a> Blog-publishing service&lt;/p></description></item><item><title>AWS SageMaker Jumpstart Models</title><link>https://dasarpai.github.io/dsblog/aws-sagemaker-jumpstart-models/</link><pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/aws-sagemaker-jumpstart-models/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg" alt="AWS SageMaker Jumpstart Models" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AWS SageMaker Jumpstart Models
+&lt;div id="aws-sagemaker-jumpstart-models" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aws-sagemaker-jumpstart-models" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>As of 17-Jul-23, AWS Sagemaker has 463 models in its Model Zoo. They call these models as Jumstart Models. What are the capabilities of these models, who are the developer of these models, where these models are hosted in given in the table below.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>SNo.&lt;/th>
+&lt;th>Task Type&lt;/th>
+&lt;th>Company&lt;/th>
+&lt;th>Model Description&lt;/th>
+&lt;th>Model ID&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1.&lt;/td>
+&lt;td>Text Generation&lt;/td>
+&lt;td>Huggingface&lt;/td>
+&lt;td>Falcon-40B-Instruct is a 40B parameters causal decoder-only model built by TII based on Falcon-40B and finetuned on a mixture of Baize It is ready-to-use chat/instruct model based on Falcon 40B&lt;/td>
+&lt;td>Model draft: false&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>id: huggingface-textgeneration-falcon-40b-instruct-bf16
+|2. |Text Generation |Huggingface |This is a Text Generation model built upon a Transformer model from Hugging Face |Model draft: false
+id: huggingface-textgeneration-open-llama
+|3. |Text to Image |StabilityAI |Extend beyond just text-to-image prompting. Stable Diffusion XL offers several ways to modify the images: Inpainting - edit inside the image, Outpainting - extend the image outside of the original image, Image-to-image - prompt a new image using a sourced image. |
+|4. |Text Generation |Cohere |Generative model that responds well with instruction-like prompts. This model provides businesses and enterprises with best quality, performance and accuracy in all generative tasks. And with our intuitive SDK, unlocking the full potential of LLMs for your applications has never been easier. |
+|5. |Text Generation |AI21 Labs |Jurassic-2 Ultra is optimized to follow natural language instructions and context, so there is no need to provide it with any examples. |
+|6. |Text Generation |AI21 Labs | |
+|7. |Text Generation |AI21 Labs |Condense lengthy texts into short, easy-to-read bites that remain factually consistent with the source. No prompting needed – simply input the text that needs to be summarized. The model is specifically trained to generate summaries that capture the essence and key ideas of the original text. |
+|8. |Text Generation |AI21 Labs |Get the AI21 Paraphrase model, the top-of-the-line paraphrasing engine, and deploy it in your private environment. The model aims to generate 10 alternative suggestions with every activation. It may return fewer suggestions when rewriting very short texts for which it cannot produce as many as 10 sensible paraphrases. |
+|9. |Text Generation |AI21 Labs |Jurassic-2 Mid is optimized to follow natural language instructions and context, so there is no need to provide it with any examples. Pre-trained language model trained by AI21 Labs on a corpus of web text including natural language and computer programs with recent data - updated to mid 2022. This model has a 8192 token context window (i.e. the length of the prompt + completion should be at most 8192 tokens). |
+|10. |Text Generation |AI21 Labs |Detects and suggests corrections for Grammar, Spelling, Punctuation mistakes, as well as word misuse, and accidental repetition or omission. |
+|11. |Text to Image |StabilityAI |Extend beyond just text-to-image prompting. Stable Diffusion XL offers several ways to modify the images: Inpainting - edit inside the image, Outpainting - extend the image outside of the original image, Image-to-image - prompt a new image using a sourced image. |
+|12. |Text to Image |Stabilityai |This is a text-to-image model from Stability AI and downloaded from HuggingFace It takes a textual description as input and returns a generated image from the description |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v2-1-base
+|13. | |Huggingface |This is a Text2Text Generation model built upon a T5 model from Hugging Face The deployed model can be used for running inference on any input text |Model draft: false
+id: huggingface-text2text-flan-t5-xl
+|14. | |Huggingface |This is a Text Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts next words in the sequence |Model draft: false
+id: huggingface-textgeneration1-gpt-j-6b
+|15. | |Huggingface |This is a Text2Text Generation model built upon a T5 model from Hugging Face The deployed model can be used for running inference on any input text |Model draft: false
+id: huggingface-text2text-flan-ul2-bf16
+|16. |Text Generation |Pytorch |AlexaTM 20B is a multitask, multilingual, large-scale sequence-to-sequence (seq2seq) model, trained on a mixture of Common Crawl (mC4) and Wikipedia data across 12 languages, using denoising and Causal Language Modeling (CLM) tasks |Model draft: false
+id: pytorch-textgeneration1-alexa20b
+|17. |Text Generation |Huggingface |This is a Text Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts next words in the sequence |Model draft: false
+id: huggingface-textgeneration-bloom-1b7
+|18. |Image Classification |Tensorflow |This is an Image Classification model from TensorFlow Hub It takes an image as input and classifies the image to one of the 1001 classes |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-100-224-classification-4
+|19. |Object Detection |Tensorflow |This is an object detection model from Tensorflow It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od1-ssd-resnet50-v1-fpn-640x640-coco17-tpu-8
+|20. |Object Detection |Pytorch |This is an object detection model from PyTorch Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: pytorch-od1-fasterrcnn-resnet50-fpn
+|21. |Text Classification |Tensorflow |This is a Text Classification model built upon a Text Embedding model from TensorFlow Hub It takes a text string as input and classifies the input text as either a positive or negative movie review |Model draft: false
+id: tensorflow-tc-bert-en-uncased-L-12-H-768-A-12-2
+|22. |Question Answering |Huggingface |This is an Extractive Question Answering model built on a Transformer model from Hugging Face It takes two strings as inputs: the first string is a question and the second string is the context or any text you want to use to find the answer of the question, and it returns a sub-string from the context as an answer to the question |Model draft: false
+id: huggingface-eqa-distilbert-base-uncased
+|23. |Zero-Shot Text Classification |Huggingface |This is Zero Shot Text Classification model built on a Transformer model from Hugging Face It can classify sentences in English language It takes a sequence and a list of candidate labels as inputs and predicts score that the sequence is associated with the particular label |Model draft: false
+id: huggingface-zstc-facebook-bart-large-mnli
+|24. |Semantic Segmentation |Mxnet |This is an Semantic Segmentation model from Gluon CV It takes an image as input and returns class label for each pixel in the image |Model draft: false
+id: mxnet-semseg-fcn-resnet101-coco
+|25. |Sentence Pair Classification |Huggingface |This is a Sentence Pair Classification model built upon a Text Embedding model from Hugging Face It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: huggingface-spc-distilbert-base-uncased
+|26. |Named Entity Recognition |Huggingface |This is a Named Entity Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts named entities in the input text |Model draft: false
+id: huggingface-ner-distilbert-base-cased-finetuned-conll03-english
+|27. |Text Summarization |Huggingface |This is a Text Summarization model built upon a Transformer model from Hugging Face It takes a text string as input and returns a summary of the text |Model draft: false
+id: huggingface-summarization-distilbart-xsum-1-1
+|28. |Machine Translation |Huggingface |This is a Machine Translation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts its translation |Model draft: false
+id: huggingface-translation-t5-small
+|29. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-128-A-2-2
+|30. |Text Embedding |Mxnet |This is a Text Embedding model from GluonNLP pre-trained on the decade (2010-2019) of S&amp;amp;P 500 10-K/10-Q reports It takes a text string as input and outputs an embedding vector For pre-training, the entire text of the 10K/Q filing was used, not just the MD&amp;amp;A (Management Discussion and Analysis) section, so as to ensure that a broader context of financial language is captured Embeddings from the pre-trained modelare then used for fine-tuning specific classifiers |Model draft: false
+id: mxnet-tcembedding-robertafin-base-uncased
+|31. |Sentence Pair Classification |Tensorflow |This is a Sentence Pair Classification model built upon a Text Embedding model from TensorFlow Hub It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: tensorflow-spc-bert-en-uncased-L-12-H-768-A-12-2
+|32. |Instance Segmentation |Mxnet |This is an Instance Segmentation model from Gluon CV It detects and delineates each distinct object in the image |Model draft: false
+id: mxnet-is-mask-rcnn-fpn-resnet101-v1d-coco
+|33. |Image Embedding |Tensorflow |This is an Image Feature Vector model from TensorFlow Hub It takes an image as input and returns a feature vector (embedding) of the image |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-100-224-featurevector-4
+|34. |Image Classification |Pytorch |This is an Image Classification model from PyTorch Hub It takes an image as input and classifies the image to one of the 1000 classes |Model draft: false
+id: pytorch-ic-mobilenet-v2
+|35. |Object Detection |Mxnet |This is an object detection model from Gluon CV It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: mxnet-od-ssd-512-mobilenet1-0-coco
+|36. |Object Detection |Tensorflow |This is an object detection model from TensorFlow Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v2-fpnlite-320x320-1
+|37. |Object Detection |Pytorch |This is an object detection model from PyTorch Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: pytorch-od-nvidia-ssd
+|38. |Image Classification |Tensorflow |This is an Image Classification model from TensorFlow Hub It takes an image as input and classifies the image to one of the 1001 classes |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-075-224-classification-4
+|39. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-050-224-classification-4
+|40. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-035-224-classification-4
+|41. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-140-224-classification-4
+|42. |Image Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v2-130-224-classification-4
+|43. |Object Detection |Pytorch |This is an object detection model from PyTorch Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: pytorch-od1-fasterrcnn-mobilenet-v3-large-320-fpn
+|44. |Object Detection |Pytorch |Same |Model draft: false
+id: pytorch-od1-fasterrcnn-mobilenet-v3-large-fpn
+|45. |Semantic Segmentation |Mxnet |This is an Semantic Segmentation model from Gluon CV It takes an image as input and returns class label for each pixel in the image |Model draft: false
+id: mxnet-semseg-fcn-resnet101-voc
+|46. |Semantic Segmentation |Mxnet |Same as above |Model draft: false
+id: mxnet-semseg-fcn-resnet101-ade
+|47. |Instance Segmentation |Mxnet |Same as above |Model draft: false
+id: mxnet-semseg-fcn-resnet50-ade
+|48. |Image Classification |Pytorch |This is an Image Classification model from PyTorch Hub It takes an image as input and classifies the image to one of the 1000 classes |Model draft: false
+id: pytorch-ic-resnet18
+|49. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet34
+|50. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet50
+|51. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet101
+|52. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnet152
+|53. |Object Detection |Mxnet |This is an object detection model from Gluon CV It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: mxnet-od-ssd-512-mobilenet1-0-voc
+|54. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-512-resnet50-v1-coco
+|55. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-512-resnet50-v1-voc
+|56. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-300-vgg16-atrous-coco
+|57. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-300-vgg16-atrous-voc
+|58. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d0-512x512-coco17-tpu-8
+|59. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d1-640x640-coco17-tpu-8
+|60. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d2-768x768-coco17-tpu-8
+|61. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-efficientdet-d3-896x896-coco17-tpu-32
+|62. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-mobilenet-v1-fpn-640x640-coco17-tpu-8
+|63. |Instance Segmentation |Mxnet |This is an Instance Segmentation model from Gluon CV It detects and delineates each distinct object in the image |Model draft: false
+id: mxnet-is-mask-rcnn-fpn-resnet50-v1b-coco
+|64. |Instance Segmentation |Mxnet |Same |Model draft: false
+id: mxnet-is-mask-rcnn-fpn-resnet18-v1b-coco
+|65. | |Mxnet |Same |Model draft: false
+id: mxnet-is-mask-rcnn-resnet18-v1b-coco
+|66. |Image Embedding |Tensorflow |This is an Image Feature Vector model from TensorFlow Hub It takes an image as input and returns a feature vector (embedding) of the image |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-075-224-featurevector-4
+|67. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-050-224-featurevector-4
+|68. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-035-224-featurevector-4
+|69. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-140-224-featurevector-4
+|70. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v2-130-224-featurevector-4
+|71. |Object Detection |Tensorflow |This is an object detection model from TensorFlow Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v2-fpnlite-640x640-1
+|72. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v2-2
+|73. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-ssd-mobilenet-v1-fpn-640x640-1
+|74. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet50-v1-640x640-1
+|75. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet50-v1-800x1333-1
+|76. |Zero-Shot Text Classification |Huggingface |This is Zero Shot Text Classification model built on a Transformer model from Hugging Face It can classify sentences in English language It takes a sequence and a list of candidate labels as inputs and predicts score that the sequence is associated with the particular label |Model draft: false
+id: huggingface-zstc-narsil-deberta-large-mnli-zero-cls
+|77. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-moritzlaurer-deberta-v3-large-mnli-fever-anli-ling-wanli
+|78. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-distilroberta-base
+|79. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-recognai-bert-base-spanish-wwm-cased-xnli
+|80. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-moritzlaurer-mdeberta-v3-base-xnli-multilingual-nli-2mil7
+|81. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-roberta-base
+|82. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-deberta-base
+|83. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-cross-encoder-nli-minilm2-l6-h768
+|84. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-recognai-zeroshot-selectra-medium
+|85. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-navteca-bart-large-mnli
+|86. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-jiva-xlm-roberta-large-it-mnli
+|87. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-digitalepidemiologylab-covid-twitter-bert-v2-mnli
+|88. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-recognai-zeroshot-selectra-small
+|89. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-distilbert-base-turkish-cased-snli-tr
+|90. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-turkish-cased-allnli-tr
+|91. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-turkish-cased-snli-tr
+|92. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-multilingual-cased-allnli-tr
+|93. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-narsil-bart-large-mnli-opti
+|94. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-convbert-base-turkish-mc4-cased-allnli-tr
+|95. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-lighteternal-nli-xlm-r-greek
+|96. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-distilbert-base-turkish-cased-allnli-tr
+|97. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-multilingual-cased-multinli-tr
+|98. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-eleldar-theme-classification
+|99. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-turkish-cased-multinli-tr
+|100. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-bert-base-multilingual-cased-snli-tr
+|101. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-convbert-base-turkish-mc4-cased-multinli-tr
+|102. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-distilbert-base-turkish-cased-multinli-tr
+|103. |Zero-Shot Text Classification |Huggingface |Same |Model draft: false
+id: huggingface-zstc-emrecan-convbert-base-turkish-mc4-cased-snli-tr
+|104. |Image Classification |Tensorflow |This is an Image Classification model from TensorFlow Hub It takes an image as input and classifies the image to one of the 1001 classes |Model draft: false
+id: tensorflow-ic-tf2-preview-mobilenet-v2-classification-4
+|105. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-v3-classification-4
+|106. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-v2-classification-4
+|107. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-v1-classification-4
+|108. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-tf2-preview-inception-v3-classification-4
+|109. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-inception-resnet-v2-classification-4
+|110. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v2-50-classification-4
+|111. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v2-101-classification-4
+|112. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v2-152-classification-4
+|113. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v1-50-classification-4
+|114. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v1-101-classification-4
+|115. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-resnet-v1-152-classification-4
+|116. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-resnet-50-classification-1
+|117. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b0-classification-1
+|118. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b1-classification-1
+|119. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b2-classification-1
+|120. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b3-classification-1
+|121. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b4-classification-1
+|122. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b5-classification-1
+|123. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b6-classification-1
+|124. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-b7-classification-1
+|125. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite0-classification-2
+|126. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite1-classification-2
+|127. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite2-classification-2
+|128. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite3-classification-2
+|129. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-efficientnet-lite4-classification-2
+|130. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-224-classification-4
+|131. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-192-classification-4
+|132. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-160-classification-4
+|133. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-100-128-classification-4
+|134. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-224-classification-4
+|135. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-192-classification-4
+|136. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-160-classification-4
+|137. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-075-128-classification-4
+|138. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-224-classification-4
+|139. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-192-classification-4
+|140. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-160-classification-4
+|141. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-050-128-classification-4
+|142. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-224-classification-4
+|143. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-192-classification-4
+|144. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-160-classification-4
+|145. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-imagenet-mobilenet-v1-025-128-classification-4
+|146. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r50x1-ilsvrc2012-classification-1
+|147. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r50x3-ilsvrc2012-classification-1
+|148. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r101x1-ilsvrc2012-classification-1
+|149. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-s-r101x3-ilsvrc2012-classification-1
+|150. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x1-ilsvrc2012-classification-1
+|151. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x3-ilsvrc2012-classification-1
+|152. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x1-ilsvrc2012-classification-1
+|153. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x3-ilsvrc2012-classification-1
+|154. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x1-imagenet21k-classification-1
+|155. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r50x3-imagenet21k-classification-1
+|156. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x1-imagenet21k-classification-1
+|157. |Image Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-ic-bit-m-r101x3-imagenet21k-classification-1
+|158. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-alexnet
+|159. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet121
+|160. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet169
+|161. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet201
+|162. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-densenet161
+|163. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnext50-32x4d
+|164. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-resnext101-32x8d
+|165. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-shufflenet-v2-x1-0
+|166. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-squeezenet1-0
+|167. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-squeezenet1-1
+|168. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg11
+|169. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg11-bn
+|170. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg13
+|171. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg13-bn
+|172. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg16
+|173. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg16-bn
+|174. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg19
+|175. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-vgg19-bn
+|176. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-wide-resnet50-2
+|177. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-wide-resnet101-2
+|178. |Image Classification |Pytorch |Same |Model draft: false
+id: pytorch-ic-googlenet
+|179. |Object Detection |Mxnet |This is an object detection model from Gluon CV It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: mxnet-od-ssd-512-vgg16-atrous-coco
+|180. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-ssd-512-vgg16-atrous-voc
+|181. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-darknet53-voc
+|182. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-mobilenet1-0-voc
+|183. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-darknet53-coco
+|184. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-yolo3-mobilenet1-0-coco
+|185. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-resnet50-v1b-voc
+|186. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-resnet50-v1b-coco
+|187. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-resnet101-v1d-coco
+|188. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-fpn-resnet50-v1b-coco
+|189. |Object Detection |Mxnet |Same |Model draft: false
+id: mxnet-od-faster-rcnn-fpn-resnet101-v1d-coco
+|190. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-mobilenet-v2-fpnlite-320x320-coco17-tpu-8
+|191. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-mobilenet-v2-fpnlite-640x640-coco17-tpu-8
+|192. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet50-v1-fpn-1024x1024-coco17-tpu-8
+|193. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet101-v1-fpn-640x640-coco17-tpu-8
+|194. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet101-v1-fpn-1024x1024-coco17-tpu-8
+|195. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet152-v1-fpn-640x640-coco17-tpu-8
+|196. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od1-ssd-resnet152-v1-fpn-1024x1024-coco17-tpu-8
+|197. |Image Embedding |Tensorflow |This is an Image Feature Vector model from TensorFlow Hub It takes an image as input and returns a feature vector (embedding) of the image |Model draft: false
+id: tensorflow-icembedding-imagenet-inception-v3-featurevector-4
+|198. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-inception-v2-featurevector-4
+|199. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-inception-v1-featurevector-4
+|200. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-tf2-preview-inception-v3-featurevector-4
+|201. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-tf2-preview-mobilenet-v2-featurevector-4
+|202. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v2-50-featurevector-4
+|203. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v2-101-featurevector-4
+|204. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v2-152-featurevector-4
+|205. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v1-50-featurevector-4
+|206. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v1-101-featurevector-4
+|207. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-resnet-v1-152-featurevector-4
+|208. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-resnet-50-featurevector-1
+|209. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b0-featurevector-1
+|210. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b1-featurevector-1
+|211. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b2-featurevector-1
+|212. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b3-featurevector-1
+|213. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-b6-featurevector-1
+|214. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite0-featurevector-2
+|215. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite1-featurevector-2
+|216. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite2-featurevector-2
+|217. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite3-featurevector-2
+|218. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-efficientnet-lite4-featurevector-2
+|219. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-224-featurevector-4
+|220. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-192-featurevector-4
+|221. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-160-featurevector-4
+|222. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-100-128-featurevector-4
+|223. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-224-featurevector-4
+|224. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-192-featurevector-4
+|225. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-160-featurevector-4
+|226. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-075-128-featurevector-4
+|227. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-224-featurevector-4
+|228. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-192-featurevector-4
+|229. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-160-featurevector-4
+|230. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-050-128-featurevector-4
+|231. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-224-featurevector-4
+|232. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-192-featurevector-4
+|233. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-160-featurevector-4
+|234. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-imagenet-mobilenet-v1-025-128-featurevector-4
+|235. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r50x1-ilsvrc2012-featurevector-1
+|236. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r50x3-ilsvrc2012-featurevector-1
+|237. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r101x1-ilsvrc2012-featurevector-1
+|238. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-s-r101x3-ilsvrc2012-featurevector-1
+|239. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r50x1-ilsvrc2012-featurevector-1
+|240. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r50x3-imagenet21k-featurevector-1
+|241. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r101x1-ilsvrc2012-featurevector-1
+|242. |Image Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-icembedding-bit-m-r101x3-imagenet21k-featurevector-1
+|243. |Object Detection |Tensorflow |This is an object detection model from TensorFlow Hub It takes an image as input and returns bounding boxes for the objects in the image |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet50-v1-1024x1024-1
+|244. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet101-v1-640x640-1
+|245. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet101-v1-800x1333-1
+|246. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet101-v1-1024x1024-1
+|247. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet152-v1-640x640-1
+|248. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet152-v1-800x1333-1
+|249. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-resnet152-v1-1024x1024-1
+|250. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-inception-resnet-v2-640x640-1
+|251. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-faster-rcnn-inception-resnet-v2-1024x1024-1
+|252. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d0-1
+|253. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d1-1
+|254. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d2-1
+|255. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d3-1
+|256. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d4-1
+|257. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-efficientdet-d5-1
+|258. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet50-v1-fpn-640x640-1
+|259. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet50-v1-fpn-1024x1024-1
+|260. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet101-v1-fpn-640x640-1
+|261. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet101-v1-fpn-1024x1024-1
+|262. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet152-v1-fpn-640x640-1
+|263. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-retinanet-resnet152-v1-fpn-1024x1024-1
+|264. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-512x512-1
+|265. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-512x512-kpts-1
+|266. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-1024x1024-1
+|267. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-hourglass-1024x1024-kpts-1
+|268. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v1-fpn-512x512-1
+|269. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v1-fpn-512x512-kpts-1
+|270. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v2-512x512-1
+|271. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet50v2-512x512-kpts-1
+|272. |Object Detection |Tensorflow |Same |Model draft: false
+id: tensorflow-od-centernet-resnet101v1-fpn-512x512-1
+|273. |Text Classification |Tensorflow |This is a Text Classification model built upon a Text Embedding model from TensorFlow Hub It takes a text string as input and classifies the input text as either a positive or negative movie review |Model draft: false
+id: tensorflow-tc-bert-en-cased-L-12-H-768-A-12-2
+|274. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-bert-multi-cased-L-12-H-768-A-12-2
+|275. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-128-A-2
+|276. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-256-A-4
+|277. |Text Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-512-A-8
+|278. |Question Answering |Huggingface |This is an Extractive Question Answering model built on a Transformer model from Hugging Face It takes two strings as inputs: the first string is a question and the second string is the context or any text you want to use to find the answer of the question, and it returns a sub-string from the context as an answer to the question |Model draft: false
+id: huggingface-eqa-distilbert-base-cased
+|279. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-distilbert-base-multilingual-cased
+|280. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-bert-base-uncased
+|281. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-bert-base-cased
+|282. |Question Answering |Huggingface |Same |Model draft: false
+id: huggingface-eqa-bert-base-multilingual-uncased
+|283. |Sentence Pair Classification |Tensorflow |This is a Sentence Pair Classification model built upon a Text Embedding model from TensorFlow Hub It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: tensorflow-spc-bert-en-cased-L-12-H-768-A-12-2
+|284. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-bert-multi-cased-L-12-H-768-A-12-2
+|285. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-bert-en-uncased-L-24-H-1024-A-16-2
+|286. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-electra-small-1
+|287. |Sentence Pair Classification |Tensorflow |Same |Model draft: false
+id: tensorflow-spc-electra-base-1
+|288. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-distilbert-base-cased
+|289. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-distilbert-base-multilingual-cased
+|290. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-bert-base-uncased
+|291. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-bert-base-cased
+|292. |Sentence Pair Classification |Huggingface |Same |Model draft: false
+id: huggingface-spc-bert-base-multilingual-uncased
+|293. |Named Entity Recognition |Huggingface |This is a Named Entity Generation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts named entities in the input text |Model draft: false
+id: huggingface-ner-distilbert-base-uncased-finetuned-conll03-english
+|294. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-bloom-1b1
+|295. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-bloom-560m
+|296. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-gpt2
+|297. |Text Generation |Huggingface |Same |Model draft: false
+id: huggingface-textgeneration-distilgpt2
+|298. |Text Summarization |Huggingface |This is a Text Summarization model built upon a Transformer model from Hugging Face It takes a text string as input and returns a summary of the text |Model draft: false
+id: huggingface-summarization-bert-small2bert-small-finetuned-cnn-daily-mail-summarization
+|299. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-distilbart-cnn-6-6
+|300. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-distilbart-xsum-12-3
+|301. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-distilbart-cnn-12-6
+|302. |Text Summarization |Huggingface |Same |Model draft: false
+id: huggingface-summarization-bart-large-cnn-samsum
+|303. |Machine Translation |Huggingface |This is a Machine Translation model built upon a Transformer model from Hugging Face It takes a text string as input and predicts its translation |Model draft: false
+id: huggingface-translation-t5-base
+|304. |Machine Translation |Huggingface |Same |Model draft: false
+id: huggingface-translation-t5-large
+|305. |Machine Translation |Huggingface |Same |Model draft: false
+id: huggingface-translation-opus-mt-en-es
+|306. |Machine Translation |Huggingface |Same |Model draft: false
+id: huggingface-translation-opus-mt-en-vi
+|307. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-256-A-4
+|308. |Text Embedding |Tensorflow |same |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-512-A-8-2
+|309. |Text Embedding |Tensorflow |same |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-2-H-768-A-12-2
+|310. |Text to Image |Stabilityai |This is a text-to-image model from Stability AI and downloaded from HuggingFace It takes a textual description as input and returns a generated image from the description |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v2
+|311. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-128-A-2-2
+|312. |Text Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-256-A-4-2
+|313. |Text Embedding |Mxnet |Same |Model draft: false
+id: mxnet-tcembedding-robertafin-base-wiki-uncased
+|314. |Text Embedding |Mxnet |Same |Model draft: false
+id: mxnet-tcembedding-robertafin-large-uncased
+|315. |Text Embedding |Mxnet |Same |Model draft: false
+id: mxnet-tcembedding-robertafin-large-wiki-uncased
+|316. |Text Classification |Tensorflow |This is a Text Classification model built upon a Text Embedding model from TensorFlow Hub It takes a text string as input and classifies the input text as either a positive or negative movie review |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-2-H-768-A-12
+|317. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-128-A-2
+|318. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-256-A-4
+|319. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-512-A-8
+|320. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-4-H-768-A-12
+|321. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-128-A-2
+|322. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-256-A-4
+|323. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-512-A-8
+|324. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-6-H-768-A-12
+|325. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-128-A-2
+|326. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-256-A-4
+|327. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-512-A-8
+|328. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-8-H-768-A-12
+|329. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-128-A-2
+|330. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-256-A-4
+|331. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-512-A-8
+|332. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-10-H-768-A-12
+|333. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-128-A-2
+|334. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-256-A-4
+|335. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-512-A-8
+|336. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-small-bert-bert-en-uncased-L-12-H-768-A-12
+|337. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-uncased-L-24-H-1024-A-16-2
+|338. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-cased-L-24-H-1024-A-16-2
+|339. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-wwm-uncased-L-24-H-1024-A-16-2
+|340. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-bert-en-wwm-cased-L-24-H-1024-A-16-2
+|341. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-albert-en-base
+|342. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-electra-small-1
+|343. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-electra-base-1
+|344. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-experts-bert-wiki-books-1
+|345. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-experts-bert-pubmed-1
+|346. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-talking-heads-base
+|347. |Text Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tc-talking-heads-large
+|348. |Question Answering |Huggingface |This is an Extractive Question Answering model built on a Transformer model from Hugging Face It takes two strings as inputs: the first string is a question and the second string is the context or any text you want to use to find the answer of the question, and it returns a sub-string from the context as an answer to the question |Model draft: false
+id: huggingface-eqa-bert-base-multilingual-cased
+|349. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-uncased
+|350. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-cased
+|351. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-uncased-whole-word-masking
+|352. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-bert-large-cased-whole-word-masking
+|353. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-distilroberta-base
+|354. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-roberta-base
+|355. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-roberta-base-openai-detector
+|356. |Question Answering |Huggingface |Same as above |Model draft: false
+id: huggingface-eqa-roberta-large
+|357. |Sentence Pair Classification |Tensorflow |This is a Sentence Pair Classification model built upon a Text Embedding model from TensorFlow Hub It takes a pair of sentences as input and classifies the input pair to &amp;rsquo;entailment&amp;rsquo; or &amp;rsquo;no-entailment&amp;rsquo; |Model draft: false
+id: tensorflow-spc-bert-en-wwm-uncased-L-24-H-1024-A-16-2
+|358. |Sentence Pair Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-spc-bert-en-wwm-cased-L-24-H-1024-A-16-2
+|359. |Sentence Pair Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-spc-experts-bert-wiki-books-1
+|360. |Sentence Pair Classification |Tensorflow |Same as above |Model draft: false
+id: tensorflow-spc-experts-bert-pubmed-1
+|361. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-base-multilingual-cased
+|362. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-uncased
+|363. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-cased
+|364. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-uncased-whole-word-masking
+|365. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-bert-large-cased-whole-word-masking
+|366. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-distilroberta-base
+|367. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-base
+|368. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-base-openai-detector
+|369. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-large
+|370. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-roberta-large-openai-detector
+|371. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-ende-1024
+|372. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-enro-1024
+|373. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-xnli15-1024
+|374. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-mlm-tlm-xnli15-1024
+|375. |Sentence Pair Classification |Huggingface |Same as above |Model draft: false
+id: huggingface-spc-xlm-clm-ende-1024
+|376. |Text Summarization |Huggingface |This is a Text Summarization model built upon a Transformer model from Hugging Face It takes a text string as input and returns a summary of the text |Model draft: false
+id: huggingface-summarization-bigbird-pegasus-large-arxiv
+|377. |Text Summarization |Huggingface |Same as above |Model draft: false
+id: huggingface-summarization-bigbird-pegasus-large-pubmed
+|378. |Text Embedding |Tensorflow |This is a Text Embedding model from TensorFlow Hub It takes a text string as input and outputs an embedding vector The Text Embedding model is pre-trained on Wikipedia and BookCorpus datasets |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-512-A-8-2
+|379. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-4-H-768-A-12-2
+|380. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-128-A-2-2
+|381. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-256-A-4
+|382. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-512-A-8-2
+|383. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-6-H-768-A-12-2
+|384. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-8-H-256-A-4-2
+|385. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-8-H-512-A-8-2
+|386. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-8-H-768-A-12-2
+|387. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-128-A-2-2
+|388. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-256-A-4-2
+|389. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-512-A-8-2
+|390. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-10-H-768-A-12-2
+|391. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-128-A-2-2
+|392. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-256-A-4
+|393. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-512-A-8-2
+|394. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-768-A-12-2
+|395. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-en-uncased-L-12-H-768-A-12-4
+|396. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-wiki-books-sst2
+|397. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-bert-wiki-books-mnli-2
+|398. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-universal-sentence-encoder-cmlm-en-large-1
+|399. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-universal-sentence-encoder-cmlm-en-base-1
+|400. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-talkheads-ggelu-bert-en-base-2
+|401. |Text Embedding |Tensorflow |Same as above |Model draft: false
+id: tensorflow-tcembedding-talkheads-ggelu-bert-en-large-2
+|402. |Tabular Classification | |This is the LightGBM algorithm for tabular classification task LightGBM is a gradient boosting framework that uses tree based learning algorithms |Model draft: false
+id: lightgbm-classification-model
+|403. |Tabular Classification |Catboost |This is the CatBoost algorithm for tabular classification task CatBoost is a machine learning algorithm that uses gradient boosting on decision trees |Model draft: false
+id: catboost-classification-model
+|404. |Tabular Classification | |This is the AutoGluon-Tabular algorithm for tabular classification task AutoGluon-Tabular is an open-source AutoML framework that trains highly accurate machine learning models on an unprocessed tabular dataset Unlike existing AutoML frameworks that primarily focus on model/hyperparameter selection, AutoGluon-Tabular succeeds by ensembling multiple models and stacking them in multiple layers |Model draft: false
+id: autogluon-classification-ensemble
+|405. |Tabular Classification | |This is the TabTransformer algorithm for tabular classification task TabTransformer is a deep tabular data modeling architecture that built upon self-attention based Transformers |Model draft: false
+id: pytorch-tabtransformerclassification-model
+|406. |Tabular Classification |Sklearn |This is the scikit-learn linear algorithm for tabular classification task Linear Classification is a linear approach to classify data into labels (targets) based on a linear combination of its input features (predictors) |Model draft: false
+id: sklearn-classification-linear
+|407. |Tabular Classification |Xgboost |This is the XGBoost algorithm for tabular classification task XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable It implements machine learning algorithms under the Gradient Boosting framework |Model draft: false
+id: xgboost-classification-model
+|408. |Tabular Regression | |This is the LightGBM algorithm for tabular regression task LightGBM is a gradient boosting framework that uses tree based learning algorithms |Model draft: false
+id: lightgbm-regression-model
+|409. |Tabular Regression |Catboost |This is the CatBoost algorithm for tabular regression task CatBoost is a machine learning algorithm that uses gradient boosting on decision trees |Model draft: false
+id: catboost-regression-model
+|410. |Tabular Regression | |This is the AutoGluon-Tabular algorithm for tabular regression task AutoGluon-Tabular is an open-source AutoML framework that trains highly accurate machine learning models on an unprocessed tabular dataset Unlike existing AutoML frameworks that primarily focus on model/hyperparameter selection, AutoGluon-Tabular succeeds by ensembling multiple models and stacking them in multiple layers |Model draft: false
+id: autogluon-regression-ensemble
+|411. |Tabular Regression | |This is the TabTransformer algorithm for tabular regression task TabTransformer is a deep tabular data modeling architecture that built upon self-attention based Transformers |Model draft: false
+id: pytorch-tabtransformerregression-model
+|412. |Tabular Regression |Sklearn |This is the scikit-learn linear algorithm for tabular regression task Linear Regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables |Model draft: false
+id: sklearn-regression-linear
+|413. |Tabular Regression |Xgboost |This is the XGBoost algorithm for tabular regression task XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable It implements machine learning algorithms under the Gradient Boosting framework |Model draft: false
+id: xgboost-regression-model
+|414. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-distilbert-base-uncased
+|415. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-bert-large-uncased-whole-word-masking
+|416. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-bert-large-uncased
+|417. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-bert-large-cased
+|418. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-roberta-base
+|419. |Question Answering |Pytorch |Same as above |Model draft: false
+id: pytorch-eqa-distilbert-base-multilingual-cased
+|420. |Object detection |SageMaker |Identify birds species in a scene using a SageMaker object detection model. |
+|421. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-distilroberta-base
+|422. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-trill-distilled-3
+|423. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-roberta-large-openai-detector
+|424. |Object detection |SageMaker |Identify defective regions in product images either by training an object detection model from scratch or fine-tuning pretrained SageMaker models. |
+|425. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-trillsson2-1
+|426. |Tabular classification |SageMaker |Automatically detect potentially fraudulent activity in transactions using SageMaker XGBoost with the over-sampling technique Synthetic Minority Over-sampling (SMOTE). |
+|427. |Feature importance using shap |SageMaker | |
+|428. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-distilbert-base-cased
+|429. |Graph neural network classification |SageMaker |Detect fraud in financial transactions by training a graph convolutional network with the deep graph library and a SageMaker XGBoost model. |
+|430. |Tabular classification |SageMaker |Classify financial payments based on transaction information using SageMaker XGBoost. Use this solution template as an intermediate step in fraud detection, personalization, or anomaly detection. |
+|431. |Tabular classification |SageMaker |Identify unhappy mobile phone customers using SageMaker XGBoost. |
+|432. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-base-cased
+|433. |RL |SageMaker |Distributed reinforcement learning starter kit for NeurIPS 2020 Procgen Reinforcement learning challenge. |
+|434. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-large-cased-whole-word-masking-finetuned-squad
+|435. |Tabular classification |SageMaker | |
+|436. |RL |SageMaker | |
+|437. |Entity resolution |SageMaker | |
+|438. |Tabular classification |SageMaker | |
+|439. |Tabular and text classification |SageMaker | |
+|440. |Text classification |SageMaker |Anonymize text to better preserve user privacy in sentiment classification. |
+|441. |Tabular, image, and text classification. |SageMaker | |
+|442. |Tabular classification |SageMaker | |
+|443. |Text to Image |Stabilityai |This is a text-to-image model from Stability AI and downloaded from HuggingFace It takes a textual description as input and returns a generated image from the description |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v2-fp16
+|444. |Text to Image |Stabilityai |Same |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v1-4-fp16
+|445. |ext to Image |Stabilityai |Same |Model draft: false
+id: model-txt2img-stabilityai-stable-diffusion-v1-4
+|446. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-base-multilingual-cased
+|447. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-roberta-large
+|448. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-frill-1
+|449. |Audio Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-audioembedding-trillsson3-1
+|450. |Audio Embedding |Tensorflow |Same |Model draft: false
+id: tensorflow-audioembedding-trill-3
+|451. |Tabular and text classification |SageMaker | |
+|452. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-roberta-base-openai-detector
+|453. |Question Answering |Pytorch |Same |Model draft: false
+id: pytorch-eqa-bert-large-cased-whole-word-masking
+|454. |Time series |SageMaker |Demand forecasting for multivariate time series data using three state-of-the-art time series forecasting algorithms: LSTNet, Prophet, and SageMaker DeepAR. |
+|455. |Question Answering |Pytorch |This is a Extractive Question Answering model built upon a Text Embedding model from PyTorch Hub It takes as input a pair of question-context strings, and returns a sub-string from the context as a answer to the question |Model draft: false
+id: pytorch-eqa-bert-large-uncased-whole-word-masking-finetuned-squad
+|456. |Question Answering |Pytorch |Same |Model draft: false
+id: pytorch-eqa-bert-base-multilingual-uncased
+|457. |Question Answering |Pytorch |Same |Model draft: false
+id: pytorch-eqa-bert-base-uncased
+|458. |Audio Embedding |Tensorflow |This is an audio embedding model from Tensorflow Hub It takes a wav (audio file format) file as input and outputs an embedding vector |Model draft: false
+id: tensorflow-audioembedding-trillsson1-1
+|459. |Object detection |SageMaker | |
+|460. |Causal inference |SageMaker |Generate a counterfactual analysis of corn response to nitrogen. This solution learns the crop phenology cycle in its entirety using multi-spectral satellite imagery and ground-level observations. |
+|461. |Price optimization |SageMaker |Estimate price elasticity using Double Machine Learning (ML) for causal inference and the Prophet forecasting procedure. Use these estimates to optimize daily prices. |
+|462. |Tabular and text classification |SageMaker | |
+|463. |Upscaling |Stabilityai |This is a upscaling model from Stability AI downloaded from HuggingFace with FP16 precision Given a low resolution image and a textual prompt, it generates a higher resolution image with size up to four times the original image size |Model draft: false
+id: model-upscaling-stabilityai-stable-diffusion-x4-upscaler-fp16&lt;/p></description></item><item><title>Python Decorator Function</title><link>https://dasarpai.github.io/dsblog/python-decorator-function/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-decorator-function/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg" alt="Python Decorator Function" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python Decorator Function
+&lt;div id="python-decorator-function" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-decorator-function" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Decorator Function in Python
+&lt;div id="what-is-decorator-function-in-python" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-decorator-function-in-python" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Python, a decorator is a special type of function that allows you to modify or extend the behavior of other functions or methods. Decorators provide a convenient way to add functionality to functions without modifying their code directly. They are commonly used for tasks such as logging, authorization, caching, and more.&lt;/p></description></item><item><title>Python Naming Convention</title><link>https://dasarpai.github.io/dsblog/python-naming-convention/</link><pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-naming-convention/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg" alt="Python Naming Convention" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python Naming Convention
+&lt;div id="python-naming-convention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-naming-convention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;ul>
+&lt;li>UPPERCASE / UPPER_CASE_WITH_UNDERSCORES =&amp;gt; module-level constants&lt;/li>
+&lt;li>lowercase / lower_case_with_underscores =&amp;gt; for variable and function name.&lt;/li>
+&lt;li>CapitalizedWords (or CapWords, or CamelCase – so named because of the bumpy look of its letters [4]). This is also sometimes known as StudlyCaps. =&amp;gt; CamelCase =&amp;gt; Class
+&lt;ul>
+&lt;li>Note: When using acronyms in CapWords, capitalize all the letters of the acronym. Thus HTTPServerError is better than HttpServerError.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>mixedCase (differs from CapitalizedWords by initial lowercase character!)&lt;/li>
+&lt;li>Capitalized_Words_With_Underscores (ugly!)&lt;/li>
+&lt;li>_single_leading_underscore: weak “internal use” indicator. E.g. from M import * does not import objects whose names start with an underscore.&lt;/li>
+&lt;li>single&lt;em>trailing_underscore&lt;/em>: used by convention to avoid conflicts with Python keyword, e.g.
+tkinter.Toplevel(master, class_=&amp;lsquo;ClassName&amp;rsquo;)&lt;/li>
+&lt;li>__double_leading_underscore: when naming a class attribute, invokes name mangling (inside class FooBar, &lt;strong>boo becomes _FooBar&lt;/strong>boo; see below).&lt;/li>
+&lt;li>__double_leading_and_trailing_underscore**: “magic” objects or attributes that live in user-controlled namespaces. E.g. __init**, __import** or __file**. Never invent such names; only use them as documented.&lt;/li>
+&lt;li>Never use the characters ‘l’ (lowercase letter el), ‘O’ (uppercase letter oh), or ‘I’ (uppercase letter eye) as single character variable names.&lt;/li>
+&lt;/ul>
+&lt;h1 class="relative group">Programming Recommendations
+&lt;div id="programming-recommendations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming-recommendations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Use &amp;ldquo;is not&amp;rdquo; operator
+&lt;div id="use-is-not-operator" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#use-is-not-operator" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">foo&lt;/span> &lt;span class="ow">is&lt;/span> &lt;span class="ow">not&lt;/span> &lt;span class="kc">None&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="ow">not&lt;/span> &lt;span class="n">foo&lt;/span> &lt;span class="ow">is&lt;/span> &lt;span class="kc">None&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Always use a def statement
+&lt;div id="always-use-a-def-statement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#always-use-a-def-statement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">f&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span> &lt;span class="k">return&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">x&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">f&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">x&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">all try/except clauses
+&lt;div id="all-tryexcept-clauses" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-tryexcept-clauses" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">try&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">value&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">collection&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">except&lt;/span> &lt;span class="ne">KeyError&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">key_not_found&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">handle_value&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">value&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">try&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># Too broad!&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">handle_value&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">collection&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">])&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">except&lt;/span> &lt;span class="ne">KeyError&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># Will also catch KeyError raised by handle_value()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">key_not_found&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Context managers should be invoked through separate functions or methods
+&lt;div id="context-managers-should-be-invoked-through-separate-functions-or-methods" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#context-managers-should-be-invoked-through-separate-functions-or-methods" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">with&lt;/span> &lt;span class="n">conn&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">begin_transaction&lt;/span>&lt;span class="p">():&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">do_stuff_in_transaction&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">conn&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">with&lt;/span> &lt;span class="n">conn&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">do_stuff_in_transaction&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">conn&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Be consistent in return statements
+&lt;div id="be-consistent-in-return-statements" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#be-consistent-in-return-statements" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">foo&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;gt;=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="kc">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">bar&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="kc">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">foo&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;gt;=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">bar&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">startswith, endswith
+&lt;div id="startswith-endswith" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#startswith-endswith" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Use &amp;lsquo;&amp;rsquo;.startswith() and &amp;lsquo;&amp;rsquo;.endswith() instead of string slicing to check for prefixes or suffixes.&lt;/li>
+&lt;li>Correct:
+if foo.startswith(&amp;lsquo;bar&amp;rsquo;):&lt;/li>
+&lt;li>Wrong:
+if foo[:3] == &amp;lsquo;bar&amp;rsquo;:&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Object type comparisons
+&lt;div id="object-type-comparisons" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#object-type-comparisons" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:
+if isinstance(obj, int):&lt;/li>
+&lt;li>Wrong:
+if type(obj) is type(1):&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Sequences, (strings, lists, tuples)
+&lt;div id="sequences-strings-lists-tuples" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sequences-strings-lists-tuples" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>-For sequences, (strings, lists, tuples), use the fact that empty sequences are false:&lt;/p></description></item><item><title>Sorting Algorithm A Summary</title><link>https://dasarpai.github.io/dsblog/sorting-algorithm-a-summary/</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/sorting-algorithm-a-summary/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg" alt="Sorting Algorithm A Summary" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Sorting Algorithm A Summary
+&lt;div id="sorting-algorithm-a-summary" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sorting-algorithm-a-summary" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Sorting is a fundamental operation in computer science and plays a vital role in various applications. Whether it&amp;rsquo;s organizing data, searching for specific elements efficiently, or preparing data for further processing, sorting algorithms provide the necessary tools to bring order to chaos. With a wide range of sorting techniques available, each with its own strengths and weaknesses, it is essential to understand their principles, time complexities, and trade-offs.&lt;/p></description></item></channel></rss>

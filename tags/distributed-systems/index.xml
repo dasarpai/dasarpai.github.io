@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Distributed Systems on</title><link>https://dasarpai.github.io/tags/distributed-systems/</link><description>Recent content in Distributed Systems on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating the LLM Infrastructure Landscape</title><link>https://dasarpai.github.io/dsblog/navigating-llm-infrastructure-landscape/</link><pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-llm-infrastructure-landscape/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6181-llm-infrastructure.jpg" alt="Navigating the LLM Infrastructure Landscape" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating the LLM Infrastructure Landscape: From Cloud Giants to Specialized Providers
+&lt;div id="navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>1. Introduction&lt;/strong>
+&lt;div id="1-introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The rapid advancement of Large Language Models (LLMs) has revolutionized a wide range of industries, from customer support to content creation and beyond. As LLMs like GPT-4, T5, and BERT become integral to AI-driven applications, the need for specialized infrastructure to support their deployment, training, and scaling has grown significantly. Traditional cloud services, while effective for general-purpose computing, often fall short in addressing the unique challenges posed by these models, such as handling vast amounts of data, providing low-latency responses, and managing the immense computational load. As a result, businesses and developers are increasingly turning to platforms specifically optimized for LLMs.&lt;/p></description></item></channel></rss>

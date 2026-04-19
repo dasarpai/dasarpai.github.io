@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transfer Learning on</title><link>https://dasarpai.github.io/tags/transfer-learning/</link><description>Recent content in Transfer Learning on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Why to Finetune LLM?</title><link>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</link><pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg" alt="Why to Finetune LLM?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Finetuning, Fewshot Learning, Why and How?
+&lt;div id="finetuning-fewshot-learning-why-and-how" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#finetuning-fewshot-learning-why-and-how" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why to finetune a LLM?
+&lt;div id="why-to-finetune-a-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-to-finetune-a-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Fine-tuning a large language model (LLM) can provide several benefits, depending on your specific needs and objectives. Here are some key reasons to consider fine-tuning an LLM:&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Repository from Pinto0309
+&lt;div id="ml-model-repository-from-pinto0309" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-repository-from-pinto0309" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p></description></item><item><title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title><link>https://dasarpai.github.io/dsblog/rps-pretrained-language-models-for-text-generation/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rps-pretrained-language-models-for-text-generation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg" alt="Pretrained Language Models for Text Generation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong>&lt;br>
+Typer of Paper:- Survey Paper&lt;br>
+&lt;a href="https://arxiv.org/abs/2105.10311" target="_blank">Paper URL&lt;/a>&lt;br>
+Paper title of the citations mentioned can be found at &lt;a href="https://dasarpai.github.io/dsblog/aip">AI Papers with Heading&lt;/a>. Use citation code to locate.&lt;/p>
+&lt;h1 class="relative group">Paper Summary :- Pretrained Language Models for Text Generation
+&lt;div id="paper-summary---pretrained-language-models-for-text-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-summary---pretrained-language-models-for-text-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Paper Outcome
+&lt;div id="paper-outcome" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-outcome" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>General task deﬁnition&lt;/li>
+&lt;li>Describe the mainstream architectures of PLMs for text generation.&lt;/li>
+&lt;li>How to adapt existing PLMs to model different input data and satisfy special properties in the generated text.&lt;/li>
+&lt;li>Summarize several important ﬁne-tuning strategies for text generation.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Ideas from the Paper
+&lt;div id="ideas-from-the-paper" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ideas-from-the-paper" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Main Ideas
+&lt;div id="main-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#main-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>This paper discusses &amp;ldquo;major advances achieved in the topic of PLMs for text generation&amp;rdquo;&lt;/li>
+&lt;li>This survey aims to provide &amp;ldquo;text generation researchers a synthesis&amp;rdquo; and pointer to related research.&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">General Ideas
+&lt;div id="general-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#general-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Text generation has become one of the most important yet challenging tasks in natural language processing (NLP).&lt;/li>
+&lt;li>Neural generation model are deep learning models&lt;/li>
+&lt;li>Pretrained language models (PLMs) are neural generation model&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Task Types and Typical Applications
+&lt;div id="task-types-and-typical-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#task-types-and-typical-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )&lt;/li>
+&lt;li>If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
+generation task(generate text without any constraint) &lt;a href="https://dasarpai.github.io/dsblog/aip#radford2019">Radford2019&lt;/a>&lt;/li>
+&lt;li>If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
+attribute-based generation. X plays the role of guiding the text generation. &lt;a href="https://dasarpai.github.io/dsblog/aip#Keskar2019">Keskar2019&lt;/a>.&lt;/li>
+&lt;li>If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href="https://dasarpai.github.io/dsblog/aip#Li2021c">Li2021c&lt;/a>.&lt;/li>
+&lt;li>If X is multimedia input such as image, the task becomes image caption &lt;a href="https://dasarpai.github.io/dsblog/aip#Xia2020">Xia2020&lt;/a>&lt;/li>
+&lt;li>If X is multimedia input such as speech, the task become speech recognition &lt;a href="https://dasarpai.github.io/dsblog/aip#Fan2019">Fan2019&lt;/a>.&lt;/li>
+&lt;li>If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system.&lt;/li>
+&lt;li>Machine translation aims to translate text from one language into another language automatically &lt;a href="https://dasarpai.github.io/dsblog/aip#Conneau2019">Conneau2019&lt;/a>&lt;/li>
+&lt;li>Generating condensed summary of a long document &lt;a href="https://dasarpai.github.io/dsblog/aip#Zhang2019b">Zhang2019b&lt;/a>&lt;/li>
+&lt;li>Dialogue system to converse with humans using natural language. &lt;a href="https://dasarpai.github.io/dsblog/aip#Wolf2019">Wolf2019&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Architectures for Text Generation
+&lt;div id="architectures-for-text-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#architectures-for-text-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
+&lt;ul>
+&lt;li>MASS &lt;a href="https://dasarpai.github.io/dsblog/aip#song2019">Song2019&lt;/a>&lt;/li>
+&lt;li>T5 &lt;a href="https://dasarpai.github.io/dsblog/aip#raffel2020">Raffel2020&lt;/a>&lt;/li>
+&lt;li>BART &lt;a href="https://dasarpai.github.io/dsblog/aip#lewis2020">Lewis2020&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens.
+&lt;ul>
+&lt;li>GPT &lt;a href="https://dasarpai.github.io/dsblog/aip#radfordet2019">Radfordet2019&lt;/a>; &lt;a href="https://dasarpai.github.io/dsblog/aip#brown2020">Brown2020&lt;/a>&lt;/li>
+&lt;li>CTRL [Keskar2019]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Modeling Different Data Types from Input
+&lt;div id="modeling-different-data-types-from-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#modeling-different-data-types-from-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Unstructured Input
+&lt;div id="unstructured-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#unstructured-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Hierarchical BERT to learn interactions between sentences with self-attention for document encoding. [Zhang2019b] and [Xu2020b]&lt;/li>
+&lt;li>Capturing intersentential relations, DiscoBERT stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. [Xu2020a]&lt;/li>
+&lt;li>Cross-lingual language models (XLMs) for multilingual language understanding. [Conneau2019]&lt;/li>
+&lt;li>Text generation models can obtain effective input word embeddings even in a low-resource language [Wada2018].&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Structured Input
+&lt;div id="structured-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#structured-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>PLMs are not designed for structured or tabular data but for sequential text/data.&lt;/li>
+&lt;li>Incorporating PLMs for data-to text generation, especially in few-shot settings. [Chen2020b] and [Gong2020]&lt;/li>
+&lt;li>To adapt to the sequential nature of PLMs linearized input knowledge graph (KG) and abstract meaning representation (AMR) graph into a sequence of triples. [Ribeiro2020] and [Mager2020]&lt;/li>
+&lt;li>Introduced an additional graph encoder to encode the input KG. [Li2021b]&lt;/li>
+&lt;li>Template based method to serialize input table into text sequence. [Gong2020]
+&lt;ul>
+&lt;li>For example, the attribute-value pair “name: jack reynolds” will be serialized as a sentence “name is jack reynolds”. However, direct linearization will lose the structural information of original data, which may lead to generating unfaithful text about data.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Auxiliary reconstruction task for recovering the structural information of input data, which can enhance the capacity of modeling structural information. [Gong2020]&lt;/li>
+&lt;li>The pointer generator mechanism is adopted to copy words from input knowledge data. [See2017] [Chen2020b].&lt;/li>
+&lt;li>Content matching loss for measuring the distance between the information in input data and the output text. [Gong2020]&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Multimedia Input
+&lt;div id="multimedia-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multimedia-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Conducted pretraining for the video caption task. VideoBERT [Sun2019b] and CBT [Sun2019a]&lt;/li>
+&lt;li>Used a shared multi-layer Transformer network for both encoding and decoding. Unified VLP [Zhou2020]&lt;/li>
+&lt;li>Pretrained the model on two masked language modeling (MLM) tasks, like cloze tasks designed for sequence-to-sequence LM. UniLM [Dong2019]&lt;/li>
+&lt;li>Cross-modal pretrained model (XGPT) by taking images as inputs and using the image caption task as the basic generative task in the pretraining stage. Xia2020&lt;/li>
+&lt;li>Image, video, speech recognition is hungry for human-transcripted supervised data.&lt;/li>
+&lt;li>Integrate PLMs for weakly-supervised learning. For example,
+&lt;ul>
+&lt;li>Unsupervised approach to pretraining encoder-decoder model with unpaired speech and transcripts. [Fan2019]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Two pretraining stages are used to extract acoustic and linguistic information with speech and transcripts, which is useful for downstream speech recognition task.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Satisfying Special Properties for Output Text
+&lt;div id="satisfying-special-properties-for-output-text" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#satisfying-special-properties-for-output-text" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Generated text should satisfy several key properties like. relevance, faithfulness, and order-preservation.&lt;/li>
+&lt;li>Relevance. Relevance refers that the topics in output text is highly related to the input text. The generated responses should
+also be relevant to the condition. RNN-based models still tend to generate irrelevant output text and lack consistency with input. - When applying PLMs to the task of dialogue systems, TransferTransfo and DialoGPT were able to generate more relevant responses than RNNbased models. [Wolf2019] [Zhang2020] - Utilize elaborated condition blocks to incorporate external conditions. They used BERT for both encoder and decoder by utilizing different input
+representations and self-attention masks to distinguish the source and target sides of dialogue. On the target (generation) side, a new attention routing mechanism is adopted to generate context-related words. [Zeng2020] - Approach for non-conditioned dialogue [Bao2020].&lt;/li>
+&lt;li>Faithfulness. Means the content in generated text should not contradict the facts in input text.
+&lt;ul>
+&lt;li>PLMs are potentially beneficial to generate faithful text by utilizing background knowledge.&lt;/li>
+&lt;li>Initialize the encoder and decoder with three outstanding PLMs, i.e., BERT, GPT and RoBERTa. [Rothe2020]&lt;/li>
+&lt;li>With pretraining, the models are more aware of the domain characteristics and less prone to language model vulnerabilities.&lt;/li>
+&lt;li>Decompose the decoder into a contextual network that retrieves relevant parts of the source document and a PLM that incorporates prior knowledge about language generation. [Kryscinski2018]&lt;/li>
+&lt;li>Generate faithful text in different target domains, fine-tuned PLMs on target domains through theme modeling loss. [Yang2020b]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Order-preservation. Order-preservation denotes that the order of semantic units (word, phrase, etc.) in both input and output text is consistent.
+&lt;ul>
+&lt;li>When translating from source language to target language, keeping the order of phrases consistent in source language and target language will ensure the accuracy of the translation.&lt;/li>
+&lt;li>Code-Switching Pre-training (CSP) for machine translation. [Yang2020a]
+&lt;ul>
+&lt;li>Extracted the word-pair alignment information from the source and target language,&lt;/li>
+&lt;li>Aplied the extracted alignment information to enhance order-preserving.&lt;/li>
+&lt;li>Translation across multiple languages, called multilingual machine translation [Conneau2019].&lt;/li>
+&lt;li>mRASP (technique of randomly aligned substitution), an approach to pretraining a universal multilingual machine translation model. [Lin2020]&lt;/li>
+&lt;li>Aligning word representations of each language, making it possible to preserve the word order consistent cross multiple languages. Wada2018&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Summary from Introduction
+&lt;div id="summary-from-introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#summary-from-introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Researchers have developed numerous techniques for a wide range of applications of text generation [Li2021a].&lt;/li>
+&lt;li>Machine translation generates text in a different language based on the source text [Yang2020a];&lt;/li>
+&lt;li>Summarization generates an abridged version of the source text to include salient information [Guan2020].&lt;/li>
+&lt;li>Text generation tasks based on
+&lt;ul>
+&lt;li>Recurrent neural networks (RNN) [Li2019],&lt;/li>
+&lt;li>Convolutional neural networks (CNN) [Gehring2017],&lt;/li>
+&lt;li>Graph neural networks (GNN) [Li2020],&lt;/li>
+&lt;li>Attention mechanism [Bahdanau2015].&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>One of the advantages of these neural models is that they enable end-to-end learning of semantic mappings from input to output in text generation.&lt;/li>
+&lt;li>Neural models are able to learn low-dimensional, dense vectors to implicitly represent linguistic features of text, which is also useful to alleviate data sparsity.&lt;/li>
+&lt;li>Deep neural networks usually have a large number of parameters to learn, which are likely to overﬁt on these small datasets and do not generalize well in practice.&lt;/li>
+&lt;li>The idea behind PLMs is to ﬁrst pretrain the models in large-scale corpus and then ﬁnetune these models in various downstream tasks to achieve
+state-of-the-art results.&lt;/li>
+&lt;li>PLMs can encode a large amount of linguistic knowledge from corpus and induce universal representations of language.&lt;/li>
+&lt;li>PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown2020].&lt;/li>
+&lt;li>A synthesis to the research on some text generation subtasks. Zaib et al. [2020], and Guan et al. [2020]&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Conclusion &amp;amp; Future Recommendations
+&lt;div id="conclusion--future-recommendations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#conclusion--future-recommendations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Model Extension.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deployment on</title><link>https://dasarpai.github.io/tags/deployment/</link><description>Recent content in Deployment on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/deployment/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Docker Image</title><link>https://dasarpai.github.io/dsblog/creating-docker-image/</link><pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/creating-docker-image/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6122-Creating-Docker-Image.jpg" alt="Creating-Docker-Image" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Creating Docker Image
+&lt;div id="creating-docker-image" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#creating-docker-image" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Docker?
+&lt;div id="what-is-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Docker is an open platform for developing, shipping, and running applications.&lt;/li>
+&lt;li>Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.&lt;/li>
+&lt;li>With Docker, you can manage your infrastructure in the same ways you manage your applications.&lt;/li>
+&lt;li>Docker provides the ability to package and run an application in a loosely isolated environment called a container.&lt;/li>
+&lt;li>The isolation and security lets you run many containers simultaneously on a given host.&lt;/li>
+&lt;li>Containers are lightweight and contain everything needed to run the application, so you don&amp;rsquo;t need to rely on what&amp;rsquo;s installed on the host.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Basics Terms Related to Docker
+&lt;div id="basics-terms-related-to-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-terms-related-to-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">The Docker daemon
+&lt;div id="the-docker-daemon" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-docker-daemon" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.&lt;/p></description></item></channel></rss>

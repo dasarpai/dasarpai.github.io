@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning (ML) on</title><link>https://dasarpai.github.io/categories/machine-learning-ml/</link><description>Recent content in Machine Learning (ML) on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/machine-learning-ml/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Reinforcement Learning Concepts: A Comprehensive Guide</title><link>https://dasarpai.github.io/dsblog/exploring-reinforcement-learning-concepts/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-reinforcement-learning-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg" alt="Exploring Reinforcement Learning Concepts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Reinforcement Learning Concepts
+&lt;div id="exploring-reinforcement-learning-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-reinforcement-learning-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Reinforcement Learning (RL) is a rich and complex field with many important concepts. Here are some high level concepts which you need to understand, and explore this field.&lt;/p>
+&lt;h2 class="relative group">Key Concepts of Reinforcement Learning (RL)
+&lt;div id="key-concepts-of-reinforcement-learning-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-concepts-of-reinforcement-learning-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">&lt;strong>1. Markov Decision Processes (MDPs)&lt;/strong>
+&lt;div id="1-markov-decision-processes-mdps" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-markov-decision-processes-mdps" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: The mathematical framework for RL, consisting of states, actions, transitions, and rewards.&lt;/li>
+&lt;li>&lt;strong>Key Components&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>State (S)&lt;/strong>: The current situation of the agent.&lt;/li>
+&lt;li>&lt;strong>Action (A)&lt;/strong>: Choices available to the agent.&lt;/li>
+&lt;li>&lt;strong>Transition Function (P)&lt;/strong>: Probability of moving to a new state given an action.&lt;/li>
+&lt;li>&lt;strong>Reward Function (R)&lt;/strong>: Immediate feedback for taking an action in a state.&lt;/li>
+&lt;li>&lt;strong>Discount Factor (γ)&lt;/strong>: Determines the importance of future rewards.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Extensions&lt;/strong>:
+&lt;ul>
+&lt;li>Partially Observable MDPs (POMDPs): When the agent cannot fully observe the state.&lt;/li>
+&lt;li>Continuous MDPs: For continuous state and action spaces.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>2. Policies&lt;/strong>
+&lt;div id="2-policies" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2-policies" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: A strategy that the agent uses to decide actions based on states.&lt;/li>
+&lt;li>&lt;strong>Types&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Deterministic Policy&lt;/strong>: Maps states to specific actions.&lt;/li>
+&lt;li>&lt;strong>Stochastic Policy&lt;/strong>: Maps states to probability distributions over actions.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Optimal Policy&lt;/strong>: The policy that maximizes cumulative rewards.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>3. Value Functions&lt;/strong>
+&lt;div id="3-value-functions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#3-value-functions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>State-Value Function (V)&lt;/strong>: Expected cumulative reward from a state under a policy.&lt;/li>
+&lt;li>&lt;strong>Action-Value Function (Q)&lt;/strong>: Expected cumulative reward for taking an action in a state and following a policy.&lt;/li>
+&lt;li>&lt;strong>Bellman Equation&lt;/strong>: Recursive relationship used to compute value functions.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>4. Exploration vs. Exploitation&lt;/strong>
+&lt;div id="4-exploration-vs-exploitation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#4-exploration-vs-exploitation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Exploration&lt;/strong>: Trying new actions to discover their effects.&lt;/li>
+&lt;li>&lt;strong>Exploitation&lt;/strong>: Choosing known actions that yield high rewards.&lt;/li>
+&lt;li>&lt;strong>Balancing Mechanisms&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>ε-Greedy&lt;/strong>: Randomly explores with probability ε.&lt;/li>
+&lt;li>&lt;strong>Softmax&lt;/strong>: Selects actions based on a probability distribution.&lt;/li>
+&lt;li>&lt;strong>Upper Confidence Bound (UCB)&lt;/strong>: Balances exploration and exploitation based on uncertainty.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>5. Algorithms&lt;/strong>
+&lt;div id="5-algorithms" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#5-algorithms" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Model-Based vs. Model-Free&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Model-Based&lt;/strong>: Learns a model of the environment (transition and reward functions).&lt;/li>
+&lt;li>&lt;strong>Model-Free&lt;/strong>: Learns directly from interactions without modeling the environment.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Key Algorithms&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Q-Learning&lt;/strong>: Off-policy algorithm for learning action-value functions.&lt;/li>
+&lt;li>&lt;strong>SARSA&lt;/strong>: On-policy algorithm for learning action-value functions.&lt;/li>
+&lt;li>&lt;strong>Deep Q-Networks (DQN)&lt;/strong>: Combines Q-learning with deep neural networks.&lt;/li>
+&lt;li>&lt;strong>Policy Gradient Methods&lt;/strong>: Directly optimize the policy (e.g., REINFORCE, PPO, TRPO).&lt;/li>
+&lt;li>&lt;strong>Actor-Critic Methods&lt;/strong>: Combines value-based and policy-based approaches.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>6. Function Approximation&lt;/strong>
+&lt;div id="6-function-approximation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#6-function-approximation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Purpose&lt;/strong>: Handles large or continuous state/action spaces.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Linear Approximation&lt;/strong>: Uses linear combinations of features.&lt;/li>
+&lt;li>&lt;strong>Neural Networks&lt;/strong>: Deep learning for complex function approximation.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Challenges&lt;/strong>:
+&lt;ul>
+&lt;li>Overfitting, instability, and divergence.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>7. Temporal Difference (TD) Learning&lt;/strong>
+&lt;div id="7-temporal-difference-td-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#7-temporal-difference-td-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Combines Monte Carlo methods and dynamic programming for online learning.&lt;/li>
+&lt;li>&lt;strong>Key Concepts&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>TD Error&lt;/strong>: Difference between estimated and actual returns.&lt;/li>
+&lt;li>&lt;strong>Bootstrapping&lt;/strong>: Updating estimates based on other estimates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>8. Eligibility Traces&lt;/strong>
+&lt;div id="8-eligibility-traces" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#8-eligibility-traces" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Purpose&lt;/strong>: Improves efficiency of TD learning by considering recent states and actions.&lt;/li>
+&lt;li>&lt;strong>Example&lt;/strong>: TD(λ), where λ controls the trace decay.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>9. Multi-Agent RL (MARL)&lt;/strong>
+&lt;div id="9-multi-agent-rl-marl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#9-multi-agent-rl-marl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Extends RL to environments with multiple agents.&lt;/li>
+&lt;li>&lt;strong>Challenges&lt;/strong>:
+&lt;ul>
+&lt;li>Non-stationarity (other agents are also learning).&lt;/li>
+&lt;li>Coordination and competition.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Approaches&lt;/strong>:
+&lt;ul>
+&lt;li>Cooperative, Competitive, and Mixed settings.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>10. Transfer Learning in RL&lt;/strong>
+&lt;div id="10-transfer-learning-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#10-transfer-learning-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Applying knowledge from one task to another.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Domain Adaptation&lt;/strong>: Adjusting to new environments.&lt;/li>
+&lt;li>&lt;strong>Skill Transfer&lt;/strong>: Reusing learned policies or value functions.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>11. Safe and Ethical RL&lt;/strong>
+&lt;div id="11-safe-and-ethical-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#11-safe-and-ethical-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Safe Exploration&lt;/strong>: Avoiding harmful actions during learning.&lt;/li>
+&lt;li>&lt;strong>Ethical Constraints&lt;/strong>: Incorporating human values into reward design.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>12. Hierarchical RL (HRL)&lt;/strong>
+&lt;div id="12-hierarchical-rl-hrl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#12-hierarchical-rl-hrl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Breaks tasks into sub-tasks or sub-goals.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Options Framework&lt;/strong>: Temporal abstractions for actions.&lt;/li>
+&lt;li>&lt;strong>MAXQ&lt;/strong>: Hierarchical decomposition of value functions.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>13. Imitation Learning&lt;/strong>
+&lt;div id="13-imitation-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#13-imitation-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Learning from expert demonstrations.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Behavior Cloning&lt;/strong>: Supervised learning to mimic expert actions.&lt;/li>
+&lt;li>&lt;strong>Inverse RL&lt;/strong>: Inferring the reward function from demonstrations.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>14. Meta-Learning in RL&lt;/strong>
+&lt;div id="14-meta-learning-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#14-meta-learning-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Learning to learn, or adapting quickly to new tasks.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Model-Agnostic Meta-Learning (MAML)&lt;/strong>: Adapts to new tasks with few samples.&lt;/li>
+&lt;li>&lt;strong>RL²&lt;/strong>: Treats the RL algorithm itself as a learning problem.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>15. Exploration Strategies&lt;/strong>
+&lt;div id="15-exploration-strategies" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#15-exploration-strategies" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Intrinsic Motivation&lt;/strong>: Encourages exploration through curiosity or novelty.&lt;/li>
+&lt;li>&lt;strong>Count-Based Exploration&lt;/strong>: Rewards visiting rare states.&lt;/li>
+&lt;li>&lt;strong>Random Network Distillation (RND)&lt;/strong>: Uses prediction errors to drive exploration.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>16. Challenges in RL&lt;/strong>
+&lt;div id="16-challenges-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#16-challenges-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Sample Efficiency&lt;/strong>: Learning with limited interactions.&lt;/li>
+&lt;li>&lt;strong>Credit Assignment&lt;/strong>: Determining which actions led to rewards.&lt;/li>
+&lt;li>&lt;strong>Scalability&lt;/strong>: Handling high-dimensional state/action spaces.&lt;/li>
+&lt;li>&lt;strong>Stability&lt;/strong>: Avoiding divergence during training.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>17. Applications of RL&lt;/strong>
+&lt;div id="17-applications-of-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#17-applications-of-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Games&lt;/strong>: AlphaGo, Dota 2, Chess.&lt;/li>
+&lt;li>&lt;strong>Robotics&lt;/strong>: Manipulation, locomotion, autonomous driving.&lt;/li>
+&lt;li>&lt;strong>Healthcare&lt;/strong>: Personalized treatment, drug discovery.&lt;/li>
+&lt;li>&lt;strong>Finance&lt;/strong>: Portfolio optimization, trading strategies.&lt;/li>
+&lt;li>&lt;strong>Recommendation Systems&lt;/strong>: Personalized content delivery.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>18. Tools and Frameworks&lt;/strong>
+&lt;div id="18-tools-and-frameworks" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#18-tools-and-frameworks" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Libraries&lt;/strong>:
+&lt;ul>
+&lt;li>OpenAI Gym: Standardized environments for RL.&lt;/li>
+&lt;li>Stable-Baselines3: Implementations of RL algorithms.&lt;/li>
+&lt;li>Ray RLlib: Scalable RL for distributed computing.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Simulators&lt;/strong>:
+&lt;ul>
+&lt;li>MuJoCo, PyBullet, Unity ML-Agents.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>19. Theoretical Foundations&lt;/strong>
+&lt;div id="19-theoretical-foundations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#19-theoretical-foundations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Convergence Guarantees&lt;/strong>: Conditions under which RL algorithms converge.&lt;/li>
+&lt;li>&lt;strong>Regret Minimization&lt;/strong>: Balancing exploration and exploitation over time.&lt;/li>
+&lt;li>&lt;strong>Policy Improvement Theorems&lt;/strong>: Guarantees for improving policies iteratively.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>20. Advanced Topics&lt;/strong>
+&lt;div id="20-advanced-topics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#20-advanced-topics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Off-Policy Learning&lt;/strong>: Learning from data generated by a different policy.&lt;/li>
+&lt;li>&lt;strong>Offline RL&lt;/strong>: Learning from pre-collected datasets without interaction.&lt;/li>
+&lt;li>&lt;strong>Multi-Task RL&lt;/strong>: Learning multiple tasks simultaneously.&lt;/li>
+&lt;li>&lt;strong>Meta-RL&lt;/strong>: Learning RL algorithms themselves.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">What are differening rewardng systems in RL?
+&lt;div id="what-are-differening-rewardng-systems-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-differening-rewardng-systems-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In reinforcement learning (RL), reward systems are pivotal in guiding agents to learn optimal behaviors. Here&amp;rsquo;s an organized overview of different reward systems, their characteristics, and applications:&lt;/p></description></item><item><title>Exploring Types of Models</title><link>https://dasarpai.github.io/dsblog/exploring-types-of-models/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-types-of-models/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg" alt="Exploring Types of Models" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Different Types of Models
+&lt;div id="understanding-different-types-of-models" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-different-types-of-models" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A model is a simplified representation or abstraction of a system, concept, or phenomenon around us. It is used to analyze, understand, predict, or simulate real-world behavior. Models can take many forms, depending on the context in which they are used. For example you also say that I have created a Data Model, Functional Model, UI Model, Simulation Model etc.&lt;/p></description></item><item><title>AI ML Project Ideas</title><link>https://dasarpai.github.io/dsblog/ai-project-ideas/</link><pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-project-ideas/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg" alt="AI Project Ideas" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Project Ideas
+&lt;div id="ai-project-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-project-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In your journey of learning and practicing AI project you may find these articles and repositories useful. I found it over many places and compiled them here. Some of the link may break. These are beginner level ideas for AI project. If you are starting your journey then you will find value in exploring these. If you have been seriously for more than 5+ years in AI/ML then your can ignore this article.&lt;/p></description></item><item><title>Transfer Learning Key AI Techniques Explained</title><link>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg" alt="Transfer Learning Key AI Techniques Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transfer Learning Key AI Techniques Explained
+&lt;div id="transfer-learning-key-ai-techniques-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transfer-learning-key-ai-techniques-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article we will understand some important concepts used within machine learning.&lt;/p>
+&lt;ul>
+&lt;li>What is in-context Learning?&lt;/li>
+&lt;li>What is Prompt-Engineering?&lt;/li>
+&lt;li>What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li>
+&lt;li>What is Zero-shot learning?&lt;/li>
+&lt;li>How Zero-shot learning is different from In-context Learning?&lt;/li>
+&lt;li>What is Meta-Learning?&lt;/li>
+&lt;li>What is Few-shot learning?&lt;/li>
+&lt;li>Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li>
+&lt;li>What is transfer learning?&lt;/li>
+&lt;li>How do we do transfer learning from existing model?&lt;/li>
+&lt;li>What is finetuning?&lt;/li>
+&lt;li>Which layers to update, what weight to update during finetuning?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Prompt Engineering, In Context Learning and Zero-shot Learning
+&lt;div id="prompt-engineering-in-context-learning-and-zero-shot-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#prompt-engineering-in-context-learning-and-zero-shot-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">What is in-context Learning?
+&lt;div id="what-is-in-context-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-in-context-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p></description></item><item><title>Machine Learning Key Concepts</title><link>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg" alt="Exploring Docker and VS Code Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Key Concepts
+&lt;div id="machine-learning-key-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-key-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking for the answer to any of the following questions, then the answer is &amp;lsquo;Yes.&amp;rsquo;&lt;/p></description></item><item><title>Automated Machine Learning</title><link>https://dasarpai.github.io/dsblog/automl-tools/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/automl-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6150-AutoML-Tools.jpg" alt="What is AutoML" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Automated Machine Learning
+&lt;div id="automated-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#automated-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is article is for you, if you know&lt;/p>
+&lt;ul>
+&lt;li>About Machine learning, ML models building&lt;/li>
+&lt;li>That machines are capable of building these models themselves.&lt;/li>
+&lt;/ul>
+&lt;p>But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p></description></item><item><title>Tensorflow GPU Setup on Local Machine</title><link>https://dasarpai.github.io/dsblog/tensorflow-gpu-setup-on-local-machine/</link><pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/tensorflow-gpu-setup-on-local-machine/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg" alt="Tensorflow GPU Setup on Local Machine" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Tensorflow GPU Setup on Local Machine
+&lt;div id="tensorflow-gpu-setup-on-local-machine" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tensorflow-gpu-setup-on-local-machine" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tensorflow, pytorch are deep learning libraries or packages. Tensorflow is developed by google and pytorch is developed by Meta. There are some other but these are the most popular one among Machine Learning and Deep Learning Engineers. If you are doing anything significant in NLP, computer vision, voice processing you must have used this library. But the power of the these libraries lies in parallel metrics/tensor computation. For that they use hardwardes like GPU or TPU which has thousands of core and they designed purely for metrics/tensor processing. Intially they were used for gaming purpose but with the surge of AI these machines are in high use and used for model training and inference purpose.&lt;/p></description></item><item><title>MLOps Tools</title><link>https://dasarpai.github.io/dsblog/mlops-tools/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/mlops-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6137-MLOps-Tools.jpg" alt="MLOps-Tools" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">MLOps Tools
+&lt;div id="mlops-tools" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#mlops-tools" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>MLOps (Machine Learning Operations) is a set of practices and tools designed to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from both DevOps (Development Operations) and machine learning to ensure that ML models are deployed efficiently, managed effectively, and maintained reliably throughout their lifecycle.&lt;/p></description></item><item><title>Why to Finetune LLM?</title><link>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</link><pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg" alt="Why to Finetune LLM?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Finetuning, Fewshot Learning, Why and How?
+&lt;div id="finetuning-fewshot-learning-why-and-how" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#finetuning-fewshot-learning-why-and-how" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why to finetune a LLM?
+&lt;div id="why-to-finetune-a-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-to-finetune-a-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Fine-tuning a large language model (LLM) can provide several benefits, depending on your specific needs and objectives. Here are some key reasons to consider fine-tuning an LLM:&lt;/p></description></item><item><title>Dimensionality Reduction and Visualization</title><link>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg" alt="Dimensionality-Reduction-and-Visualization" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dimensionality Reduction and Visualization
+&lt;div id="dimensionality-reduction-and-visualization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dimensionality-reduction-and-visualization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the popular methods of dimensionality reduction?
+&lt;div id="what-are-the-popular-methods-of-dimensionality-reduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-popular-methods-of-dimensionality-reduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dimensionality reduction is a crucial step in data preprocessing, particularly when dealing with high-dimensional datasets. It helps in reducing the number of features while retaining the essential information, improving computational efficiency, and facilitating data visualization. Here are some popular methods of dimensionality reduction:&lt;/p></description></item><item><title>ML Model Development Framework</title><link>https://dasarpai.github.io/dsblog/ml-model-development-framework/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-development-framework/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg" alt="ML Model Development Framework" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Development Framework &amp;amp; Model Repositories
+&lt;div id="ml-model-development-framework--model-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-development-framework--model-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are hundreds of &lt;a href="https://dasarpai.github.io/dsblog/nlp-tasks">machine learning tasks&lt;/a>. To do these tasks there are &lt;a href="https://dasarpai.github.io/dsblog/Type-of-Databases">thousands of datasets&lt;/a> created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href="dsblog/ML-Model-Repository-from-Pinto0309">1&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/paperwithcode-resources">2&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/What-Are-Transformers-in-AI">3&lt;/a> and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Repository from Pinto0309
+&lt;div id="ml-model-repository-from-pinto0309" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-repository-from-pinto0309" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p></description></item><item><title>Distances in Machine Learning</title><link>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</link><pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg" alt="Distances in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Distances in Machine Learning
+&lt;div id="distances-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#distances-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Every sample, record, word, sentence, object, image etc in the Machine learning language is called vector. If we want to measure the similarity or dissimilarity between two data points then we need distance function.&lt;/p>
+&lt;p>Distance metrics play a crucial role in various machine learning algorithms, including clustering, classification, and anomaly detection. Different distance measures capture different types of relationships between data points.&lt;/p></description></item><item><title>Machine Learning Metrics</title><link>https://dasarpai.github.io/dsblog/machine-learning-metrics/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-metrics/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg" alt="Comprehensive Glossary of LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Metrics
+&lt;div id="machine-learning-metrics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-metrics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Machine Learning projects whether classical machine learning, deep learning, computer vision, speech processing, NLP, or any other ML project we keep building different models with different datasets. But how to know that for a particular problem model X is the best one? For that, we need to evaluate these models against certain metrics. What metrics we pick, depends upon the problem statement, data imbalance, type of data, etc. In this article, we will explore an exhaustive list of ML Metrics.&lt;/p></description></item><item><title>Introduction to ML Model Deployment</title><link>https://dasarpai.github.io/dsblog/introduction-to-ml-model-deployment/</link><pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-ml-model-deployment/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg" alt="Introduction to AI Model Deployement" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to AI Model deployment
+&lt;div id="introduction-to-ai-model-deployment" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-ai-model-deployment" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Big Players
+&lt;div id="big-players" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#big-players" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Amazon
+&lt;ul>
+&lt;li>Amazon has many products and one of their product is &lt;strong>AWS Cloud&lt;/strong>. Under this product they sell IT infrastructure (storage, memory, network, VM, webhosting etc.)&lt;/li>
+&lt;li>&lt;strong>Amazon SageMaker&lt;/strong> is Cloud based Machine Learning Platform, and this is one of the product under AWS Cloud.&lt;/li>
+&lt;li>Amazon SageMaker can be used to train AI model, host AI model, monitor the model and hosts many other services which any Data Science project need from data gathering to model serving.&lt;/li>
+&lt;li>AWS is oldest cloud service provider in the market.&lt;/li>
+&lt;li>AWS Sagemaker was launched in Nov'17.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Google
+&lt;ul>
+&lt;li>Google has hundreds of products like gmail, youtube, google drive etc. One of their product is called &lt;strong>Google Cloud&lt;/strong>. Under this product they sell IT infrastrcture like Amazon sells under AWS.&lt;/li>
+&lt;li>&lt;strong>VertexAI&lt;/strong> is Cloud based Machine Learning platform of Google. VertexAI is part of Google Cloud.&lt;/li>
+&lt;li>VertexAI can be used to train AI Model,host AI model, monitor the model etc.&lt;/li>
+&lt;li>VertexAI was launched in Jun'21&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Microsoft
+&lt;ul>
+&lt;li>Like Amazon&amp;rsquo;s cloud platform which is called AWS Cloud, Microsoft&amp;rsquo;s cloud plateform is called &lt;strong>Azure&lt;/strong>.&lt;/li>
+&lt;li>Microsoft&amp;rsquo;s AI product is called &lt;strong>Azure Machine Learning&lt;/strong>.&lt;/li>
+&lt;li>Today (Jul'23) Azure Machine Learning has has most of the capabilites than any other player&amp;rsquo;s AI product.&lt;/li>
+&lt;li>Azure Machine Learning was launched Feb'14&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is GenAI?
+&lt;div id="what-is-genai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-genai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are many kinds of AI models like classifier models, regressor models, clustering models, reinforcement models, etc. An AI model which has the ability to generate text, images, video, and music is called GenAI. They all take inspiration from the human brain, therefore they all have neural network (NN) architecture. There are dozens (if not hundreds) types of NN architecture that can be used to create different kinds of AI models. The type of NN architecture depends upon the data which is used for developing the model and the problem which we want to solve using AI model. Researchers in universities or big corporations like Google, Facebook, Amazon, and Microsoft keep developing new architecture, and using these architectures they develop the foundational models. Once foundational models are developed, they release a research paper. In this, they inform the world what architecture they used, what data they used, what parameters (weights &amp;amp; biases) the model has learned, what are the results of their product and compare that with other existing models. They can develop these foundational models with one set of hyperparameters, and they can release these foundational models of different sizes (it depends upon the number of parameters used). AI product builders pick up these foundational models and fine-tune these based on the exact business problem in their hands. Which foundational model do they choose, it also depends upon the size of the model, the kind of data it has used to create those foundational models, and what was the performance of the model on a similar task which the product developer want to solve.&lt;/p></description></item><item><title>Types of Machine Learning</title><link>https://dasarpai.github.io/dsblog/types-of-machine-learning/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg" alt="Types of Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Machine Learning
+&lt;div id="types-of-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.&lt;/p></description></item><item><title>Cost Functions and Optimizers in Machine Learning</title><link>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg" alt="Cost-Functions-and-Optimizers-in-Machine-Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cost-Functions-and-Optimizers-in-Machine-Learning
+&lt;div id="cost-functions-and-optimizers-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cost-functions-and-optimizers-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is machine learning?
+&lt;div id="what-is-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subfield of artificial intelligence that focuses on the &lt;strong>development of algorithms and statistical models&lt;/strong> that enable computers to improve their performance on a specific task through experience.&lt;/p>
+&lt;p>In machine learning, the goal is to develop models that can &lt;strong>automatically learn patterns and relationships in data, and use that knowledge to make predictions or take actions&lt;/strong>. The models are trained on a large dataset, and the learning process involves &lt;strong>optimizing the parameters of the model to minimize the prediction error&lt;/strong>. For this purpose every algorithms uses some &lt;strong>cost function or loss function&lt;/strong>.&lt;/p></description></item><item><title>Introduction to Neural Network</title><link>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg" alt="Introduction to Neural Network" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Neural Network
+&lt;div id="introduction-to-neural-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-neural-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to a Perceptron
+&lt;div id="introduction-to-a-perceptron" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-a-perceptron" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.&lt;/p></description></item><item><title>Linear Regression Interview Questions</title><link>https://dasarpai.github.io/dsblog/linear-regression-interview-questions/</link><pubDate>Sat, 07 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/linear-regression-interview-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg" alt="Prompt Engineering for GPT4" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Linear Regression Interview Questions and Answers
+&lt;div id="linear-regression-interview-questions-and-answers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#linear-regression-interview-questions-and-answers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>In this question-answer article, I will try that the start of every answer from example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.&lt;/p>&lt;/blockquote>
+&lt;h2 class="relative group">Question 1: What is linear regression? What is the difference between simple linear regression and multiple linear regression?
+&lt;div id="question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Linear regression is a statistical method used to model the linear relationship between a dependent variable and one or more independent variables. It is used to predict the value of the dependent variable based on the values of the independent variables.&lt;/p></description></item><item><title>Domain Knowledge in Machine Learning</title><link>https://dasarpai.github.io/dsblog/domain-knowledge-in-machine-learning/</link><pubDate>Sat, 15 Oct 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/domain-knowledge-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg" alt="Domain Knowledge in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Domain Knowledge in Machine Learning
+&lt;div id="domain-knowledge-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#domain-knowledge-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Let’s say the domain is a restaurant kitchen. A dataset with 3 variables. Two predictors and one predicted. Predictor variables are flour in kilograms and water in liters. A predicted variable is the number of roti/ bread. You know the model will be something like this.&lt;/p></description></item><item><title>Confusion Matrix Bayesian Theorem</title><link>https://dasarpai.github.io/dsblog/confusion-matrix-bayesian-theorem/</link><pubDate>Mon, 22 Aug 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/confusion-matrix-bayesian-theorem/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg" alt="Confusion Matrix" />
+&lt;/figure>
+&lt;/p>
+&lt;p>If you are like me then you must have struggled enough to understand the confusion matrix or still struggling to understand the metrics of this confusion matrix. A simple 2×2 actual vs predicted values matrix can be looked at and analyzed from different angles and hence we can have all different metrics from this. The beauty of all these metrics is different metrics are important for evaluating different kinds of models.&lt;/p></description></item><item><title>Folder Structure for ML Project</title><link>https://dasarpai.github.io/dsblog/folder-structure-for-ml-project/</link><pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/folder-structure-for-ml-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg" alt="Configuration Management" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Directory Structure for ML Project&lt;/strong> is critical for any serious data science project. What we learn from a technology college and institution is useful in a real-world business, but the problem is that environment is completely different, and it takes proper guidance to adapt to a real business environment. Many times traveling on this path is full of frustration without any proper guidance. Sometimes guidance is there, but it is like blind is leading blind. One has already navigated a lot with struggle, so she/he is trying to guide a new person. Data-science education is not any different from this. From universities and institutions, we learn many concepts, algorithms, art, and science of developing models, etc. but when our customer or management tells us a problem with a simplistic dataset then we don’t know how to proceed. Although there are many templates and frameworks to approach, yet there is no simple cookie-cutter solution for all kinds of problems. Depending upon project duration, resources (human + machine + software), client, and his/her need, the technology available at hand we can choose different approaches.&lt;/p></description></item><item><title>Generalized AI Model for Prediction</title><link>https://dasarpai.github.io/dsblog/generalized-ai-model-for-prediction/</link><pubDate>Fri, 17 Sep 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/generalized-ai-model-for-prediction/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg" alt="Generalized AI Model for Prediction" />
+&lt;/figure>
+&lt;/p>
+&lt;p>Can we really Develop AI solutions that can predict human behavior? If you are not a technical person then don’t get overwhelmed by the next paragraph, you can read further, and it will make sense to you.&lt;/p>
+&lt;p>We know the basic equation, y = mx + c. This comes from algebra and trigonometry. Here, y is the predicted value, and x is the input. The x can be a simple scalar value or a vector. Similarly, m is the coefficient in this equation, and it can be a simple scalar value or a vector. If m or x is a vector, then it can hold multiple values. The value of m corresponding to x is also called slope in trigonometry. If a plane is 2 dimensional, then you have one m and one x. But if a plane is complex, and it has, let us say, 10 dimensions then it has 9 m and 9 x. 10th dimensions is predicted by these 9 m and 9 x, using the earlier formula. How that multiplication happens is easy for those who know vector and matrix multiplication, but for others, it is really complicated. So, you can leave it for the time being.&lt;/p></description></item><item><title>AI ML Resources from My Diary</title><link>https://dasarpai.github.io/dsblog/ai-ml-resources-from-my-diary/</link><pubDate>Wed, 21 Jul 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-resources-from-my-diary/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg" alt="AI ML Resources from My Diary" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI ML Resources from My Diary
+&lt;div id="ai-ml-resources-from-my-diary" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-ml-resources-from-my-diary" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is my personal diary which contains resources, which I know, learned or people have told me
+to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning
+in data science, AI, ML, NLP, DL, GNN, GAN, Statistics, etc. A few links related to Software
+Development, People Management, Project Management are also kept in this diary. The resources
+here are python/R library link, blog articles, YouTube video links, article links, AI products links,
+architecture, images etc. The Table of Content and Content of this diary is not any specific order.
+Whatever I was/am getting I keep adding into this, mostly towards the end but not always.&lt;/p></description></item><item><title>Data Scientists and AI, ML Researchers</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-researchers/</link><pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-researchers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg" alt="Data Scientists and AI, ML Researchers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Data Scientists and AI, ML Researchers
+&lt;div id="data-scientists-and-ai-ml-researchers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-scientists-and-ai-ml-researchers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>For the initial list, I have taken content from &lt;a href="https://github.com/datasciencescoop/awesome-deep-learning" target="_blank">github&lt;/a>. I have expanded this and will keep updating this in the future. If you know any, please feel free to put the name in the comment box.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://aaroncourville.wordpress.com/" target="_blank">Aaron Courville&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~asamir/" target="_blank">Abdel-rahman Mohamed&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cs.stanford.edu/~acoates/" target="_blank">Adam Coates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.microsoft.com/en-us/people/alexac/" target="_blank">Alex Acero&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.utoronto.ca/~kriz/index.html" target="_blank">Alex Krizhevsky&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://users.ics.aalto.fi/alexilin/" target="_blank">Alexander Ilin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://homepages.inf.ed.ac.uk/amos/" target="_blank">Amos Storkey&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cs.stanford.edu/~karpathy/" target="_blank">Andrej Karpathy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://andrewnc.github.io" target="_blank">Andrew Carr&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.stanford.edu/~asaxe/" target="_blank">Andrew M. Saxe&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.stanford.edu/people/ang/" target="_blank">Andrew Ng&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.google.com/pubs/author37792.html" target="_blank">Andrew W. Senior&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.gatsby.ucl.ac.uk/~amnih/" target="_blank">Andriy Mnih&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.nyu.edu/~naz/" target="_blank">Ayse Naz Erkan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://reslab.elis.ugent.be/benjamin" target="_blank">Benjamin Schrauwen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cisuc.uc.pt/people/show/2020" target="_blank">Bernardete Ribeiro&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vision.caltech.edu/~bchen3/Site/Bo_David_Chen.html" target="_blank">Bo David Chen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cs.nyu.edu/~ylan/" target="_blank">Boureau Y-Lan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-bedk" target="_blank">Brian Kingsbury&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://chrisalbon.com" target="_blank">Chris Albon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nlp.stanford.edu/~manning/" target="_blank">Christopher Manning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datasciencemasters.org" target="_blank">Clare Corthell&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.clement.farabet.net/" target="_blank">Clement Farabet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colah.github.io" target="_blank">Colah’s Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.idsia.ch/~ciresan/" target="_blank">Dan Claudiu Cireșan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://serre-lab.clps.brown.edu/person/david-reichert/" target="_blank">David Reichert&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mil.engr.utk.edu/nmil/member/5.html" target="_blank">Derek Rose&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.microsoft.com/en-us/people/dongyu/default.aspx" target="_blank">Dong Yu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.seas.upenn.edu/~wulsin/" target="_blank">Drausin Wulsin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://drewconway.com" target="_blank">Drew Conway&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://music.ece.drexel.edu/people/eschmidt" target="_blank">Erik M. Schmidt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.purdue.edu/BME/People/viewPersonById?resource_id=71333" target="_blank">Eugenio Culurciello&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vision.stanford.edu/feifeili" target="_blank">Fei-Fei Li&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.microsoft.com/en-us/people/fseide/" target="_blank">Frank Seide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://homes.cs.washington.edu/~galen/" target="_blank">Galen Andrew&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~hinton/" target="_blank">Geoffrey Hinton&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~gdahl/" target="_blank">George Dahl&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.uoguelph.ca/~gwtaylor/" target="_blank">Graham Taylor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gregoire.montavon.name/" target="_blank">Grégoire Montavon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://personal-homepages.mis.mpg.de/montufar/" target="_blank">Guido Francisco Montúfar&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://brainlogging.wordpress.com/" target="_blank">Guillaume Desjardins&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ais.uni-bonn.de/~schulz/" target="_blank">Hannes Schulz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lri.fr/~hpaugam/" target="_blank">Hélène Paugam-Moisy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hilarymason.com" target="_blank">Hilary Mason&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hilaryparker.com" target="_blank">Hilary Parker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://web.eecs.umich.edu/~honglak/" target="_blank">Honglak Lee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dmi.usherb.ca/~larocheh/index_en.html" target="_blank">Hugo Larochelle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.google.com/pubs/105214.html" target="_blank">Ian Goodfellow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~ilya/" target="_blank">Ilya Sutskever&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mil.engr.utk.edu/nmil/member/2.html" target="_blank">Itamar Arel&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~jmartens/" target="_blank">James Martens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jasonmorton.com/" target="_blank">Jason Morton&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thespermwhale.com/jaseweston/" target="_blank">Jason Weston&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.google.com/pubs/jeff.html" target="_blank">Jeff Dean&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cs.stanford.edu/~jngiam/" target="_blank">Jiquan Mgiam&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www-etud.iro.umontreal.ca/~turian/" target="_blank">Joseph Turian&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aclab.ca/users/josh/index.html" target="_blank">Joshua Matthew Susskind&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.idsia.ch/~juergen/" target="_blank">Jürgen Schmidhuber&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sites.google.com/site/blancousna/" target="_blank">Justin A. Blanco&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kldavenport.com" target="_blank">Kevin Davenport&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://koray.kavukcuoglu.org/" target="_blank">Koray Kavukcuoglu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://users.ics.aalto.fi/kcho/" target="_blank">KyungHyun Cho&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.microsoft.com/en-us/people/deng/" target="_blank">Li Deng&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kyb.tuebingen.mpg.de/nc/employee/details/lucas.html" target="_blank">Lucas Theis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ludovicarnold.altervista.org/home/" target="_blank">Ludovic Arnold&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.nyu.edu/~ranzato/" target="_blank">Marc’Aurelio Ranzato&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aass.oru.se/~mlt/" target="_blank">Martin Längkvist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hairysun.com" target="_blank">Matt Harrison&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://miningthesocialweb.com" target="_blank">Matthew Russell&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mdenil.com/" target="_blank">Misha Denil&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~norouzi/" target="_blank">Mohammad Norouzi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.ubc.ca/~nando/" target="_blank">Nando de Freitas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.utoronto.ca/~ndjaitly/" target="_blank">Navdeep Jaitly&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nicolas.le-roux.name/" target="_blank">Nicolas Le Roux&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~nitish/" target="_blank">Nitish Srivastava&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://complexdiagrams.com" target="_blank">Noah Iliinsky&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cisuc.uc.pt/people/show/2028" target="_blank">Noel Lopes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.berkeley.edu/~vinyals/" target="_blank">Oriol Vinyals&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.iro.umontreal.ca/~vincentp" target="_blank">Pascal Vincent&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sites.google.com/site/drpngx/" target="_blank">Patrick Nguyen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cloudofdata.com" target="_blank">Paul Miller&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://homes.cs.washington.edu/~pedrod/" target="_blank">Pedro Domingos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://homepages.inf.ed.ac.uk/pseries/" target="_blank">Peggy Series&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cs.nyu.edu/~sermanet" target="_blank">Pierre Sermanet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.nyu.edu/~mirowski/" target="_blank">Piotr Mirowski&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.stanford.edu/~quocle/" target="_blank">Quoc V. Le&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bci.tugraz.at/scherer/" target="_blank">Reinhold Scherer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.socher.org/" target="_blank">Richard Socher&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Rob Fergus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mil.engr.utk.edu/nmil/member/19.html" target="_blank">Robert Coop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://homes.cs.washington.edu/~rcg/" target="_blank">Robert Gens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.site.uottawa.ca/~laganier/" target="_blank">Robert Laganière&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://people.csail.mit.edu/rgrosse/" target="_blank">Roger Grosse&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ronan.collobert.com/" target="_blank">Ronan Collobert&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.utstat.toronto.edu/~rsalakhu/" target="_blank">Ruslan Salakhutdinov&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seanjtaylor.com" target="_blank">Sean J. Taylor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html" target="_blank">Sebastian Gerwinn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sebastianruder.com" target="_blank">Sebastian’s&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openresearch.wordpress.com" target="_blank">Siah&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cmap.polytechnique.fr/~mallat/" target="_blank">Stéphane Mallat&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ais.uni-bonn.de/behnke/" target="_blank">Sven Behnke&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://users.ics.aalto.fi/praiko/" target="_blank">Tapani Raiko&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sites.google.com/site/tsainath/" target="_blank">Tara Sainath&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://magnus-notitia.blogspot.com.tr" target="_blank">Tevfik Kosar&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~tijmen/" target="_blank">Tijmen Tieleman&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mil.engr.utk.edu/nmil/member/36.html" target="_blank">Tom Karnowski&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://research.facebook.com/tomas-mikolov" target="_blank">Tomáš Mikolov&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.idsia.ch/~meier/" target="_blank">Ueli Meier&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vincent.vanhoucke.com/" target="_blank">Vincent Vanhoucke&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~vmnih/" target="_blank">Volodymyr Mnih&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wesmckinney.com" target="_blank">Wes McKinney&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://yann.lecun.com/" target="_blank">Yann LeCun&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.toronto.edu/~tang/" target="_blank">Yichuan Tang&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html" target="_blank">Yoshua Bengio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://yota.ro/" target="_blank">Yotaro Kubo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.stanford.edu/~wzou" target="_blank">Youzhi (Will) Zou&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Machine Learning Tasks and Model Evaluation</title><link>https://dasarpai.github.io/dsblog/ml-tasks-and-model-evaluation/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-tasks-and-model-evaluation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg" alt="Deep Learning Tasks and Models" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Tasks and Model Evaluation
+&lt;div id="machine-learning-tasks-and-model-evaluation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-tasks-and-model-evaluation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subject where we study how to create &amp;amp; evaluate machine learning models. To create these models, we need different types of data. We build models which can help us do various kinds of tasks. There are hundreds of model building techniques and researchers keep adding new techniques, and architectures as when need arises. But, the question is how do you evaluate these models which are output of the model trainings? To evaluate the performance of a model on structured data, or classification/regression/clustering models, we require one kind of metrics. But this becomes complicated when we are dealing with voice, text and audio data. How do you evaluate ten models which are responsible for translation, or locating an object in the image, transcribing voice into text, captioning an image? To solve this problem, standard databases are created and everyone needs to demonstrate the performance of their model, architecture, or approach against that dataset. But, even if you have a baseline dataset, how will you evaluate various NLP or deep learning tasks? For that GLUE, SuperGLUE benchmarks are created.&lt;/p></description></item><item><title>Machine Learning Framework, Library, Tools</title><link>https://dasarpai.github.io/dsblog/ml-frameworks-libraries-tools/</link><pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-frameworks-libraries-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg" alt="Machine Learning Framework, Library, Tools" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Framework, Library, Tools
+&lt;div id="machine-learning-framework-library-tools" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-framework-library-tools" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domains. In the last 5 years, it has picked up momentum. Every day a new library, framework, and tools pops out before our eyes. Many of these are very interesting and some are just duplicates with little value addition. I am listing below some tools that I came across during my work. The purpose of this listing is not to describe every tool but to provide a link and just put them in sorted order. There are so many jargons, and we use to forget these. Sometimes, it becomes difficult to recall them. It was useful for me and I hope some of you will find this useful.&lt;/p></description></item><item><title>AI, ML, DL Blogs Sites</title><link>https://dasarpai.github.io/dsblog/ai-ml-blogs/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-blogs/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg" alt="AI, ML, DL Blogs Sites" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI, ML, DL Blogs Sites
+&lt;div id="ai-ml-dl-blogs-sites" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-ml-dl-blogs-sites" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>370+ blogs/website, who publishes articles, research, opinions, observations related to AI, ML, DL, Signal Processing, Computer Vision, Text Processing, Audio Processing, Image/video/Audio/Text Generation on regular basis.&lt;/p>
+&lt;p>1 &lt;a href="http://101.datascience.community" target="_blank">101.datasciencemunity&lt;/a>&lt;br>
+2 &lt;a href="https://2020.emnlp.org" target="_blank">2020.emnlp.org&lt;/a>&lt;br>
+3 &lt;a href="https://24x7coach.com" target="_blank">24x7coach&lt;/a>&lt;br>
+4 &lt;a href="https://www.aaai.org" target="_blank">aaai.org&lt;/a>&lt;br>
+5 &lt;a href="https://academic.microsoft.com" target="_blank">academic.microsoft&lt;/a>&lt;br>
+6 &lt;a href="https://aclweb.org" target="_blank">aclweb.org&lt;/a>&lt;br>
+7 &lt;a href="https://ai.facebook.com" target="_blank">ai.facebook&lt;/a>&lt;br>
+8 &lt;a href="http://www.ai.sri.com" target="_blank">ai.sri&lt;/a>&lt;br>
+9 &lt;a href="https://ai4bharat.org" target="_blank">ai4bharat.org&lt;/a>&lt;br>
+10 &lt;a href="http://www.aiai.ed.ac.uk" target="_blank">aiai.ed.ac.uk&lt;/a>&lt;br>
+11 &lt;a href="http://www.ai-junkie.com" target="_blank">ai-junkie&lt;/a>&lt;br>
+12 &lt;a href="http://aiweekly.co" target="_blank">aiweekly.co&lt;/a>&lt;br>
+13 &lt;a href="http://algorithmica-technologies.com" target="_blank">algorithmica-technologies&lt;/a>&lt;br>
+14 &lt;a href="https://allenai.org" target="_blank">allenai.org&lt;/a>&lt;br>
+15 &lt;a href="https://allthingsds.wordpress.com" target="_blank">allthingsds.wordpress&lt;/a>&lt;br>
+16 &lt;a href="https://amitness.com" target="_blank">amitness&lt;/a>&lt;br>
+17 &lt;a href="https://analytics.google.com" target="_blank">analytics.google&lt;/a>&lt;br>
+18 &lt;a href="https://analyticsindiamag.com" target="_blank">analyticsindiamag&lt;/a>&lt;br>
+19 &lt;a href="https://analyticstraining.com" target="_blank">analyticstraining&lt;/a>&lt;br>
+20 &lt;a href="https://analyticsvidhya.com" target="_blank">analyticsvidhya&lt;/a>&lt;br>
+21 &lt;a href="https://apache.org" target="_blank">apache.org&lt;/a>&lt;br>
+22 &lt;a href="https://archive.ics.uci.edu" target="_blank">archive.ics.uci.edu&lt;/a>&lt;br>
+23 &lt;a href="https://arxiv.org" target="_blank">arxiv.org&lt;/a>&lt;br>
+24 &lt;a href="http://arxiv-sanity.com" target="_blank">arxiv-sanity&lt;/a>&lt;br>
+25 &lt;a href="https://atom.io" target="_blank">atom.io&lt;/a>&lt;br>
+26 &lt;a href="http://becomingadatascientist.com" target="_blank">becomingadatascientist&lt;/a>&lt;br>
+27 &lt;a href="https://blockchain.com" target="_blank">blockchain&lt;/a>&lt;br>
+28 &lt;a href="https://blog.cloudera.com" target="_blank">blog.cloudera&lt;/a>&lt;br>
+29 &lt;a href="http://blog.datadive.net" target="_blank">blog.datadive.net&lt;/a>&lt;br>
+30 &lt;a href="http://blog.data-miners.com" target="_blank">blog.data-miners&lt;/a>&lt;br>
+31 &lt;a href="https://blog.dominodatalab.com" target="_blank">blog.dominodatalab&lt;/a>&lt;br>
+32 &lt;a href="https://blog.gramener.com" target="_blank">blog.gramener&lt;/a>&lt;br>
+33 &lt;a href="http://blog.kaggle.com" target="_blank">blog.kaggle&lt;/a>&lt;br>
+34 &lt;a href="https://blog.mendeley.com" target="_blank">blog.mendeley&lt;/a>&lt;br>
+35 &lt;a href="http://blog.pythonlibrary.org" target="_blank">blog.pythonlibrary.org&lt;/a>&lt;br>
+36 &lt;a href="http://blog.revolutionanalytics.com" target="_blank">blog.revolutionanalytics&lt;/a>&lt;br>
+37 &lt;a href="http://blog.smola.org" target="_blank">blog.smola.org&lt;/a>&lt;br>
+38 &lt;a href="http://blogs.sun.com" target="_blank">blogs.sun&lt;/a>&lt;br>
+39 &lt;a href="https://bokeh.pydata.org" target="_blank">bokeh.pydata.org&lt;/a>&lt;br>
+40 &lt;a href="https://brilliant.org" target="_blank">brilliant.org&lt;/a>&lt;br>
+41 &lt;a href="https://bsc.hcverma.in" target="_blank">bsc.hcverma.in&lt;/a>&lt;br>
+42 &lt;a href="https://byjus.com" target="_blank">byjus&lt;/a>&lt;br>
+43 &lt;a href="http://calculatedriskblog.com" target="_blank">calculatedriskblog&lt;/a>&lt;br>
+44 &lt;a href="https://campus.datacamp.com" target="_blank">campus.datacamp&lt;/a>&lt;br>
+45 &lt;a href="https://catalog.data.gov" target="_blank">catalog.data.gov&lt;/a>&lt;br>
+46 &lt;a href="http://censusindia.gov.in" target="_blank">censusindia.gov.in&lt;/a>&lt;br>
+47 &lt;a href="http://chioka.in" target="_blank">chioka.in&lt;/a>&lt;br>
+48 &lt;a href="https://ci.pytorch.org" target="_blank">ci.pytorch.org&lt;/a>&lt;br>
+49 &lt;a href="https://classroom.udacity.com" target="_blank">classroom.udacity&lt;/a>&lt;br>
+50 &lt;a href="https://cloud.google.com/public-datasets" target="_blank">cloud.google&lt;/a>&lt;br>
+51 &lt;a href="https://codecogs.com" target="_blank">codecogs&lt;/a>&lt;br>
+52 &lt;a href="https://community.powerbi.com" target="_blank">community.powerbi&lt;/a>&lt;br>
+53 &lt;a href="https://community.tableau.com" target="_blank">community.tableau&lt;/a>&lt;br>
+54 &lt;a href="http://corenlp.run" target="_blank">corenlp.run&lt;/a>&lt;br>
+55 &lt;a href="https://coursera.org" target="_blank">coursera.org&lt;/a>&lt;br>
+56 &lt;a href="https://cran.r-project.org" target="_blank">cran.r-project.org&lt;/a>&lt;br>
+57 &lt;a href="http://cs.brown.edu" target="_blank">cs.brown.edu&lt;/a>&lt;br>
+58 &lt;a href="http://www.cs.rochester.edu" target="_blank">cs.rochester.edu&lt;/a>&lt;br>
+59 &lt;a href="http://www.cs.utexas.edu" target="_blank">cs.utexas.edu&lt;/a>&lt;br>
+60 &lt;a href="http://www.cs.washington.edu" target="_blank">cs.washington.edu&lt;/a>&lt;br>
+61 &lt;a href="http://www.csail.mit.edu" target="_blank">csail.mit.edu&lt;/a>&lt;br>
+62 &lt;a href="https://cse.unr.edu" target="_blank">cse.unr.edu&lt;/a>&lt;br>
+63 &lt;a href="https://dair.ai" target="_blank">dair.ai&lt;/a>&lt;br>
+64 &lt;a href="http://danielforsyth.me" target="_blank">danielforsyth.me&lt;/a>&lt;br>
+65 &lt;a href="https://dartpad.dartlang.org" target="_blank">dartpad.dartlang.org&lt;/a>&lt;br>
+66 &lt;a href="https://data.gov.in" target="_blank">data.gov.in&lt;/a>&lt;br>
+67 &lt;a href="https://data.gov.uk" target="_blank">data.gov.uk&lt;/a>&lt;br>
+68 &lt;a href="https://data.mendeley.com" target="_blank">data.mendeley&lt;/a>&lt;br>
+69 &lt;a href="https://data.world" target="_blank">data.world&lt;/a>&lt;br>
+70 &lt;a href="https://databricks.com" target="_blank">databricks&lt;/a>&lt;br>
+71 &lt;a href="https://datacamp.com" target="_blank">datacamp&lt;/a>&lt;br>
+72 &lt;a href="http://dataconomy.com" target="_blank">dataconomy&lt;/a>&lt;br>
+73 &lt;a href="https://data-flair.training" target="_blank">data-flair.training&lt;/a>&lt;br>
+74 &lt;a href="https://datahack.analyticsvidhya.com" target="_blank">datahack.analyticsvidhya&lt;/a>&lt;br>
+75 &lt;a href="http://dataists.com" target="_blank">dataists&lt;/a>&lt;br>
+76 &lt;a href="https://datajournalismhandbook.org" target="_blank">datajournalismhandbook.org&lt;/a>&lt;br>
+77 &lt;a href="https://datalabsagency.com" target="_blank">datalabsagency&lt;/a>&lt;br>
+78 &lt;a href="http://data-magnum.com" target="_blank">data-magnum&lt;/a>&lt;br>
+79 &lt;a href="http://data-mania.com" target="_blank">data-mania&lt;/a>&lt;br>
+80 &lt;a href="https://datamation.com" target="_blank">datamation&lt;/a>&lt;br>
+81 &lt;a href="http://datanews.tumblr.com" target="_blank">datanews.tumblr&lt;/a>&lt;br>
+82 &lt;a href="https://dataplatform.cloud.ibm.com" target="_blank">dataplatform.cloud.ibm&lt;/a>&lt;br>
+83 &lt;a href="https://dataquest.io" target="_blank">dataquest.io&lt;/a>&lt;br>
+84 &lt;a href="https://dataschool.io" target="_blank">dataschool.io&lt;/a>&lt;br>
+85 &lt;a href="https://datascience.com" target="_blank">datascience&lt;/a>&lt;br>
+86 &lt;a href="https://datasciencecentral.com" target="_blank">datasciencecentral&lt;/a>&lt;br>
+87 &lt;a href="https://datasciencedegreeprograms.net" target="_blank">datasciencedegreeprograms.net&lt;/a>&lt;br>
+88 &lt;a href="https://datasciencelab.wordpress.com" target="_blank">datasciencelab.wordpress&lt;/a>&lt;br>
+89 &lt;a href="http://datasciencelondon.org" target="_blank">datasciencelondon.org&lt;/a>&lt;br>
+90 &lt;a href="http://datasciencemadesimple.com" target="_blank">datasciencemadesimple&lt;/a>&lt;br>
+91 &lt;a href="https://datascienceplus.com" target="_blank">datascienceplus&lt;/a>&lt;br>
+92 &lt;a href="http://datasciencereport.com" target="_blank">datasciencereport&lt;/a>&lt;br>
+93 &lt;a href="https://datasciencevademecum.wordpress.com" target="_blank">datasciencevademecum.wordpress&lt;/a>&lt;br>
+94 &lt;a href="https://datascienceweekly.org" target="_blank">datascienceweekly.org&lt;/a>&lt;br>
+95 &lt;a href="https://datascientistjourney.wordpress.com" target="_blank">datascientistjourney.wordpress&lt;/a>&lt;br>
+96 &lt;a href="http://datascientists.net" target="_blank">datascientists.net&lt;/a>&lt;br>
+97 &lt;a href="https://datascopeanalytics.com" target="_blank">datascopeanalytics&lt;/a>&lt;br>
+98 &lt;a href="https://datasets.quantumstat.com" target="_blank">datasets.quantumstat&lt;/a>&lt;br>
+99 &lt;a href="https://datasetsearch.research.google.com" target="_blank">datasetsearch.research.google&lt;/a>&lt;br>
+100 &lt;a href="http://datastori.es" target="_blank">datastori.es&lt;/a>&lt;br>
+101 &lt;a href="https://datastudio.google.com" target="_blank">datastudio.google&lt;/a>&lt;br>
+102 &lt;a href="https://datatofish.com" target="_blank">datatofish&lt;/a>&lt;br>
+103 &lt;a href="https://dataversity.net" target="_blank">dataversity.net&lt;/a>&lt;br>
+104 &lt;a href="http://datawrangling.com" target="_blank">datawrangling&lt;/a>&lt;br>
+105 &lt;a href="https://deeplearning.ai" target="_blank">deeplearning.ai&lt;/a>&lt;br>
+106 &lt;a href="http://deeplearning.cs.toronto.edu" target="_blank">deeplearning.cs.toronto.edu&lt;/a>&lt;br>
+107 &lt;a href="http://deeplearning.net" target="_blank">deeplearning.net&lt;/a>&lt;br>
+108 &lt;a href="http://deeplearning.stanford.edu" target="_blank">deeplearning.stanford.edu&lt;/a>&lt;br>
+109 &lt;a href="http://deeplearningbook.org" target="_blank">deeplearningbook.org&lt;/a>&lt;br>
+110 &lt;a href="https://degruyter.com" target="_blank">degruyter&lt;/a>&lt;br>
+111 &lt;a href="https://desmos.com" target="_blank">desmos&lt;/a>&lt;br>
+112 &lt;a href="https://developer.ibm.com" target="_blank">developer.ibm&lt;/a>&lt;br>
+113 &lt;a href="https://developers.google.com" target="_blank">developers.google&lt;/a>&lt;br>
+114 &lt;a href="https://devops.com" target="_blank">devops&lt;/a>&lt;br>
+115 &lt;a href="https://dezyre.com" target="_blank">dezyre&lt;/a>&lt;br>
+116 &lt;a href="https://digitalvidya.com" target="_blank">digitalvidya&lt;/a>&lt;br>
+117 &lt;a href="http://distill.pub" target="_blank">distill.pub&lt;/a>&lt;br>
+118 &lt;a href="https://dl.acm.org" target="_blank">dl.acm.org&lt;/a>&lt;br>
+119 &lt;a href="https://docs.bokeh.org" target="_blank">docs.bokeh.org&lt;/a>&lt;br>
+120 &lt;a href="https://docs.cltk.org" target="_blank">docs.cltk.org&lt;/a>&lt;br>
+121 &lt;a href="https://docs.docker.com" target="_blank">docs.docker&lt;/a>&lt;br>
+122 &lt;a href="https://docs.fast.ai" target="_blank">docs.fast.ai&lt;/a>&lt;br>
+123 &lt;a href="https://docs.flutter.io" target="_blank">docs.flutter.io&lt;/a>&lt;br>
+124 &lt;a href="https://docs.microsoft.com/en-gb/" target="_blank">docs.microsoft&lt;/a>&lt;br>
+125 &lt;a href="https://docs.opencv.org" target="_blank">docs.opencv.org&lt;/a>&lt;br>
+126 &lt;a href="https://docs.oracle.com" target="_blank">docs.oracle&lt;/a>&lt;br>
+127 &lt;a href="https://docs.python-guide.org" target="_blank">docs.python-guide.org&lt;/a>&lt;br>
+128 &lt;a href="https://docs.scipy.org" target="_blank">docs.scipy.org&lt;/a>&lt;br>
+129 &lt;a href="https://docs.sympy.org" target="_blank">docs.sympy.org&lt;/a>&lt;br>
+130 &lt;a href="https://doi.org" target="_blank">doi.org&lt;/a>&lt;br>
+131 &lt;a href="https://drivendata.org" target="_blank">drivendata.org&lt;/a>&lt;br>
+132 &lt;a href="http://www.eecs.umich.edu" target="_blank">eecs.umich.edu&lt;/a>&lt;br>
+133 &lt;a href="http://emilio.ferrara.name" target="_blank">emilio.ferrara.name&lt;/a>&lt;br>
+134 &lt;a href="https://explosion.ai" target="_blank">explosion.ai&lt;/a>&lt;br>
+135 &lt;a href="http://fastml.com" target="_blank">fastml&lt;/a>&lt;br>
+136 &lt;a href="http://flowingdata.com" target="_blank">flowingdata&lt;/a>&lt;br>
+137 &lt;a href="https://freecodecamp.org" target="_blank">freecodecamp.org&lt;/a>&lt;br>
+138 &lt;a href="https://gapminder.org" target="_blank">gapminder.org&lt;/a>&lt;br>
+139 &lt;a href="http://gartner.com" target="_blank">gartner&lt;/a>&lt;br>
+140 &lt;a href="https://geeksforgeeks.org" target="_blank">geeksforgeeks.org&lt;/a>&lt;br>
+141 &lt;a href="https://gluebenchmark.com" target="_blank">gluebenchmark&lt;/a>&lt;br>
+142 &lt;a href="https://gramener.com" target="_blank">gramener&lt;/a>&lt;br>
+143 &lt;a href="http://gregreda.com" target="_blank">gregreda&lt;/a>&lt;br>
+144 &lt;a href="http://guide2research.com" target="_blank">guide2research&lt;/a>&lt;br>
+145 &lt;a href="https://guru99.com" target="_blank">guru99&lt;/a>&lt;br>
+146 &lt;a href="https://hackernoon.com" target="_blank">hackernoon&lt;/a>&lt;br>
+147 &lt;a href="https://hackr.io" target="_blank">hackr.io&lt;/a>&lt;br>
+148 &lt;a href="http://harvarddatascience.com" target="_blank">harvarddatascience&lt;/a>&lt;br>
+149 &lt;a href="https://hbr.org" target="_blank">hbr.org&lt;/a>&lt;br>
+150 &lt;a href="https://heroku.com" target="_blank">heroku&lt;/a>&lt;br>
+151 &lt;a href="http://herokuapp.com/" target="_blank">herokuapp&lt;/a>&lt;br>
+152 &lt;a href="http://hips.seas.harvard.edu" target="_blank">hips.seas.harvard.edu&lt;/a>&lt;br>
+153 &lt;a href="http://howstat.com" target="_blank">howstat&lt;/a>&lt;br>
+154 &lt;a href="https://huggingface.co" target="_blank">huggingface.co&lt;/a>&lt;br>
+155 &lt;a href="http://i2ocr.com" target="_blank">i2ocr&lt;/a>&lt;br>
+156 &lt;a href="https://icsalabs.com" target="_blank">icsalabs&lt;/a>&lt;br>
+157 &lt;a href="https://ieee-dataport.org" target="_blank">ieee-dataport.org&lt;/a>&lt;br>
+158 &lt;a href="https://ieeexplore.ieee.org" target="_blank">ieeexplore.ieee.org&lt;/a>&lt;br>
+159 &lt;a href="https://www.iisc.ac.in/" target="_blank">iisc.ac.in&lt;/a>&lt;br>
+160 &lt;a href="https://www.iitm.ac.in/donlab/tts/database.php" target="_blank">iitm.ac.in&lt;/a>&lt;br>
+161 &lt;a href="http://incompleteideas.net" target="_blank">incompleteideas.net&lt;/a>&lt;br>
+162 &lt;a href="https://inltk.readthedocs.io" target="_blank">inltk.readthedocs.io&lt;/a>&lt;br>
+163 &lt;a href="http://inventwithpython.com" target="_blank">inventwithpython&lt;/a>&lt;br>
+164 &lt;a href="https://investopedia.com" target="_blank">investopedia&lt;/a>&lt;br>
+165 &lt;a href="https://iot-analytics.com" target="_blank">iot-analytics&lt;/a>&lt;br>
+166 &lt;a href="http://isca-students.org" target="_blank">isca-students.org&lt;/a>&lt;br>
+167 &lt;a href="http://www.isi.edu" target="_blank">isi.edu&lt;/a>&lt;br>
+168 &lt;a href="http://itbusinessedge.com" target="_blank">itbusinessedge&lt;/a>&lt;br>
+169 &lt;a href="http://jeffdonahue.com" target="_blank">jeffdonahue&lt;/a>&lt;br>
+170 &lt;a href="http://jmlr.org" target="_blank">jmlr.org&lt;/a>&lt;br>
+171 &lt;a href="http://johnmyleswhite.com" target="_blank">johnmyleswhite&lt;/a>&lt;br>
+172 &lt;a href="https://journaldev.com" target="_blank">journaldev&lt;/a>&lt;br>
+173 &lt;a href="https://journals.elsevier.com" target="_blank">journals.elsevier&lt;/a>&lt;br>
+174 &lt;a href="https://kaushik.net" target="_blank">kaushik.net&lt;/a>&lt;br>
+175 &lt;a href="https://kdnuggets.com" target="_blank">kdnuggets&lt;/a>&lt;br>
+176 &lt;a href="http://kennybastani.com" target="_blank">kennybastani&lt;/a>&lt;br>
+177 &lt;a href="https://khanacademy.org" target="_blank">khanacademy.org&lt;/a>&lt;br>
+178 &lt;a href="https://kore.ai" target="_blank">kore.ai&lt;/a>&lt;br>
+179 &lt;a href="https://kubicle.com/library" target="_blank">kubicle&lt;/a>&lt;br>
+180 &lt;a href="https://latex4technics.com" target="_blank">latex4technics&lt;/a>&lt;br>
+181 &lt;a href="http://learninglover.com" target="_blank">learninglover&lt;/a>&lt;br>
+182 &lt;a href="https://learnopencv.com" target="_blank">learnopencv&lt;/a>&lt;br>
+183 &lt;a href="https://learnpythonthehardway.org" target="_blank">learnpythonthehardway.org&lt;/a>&lt;br>
+184 &lt;a href="https://lexalytics.com" target="_blank">lexalytics&lt;/a>&lt;br>
+185 &lt;a href="https://www.lexilogos.com/" target="_blank">lexilogos&lt;/a>&lt;br>
+186 &lt;a href="https://link.springer.com" target="_blank">link.springer&lt;/a>&lt;br>
+187 &lt;a href="https://listendata.com" target="_blank">listendata&lt;/a>&lt;br>
+188 &lt;a href="http://louisdorard.com" target="_blank">louisdorard&lt;/a>&lt;br>
+189 &lt;a href="https://lukasbiewald.com" target="_blank">lukasbiewald&lt;/a>&lt;br>
+190 &lt;a href="https://machinelearningmastery.com" target="_blank">machinelearningmastery&lt;/a>&lt;br>
+191 &lt;a href="https://mapr.com" target="_blank">mapr&lt;/a>&lt;br>
+192 &lt;a href="https://mastersindatascience.org" target="_blank">mastersindatascience.org&lt;/a>&lt;br>
+193 &lt;a href="https://mathgoodies.com" target="_blank">mathgoodies&lt;/a>&lt;br>
+194 &lt;a href="https://mathopenref.com" target="_blank">mathopenref&lt;/a>&lt;br>
+195 &lt;a href="https://mathopolis.com" target="_blank">mathopolis&lt;/a>&lt;br>
+196 &lt;a href="https://mathplanet.com" target="_blank">mathplanet&lt;/a>&lt;br>
+197 &lt;a href="https://mathsisfun.com" target="_blank">mathsisfun&lt;/a>&lt;br>
+198 &lt;a href="https://matplotlib.org" target="_blank">matplotlib.org&lt;/a>&lt;br>
+199 &lt;a href="http://mdmgeek.com" target="_blank">mdmgeek&lt;/a>&lt;br>
+200 &lt;a href="https://medium.com" target="_blank">medium&lt;/a>&lt;br>
+201 &lt;a href="http://metabrown.com" target="_blank">metabrown&lt;/a>&lt;br>
+202 &lt;a href="http://micfarris.com" target="_blank">micfarris&lt;/a>&lt;br>
+203 &lt;a href="http://mickaellegal.com" target="_blank">mickaellegal&lt;/a>&lt;br>
+204 &lt;a href="https://mindsmapped.com" target="_blank">mindsmapped&lt;/a>&lt;br>
+205 &lt;a href="https://www.mitpressjournals.org" target="_blank">mitpressjournals.org&lt;/a>&lt;br>
+206 &lt;a href="https://ml-compiled.readthedocs.io" target="_blank">ml-compiled.readthedocs.io&lt;/a>&lt;br>
+207 &lt;a href="https://www.mpi-inf.mpg.de" target="_blank">mpi-inf.mpg.de&lt;/a>&lt;br>
+208 &lt;a href="https://mybinder.org" target="_blank">mybinder.org&lt;/a>&lt;br>
+209 &lt;a href="https://mybinder.readthedocs.io" target="_blank">mybinder.readthedocs.io&lt;/a>&lt;br>
+210 &lt;a href="https://naftaliharris.com" target="_blank">naftaliharris&lt;/a>&lt;br>
+211 &lt;a href="https://www.namami.gov.in/" target="_blank">namami.gov.in&lt;/a>&lt;br>
+212 &lt;a href="https://nbviewer.jupyter.org" target="_blank">nbviewer.jupyter.org&lt;/a>&lt;br>
+213 &lt;a href="http://newdatascientist.blogspot.com" target="_blank">newdatascientist.blogspot&lt;/a>&lt;br>
+214 &lt;a href="http://news.startup.ml" target="_blank">news.startup.ml&lt;/a>&lt;br>
+215 &lt;a href="https://nips.cc" target="_blank">nips.cc&lt;/a>&lt;br>
+216 &lt;a href="https://nlp.stanford.edu" target="_blank">nlp.stanford.edu&lt;/a>&lt;br>
+217 &lt;a href="https://nltk.org" target="_blank">nltk.org&lt;/a>&lt;br>
+218 &lt;a href="http://www.nltk.org/nltk_data/" target="_blank">nltk.org&lt;/a>&lt;br>
+219 &lt;a href="https://nplt.in" target="_blank">nplt.in&lt;/a>&lt;br>
+220 &lt;a href="http://www.nrl.navy.mil" target="_blank">nrl.navy.mil&lt;/a>&lt;br>
+221 &lt;a href="http://numpy.org" target="_blank">numpy.org&lt;/a>&lt;br>
+222 &lt;a href="https://oigetit.com" target="_blank">oigetit&lt;/a>&lt;br>
+223 &lt;a href="https://online.tableau.com" target="_blank">online.tableau&lt;/a>&lt;br>
+224 &lt;a href="https://online.umich.edu" target="_blank">online.umich.edu&lt;/a>&lt;br>
+225 &lt;a href="https://onlinecourses.nptel.ac.in" target="_blank">onlinecourses.nptel.ac.in&lt;/a>&lt;br>
+226 &lt;a href="https://onlinemathlearning.com" target="_blank">onlinemathlearning&lt;/a>&lt;br>
+227 &lt;a href="https://open.wolframcloud.com" target="_blank">open.wolframcloud&lt;/a>&lt;br>
+228 &lt;a href="https://openaccess.thecvf.com" target="_blank">openaccess.thecvf&lt;/a>&lt;br>
+229 &lt;a href="https://openai.com" target="_blank">openai&lt;/a>&lt;br>
+230 &lt;a href="https://opencv.org" target="_blank">opencv.org&lt;/a>&lt;br>
+231 &lt;a href="https://opencv-python-tutroals.readthedocs.io" target="_blank">opencv-python-tutroals.readthedocs.io&lt;/a>&lt;br>
+232 &lt;a href="http://opengroup.org" target="_blank">opengroup.org&lt;/a>&lt;br>
+233 &lt;a href="https://opensciencedatacloud.org" target="_blank">opensciencedatacloud.org&lt;/a>&lt;br>
+234 &lt;a href="https://oreilly.com" target="_blank">oreilly&lt;/a>&lt;br>
+235 &lt;a href="https://pandas.pydata.org" target="_blank">pandas.pydata.org&lt;/a>&lt;br>
+236 &lt;a href="https://pantechsolutions.net" target="_blank">pantechsolutions.net&lt;/a>&lt;br>
+237 &lt;a href="https://www.pantechsolutions.net/" target="_blank">pantechsolutions.net&lt;/a>&lt;br>
+238 &lt;a href="https://paperswithcode.com" target="_blank">paperswithcode&lt;/a>&lt;br>
+239 &lt;a href="https://paralleldots.com" target="_blank">paralleldots&lt;/a>&lt;br>
+240 &lt;a href="https://pathmind.com" target="_blank">pathmind&lt;/a>&lt;br>
+241 &lt;a href="https://pbpython.com" target="_blank">pbpython&lt;/a>&lt;br>
+242 &lt;a href="http://periscopic.com" target="_blank">periscopic&lt;/a>&lt;br>
+243 &lt;a href="https://www.pewresearch.org/download-datasets/" target="_blank">pewresearch.org&lt;/a>&lt;br>
+244 &lt;a href="https://portal.azure.com" target="_blank">portal.azure&lt;/a>&lt;br>
+245 &lt;a href="https://portal.office.com" target="_blank">portal.office&lt;/a>&lt;br>
+246 &lt;a href="https://powerbi.microsoft.com" target="_blank">powerbi.microsoft&lt;/a>&lt;br>
+247 &lt;a href="https://practicalquant.blogspot.com" target="_blank">practicalquant.blogspot&lt;/a>&lt;br>
+248 &lt;a href="https://projects.apache.org" target="_blank">projects.apache.org&lt;/a>&lt;br>
+249 &lt;a href="http://p-value.info" target="_blank">p-value.info&lt;/a>&lt;br>
+250 &lt;a href="https://pyimagesearch.com" target="_blank">pyimagesearch&lt;/a>&lt;br>
+251 &lt;a href="https://pymbook.readthedocs.io" target="_blank">pymbook.readthedocs.io&lt;/a>&lt;br>
+252 &lt;a href="https://python.org" target="_blank">python.org&lt;/a>&lt;br>
+253 &lt;a href="https://python-graph-gallery.com" target="_blank">python-graph-gallery&lt;/a>&lt;br>
+254 &lt;a href="https://pythonlinks.info" target="_blank">pythonlinks.info&lt;/a>&lt;br>
+255 &lt;a href="https://pythonprogramming.net" target="_blank">pythonprogramming.net&lt;/a>&lt;br>
+256 &lt;a href="https://quickdraw.withgoogle.com" target="_blank">quickdraw.withgoogle&lt;/a>&lt;br>
+257 &lt;a href="https://rapidapi.com" target="_blank">rapidapi&lt;/a>&lt;br>
+258 &lt;a href="https://rasa.com" target="_blank">rasa&lt;/a>&lt;br>
+259 &lt;a href="https://r-bloggers.com" target="_blank">r-bloggers&lt;/a>&lt;br>
+260 &lt;a href="https://realpython.com" target="_blank">realpython&lt;/a>&lt;br>
+261 &lt;a href="https://reddit.com" target="_blank">reddit&lt;/a>&lt;br>
+262 &lt;a href="https://regex101.com" target="_blank">regex101&lt;/a>&lt;br>
+263 &lt;a href="https://regexone.com" target="_blank">regexone&lt;/a>&lt;br>
+264 &lt;a href="https://researchgate.net" target="_blank">researchgate.net&lt;/a>&lt;br>
+265 &lt;a href="https://scholar.google.co.in" target="_blank">scholar.google.co.in&lt;/a>&lt;br>
+266 &lt;a href="https://scholar.google.com" target="_blank">scholar.google&lt;/a>&lt;br>
+267 &lt;a href="https://sciencedirect.com" target="_blank">sciencedirect&lt;/a>&lt;br>
+268 &lt;a href="https://sci-hub.tw" target="_blank">sci-hub.tw&lt;/a>&lt;br>
+269 &lt;a href="https://scikit-image.org" target="_blank">scikit-image.org&lt;/a>&lt;br>
+270 &lt;a href="https://scikit-learn.org" target="_blank">scikit-learn.org&lt;/a>&lt;br>
+271 &lt;a href="http://scl.samsaadhanii.in/" target="_blank">scl.samsaadhanii.in&lt;/a>&lt;br>
+272 &lt;a href="http://scribd.com" target="_blank">scribd&lt;/a>&lt;br>
+273 &lt;a href="https://seaborn.pydata.org" target="_blank">seaborn.pydata.org&lt;/a>&lt;br>
+274 &lt;a href="https://searchtechnologies.com" target="_blank">searchtechnologies&lt;/a>&lt;br>
+275 &lt;a href="https://sebastianraschka.com" target="_blank">sebastianraschka&lt;/a>&lt;br>
+276 &lt;a href="https://semanticscholar.org" target="_blank">semanticscholar.org&lt;/a>&lt;br>
+277 &lt;a href="https://setosa.io" target="_blank">setosa.io&lt;/a>&lt;br>
+278 &lt;a href="https://sid.iisc.ac.in" target="_blank">sid.iisc.ac.in&lt;/a>&lt;br>
+279 &lt;a href="https://sigdat.org" target="_blank">sigdat.org&lt;/a>&lt;br>
+280 &lt;a href="http://sigir.org" target="_blank">sigir.org&lt;/a>&lt;br>
+281 &lt;a href="http://signll.org" target="_blank">signll.org&lt;/a>&lt;br>
+282 &lt;a href="https://www.sjri.res.in/" target="_blank">sjri.res.in&lt;/a>&lt;br>
+283 &lt;a href="https://smartcities.data.gov.in/" target="_blank">smartcities.data.gov.in&lt;/a>&lt;br>
+284 &lt;a href="https://sotabench.com" target="_blank">sotabench&lt;/a>&lt;br>
+285 &lt;a href="https://sourceforge.net" target="_blank">sourceforge.net&lt;/a>&lt;br>
+286 &lt;a href="http://spenczar.com" target="_blank">spenczar&lt;/a>&lt;br>
+287 &lt;a href="https://springboard.com" target="_blank">springboard&lt;/a>&lt;br>
+288 &lt;a href="https://springer.com" target="_blank">springer&lt;/a>&lt;br>
+289 &lt;a href="https://sqlbi.com" target="_blank">sqlbi&lt;/a>&lt;br>
+290 &lt;a href="http://www.stat.ucla.edu" target="_blank">stat.ucla.edu&lt;/a>&lt;br>
+291 &lt;a href="https://statisticshowto.datasciencecentral.com" target="_blank">statisticshowto.datasciencecentral&lt;/a>&lt;br>
+292 &lt;a href="https://statlect.com" target="_blank">statlect&lt;/a>&lt;br>
+293 &lt;a href="https://stats.stackexchange.com" target="_blank">stats.stackexchange&lt;/a>&lt;br>
+294 &lt;a href="https://stattrek.com" target="_blank">stattrek&lt;/a>&lt;br>
+295 &lt;a href="https://studio.azureml.net" target="_blank">studio.azureml.net&lt;/a>&lt;br>
+296 &lt;a href="https://sundog-education.com" target="_blank">sundog-education&lt;/a>&lt;br>
+297 &lt;a href="https://superdatascience.com" target="_blank">superdatascience&lt;/a>&lt;br>
+298 &lt;a href="https://susiddha.org/sanskrit-language/" target="_blank">susiddha.org&lt;/a>&lt;br>
+299 &lt;a href="https://tableau.com" target="_blank">tableau&lt;/a>&lt;br>
+300 &lt;a href="http://tarrysingh.com" target="_blank">tarrysingh&lt;/a>&lt;br>
+301 &lt;a href="https://tcdata360.worldbank.org" target="_blank">tcdata360.worldbank.org&lt;/a>&lt;br>
+302 &lt;a href="https://techcrunch.com" target="_blank">techcrunch&lt;/a>&lt;br>
+303 &lt;a href="https://techgig.com/" target="_blank">techgig&lt;/a>&lt;br>
+304 &lt;a href="https://technologyreview.com" target="_blank">technologyreview&lt;/a>&lt;br>
+305 &lt;a href="https://techrepublic.com" target="_blank">techrepublic&lt;/a>&lt;br>
+306 &lt;a href="https://tensorflow.org" target="_blank">tensorflow.org&lt;/a>&lt;br>
+307 &lt;a href="https://theaisummer.com" target="_blank">theaisummer&lt;/a>&lt;br>
+308 &lt;a href="https://theblog.okcupid.com" target="_blank">theblog.okcupid&lt;/a>&lt;br>
+309 &lt;a href="https://theinsaneapp.com" target="_blank">theinsaneapp&lt;/a>&lt;br>
+310 &lt;a href="https://the-scientist.com" target="_blank">the-scientist&lt;/a>&lt;br>
+311 &lt;a href="https://thisismetis.com" target="_blank">thisismetis&lt;/a>&lt;br>
+312 &lt;a href="https://tn.data.gov.in" target="_blank">tn.data.gov.in&lt;/a>&lt;br>
+313 &lt;a href="https://towardsdatascience.com" target="_blank">towardsdatascience&lt;/a>&lt;br>
+314 &lt;a href="https://translate.google.com" target="_blank">translate.google&lt;/a>&lt;br>
+315 &lt;a href="https://trends.google.com" target="_blank">trends.google&lt;/a>&lt;br>
+316 &lt;a href="https://tutorialandexample.com" target="_blank">tutorialandexample&lt;/a>&lt;br>
+317 &lt;a href="https://tutorialspoint.com" target="_blank">tutorialspoint&lt;/a>&lt;br>
+318 &lt;a href="https://varsitytutors.com" target="_blank">varsitytutors&lt;/a>&lt;br>
+319 &lt;a href="https://www.vistawide.com" target="_blank">vistawide&lt;/a>&lt;br>
+320 &lt;a href="http://www.visualqa.org" target="_blank">visualqa.org&lt;/a>&lt;br>
+321 &lt;a href="https://visualstudio.com" target="_blank">visualstudio&lt;/a>&lt;br>
+322 &lt;a href="https://w3schools.com" target="_blank">w3schools&lt;/a>&lt;br>
+323 &lt;a href="https://www.wandb.com" target="_blank">wandb&lt;/a>&lt;br>
+324 &lt;a href="https://whatsthebigdata.com" target="_blank">whatsthebigdata&lt;/a>&lt;br>
+325 &lt;a href="https://wiki.python.org" target="_blank">wiki.python.org&lt;/a>&lt;br>
+326 &lt;a href="http://www.wikicfp.com" target="_blank">wikicfp&lt;/a>&lt;br>
+327 &lt;a href="https://wolframalpha.com" target="_blank">wolframalpha&lt;/a>&lt;br>
+328 &lt;a href="https://wordnet.princeton.edu/related-projects" target="_blank">wordnet.princeton.edu&lt;/a>&lt;br>
+329 &lt;a href="http://www-aig.jpl.nasa.gov" target="_blank">www-aig.jpl.nasa.gov&lt;/a>&lt;br>
+330 &lt;a href="http://yerevann.com" target="_blank">yerevann&lt;/a>&lt;br>
+331 &lt;a href="http://yet-another-data-blog.blogspot.com.tr" target="_blank">yet-another-data-blog.blogspot.tr&lt;/a>&lt;br>
+332 &lt;a href="https://ztable.net" target="_blank">ztable.net&lt;/a>&lt;br>
+333 &lt;a href="https://excel.tips.net" target="_blank">excel.tips.net&lt;/a>&lt;br>
+334 &lt;a href="https://excelcampus.com" target="_blank">excelcampus&lt;/a>&lt;br>
+335 &lt;a href="https://exceleratorbi.com.au" target="_blank">exceleratorbi.au&lt;/a>&lt;br>
+336 &lt;a href="https://intellipaat.com" target="_blank">intellipaat&lt;/a>&lt;br>
+337 &lt;a href="https://www.knowledgehut.com/data-science" target="_blank">knowledgehut&lt;/a>&lt;br>
+338 &lt;a href="https://leaps.analyttica.com" target="_blank">leaps.analyttica&lt;/a>&lt;br>
+339 &lt;a href="https://learn.byjus.com" target="_blank">learn.byjus&lt;/a>&lt;br>
+340 &lt;a href="https://learning.edureka.co" target="_blank">learndigital.withgoogle&lt;/a>&lt;br>
+341 &lt;a href="https://learning.edureka.co" target="_blank">learning.edureka.co&lt;/a>&lt;br>
+342 &lt;a href="https://udacity.com" target="_blank">udacity&lt;/a>&lt;br>
+343 &lt;a href="https://udemy.com" target="_blank">udemy&lt;/a>&lt;br>
+344 &lt;a href="https://anaconda.com" target="_blank">anaconda&lt;/a>&lt;br>
+345 &lt;a href="https://codegrepper.com" target="_blank">codegrepper&lt;/a>&lt;br>
+346 &lt;a href="http://codepad.org" target="_blank">codepad.org&lt;/a>&lt;br>
+347 &lt;a href="https://codingbat.com" target="_blank">codingbat&lt;/a>&lt;br>
+348 &lt;a href="https://colab.research.google.com" target="_blank">colab.research.google&lt;/a>&lt;br>
+349 &lt;a href="https://docs.python.org" target="_blank">docs.python.org&lt;/a>&lt;br>
+350 &lt;a href="http://interactivepython.org" target="_blank">interactivepython.org&lt;/a>&lt;br>
+351 &lt;a href="https://julialang.org" target="_blank">julialang.org&lt;/a>&lt;br>
+352 &lt;a href="https://jupyter.org" target="_blank">jupyter.org&lt;/a>&lt;br>
+353 &lt;a href="https://kaggle.com" target="_blank">kaggle&lt;/a>&lt;br>
+354 &lt;a href="https://learnpython.org" target="_blank">learnpython.org&lt;/a>&lt;br>
+355 &lt;a href="https://paperspace.com/" target="_blank">paperspace&lt;/a>&lt;br>
+356 &lt;a href="https://pytorch.org" target="_blank">pytorch.org&lt;/a>&lt;br>
+357 &lt;a href="https://adeshpande3.github.io" target="_blank">adeshpande3.github.io&lt;/a>&lt;br>
+358 &lt;a href="https://harvard-iacs.github.io" target="_blank">harvard-iacs.github.io&lt;/a>&lt;br>
+359 &lt;a href="http://iamtrask.github.io" target="_blank">iamtrask.github.io&lt;/a>&lt;br>
+360 &lt;a href="https://kiwidamien.github.io" target="_blank">kiwidamien.github.io&lt;/a>&lt;br>
+361 &lt;a href="https://ronxin.github.io" target="_blank">ronxin.github.io&lt;/a>&lt;br>
+362 &lt;a href="https://spandan-madan.github.io" target="_blank">spandan-madan.github.io&lt;/a>&lt;br>
+363 &lt;a href="https://stanfordnlp.github.io" target="_blank">stanfordnlp.github.io&lt;/a>&lt;br>
+364 &lt;a href="https://trigonaminima.github.io" target="_blank">trigonaminima.github.io&lt;/a>&lt;br>
+365 &lt;a href="https://www.interviewquery.com/" target="_blank">Interview Query&lt;/a>&lt;br>
+366 &lt;a href="https://www.hackerrank.com/" target="_blank">Hackerrank&lt;/a>&lt;br>
+367 &lt;a href="https://www.crackingthecodinginterview.com/" target="_blank">CrackingTheCodingInterview&lt;/a>&lt;br>
+368 &lt;a href="https://research.google/" target="_blank">Google Research&lt;/a>&lt;br>
+369 &lt;a href="https://ai.googleblog.com/" target="_blank">Google AI Blog&lt;/a>&lt;br>
+370 &lt;a href="https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501" target="_blank">ML Code Completeness Checklist,&lt;/a>&lt;br>
+371 &lt;a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf" target="_blank">ML Reproducibility Checklist&lt;/a>&lt;br>
+372 &lt;a href="https://github.com/huggingface/transformers" target="_blank">Huggingface Transformer&lt;/a>&lt;/p></description></item><item><title>AI, ML, Deep Learning, NLP Conferences &amp; Journals</title><link>https://dasarpai.github.io/dsblog/ai-ml-dl-nlp-conferences/</link><pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-dl-nlp-conferences/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg" alt="AI, ML, Deep Learning, NLP Conferences &amp;amp; Journals" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI, ML, Deep Learning, NLP Conferences &amp;amp; Journals
+&lt;div id="ai-ml-deep-learning-nlp-conferences--journals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-ml-deep-learning-nlp-conferences--journals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Content on this page keeps changing. These links are taken from my chrome browser favorites.&lt;/strong>&lt;/p>
+&lt;p>A list of 30+ AI conferences and journals related to AI, NLP, Deep Learning. Almost all major happening in the world of AI/ML is presented in these conferences and published in these magazines.&lt;/p></description></item><item><title>How Naive Bayes Classifier Works</title><link>https://dasarpai.github.io/dsblog/how-naive-bayes-classifier-works/</link><pubDate>Wed, 31 Mar 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/how-naive-bayes-classifier-works/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg" alt="Naive Bayes" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">How Naive Bayes Classifier Works?
+&lt;div id="how-naive-bayes-classifier-works" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-naive-bayes-classifier-works" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Naive Bayes classifier example
+&lt;div id="naive-bayes-classifier-example" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#naive-bayes-classifier-example" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In this presentation, I am not going into the depth of the Naive Bayes algorithm. I am assuming you have heard this term many times but are not able to visualize it mentally or struggling to comprehend this. If that is the case, then you are on the right page.&lt;/p></description></item><item><title>EDA &amp; Feature Engineering 101</title><link>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</link><pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6008-EDA101.jpg" alt="EDA &amp;amp; Feature Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is EDA?
+&lt;div id="what-is-eda" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-eda" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What kind of data is this? (file format, volume of data, number of columns, metadata data of image/video/audio or some feedback in English or other languages, or tabular data, etc)&lt;/li>
+&lt;li>How complex is this data? (How many files are there? primary key? how these files are connected to each other? is nested data in some files? is some field having nested data, etc.)&lt;/li>
+&lt;li>Is this data sufficient for meeting our ultimate goal, i.e. Model building?&lt;/li>
+&lt;li>Is there any missing data? Data needed but not given by the business or not available at all or costly to get that data etc.&lt;/li>
+&lt;li>Are there any missing values? In the given dataset do we have complete information or some values are missing for some records or some columns?&lt;/li>
+&lt;li>What are different independent and dependent fields?&lt;/li>
+&lt;li>Is there any relationship between different independent variables of the dataset? If yes then how strong is that relationship?&lt;/li>
+&lt;li>Are observations independent or tightly coupled like we see in time-series data?&lt;/li>
+&lt;/ul>
+&lt;p>In the data scient project lifecycle, EDA is not a sequential, one-time, isolated process. Till the time data is not ready for modeling we keep doing EDA and cleaning the data. So, EDA is followed by a list of decisions taken to clean the dataset, and finally, data cleaning steps are implemented. If the dataset is not in the good shape after the first iteration of EDA we continue EDA in the next cycle. In this article, I am not referring to EDA as just visualizing and understanding the dataset but all the steps required till the dataset is not ready for modeling.&lt;/p></description></item><item><title>DS, AI, ML Online Course, Tutorial, Videos</title><link>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg" alt="DS, AI, ML Online Course, Tutorial, Videos" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">DS, AI, ML Online Course, Tutorial, Videos
+&lt;div id="ds-ai-ml-online-course-tutorial-videos" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ds-ai-ml-online-course-tutorial-videos" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Courses
+&lt;div id="courses" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#courses" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://class.coursera.org/ml-005" target="_blank">Machine Learning – Stanford&lt;/a> by Andrew Ng in Coursera (2010-2014)&lt;/li>
+&lt;li>&lt;a href="https://work.caltech.edu/lectures.html" target="_blank">Machine Learning – Caltech&lt;/a> by Yaser Abu-Mostafa (2012-2014)&lt;/li>
+&lt;li>&lt;a href="https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml" target="_blank">Machine Learning – Carnegie Mellon&lt;/a> by Tom Mitchell (Spring 2011)&lt;/li>
+&lt;li>&lt;a href="https://class.coursera.org/neuralnets-2012-001" target="_blank">Neural Networks for Machine Learning&lt;/a> by Geoffrey Hinton in Coursera (2012)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH" target="_blank">Neural networks class&lt;/a> by Hugo Larochelle from Université de Sherbrooke (2013)&lt;/li>
+&lt;li>&lt;a href="https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start" target="_blank">Deep Learning Course&lt;/a> by CILVR lab @ NYU (2014)&lt;/li>
+&lt;li>&lt;a href="https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/" target="_blank">A.I – Berkeley&lt;/a> by Dan Klein and Pieter Abbeel (2013)&lt;/li>
+&lt;li>&lt;a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/" target="_blank">A.I – MIT&lt;/a> by Patrick Henry Winston (2010)&lt;/li>
+&lt;li>&lt;a href="https://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html" target="_blank">Vision and learning – computers and brains&lt;/a> by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)&lt;/li>
+&lt;li>&lt;a href="https://vision.stanford.edu/teaching/cs231n/syllabus.html" target="_blank">Convolutional Neural Networks for Visual Recognition – Stanford&lt;/a> by Fei-Fei Li, Andrej Karpathy (2017)&lt;/li>
+&lt;li>&lt;a href="https://cs224d.stanford.edu/" target="_blank">Deep Learning for Natural Language Processing – Stanford&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://info.usherbrooke.ca/hlarochelle/neural_networks/content.html" target="_blank">Neural Networks – usherbrooke&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/" target="_blank">Machine Learning – Oxford&lt;/a> (2014-2015)&lt;/li>
+&lt;li>&lt;a href="https://developer.nvidia.com/deep-learning-courses" target="_blank">Deep Learning – Nvidia&lt;/a> (2015)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA" target="_blank">Graduate Summer School: Deep Learning, Feature Learning&lt;/a> by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/course/deep-learning--ud730" target="_blank">Deep Learning – Udacity/Google&lt;/a> by Vincent Vanhoucke and Arpan Chakraborty (2016)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE" target="_blank">Deep Learning – UWaterloo&lt;/a> by Prof. Ali Ghodsi at University of Waterloo (2015)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=azaLcvuql_g&amp;amp;list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r" target="_blank">Statistical Machine Learning – CMU&lt;/a> by Prof. Larry Wasserman&lt;/li>
+&lt;li>&lt;a href="https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm" target="_blank">Deep Learning Course&lt;/a> by Yann LeCun (2016)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm" target="_blank">Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://uvadlc.github.io/" target="_blank">UVA Deep Learning Course&lt;/a> MSc in Artificial Intelligence for the University of Amsterdam.&lt;/li>
+&lt;li>&lt;a href="https://selfdrivingcars.mit.edu/" target="_blank">MIT 6.S094: Deep Learning for Self-Driving Cars&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://introtodeeplearning.com/" target="_blank">MIT 6.S191: Introduction to Deep Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rll.berkeley.edu/deeprlcourse/" target="_blank">Berkeley CS 294: Deep Reinforcement Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/keras-in-motion" target="_blank">Keras in Motion video course&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://course.fast.ai/" target="_blank">Practical Deep Learning For Coders&lt;/a> by Jeremy Howard – Fast.ai&lt;/li>
+&lt;li>&lt;a href="https://deeplearning.cs.cmu.edu/" target="_blank">Introduction to Deep Learning&lt;/a> by Prof. Bhiksha Raj (2017)&lt;/li>
+&lt;li>&lt;a href="https://www.deeplearning.ai/ai-for-everyone/" target="_blank">AI for Everyone&lt;/a> by Andrew Ng (2019)&lt;/li>
+&lt;li>&lt;a href="https://introtodeeplearning.com/" target="_blank">MIT Intro to Deep Learning 7 day bootcamp&lt;/a> – A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)&lt;/li>
+&lt;li>&lt;a href="https://mithi.github.io/deep-blueberry" target="_blank">Deep Blueberry: Deep Learning&lt;/a> – A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)&lt;/li>
+&lt;li>&lt;a href="https://spinningup.openai.com/" target="_blank">Spinning Up in Deep Reinforcement Learning&lt;/a> – A free deep reinforcement learning course by OpenAI (2019)&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/specializations/deep-learning" target="_blank">Deep Learning Specialization – Coursera&lt;/a> – Breaking into AI with the best course from Andrew NG.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW" target="_blank">Deep Learning – UC Berkeley STAT-157&lt;/a> by Alex Smola and Mu Li (2019)&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/machine-learning-for-mere-mortals" target="_blank">Machine Learning for Mere Mortals video course&lt;/a> by Nick Chase&lt;/li>
+&lt;li>&lt;a href="https://developers.google.com/machine-learning/crash-course/" target="_blank">Machine Learning Crash Course with TensorFlow APIs&lt;/a> -Google AI&lt;/li>
+&lt;li>&lt;a href="https://course.fast.ai/part2" target="_blank">Deep Learning from the Foundations&lt;/a> Jeremy Howard – Fast.ai&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" target="_blank">Deep Reinforcement Learning (nanodegree) – Udacity&lt;/a> a 3-6 month Udacity nanodegree, spanning multiple courses (2018)&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/grokking-deep-learning-in-motion" target="_blank">Grokking Deep Learning in Motion&lt;/a> by Beau Carnes (2018)&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/share/1000gAA0QdcV9aQng=/" target="_blank">Face Detection with Computer Vision and Deep Learning&lt;/a> by Hakan Cebeci&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/slides?ranMID=40328&amp;amp;ranEAID=SAyYsTvLiGQ&amp;amp;ranSiteID=SAyYsTvLiGQ-CmOo_hUqOR9Oj8ApcOw0Kg&amp;amp;siteID=SAyYsTvLiGQ-CmOo_hUqOR9Oj8ApcOw0Kg&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=SAyYsTvLiGQ" target="_blank">Presentation skills: Designing Presentation Slides - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?ranMID=40328&amp;amp;ranEAID=SAyYsTvLiGQ&amp;amp;ranSiteID=SAyYsTvLiGQ-heqdps0Uveezr1XmtoOPDQ&amp;amp;siteID=SAyYsTvLiGQ-heqdps0Uveezr1XmtoOPDQ&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=SAyYsTvLiGQ" target="_blank">Mathematics for Machine Learning: Multivariate Calculus - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/machine-learning/home/welcome" target="_blank">Machine Learning – Home Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?ranMID=40328&amp;amp;ranEAID=SAyYsTvLiGQ&amp;amp;ranSiteID=SAyYsTvLiGQ-P3iVNag0daUW2nModtd2GA&amp;amp;siteID=SAyYsTvLiGQ-P3iVNag0daUW2nModtd2GA&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=SAyYsTvLiGQ" target="_blank">Mathematics for Machine Learning: Multivariate Calculus - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/browse/data-science" target="_blank">Data Science Certificates - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learning.edureka.co/mycourses" target="_blank">Edureka&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bdlabs.edureka.co:50001/cmf/services/18/status" target="_blank">Edureka-Cloudera Manager&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/" target="_blank">Udemy Courses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://onlinereikicourse.com/" target="_blank">Courses – Online Reiki Course&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.datacamp.com/courses" target="_blank">DataCamp Courses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.byjus.com/video/chapter-videos/44724" target="_blank">Byju&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229" target="_blank">udacity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://intellipaat.com/blog/what-is-apache-spark/" target="_blank">What is Spark – A Comparison Between Spark vs. Hadoop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://studio.azureml.net/Home/ViewWorkspaceCached/086ca408664942138b618398589b02ff#Workspace/Settings/Name" target="_blank">Microsoft Azure Machine Learning Studio (classic)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apache.org/" target="_blank">Welcome to The Apache Software Foundation!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://makingindiaemployable.com/" target="_blank">Making India Employable - Vivid Vision 10 10 10&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ideone.com/" target="_blank">GpI8H5 – Online Python3 Interpreter &amp;amp; Debugging Tool – Ideone.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi" target="_blank">Google I/O 2019 – All Sessions – YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV" target="_blank">TensorFlow at Google I/O 2019 – YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bsc.hcverma.in/course/quantum" target="_blank">Quantum Mechanics - BSc Lectures by Prof. H C Verma and Team&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openpathshala.com/" target="_blank">Open Pathshala - Your Best Source to Learn Sanskrit&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.classcentral.com/" target="_blank">Class Central #1 Search Engine for Free Online Courses &amp;amp; MOOCs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.class-central.com/course/coursera-mathematics-for-machine-learning-multivariate-calculus-10452" target="_blank">Free Online Course: Mathematics for Machine Learning: Multivariate Calculus from Coursera - Class Central&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://byjus.com/" target="_blank">e Learning for Basic Science and Maths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.skillshare.com/" target="_blank">Online Classes by Skillshare - Start for Free Today&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learndigital.withgoogle.com/digitalgarage" target="_blank">Learn online marketing with free courses – Google Digital Garage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://moz.com/blog" target="_blank">Moz Blog – SEO and Inbound Marketing Blog – Moz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://onlinecourses.nptel.ac.in/m#/lesson/noc19_hs53/8/15" target="_blank">NPTEL Online Courses Mobile&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/learn/overview" target="_blank">Learn Python, Data Viz, Pandas &amp;amp; More - Tutorials - Kaggle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.superdatascience.com/training/" target="_blank">Data Science Training&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Tutorials
+&lt;div id="tutorials" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tutorials" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial" target="_blank">UFLDL Tutorial 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ufldl.stanford.edu/tutorial/supervised/LinearRegression/" target="_blank">UFLDL Tutorial 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial" target="_blank">Deep Learning for NLP (without Magic)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks" target="_blank">A Deep Learning Tutorial: From Perceptrons to Deep Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.metacademy.org/roadmaps/rgrosse/deep_learning" target="_blank">Deep Learning from the Bottom up&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deeplearning.net/tutorial/deeplearning.pdf" target="_blank">Theano Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf" target="_blank">Neural Networks for Matlab&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/" target="_blank">Using convolutional neural nets to detect facial keypoints tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials" target="_blank">Torch7 Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/josephmisiti/machine-learning-module" target="_blank">The Best Machine Learning Tutorials On The Web&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html" target="_blank">VGG Convolutional Neural Networks Practical&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nlintz/TensorFlow-Tutorials" target="_blank">TensorFlow tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/pkmital/tensorflow_tutorials" target="_blank">More TensorFlow tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/aymericdamien/TensorFlow-Examples" target="_blank">TensorFlow Python Notebooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Vict0rSch/deep_learning" target="_blank">Keras and Lasagne Deep Learning Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition" target="_blank">Classification on raw time series in TensorFlow with a LSTM RNN&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/" target="_blank">Using convolutional neural nets to detect facial keypoints tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/astorfi/TensorFlow-World" target="_blank">TensorFlow-World&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/books/deep-learning-with-python" target="_blank">Deep Learning with Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/books/grokking-deep-learning" target="_blank">Grokking Deep Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/books/deep-learning-for-search" target="_blank">Deep Learning for Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511" target="_blank">Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/yunjey/pytorch-tutorial" target="_blank">Pytorch Tutorial by Yunjey Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html" target="_blank">Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html" target="_blank">Overview and benchmark of traditional and deep learning models in text classification&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MelAbgrall/HardwareforAI" target="_blank">Hardware for AI: Understanding computer hardware &amp;amp; build your own computer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackr.io/tutorials/learn-artificial-intelligence-ai" target="_blank">Programming Community Curated Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://amitness.com/2020/02/illustrated-self-supervised-learning/" target="_blank">The Illustrated Self-Supervised Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://amitness.com/2020/02/albert-visual-summary/" target="_blank">Visual Paper Summary: ALBERT (A Lite BERT)&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Videos and Lectures
+&lt;div id="videos-and-lectures" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#videos-and-lectures" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=RIkxVci-R4k" target="_blank">How To Create A Mind&lt;/a> By Ray Kurzweil&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=n1ViNeWhC24" target="_blank">Deep Learning, Self-Taught Learning and Unsupervised Feature Learning&lt;/a> By Andrew Ng&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=vShMxxqtDDs&amp;amp;index=3&amp;amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT" target="_blank">Recent Developments in Deep Learning&lt;/a> By Geoff Hinton&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=sc-KbuZqGkI" target="_blank">The Unreasonable Effectiveness of Deep Learning&lt;/a> by Yann LeCun&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=4xsVFLnHC_0" target="_blank">Deep Learning of Representations&lt;/a> by Yoshua bengio&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=6ufPpZDmPKA" target="_blank">Principles of Hierarchical Temporal Memory&lt;/a> by Jeff Hawkins&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT" target="_blank">Machine Learning Discussion Group – Deep Learning w/ Stanford AI Lab&lt;/a> by Adam Coates&lt;/li>
+&lt;li>&lt;a href="https://vimeo.com/80821560" target="_blank">Making Sense of the World with Deep Learning&lt;/a> By Adam Coates&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=wZfVBwOO0-k" target="_blank">Demystifying Unsupervised Feature Learning&lt;/a> By Adam Coates&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=3boKlkPBckA" target="_blank">Visual Perception with Deep Learning&lt;/a> By Yann LeCun&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=AyzOUbkUf3M" target="_blank">The Next Generation of Neural Networks&lt;/a> By Geoffrey Hinton at GoogleTechTalks&lt;/li>
+&lt;li>&lt;a href="https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn" target="_blank">The wonderful and terrifying implications of computers that can learn&lt;/a> By Jeremy Howard at TEDxBrussels&lt;/li>
+&lt;li>&lt;a href="https://web.stanford.edu/class/cs294a/handouts.html" target="_blank">Unsupervised Deep Learning – Stanford&lt;/a> by Andrew Ng in Stanford (2011)&lt;/li>
+&lt;li>&lt;a href="https://web.stanford.edu/class/cs224n/handouts/" target="_blank">Natural Language Processing&lt;/a> By Chris Manning in Stanford&lt;/li>
+&lt;li>&lt;a href="https://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html" target="_blank">A beginners Guide to Deep Neural Networks&lt;/a> By Natalie Hammel and Lorraine Yurshansky&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=czLI3oLDe8M" target="_blank">Deep Learning: Intelligence from Big Data&lt;/a> by Steve Jurvetson (and panel) at VLAB in Stanford.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=FoO8qDB8gUU" target="_blank">Introduction to Artificial Neural Networks and Deep Learning&lt;/a> by Leo Isikdogan at Motorola Mobility HQ&lt;/li>
+&lt;li>&lt;a href="https://nips.cc/Conferences/2016/Schedule" target="_blank">NIPS 2016 lecture and workshop videos&lt;/a> – NIPS 2016&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=oS5fz_mHVz0&amp;amp;list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07" target="_blank">Deep Learning Crash Course&lt;/a>: a series of mini-lectures by Leo Isikdogan on YouTube (2018)&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/deep-learning-crash-course" target="_blank">Deep Learning Crash Course&lt;/a> By Oliver Zeigermann&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/deep-learning-with-r-in-motion" target="_blank">Deep Learning with R in Motion&lt;/a>: a live video course that teaches how to apply deep learning to text and images using the powerful Keras library and its R language interface.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/f5vUg6i" target="_blank">8 Essential Tips for People starting a Career in Data Science&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fMEhi4D" target="_blank">Cheatsheet: How to become a data scientist&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fruY2AC" target="_blank">The Art of Learning Data Science&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fxReDab" target="_blank">The Periodic Table of Data Science&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fXSE-us" target="_blank">Aspiring Data Scientists! Start to learn Statistics with these 6 books&lt;/a>!&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/f8S3Ygd" target="_blank">8 Skills You Need to Be a Data Scientist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fKugicE" target="_blank">Top 10 Essential Books for the Data Enthusiast&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fTGDkju" target="_blank">Aspiring data scientist? Master these fundamentals&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/f_Zhpzf" target="_blank">How to Become a Data Scientist – On your own.&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">GRETL – Great Statistical software for Beginners
+&lt;div id="gretl--great-statistical-software-for-beginners" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gretl--great-statistical-software-for-beginners" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Simple Linear Regression &lt;a href="https://lnkd.in/ecfsV9c" target="_blank">https://lnkd.in/ecfsV9c&lt;/a>&lt;/li>
+&lt;li>Coding Dummy Variables &lt;a href="https://lnkd.in/ef7Yd7f" target="_blank">https://lnkd.in/ef7Yd7f&lt;/a>&lt;/li>
+&lt;li>Forecasting New Observations &lt;a href="https://lnkd.in/eNKbxbU" target="_blank">https://lnkd.in/eNKbxbU&lt;/a>&lt;/li>
+&lt;li>Forecasting a Large Number of Observations &lt;a href="https://lnkd.in/eHmibGs" target="_blank">https://lnkd.in/eHmibGs&lt;/a>&lt;/li>
+&lt;li>Logistic Regression &lt;a href="https://lnkd.in/eRfhQ87" target="_blank">https://lnkd.in/eRfhQ87&lt;/a>&lt;/li>
+&lt;li>Forecasting and Confusion Matrix &lt;a href="https://lnkd.in/eaqrFJr" target="_blank">https://lnkd.in/eaqrFJr&lt;/a>&lt;/li>
+&lt;li>Modeling and Forecasting Time Series Data &lt;a href="https://lnkd.in/e6fqKpF" target="_blank">https://lnkd.in/e6fqKpF&lt;/a>&lt;/li>
+&lt;li>Comparing Time Series Trend Models &lt;a href="https://lnkd.in/eKjEUAE" target="_blank">https://lnkd.in/eKjEUAE&lt;/a>&lt;/li>
+&lt;li>Khan Academy is the best online free resource to learn Math for Data Science. ( &lt;a href="https://www.khanacademy.org/math/" target="_blank">https://www.khanacademy.org/math/&lt;/a>).&lt;/li>
+&lt;li>Krista King has also done a great job in creating an exceptionally good introductory course. She is too good at designing the course. ( &lt;a href="https://www.udemy.com/user/kristaking/" target="_blank">https://www.udemy.com/user/kristaking/&lt;/a>.&lt;/li>
+&lt;li>3Blue1Brown ( &lt;a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists" target="_blank">https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists&lt;/a>).&lt;/li>
+&lt;li>Every Intro to Data Science Course on the Internet, Ranked. (&lt;a href="https://lnkd.in/fQDMiNX" target="_blank">https://lnkd.in/fQDMiNX&lt;/a> )&lt;/li>
+&lt;li>What would be useful for aspiring data scientists to know? (&lt;a href="https://lnkd.in/fmcFyN7" target="_blank">https://lnkd.in/fmcFyN7&lt;/a>)&lt;/li>
+&lt;/ol></description></item><item><title>Reinforcement Learning Git Repositories</title><link>https://dasarpai.github.io/dsblog/rl-git-repo/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rl-git-repo/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg" alt="Reinforcement Learning Git Repositories" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Reinforcement Learning Git Repositories
+&lt;div id="reinforcement-learning-git-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reinforcement-learning-git-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno.&lt;/th>
+&lt;th>URL&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>OpenAI Baselines: high-quality implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>A fork of OpenAI Baselines, implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>An educational resource to help anyone learn deep reinforcement learning.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>TF-Agents is a library for Reinforcement Learning in TensorFlow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>TensorFlow Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>A platform for Applied Reinforcement Learning (Applied RL)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>An End-To-End, Lightweight and Flexible Platform for Game Research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>A fast and simple framework for building and running distributed applications.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Deep Reinforcement Learning for Keras.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>Rainbow: Combining Improvements in Deep Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>Velocity in deep-learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorforce: A TensorFlow library for applied reinforcement learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>Modular Deep Reinforcement Learning framework in PyTorch.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>A framework for reproducible reinforcement learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>Reproducible and fast DL &amp;amp; RL.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>21&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>A toolkit for developing and comparing reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>A customisable 3D platform for agent-based AI research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>23&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. — For installation instruct&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro Games in Gym&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>25&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>The DeepMind Control Suite and Package&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO – A Massively Multiagent Game Environment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>27&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>Gym @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>Lab @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>29&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo @ Microsoft&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>31&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>Control Suite @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>32&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>33&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>34&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Antonin Raffin, Ashley Hill&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>35&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Sergey Kolesnikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>36&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Ray Team&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>37&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>38&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>39&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Intel&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by community&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>41&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Wah Loon Keng, Laura Graesser&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>42&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>43&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>44&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>45&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/scalable_agent" target="_blank">https://github.com/deepmind/scalable_agent&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>46&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>47&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Matthias Plappert&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>48&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Ilya Kostrikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>49&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Kai Arulkumaran&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>50&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Jerry (?)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>51&lt;/td>
+&lt;td>&lt;a href="https://github.com/Khrylx/PyTorch-RL" target="_blank">https://github.com/Khrylx/PyTorch-RL&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>52&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>53&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>54&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>55&lt;/td>
+&lt;td>&lt;a href="https://github.com/SurrealAI/surreal" target="_blank">https://github.com/SurrealAI/surreal&lt;/a>&lt;/td>
+&lt;td>TorchX&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>56&lt;/td>
+&lt;td>&lt;a href="https://github.com/zuoxingdong/lagom" target="_blank">https://github.com/zuoxingdong/lagom&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>57&lt;/td>
+&lt;td>&lt;a href="https://github.com/dennybritz/reinforcement-learning" target="_blank">https://github.com/dennybritz/reinforcement-learning&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>58&lt;/td>
+&lt;td>&lt;a href="https://github.com/unixpickle/anyrl-py" target="_blank">https://github.com/unixpickle/anyrl-py&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>59&lt;/td>
+&lt;td>&lt;a href="https://github.com/Scitator/rl-course-experiments" target="_blank">https://github.com/Scitator/rl-course-experiments&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>&lt;a href="https://github.com/oxwhirl/pymarl" target="_blank">https://github.com/oxwhirl/pymarl&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

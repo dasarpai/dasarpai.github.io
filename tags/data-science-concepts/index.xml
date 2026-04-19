@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Science Concepts on</title><link>https://dasarpai.github.io/tags/data-science-concepts/</link><description>Recent content in Data Science Concepts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-science-concepts/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Synthetic Data Generation Capabilities</title><link>https://dasarpai.github.io/dsblog/exploring-synthetic-data-generation-capabilities/</link><pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-synthetic-data-generation-capabilities/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg" alt="Exploring Synthetic Data Generation Capabilities" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Synthetic Data Generation Capabilities
+&lt;div id="exploring-synthetic-data-generation-capabilities" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-synthetic-data-generation-capabilities" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Are you looking answers to these questions?&lt;/p>
+&lt;ul>
+&lt;li>What is Synthetic Data?&lt;/li>
+&lt;li>What is data anonymization?&lt;/li>
+&lt;li>What are different techniques for generating Anonymized Data?&lt;/li>
+&lt;li>Why is anonymizing not sufficient to address PII data issues?&lt;/li>
+&lt;li>When there is lots of data available around then why do we need synthetic data?&lt;/li>
+&lt;li>What are the challenges in synthetic data generation?&lt;/li>
+&lt;li>What are the tools for Synthetic Data Generator for Marketing&lt;/li>
+&lt;li>What are the tools for Graph Synthetic Data generation?&lt;/li>
+&lt;li>List of popular synthetic data generation tools for different industries&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is Synthetic Data?
+&lt;div id="what-is-synthetic-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-synthetic-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Synthetic data&lt;/strong> is artificially generated data that mimics the characteristics and statistical properties of real-world data but is not derived directly from real-world events or observations. It is created using algorithms, simulations, or models to represent patterns, structures, and relationships found in actual datasets. Synthetic data can take various forms, such as text, images, audio, or structured tabular data, depending on the context. It is used across various industries to train AI models, simulate environments, and conduct research.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Future of Software Development on</title><link>https://dasarpai.github.io/tags/future-of-software-development/</link><description>Recent content in Future of Software Development on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/future-of-software-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Future of Programming - Capabilities of AI Coding IDEs</title><link>https://dasarpai.github.io/dsblog/future-of-programming/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/future-of-programming/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6259-future-of-programming.jpg" alt="future-of-programming" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Future of Programming
+&lt;div id="future-of-programming" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#future-of-programming" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>As of April&amp;rsquo; 2025, AI coding IDEs like windsurf, cursor, cline, copilot etc. has these capabilities.&lt;/p>
+&lt;h2 class="relative group">Capabilities of AI Coding IDEs
+&lt;div id="capabilities-of-ai-coding-ides" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#capabilities-of-ai-coding-ides" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Purpose-Built Models 🧠
+&lt;div id="purpose-built-models-" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#purpose-built-models-" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>These are AI models specifically trained or fine-tuned for software development tasks like code generation, debugging, or code understanding.&lt;br>
+&lt;strong>Example:&lt;/strong> Instead of using a general-purpose LLM like GPT-4, Windsurf might use a model trained on GitHub repositories to understand code structure, naming conventions, or common patterns in Python projects.&lt;/p></description></item></channel></rss>

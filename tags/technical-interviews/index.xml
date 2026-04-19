@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technical Interviews on</title><link>https://dasarpai.github.io/tags/technical-interviews/</link><description>Recent content in Technical Interviews on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/technical-interviews/index.xml" rel="self" type="application/rss+xml"/><item><title>Programming Resources</title><link>https://dasarpai.github.io/dsblog/programming-resources/</link><pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/programming-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6136-Programming-Resources.jpg" alt="Programming-Resources" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Programming Resources
+&lt;div id="programming-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Programming
+&lt;div id="programming" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Learning with Others
+&lt;div id="learning-with-others" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#learning-with-others" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.codementor.io" target="_blank">Codementor&lt;/a> : A mentorship community to learn from fellow developers via live 1:1 help and more.&lt;/li>
+&lt;li>&lt;a href="https://www.devrant.io" target="_blank">devRant&lt;/a> : Community where you can rant and release your stress&lt;/li>
+&lt;li>&lt;a href="https://learn-anything.xyz" target="_blank">Learn Anything&lt;/a> : Community curated knowledge graph of best paths for learning anything&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com" target="_blank">Quora&lt;/a> : A place to share knowledge and better understand the world&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com" target="_blank">Stack Overflow&lt;/a> : subscribe to their weekly newsletter and any other topic which you find interesting&lt;/li>
+&lt;li>&lt;a href="https://dashboard.nbshare.io/apps/stackoverflow/top-javascript-questions/" target="_blank">Stackoverflow High Scored JS Questions&lt;/a> : Dashboard to track top Javascript questions asked on Stackoverflow&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Some Project Ideas
+&lt;div id="some-project-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#some-project-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11" target="_blank">freeCodeCamp - React project ideas&lt;/a> : 27 fun app ideas you can build while learning React.&lt;/li>
+&lt;li>&lt;a href="http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/" target="_blank">martyr2s-mega-project-ideas-list&lt;/a> : contains about 125 project ideas from beginner to intermediate level.&lt;/li>
+&lt;li>&lt;a href="https://github.com/karan/Projects" target="_blank">karan/Projects&lt;/a> : a large collection of small projects for beginners with&lt;/li>
+&lt;li>&lt;a href="https://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners" target="_blank">Wrong &amp;ldquo;big projects&amp;rdquo; for beginners&lt;/a> : How to choose where to start&lt;/li>
+&lt;li>&lt;a href="https://github.com/vicky002/1000_Projects" target="_blank">vicky002/1000-Projects&lt;/a> : Mega List of practical projects that one can solve in any programming language!&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/AppIdeas/" target="_blank">reddit.com/r/AppIdeas&lt;/a> : A place to discuss ideas for applications, for bored developers.&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/SomebodyMakeThis/" target="_blank">reddit.com/r/SomebodyMakeThis&lt;/a> : A home for ideas by people who lack time, money, or skills.&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/blog/javascript-projects/" target="_blank">InterviewBit - JavaScript Projects Ideas&lt;/a> : Top 15+ JavaScript Projects Ideas.&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Some Important Coding Artciles
+&lt;div id="some-important-coding-artciles" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#some-important-coding-artciles" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png" target="_blank">10-ways-to-be-a-better-developer&lt;/a> : Ways to become a better dev!&lt;/li>
+&lt;li>&lt;a href="https://www.infoq.com/articles/Starting-With-MongoDB/" target="_blank">14 Things I Wish I’d Known When Starting with MongoDB&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://carlcheo.com/compsci" target="_blank">40 Keys Computer Science Concepts Explained In Layman’s Terms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory" target="_blank">A Gentle Introduction To Graph Theory&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://moonscript.org" target="_blank">A programmer-friendly language that compiles to Lua.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stevewedig.com/2014/02/03/software-developers-reading-list/" target="_blank">A Software Developer’s Reading List&lt;/a> : Some good books and links in there.&lt;/li>
+&lt;li>&lt;a href="http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/" target="_blank">Code a TCP/IP stack&lt;/a> : Let&amp;rsquo;s code a TCP/IP stack, 5: TCP Retransmission&lt;/li>
+&lt;li>&lt;a href="https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html" target="_blank">Code Review Best Practices&lt;/a> : Kevin London&amp;rsquo;s blog&lt;/li>
+&lt;li>&lt;a href="https://codewords.recurse.com/issues/four/the-language-of-choice" target="_blank">Codewords.recurse&lt;/a> : The language of choice&lt;/li>
+&lt;li>&lt;a href="https://sourcemaking.com/design_patterns" target="_blank">Design Patterns&lt;/a> : Design Patterns explained in detail with examples.&lt;/li>
+&lt;li>&lt;a href="http://developforperformance.com" target="_blank">Develop for Performance&lt;/a> : High-performance computing techniques for software architects and developers&lt;/li>
+&lt;li>&lt;a href="https://www.wikiwand.com/en/Java_bytecode" target="_blank">Dive into the byte code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/" target="_blank">Expectations of a Junior Developer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://studio3t.com/knowledge-base/articles/mongodb-getting-started/" target="_blank">Getting Started with MongoDB – An Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/" target="_blank">How to become a programmer or the art of Googling well&lt;/a> : How to become a programmer or the art of Googling well&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40" target="_blank">How to escape tutorial purgatory as a new developer — or at any time in your career&lt;/a> : How to escape tutorial purgatory&lt;/li>
+&lt;li>&lt;a href="https://logit.io/blog/post/elk-stack-guide" target="_blank">How to install ELK&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/wearehive/project-guidelines" target="_blank">JS Project Guidelines&lt;/a> : A set of best practices for JavaScript projects.&lt;/li>
+&lt;li>&lt;a href="https://learntocodewith.me" target="_blank">Learn to Code With Me&lt;/a> : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world&lt;/li>
+&lt;li>&lt;a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/" target="_blank">Learning JavaScript Design Patterns&lt;/a> : the online version of the Learning JavaScript Design Patterns published by O&amp;rsquo;Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7" target="_blank">Learning Vim&lt;/a> : What I Wish I Knew&lt;/li>
+&lt;li>&lt;a href="http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer" target="_blank">Lessons From A Lifetime Of Being A Programmer&lt;/a> : The Codist Header Lessons From A Lifetime Of Being A Programmer&lt;/li>
+&lt;li>&lt;a href="https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html" target="_blank">Linux Inside&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wikiwand.com/en/List_of_algorithms" target="_blank">List of algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.pixelbeat.org/docs/unix-parallel-tools.html" target="_blank">Pixel Beat - Unix&lt;/a> : Parallel processing with Unix tools&lt;/li>
+&lt;li>&lt;a href="https://qotoqot.com/blog/improving-focus/" target="_blank">qotoqot - improving-focus&lt;/a> : How I got to 200 productive hours a month&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Software_design_pattern" target="_blank">Software design pattern&lt;/a> : The entire collection of Design Patterns.&lt;/li>
+&lt;li>&lt;a href="https://www.databasestar.com/normalization-in-dbms/" target="_blank">Step by Step Guide to Database Normalization&lt;/a>: A guide to database normalization.&lt;/li>
+&lt;li>&lt;a href="http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/" target="_blank">The Key To Accelerating Your Coding Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.owasp.org" target="_blank">The Open Web Application Security Project (OWASP)&lt;/a> : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be" target="_blank">Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp&lt;/a> : What I’ve learned from teaching others&lt;/li>
+&lt;li>&lt;a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/" target="_blank">Unicode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://multithreaded.stitchfix.com" target="_blank">We are reinventing the retail industry through innovative technology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://matt.might.net/articles/what-cs-majors-should-know/" target="_blank">What every computer science major should know&lt;/a> : The Principles of Good Programming&lt;/li>
+&lt;li>&lt;a href="http://kunststube.net/encoding/" target="_blank">What every programmer absolutely, positively needs to know about encodings and character sets to work with text&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://futuretech.blinkenlights.nl/misc/cpumemory.pdf" target="_blank">What every programmer should know about memory - PDF&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://henrikwarne.com/2012/12/12/working-as-a-software-developer/" target="_blank">Working as a Software Developer&lt;/a> : Henrik Warne&amp;rsquo;s blog&lt;/li>
+&lt;li>&lt;a href="https://requestbin.com/blog/working-with-webhooks/" target="_blank">Working with Webhooks&lt;/a> : a comprehensive guide on webhooks&lt;/li>
+&lt;li>&lt;a href="http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel" target="_blank">Write a Kernel&lt;/a> : Kernel 101 – Let’s write a Kernel&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Coding Style
+&lt;div id="coding-style" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#coding-style" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/airbnb/javascript" target="_blank">Airbnb JS Style Guide&lt;/a> : A mostly reasonable approach to JavaScript&lt;/li>
+&lt;li>&lt;a href="https://github.com/airbnb/ruby" target="_blank">Airbnb Ruby Style Guide&lt;/a> : A ruby style guide by Airbnb&lt;/li>
+&lt;li>&lt;a href="https://github.com/bbatsov/ruby-style-guide" target="_blank">Ruby coding style guide&lt;/a> : A community-driven Ruby coding style guide&lt;/li>
+&lt;li>&lt;a href="https://github.com/johnpapa/angular-styleguide/tree/master/a1" target="_blank">Angular Style Guide&lt;/a> : Officially endorsed style guide by John Pappa&lt;/li>
+&lt;li>&lt;a href="http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml" target="_blank">CS 106B Coding Style Guide&lt;/a> : must see for those who create spaghetti&lt;/li>
+&lt;li>&lt;a href="http://www.umich.edu/~eecs381/generalFAQ/Debugging.html" target="_blank">Debugging Faqs&lt;/a> : Check out how to debug your program&lt;/li>
+&lt;li>&lt;a href="https://github.com/prakhar1989/awesome-courses" target="_blank">Directory of CS Courses (many with online lectures)&lt;/a> : Another online CS courses&lt;/li>
+&lt;li>&lt;a href="https://github.com/ossu/computer-science" target="_blank">Directory of Online CS Courses&lt;/a> : Free online CS courses&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/" target="_blank">Good C programming habits. • /r/C_Programming&lt;/a> : C programming habits to adopt&lt;/li>
+&lt;li>&lt;a href="https://google.github.io/styleguide/cppguide.html" target="_blank">Google C++ Style Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.chiark.greenend.org.uk/~sgtatham/bugs.html" target="_blank">How to Report Bugs Effectively&lt;/a> : Want to report a bug but you don&amp;rsquo;t how? Check out this post&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/" target="_blank">What are some bad coding habits you would recommend a beginner avoid getting into?&lt;/a> : Bad habits to avoid when you get start&lt;/li>
+&lt;li>&lt;a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">PEP8 - Style Guide for Python Code&lt;/a> : Style Guide for Python Code&lt;/li>
+&lt;li>&lt;a href="https://standardjs.com" target="_blank">Standard JS Style Guide&lt;/a> : JavaScript style guide, with linter &amp;amp; automatic code fixer&lt;/li>
+&lt;li>&lt;a href="https://google.github.io/styleguide/pyguide.html" target="_blank">Google Python Style Guide&lt;/a> : Google Python Style Guide&lt;/li>
+&lt;li>&lt;a href="https://github.com/behzad888/Aurelia-styleguide" target="_blank">Aurelia Style Guide&lt;/a> : An Aurelia style guide by Behzad Abbasi(Behzad888)&lt;/li>
+&lt;li>&lt;a href="https://sourcemaking.com/" target="_blank">Source Making&lt;/a> : Design Patterns &amp;amp; Refactoring&lt;/li>
+&lt;li>&lt;a href="https://refactoring.guru/" target="_blank">Refactoring Guru&lt;/a>: Refactoring And Design Patterns&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Collection of Leetcode Problem solution
+&lt;div id="collection-of-leetcode-problem-solution" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#collection-of-leetcode-problem-solution" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/AlanWei/LeetCode" target="_blank">github.com/AlanWei/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript" target="_blank">github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ecmadao/algorithms/tree/master/leetcode" target="_blank">github.com/ecmadao/algorithms/tree/master/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/paopao2/leetcode-js" target="_blank">github.com/paopao2/leetcode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/cs1707/leetcode" target="_blank">github.com/cs1707/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/EasyHard/leetcodejs" target="_blank">github.com/EasyHard/leetcodejs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/fa-ge/leetcode" target="_blank">github.com/fa-ge/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ktorng/AlgoInterviewPrep/tree/master/misc/LeetCode" target="_blank">github.com/ktorng/AlgoInterviewPrep/tree/master/misc/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/bluesh/LeetCode" target="_blank">github.com/bluesh/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/chihungyu1116/leetcode-javascript" target="_blank">github.com/chihungyu1116/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/didi0613/leetcode-javascript" target="_blank">github.com/didi0613/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dnshi/Leetcode/tree/master/algorithms" target="_blank">github.com/dnshi/Leetcode/tree/master/algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/xiaoyu2er/leetcode-js" target="_blank">github.com/xiaoyu2er/leetcode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blog.sodhanalibrary.com/search/label/JavaScript" target="_blank">blog.sodhanalibrary.com/search/label/JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/imcoddy/leetcode" target="_blank">github.com/imcoddy/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/iwantooxxoox/leetcode" target="_blank">github.com/iwantooxxoox/leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/karenpeng/leetCode" target="_blank">github.com/karenpeng/leetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KMBaby-zyl/leetcode/tree/master/Algorithms" target="_blank">github.com/KMBaby-zyl/leetcode/tree/master/Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MrErHu/Leetcode/tree/master/algorithms" target="_blank">github.com/MrErHu/Leetcode/tree/master/algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/zzxboy1/leetcode/tree/master/algorithms" target="_blank">github.com/zzxboy1/leetcode/tree/master/algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/loatheb/leetcode-javascript" target="_blank">github.com/loatheb/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/paopao2/leetcode-js" target="_blank">github.com/paopao2/leetcode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/theFool32/LeetCode" target="_blank">github.com/theFool32/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/whwei/LeetCode" target="_blank">github.com/whwei/LeetCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jiangxiaoli/leetcode-javascript" target="_blank">github.com/jiangxiaoli/leetcode-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/299md.html" target="_blank">skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/299md.html&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/HandsomeOne/LeetCode/tree/master/Algorithms" target="_blank">github.com/HandsomeOne/LeetCode/tree/master/Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/zj972/leetcode/tree/master/code" target="_blank">github.com/zj972/leetcode/tree/master/code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/xiaoliwang/leetcode/tree/master/iojs" target="_blank">github.com/xiaoliwang/leetcode/tree/master/iojs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dieface/leetcode/tree/master/javascript" target="_blank">github.com/dieface/leetcode/tree/master/javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/magicly/leetcode/tree/master/js" target="_blank">github.com/magicly/leetcode/tree/master/js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/LuciferChiu/leetcode/tree/master/solutions" target="_blank">github.com/LuciferChiu/leetcode/tree/master/solutions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/alenny/leetcode/tree/master/src" target="_blank">github.com/alenny/leetcode/tree/master/src&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/kpman/leetcode/tree/master/src" target="_blank">github.com/kpman/leetcode/tree/master/src&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hijiangtao/LeetCode-with-JavaScript/tree/master/src" target="_blank">github.com/hijiangtao/LeetCode-with-JavaScript/tree/master/src&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cnblogs.com/Liok3187/default.html?page=1" target="_blank">www.cnblogs.com/Liok3187/default.html?page=1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/yuguo/LeetCode" target="_blank">github.com/yuguo/LeetCode&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Designing
+&lt;div id="designing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#designing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">System-Design related useful articles
+&lt;div id="system-design-related-useful-articles" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#system-design-related-useful-articles" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.hiredintech.com/app#system-design" target="_blank">System Interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.lecloud.net/tagged/scalability" target="_blank">Scalability for Dummies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.aosabook.org/en/distsys.html" target="_blank">Scalable Web Architecture and Distributed Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/" target="_blank">Numbers Everyone Should Know&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf" target="_blank">Fallacies of distributed systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html" target="_blank">Scalable System Design Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://lethain.com/introduction-to-architecting-systems-for-scale/" target="_blank">Introduction to Architecting Systems for Scale&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://snarfed.org/transactions_across_datacenters_io.html" target="_blank">Transactions Across Datacenters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/henryr/cap-faq" target="_blank">The CAP FAQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf" target="_blank">Paxos Made Simple&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.tom-e-white.com/2007/11/consistent-hashing.html" target="_blank">Consistent Hashing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://horicky.blogspot.com/2009/11/nosql-patterns.html" target="_blank">NOSQL Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/jboner/scalability-availability-stability-patterns" target="_blank">Scalability, Availability &amp;amp; Stability Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&amp;amp;context=compsci" target="_blank">Design a CDN network-Globally Distributed Content Delivery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/system-design-interview-questions/" target="_blank">System Design Interview Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/google-mobwrite/" target="_blank">Google document system: google-mobwrite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://neil.fraser.name/writing/sync/" target="_blank">Google document system: Differential Synchronization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.twitter.com/2010/announcing-snowflake" target="_blank">Announcing Snowflake at X&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/dvirsky/introduction-to-redis" target="_blank">Introduction to Redis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed" target="_blank">What are best practices for building something like a News Feed?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed" target="_blank">What are the scaling issues to keep in mind while developing a social network feed?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture" target="_blank">Facebook Activity Feeds Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/note.php?note_id=10150468255628920" target="_blank">Building Timeline&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://highscalability.com/blog/2011/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html" target="_blank">Facebook Timeline&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf" target="_blank">Efficient Computation of Frequent and Top-k Elements in Data Streams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf" target="_blank">An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html" target="_blank">How to Create an Asynchronous Multiplayer Game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.indieflashblog.com/how-to-create-async-part2.html" target="_blank">How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.indieflashblog.com/how-to-create-async-part3.html" target="_blank">How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://buildnewgames.com/real-time-multiplayer/" target="_blank">Real Time Multiplayer in HTML5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920" target="_blank">Building out the infrastructure for Graph Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920" target="_blank">Indexing and ranking in Graph Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920" target="_blank">The natural language interface of Graph Search&lt;/a> and &lt;a href="http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf" target="_blank">Erlang at Facebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://highscalability.com/flickr-architecture" target="_blank">Flickr Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html" target="_blank">Instagram Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search" target="_blank">How would you implement Google Search?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.ardendertat.com/2012/01/11/implementing-search-engines/" target="_blank">Implementing Search Engines&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tech.hulu.com/blog/2011/09/19/recommendation-system.html" target="_blank">Hulu’s Recommendation System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://ijcai13.org/files/tutorial_slides/td3.pdf" target="_blank">Recommender Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://n00tc0d3r.blogspot.com/" target="_blank">System Design for Big Data-tinyurl&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/" target="_blank">Baby&amp;rsquo;s First Garbage Collector&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch" target="_blank">How can I build a web crawler from scratch?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf" target="_blank">Design Facebook chat function&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/" target="_blank">Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/" target="_blank">Early detection of Twitter trends explained&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.slideshare.net/oemebamo/introduction-to-memcached" target="_blank">Design a cache system*: Introduction to Memcached&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Github Repositories with coding problems-and-solutions
+&lt;div id="github-repositories-with-coding-problems-and-solutions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#github-repositories-with-coding-problems-and-solutions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript" target="_blank">Algorithms-Leetcode-Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/Algorithm-in-JavaScript" target="_blank">Algorithm-in-JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/Javascript-Challenges" target="_blank">Javascript-Challenges&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/The-Hacking-School-Full-Stack-Bootcamp-Projects/tree/master/JS-Challenges" target="_blank">JS-Challenges&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/mkshen/code-problems-solutions" target="_blank">code-problems-solutions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gist.github.com/Smakar20?page=1" target="_blank">some common problems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/careercup/CtCI-6th-Edition-JavaScript" target="_blank">Cracking the Coding Interview - Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/kennymkchan/interview-questions-in-javascript" target="_blank">interview-questions-in-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank">javascript-interview-questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/kolodny/exercises" target="_blank">javascript-Exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/30-seconds/30-seconds-of-interviews" target="_blank">30-seconds-of-interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/vvscode/js--interview-questions" target="_blank">js&amp;ndash;interview-questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sadanandpai/javascript-code-challenges" target="_blank">JavaScript-Code-Challenges&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">System-Design-Company engineering blog
+&lt;div id="system-design-company-engineering-blog" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#system-design-company-engineering-blog" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://highscalability.com/" target="_blank">High Scalability&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/blog/category/engineering" target="_blank">The GitHub Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.quora.com/" target="_blank">Engineering at Quora&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineeringblog.yelp.com/" target="_blank">Yelp Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.twitter.com/" target="_blank">Twitter Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/Engineering" target="_blank">Facebook Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://eng.yammer.com/blog/" target="_blank">Yammer Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://codeascraft.com/" target="_blank">Etsy Code as Craft&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.foursquare.com/" target="_blank">Foursquare Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nerds.airbnb.com/" target="_blank">Airbnb Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.webengage.com/" target="_blank">WebEngage Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.linkedin.com/blog" target="_blank">LinkedIn Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://techblog.netflix.com/" target="_blank">The Netflix Tech Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.simple.com/engineering/" target="_blank">BankSimple Simple Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://corner.squareup.com/" target="_blank">Square The Corner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developers.soundcloud.com/blog/" target="_blank">SoundCloud Backstage Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://code.flickr.net/" target="_blank">Flickr Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://instagram-engineering.tumblr.com/" target="_blank">Instagram Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tech.dropbox.com/" target="_blank">Dropbox Tech Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.cloudera.com/" target="_blank">Cloudera Developer Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://bandcamptech.wordpress.com/" target="_blank">Bandcamp Tech&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tech.oyster.com/" target="_blank">Oyster Tech Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.redditblog.com/" target="_blank">THE REDDIT BLOG&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.groupon.com/" target="_blank">Groupon Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://devblog.songkick.com/" target="_blank">Songkick Technology Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://googleresearch.blogspot.com/" target="_blank">Google Research Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.pinterest.com/" target="_blank">Pinterest Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.twilio.com/engineering" target="_blank">Twilio Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://word.bitly.com/" target="_blank">Bitly Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://eng.uber.com/" target="_blank">Uber Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://engineering.godaddy.com/" target="_blank">Godaddy Engineering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blogs.splunk.com/" target="_blank">Splunk Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://building.coursera.org/" target="_blank">Coursera Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.paypal-engineering.com/" target="_blank">PayPal Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engblog.nextdoor.com/" target="_blank">Nextdoor Engineering Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.booking.com/" target="_blank">Booking.com Development Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.scalyr.com/" target="_blank">Scalyr Engineering Blog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Interview
+&lt;div id="interview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#interview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Design Interview Questions
+&lt;div id="design-interview-questions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#design-interview-questions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/design-url-shortner.md">design-url-shortner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/e-Commerce-site.md">e-Commerce-site&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/system-design/Whatsapp-Basic-Features-of-a-chat-app.md">Whatsapp-Basic-Features-of-a-chat-app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scottaohara.github.io/accessibility_interview_questions/" target="_blank">Accessibility Interview Questions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Books: Cracking the Coding Interview
+&lt;div id="books-cracking-the-coding-interview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#books-cracking-the-coding-interview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/sharlatta/cracking" target="_blank">github.com/sharlatta/cracking&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ammiranda/CrackingTheCodingInterview" target="_blank">github.com/ammiranda/CrackingTheCodingInterview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/bryclee/ctci" target="_blank">github.com/bryclee/ctci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/macalinao/node-ctci" target="_blank">github.com/macalinao/node-ctci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/seemaullal/CrackingTheCodingInterview-JS" target="_blank">github.com/seemaullal/CrackingTheCodingInterview-JS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rcerf/MyCtci" target="_blank">github.com/rcerf/MyCtci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/SashaBayan/CCI" target="_blank">github.com/SashaBayan/CCI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015" target="_blank">github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ktorng/AlgoInterviewPrep/tree/master/CrackingTheCodingInterview" target="_blank">github.com/ktorng/AlgoInterviewPrep/tree/master/CrackingTheCodingInterview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/muddybarefeet/Cracking-the-Coding-Interview-Problems/tree/master/toyProblems" target="_blank">github.com/muddybarefeet/Cracking-the-Coding-Interview-Problems/tree/master/toyProblems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/randy909/coding-interview/tree/master/cracking" target="_blank">github.com/randy909/coding-interview/tree/master/cracking&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution" target="_blank">github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/careercup/ctci/tree/master/javascript/lib/data-structures" target="_blank">github.com/careercup/ctci/tree/master/javascript/lib/data-structures&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/miguelmota/ctci-js" target="_blank">github.com/miguelmota/ctci-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ChirpingMermaid/CTCI" target="_blank">github.com/ChirpingMermaid/CTCI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Programming Interview Questions and Answers Resources
+&lt;div id="programming-interview-questions-and-answers-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming-interview-questions-and-answers-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://bigocheatsheet.com/" target="_blank">Big O Cheatsheet&lt;/a> &lt;a href="https://medium.com/@jayshah_84248/big-o-for-coding-interviews-e6ca8897f926" target="_blank">Quick Big O understanding for coding interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.toptal.com/developers/sorting-algorithms" target="_blank">developers/sorting-algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@yanganif/tackling-javascript-algorithms-66f1ac9770dc" target="_blank">tackling-javascript-algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript" target="_blank">sorting-algorithms-in-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Javascript" target="_blank">Learn-Data_Structure-Algorithm-by-Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target="_blank">Grokking Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="_blank">Algorithms Visualization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b" target="_blank">coding-interviews-for-dummies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002" target="_blank">educative.io/collection/page/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wikiwand.com/en/Rabin%E2%80%93Karp_algorithm" target="_blank">Karp_algorithm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/" target="_blank">www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">best javascript-algorithms github repo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed" target="_blank">14-patterns-to-ace-any-coding-interview-question&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.educative.io/collection/5668639101419520/5671464854355968" target="_blank">Grokking the Coding Interview: Patterns for Coding Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript" target="_blank">https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jwasham/coding-interview-university" target="_blank">coding-interview-university&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank">reactjs-interview-questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank">Front-end-Developer-Interview-Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/yangshun/front-end-interview-handbook" target="_blank">front-end-interview-handbook&lt;/a> - Almost complete answers to &amp;ldquo;Front-end Job Interview Questions&amp;rdquo; which you can use to interview potential candidates, test yourself or completely ignore&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/algorithm-interview-questions/" target="_blank">Algorithm Interview Questions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Some resources for JavaScript Interviews
+&lt;div id="some-resources-for-javascript-interviews" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#some-resources-for-javascript-interviews" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm_source=hashnode.com" target="_blank">10 JavaScript concepts you need to know for interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Chalarangelo/30-seconds-of-code" target="_blank">Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions" target="_blank">123 Essential JavaScript Interview Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ggomaeng/awesome-js" target="_blank">A curated list of JavaScript fundamentals and algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa" target="_blank">A Quick Introduction to Functional JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703" target="_blank">A Tricky JavaScript Interview Question Asked by Google and Amazon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d" target="_blank">A perfect guide for cracking a JavaScript interview - A developer’s perspective&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a" target="_blank">Common Misconceptions About Inheritance in JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36" target="_blank">Master the JavaScript Interview: What is a Closure?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0" target="_blank">Master the JavaScript Interview: What is Function Composition?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb" target="_blank">3 JavaScript questions to watch out for during coding interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thatjsdude.com/interview/dom.html" target="_blank">JS: Interview Questions Part-3&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thatjsdude.com/interview/js1.html" target="_blank">JS: Interview Algorithm Part-1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thatjsdude.com/interview/js2.html" target="_blank">JS: Basics and Tricky Questions Part-2: intermediate&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.toptal.com/javascript/interview-questions" target="_blank">37 Essential JavaScript Interview Questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/javascript-interview-questions/" target="_blank">Prepare from this comprehensive list of the latest JavaScript Interview Questions and ace your interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/lydiahallie/javascript-questions" target="_blank">Many tricky and common JavaScript questions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9" target="_blank">Master the JavaScript Interview: What’s the Difference Between Class &amp;amp; Prototypal Inheritance?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Jobs
+&lt;div id="jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Getting your first programming job
+&lt;div id="getting-your-first-programming-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#getting-your-first-programming-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110" target="_blank">Every-developer-needs-a-code-portfolio- Javascript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5" target="_blank">Collection of Resources for Interview preparations and practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4" target="_blank">How I cleared the Amazon SDE 2 interview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106" target="_blank">How I got 7 Job Offers in 8 Weeks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466" target="_blank">master-the-javascript-interview-soft-skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2" target="_blank">google-lost-a-chance-to-hire-me-finally-amazon-hired-me&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00" target="_blank">the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/7-key-steps-to-getting-your-first-software-engineering-job-6ef80543cad9" target="_blank">7-key-steps-to-getting-your-first-software-engineering-job&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331" target="_blank">5-key-learnings-from-the-post-bootcamp-job-search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/https-medium-com-samwcoding-how-to-get-your-first-developer-job-in-4-months-ec86da6e5d9a" target="_blank">how-to-get-your-first-developer-job-in-4-months&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/swlh/how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree-e83d08db4615" target="_blank">how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d" target="_blank">how-to-land-a-top-notch-tech-job-as-a-student&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/appsflyer/unlocking-the-javascript-code-interview-an-interviewer-perspective-f4fe06246b29" target="_blank">unlocking-the-javascript-code-interview-an-interviewer-perspective&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html" target="_blank">get-that-job-at-google.html&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.usejournal.com/i-failed-my-effing-coding-interview" target="_blank">i-failed-my-effing-coding-interview-ab720c339c8a&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051" target="_blank">how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them-a644a88b2241" target="_blank">here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/how-to-get-a-tech-job-with-no-previous-work-experience-6d3d7d25e1" target="_blank">how-to-get-a-tech-job-with-no-previous-work-experience&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/the-hard-thing-about-learning-hard-things-168e655ac7f2" target="_blank">the-hard-thing-about-learning-hard-things&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be" target="_blank">70-job-find-websites-for-developers-other-tech-professionals&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=xKOPqWWmxEQ" target="_blank">YouTube - 70+ Websites To Find Developer Jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=EJDZ2L95Sjo" target="_blank">YouTube - I&amp;rsquo;m 47 And Now I Want to be a Programmer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=V71Cv7mjgfI" target="_blank">YouTube - How To Be A Well-Paid Programmer In 1 Year?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c" target="_blank">the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Sites for searching developer job
+&lt;div id="sites-for-searching-developer-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sites-for-searching-developer-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://joblist.app" target="_blank">Joblist.app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://angel.co" target="_blank">AngelList&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://authenticjobs.com" target="_blank">Authentic jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://developersforhire.com" target="_blank">Developers for Hire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://devitjobs.uk" target="_blank">DevITjobs uk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://devitjobs.us" target="_blank">DevITjobs us&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://dice.com" target="_blank">Dice&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://fullstackjob.com" target="_blank">Fullstack Job&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://glassdoor.com" target="_blank">Glassdoor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hired.com" target="_blank">Hired&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://indeed.com" target="_blank">Indeed&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://landing.jobs" target="_blank">Jobs in Europe&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobspresso.co" target="_blank">Jobspresso&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://krop.com" target="_blank">Krop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://linkedIn.com" target="_blank">LinkedIn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobs.mashable.com/jobs" target="_blank">Mashable&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://monster.com" target="_blank">Monster&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://themuse.com/jobs" target="_blank">Muse&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://powertofly.com/jobs" target="_blank">PowerToFly&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://simplyhired.com" target="_blank">Simply Hired&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/jobs" target="_blank">StackOverflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://toptal.com" target="_blank">Toptal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://triplebyte.com" target="_blank">TripleByte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobs.tutsplus.com" target="_blank">Tuts+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Startup job
+&lt;div id="startup-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#startup-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://angel.co/jobs" target="_blank">AngelList&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://producthunt.com/jobs" target="_blank">Product Hunt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://startuphire.com" target="_blank">Startup Hire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://startupers.com" target="_blank">Startupers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://news.ycombinator.com/jobs" target="_blank">YCombinator&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Best places to job hunt for remote jobs:
+&lt;div id="best-places-to-job-hunt-for-remote-jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-places-to-job-hunt-for-remote-jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dailyremote.com" target="_blank">DailyRemote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://flexjobs.com" target="_blank">FlexJobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://frontendremotejobs.com" target="_blank">Front-end remote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://iwantremote.com" target="_blank">IWantRemote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jsremotely.com" target="_blank">JS Remotely&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://justremote.co/remote-developer-jobs" target="_blank">JustRemote&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://outsourcely.com/remote-web-development-jobs" target="_blank">Outsourcely&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pangian.com/job-travel-remote/" target="_blank">Pangian&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://remote.co/remote-jobs/developer/" target="_blank">Remote . co&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remotetalent.co/jobs" target="_blank">Remote Talent&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remoteleads.io" target="_blank">RemoteLeads&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://remoteleaf.com" target="_blank">RemoteLeaf&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remoteok.io/remote-dev-jobs" target="_blank">RemoteOk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://remoters.net/jobs/software-development" target="_blank">Remoters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://remotive.io/remote-jobs/software-dev" target="_blank">Remotive&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sitepoint.com/jobs/" target="_blank">Sitepoint&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/jobs/remote-developer-jobs" target="_blank">Stackoverflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://weworkremotely.com" target="_blank">WeWorkRemotely&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://workingnomads.co/remote-development-jobs" target="_blank">Working Nomads&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">A few places to hunt for ios, react, vue and more
+&lt;div id="a-few-places-to-hunt-for-ios-react-vue-and-more" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-few-places-to-hunt-for-ios-react-vue-and-more" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://iosdevjobs.com" target="_blank">iOS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://reactjobboard.com" target="_blank">React&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vuejobs.com" target="_blank">Vue jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jobs.emberjs.com" target="_blank">Ember&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://python.org/jobs" target="_blank">Python Jobs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Want a list of just JavaScript jobs?
+&lt;div id="want-a-list-of-just-javascript-jobs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#want-a-list-of-just-javascript-jobs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://javascriptjob.xyz" target="_blank">JavaScript job XYZ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jsremotely.com" target="_blank">Javascript remotely&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Are you looking for a junior dev job?
+&lt;div id="are-you-looking-for-a-junior-dev-job" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#are-you-looking-for-a-junior-dev-job" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://jrdevjobs.com" target="_blank">JrDevJobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/jobs/junior-developer-jobs" target="_blank">Stackoverflow Junior jobs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Women focused job boards!
+&lt;div id="women-focused-job-boards" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#women-focused-job-boards" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://womenwhocode.com/jobs" target="_blank">Women Who Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hiretechladies.com" target="_blank">Tech Ladies&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Want a job as a freelance dev? Here&amp;rsquo;s a list
+&lt;div id="want-a-job-as-a-freelance-dev-heres-a-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#want-a-job-as-a-freelance-dev-heres-a-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://freelancer.com/jobs" target="_blank">Freelancer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://upwork.com" target="_blank">Upwork&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://flexjobs.com/jobs" target="_blank">FlexJobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://freelancermap.com" target="_blank">FreelancerMap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://gun.io" target="_blank">Gun io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://guru.com/d/jobs" target="_blank">Guru&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Others
+&lt;div id="others" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#others" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://interviewing.io/" target="_blank">interviewing.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://leetcode.com/" target="_blank">Leetcode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.hackerrank.com/" target="_blank">HackerRank&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://codeforces.com/" target="_blank">CodeForces&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.codechef.com" target="_blank">CodeChef&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderbyte.com/" target="_blank">Coderbyte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.codingame.com/" target="_blank">CodinGame&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://csacademy.com/" target="_blank">Cs Academy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dailycodingproblem.com/" target="_blank">Daily Coding Problem&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://spoj.com/" target="_blank">Spoj&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackerearth.com/" target="_blank">HackerEarth&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.topcoder.com/" target="_blank">TopCoder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codewars.com/" target="_blank">Codewars&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.exercism.io/" target="_blank">Exercism&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codefights.com/" target="_blank">CodeFights&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://projecteuler.net/" target="_blank">Project Euler&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewcake.com/" target="_blank">Interviewcake&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.interviewbit.com/" target="_blank">InterviewBit&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br">uCoder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lintcode.com/" target="_blank">LintCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codecombat.com/" target="_blank">CodeCombat&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Data Science Interview Question Answers</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg" alt="Data Science Interview Question Answers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Data Science Interview Question Answers
+&lt;div id="data-science-interview-question-answers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-science-interview-question-answers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python &amp;amp; Statistics. These questions are related to technology, architectures and solving business problem. &lt;a href="https://drive.google.com/drive/folders/1O9DcVhE5r0lBPpZd8bFjaA0FqPv94Vbm?usp=sharing" target="_blank">This gdrive link&lt;/a> has 51 pdf files which contains the questions and answers.&lt;/p></description></item></channel></rss>

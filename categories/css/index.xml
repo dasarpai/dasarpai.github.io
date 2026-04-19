@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CSS on</title><link>https://dasarpai.github.io/categories/css/</link><description>Recent content in CSS on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/css/index.xml" rel="self" type="application/rss+xml"/><item><title>Choosing Display Type in CSS</title><link>https://dasarpai.github.io/dsblog/choosing-display-type-in-css/</link><pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/choosing-display-type-in-css/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6277-choosing-display-type-in-css.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Choosing Display Type in CSS
+&lt;div id="choosing-display-type-in-css" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#choosing-display-type-in-css" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is display property in HTML container?
+&lt;div id="what-is-display-property-in-html-container" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-display-property-in-html-container" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are many HTML container tags, discussed in &lt;a href="dsblog/html-containers">another article&lt;/a>. But the content inside these container can be rendered in different ways. This is controlled by a property &lt;code>display&lt;/code>. What are the different values of &lt;code>display&lt;/code> property and what is the meaning of those, we will see those in this article.&lt;/p></description></item></channel></rss>

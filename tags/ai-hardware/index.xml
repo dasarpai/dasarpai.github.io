@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Hardware on</title><link>https://dasarpai.github.io/tags/ai-hardware/</link><description>Recent content in AI Hardware on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>Demystifying NVIDIA GPUs</title><link>https://dasarpai.github.io/dsblog/demystify-nvidia-gpus/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/demystify-nvidia-gpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg" alt="Demystifying NVIDIA GPUs" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Demystifying NVIDIA GPUs
+&lt;div id="demystifying-nvidia-gpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#demystifying-nvidia-gpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>NVIDIA has been in the GPU manufacturing business since 1993. They offer hundreds of different types of GPUs for various segments and purposes. For those not in the GPU infrastructure business, it can be confusing to understand even their naming conventions. In this article, I will do my best to help you understand the different types of NVIDIA GPUs and their naming conventions.&lt;/p></description></item><item><title>Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence</title><link>https://dasarpai.github.io/dsblog/shaping-tomorrow-with-ai-nvidia/</link><pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/shaping-tomorrow-with-ai-nvidia/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg" alt="Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence
+&lt;div id="shaping-tomorrow-with-ai-nvidias-innovations-in-graphics-robotics-and-intelligence" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#shaping-tomorrow-with-ai-nvidias-innovations-in-graphics-robotics-and-intelligence" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This article is based on various online resources, including articles and YouTube videos, but is heavily influenced by the NVIDIA CES 2025 Keynote Speech by Jensen Huang.&lt;/p>
+&lt;h2 class="relative group">&lt;strong>What are tokens in AI, and how do they serve as building blocks of intelligence?&lt;/strong>
+&lt;div id="what-are-tokens-in-ai-and-how-do-they-serve-as-building-blocks-of-intelligence" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-tokens-in-ai-and-how-do-they-serve-as-building-blocks-of-intelligence" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In AI, tokens are fundamental units like words or characters that models process to understand and generate human language, serving as the building blocks of intelligence.&lt;/p></description></item><item><title>Exploring Graphics Processing Units (GPUs)</title><link>https://dasarpai.github.io/dsblog/exploring-gpus/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-gpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6188-Exploring-GPUs.jpg" alt="Exploring Graphics Processing Units (GPUs)" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Graphics Processing Units (GPUs)
+&lt;div id="exploring-graphics-processing-units-gpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-graphics-processing-units-gpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Overall Computational Power of GPUs&lt;/strong>
+&lt;div id="overall-computational-power-of-gpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#overall-computational-power-of-gpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>⚡ &lt;strong>Incredible Calculation Speed:&lt;/strong> Modern GPUs can perform tens of trillions of calculations per second (e.g., 36 trillion for Cyberpunk 2077).&lt;/li>
+&lt;li>🌍 &lt;strong>Human Comparison:&lt;/strong> Achieving this manually would require the equivalent of over 4,400 Earths full of people, each doing one calculation every second.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>GPU vs. CPU&lt;/strong>
+&lt;div id="gpu-vs-cpu" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-vs-cpu" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🚢 &lt;strong>Cargo Ship vs. Airplane Analogy:&lt;/strong> GPUs are like cargo ships (massive capacity, slower), and CPUs are like jets (fast, versatile, fewer tasks at once).&lt;/li>
+&lt;li>⚖️ &lt;strong>Different Strengths:&lt;/strong> CPUs handle operating systems, flexible tasks, and fewer but more complex instructions. GPUs excel at huge amounts of simple, repetitive calculations.&lt;/li>
+&lt;li>🔀 &lt;strong>Parallel vs. General Purpose:&lt;/strong> GPUs are less flexible but highly parallel, CPUs are more general-purpose and can run a wide variety of programs and instructions.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>GPU Architecture &amp;amp; Components (GA102 Example)&lt;/strong>
+&lt;div id="gpu-architecture--components-ga102-example" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-architecture--components-ga102-example" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>💽 &lt;strong>Central GPU Die (GA102):&lt;/strong> A large chip with 28.3 billion transistors organized into Graphics Processing Clusters (GPCs), Streaming Multiprocessors (SMs), and cores.&lt;/li>
+&lt;li>🏗️ &lt;strong>Hierarchical Structure:&lt;/strong> GA102 has 7 GPCs → 12 SMs per GPC → 4 Warps per SM → 32 CUDA Per Wrap and 4 Tensor Per Warmp and 1 Ray Tracing Per GPC.&lt;/li>
+&lt;li>🔢 &lt;strong>Types of Cores:&lt;/strong>
+&lt;ul>
+&lt;li>⚙️ CUDA Cores: Handle basic arithmetic (addition, multiplication) most commonly used in gaming.&lt;/li>
+&lt;li>🧩 Tensor Cores: Perform massive matrix calculations for AI and neural networks.&lt;/li>
+&lt;li>💎 Ray Tracing Cores: Specialized for lighting and reflection calculations in real-time graphics.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Manufacturing &amp;amp; Binning&lt;/strong>
+&lt;div id="manufacturing--binning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#manufacturing--binning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔧 &lt;strong>Shared Chip Design:&lt;/strong> Different GPU models (e.g., 3080, 3090, 3090 Ti) share the same GA102 design.&lt;/li>
+&lt;li>🕳️ &lt;strong>Defects &amp;amp; Binning:&lt;/strong> Manufacturing imperfections result in some cores being disabled. This leads to different “tiers” of the same GPU architecture.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>CUDA Core Internals&lt;/strong>
+&lt;div id="cuda-core-internals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cuda-core-internals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>➕ &lt;strong>Simple Calculator Design:&lt;/strong> Each CUDA core is basically a tiny calculator that does fused multiply-add (FMA) and a few other operations.&lt;/li>
+&lt;li>💻 &lt;strong>Common Operations:&lt;/strong> Primarily handles 32-bit floating-point and integer arithmetic. More complex math (division, trignometry) is done by fewer, special function units.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Memory Systems: GDDR6X &amp;amp; GDDR7&lt;/strong>
+&lt;div id="memory-systems-gddr6x--gddr7" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#memory-systems-gddr6x--gddr7" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>💾 &lt;strong>Graphics Memory:&lt;/strong> GDDR6X chips (by Micron) feed terabytes of data per second into the GPU’s thousands of cores.&lt;/li>
+&lt;li>🚀 &lt;strong>High Bandwidth:&lt;/strong> GPU memory operates at huge bandwidths (over 1 terabyte/s) compared to typical CPU memory (~64 GB/s).&lt;/li>
+&lt;li>🔢 &lt;strong>Beyond Binary:&lt;/strong> GDDR6X and GDDR7 use multiple voltage levels (PAM-4 and PAM-3) to encode more data per signal, increasing transfer rates.&lt;/li>
+&lt;li>🏗️ &lt;strong>Future Memory Tech:&lt;/strong> Micron also develops HBM (High Bandwidth Memory) for AI accelerators, stacking memory chips in 3D, greatly boosting capacity and speed while reducing power.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Parallel Computing Concepts (SIMD &amp;amp; SIMT)&lt;/strong>
+&lt;div id="parallel-computing-concepts-simd--simt" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#parallel-computing-concepts-simd--simt" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>♻️ &lt;strong>Embarrassingly Parallel:&lt;/strong> Tasks like graphics rendering, Bitcoin mining, or AI training are easily split into millions of independent calculations.&lt;/li>
+&lt;li>📜 &lt;strong>Single Instruction Multiple Data (SIMD):&lt;/strong> Apply the same instruction to many data points at once—perfect for transforming millions of vertices in a 3D scene.&lt;/li>
+&lt;li>🔓 &lt;strong>From SIMD to SIMT:&lt;/strong> Newer GPUs use Single Instruction Multiple Threads (SIMT), allowing threads to progress independently and handle complex branching more efficiently.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Thread &amp;amp; Warp Organization&lt;/strong>
+&lt;div id="thread--warp-organization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#thread--warp-organization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📦 &lt;strong>Thread Hierarchy:&lt;/strong> Threads → Warps (groups of 32 threads) → Thread Blocks → Grids.&lt;/li>
+&lt;li>🎛️ &lt;strong>Gigathread Engine:&lt;/strong> Manages the allocation of thread blocks to streaming multiprocessors, optimizing parallel processing.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Practical Applications&lt;/strong>
+&lt;div id="practical-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#practical-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🎮 &lt;strong>Video Games:&lt;/strong> GPUs transform coordinates, apply textures, shading, and handle complex rendering pipelines. Millions of identical operations on different vertices and pixels are done in parallel.&lt;/li>
+&lt;li>₿ &lt;strong>Bitcoin Mining:&lt;/strong> GPUs can run the SHA-256 hashing algorithm in parallel many millions of times per second. Though now replaced by ASIC miners, GPUs were initially very efficient at this.&lt;/li>
+&lt;li>🤖 &lt;strong>AI &amp;amp; Neural Networks:&lt;/strong> Tensor cores accelerate matrix multiplications critical for training neural nets and powering generative AI.&lt;/li>
+&lt;li>💡 &lt;strong>Ray Tracing:&lt;/strong> Specialized cores handle ray tracing calculations for realistic lighting and reflections in real-time graphics.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Micron’s Role &amp;amp; Advancements&lt;/strong>
+&lt;div id="microns-role--advancements" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#microns-role--advancements" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🏭 &lt;strong>Micron Memory Chips:&lt;/strong> GDDR6X and future GDDR7 designed by Micron power high-speed data transfers on GPUs.&lt;/li>
+&lt;li>🔮 &lt;strong>Innovations in Memory:&lt;/strong> High Bandwidth Memory (HBM) for AI chips stacks DRAM vertically, creating high-capacity, high-throughput solutions at lower energy costs.&lt;/li>
+&lt;li>📚 &lt;strong>Technological Marvel:&lt;/strong> Modern graphics cards are a blend of advanced materials, clever architectures, and innovative manufacturing. They enable astonishing levels of visual realism, parallel computation, and AI capabilities.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=h9Z4oGN89MU" target="_blank">How do Graphics Cards Work? Exploring GPU Architecture&lt;/a>&lt;/p></description></item><item><title>Introduction to NVIDIA and Products</title><link>https://dasarpai.github.io/dsblog/introduction-nvidia-products/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-nvidia-products/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg" alt="Introduction-NVIDIA-Products" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">NVIDIA Timeline
+&lt;div id="nvidia-timeline" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#nvidia-timeline" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>NVIDIA Corporation has an illustrious history since its founding in 1993. It started as a graphics processing pioneer and has grown into a global leader in AI, gaming, data center technologies, and more. Here&amp;rsquo;s a timeline of key milestones and activities:&lt;/p>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>1993-1999: Founding and Early Innovations&lt;/strong>
+&lt;div id="1993-1999-founding-and-early-innovations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1993-1999-founding-and-early-innovations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>1993:&lt;/strong> NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in Santa Clara, California, with a focus on graphics processing.&lt;/li>
+&lt;li>&lt;strong>1995:&lt;/strong> Launched the &lt;strong>NV1&lt;/strong>, the company’s first graphics chip, which supported both 2D and 3D graphics.&lt;/li>
+&lt;li>&lt;strong>1999:&lt;/strong> Introduced the &lt;strong>GeForce 256&lt;/strong>, the world&amp;rsquo;s first GPU, which revolutionized graphics processing by offloading 3D rendering tasks from the CPU.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>2000-2009: Expanding into Gaming and Professional Graphics&lt;/strong>
+&lt;div id="2000-2009-expanding-into-gaming-and-professional-graphics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2000-2009-expanding-into-gaming-and-professional-graphics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>2000:&lt;/strong> NVIDIA acquired 3dfx, a leading graphics company, consolidating its dominance in the GPU market.&lt;/li>
+&lt;li>&lt;strong>2002:&lt;/strong> Released the &lt;strong>GeForce4&lt;/strong> series, establishing itself as a leader in gaming GPUs.&lt;/li>
+&lt;li>&lt;strong>2004:&lt;/strong> Entered the professional graphics market with the &lt;strong>Quadro FX&lt;/strong> series.&lt;/li>
+&lt;li>&lt;strong>2006:&lt;/strong> Launched &lt;strong>CUDA&lt;/strong>, a parallel computing platform enabling developers to use NVIDIA GPUs for general-purpose computing.&lt;/li>
+&lt;li>&lt;strong>2008:&lt;/strong> Introduced the &lt;strong>Tesla series&lt;/strong>, targeting high-performance computing (HPC) and AI research.&lt;/li>
+&lt;/ul>
+&lt;h4 class="relative group">Fun Fact:
+&lt;div id="fun-fact" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#fun-fact" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>Tesla, Inc. (originally Tesla Motors), founded in 2003, is named after Nikola Tesla as well, acknowledging his contributions to electrical systems. Interestingly, NVIDIA and Tesla, Inc. later had a professional relationship. NVIDIA GPUs were used in Tesla&amp;rsquo;s early Autopilot systems, although Tesla later transitioned to building its own custom AI chips.&lt;/p></description></item><item><title>GPU for Data Science Work</title><link>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</link><pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg" alt="GPU for Data Science Work" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">GPU for Data Science Work
+&lt;div id="gpu-for-data-science-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-for-data-science-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between microprocessor (CPU) and GPU?
+&lt;div id="what-is-the-difference-between-microprocessor-cpu-and-gpu" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-microprocessor-cpu-and-gpu" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.&lt;/p></description></item></channel></rss>

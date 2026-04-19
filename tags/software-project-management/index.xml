@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Project Management on</title><link>https://dasarpai.github.io/tags/software-project-management/</link><description>Recent content in Software Project Management on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/software-project-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Function Point Analysis</title><link>https://dasarpai.github.io/management/fpa/</link><pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/management/fpa/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmlogy/pmc526-fpa.jpg" alt="FPA" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Function Point Analysis
+&lt;div id="function-point-analysis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#function-point-analysis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>About Course&lt;/strong>&lt;/p>
+&lt;p>Measurement is the basis of Management. It is easy to measure physical things because of their scale for measurement, unit of measurement, the technique of measurement exists and people know them either intuitively or there is a training available. But measuring the size of the software is always a challenge for anybody including project sponsors, project managers, project team, vendors, and regulators. In the last 6 decades, many techniques have been developed but each technique has its own limitation and complexity. Function Point Analysis (FPA) is one of the widely known, accepted, and used techniques for software size measurement. This two days workshop helps participants in understanding different components of software estimation, techniques of estimation, and how to apply this technique to various types of software projects like new product development, supporting a legacy application, enhancing new features in an n-tier architecture banking application, etc.&lt;/p></description></item></channel></rss>

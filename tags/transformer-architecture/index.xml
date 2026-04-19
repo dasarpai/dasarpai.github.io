@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transformer Architecture on</title><link>https://dasarpai.github.io/tags/transformer-architecture/</link><description>Recent content in Transformer Architecture on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/transformer-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Imperialism: Western Dominance and the Future of Global Technology</title><link>https://dasarpai.github.io/dsblog/ai-imperialism/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-imperialism/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6191-AI-Imperialism.jpg" alt="AI Imperialism" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Imperialism: Western Dominance and the Future of Global Technology
+&lt;div id="ai-imperialism-western-dominance-and-the-future-of-global-technology" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-imperialism-western-dominance-and-the-future-of-global-technology" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In the rapidly evolving landscape of artificial intelligence (AI), the emergence of transformer models has marked a significant milestone. Among these, OpenAI&amp;rsquo;s GPT-3 stands out as a groundbreaking achievement, yet its dominance raises critical questions about the concentration of power, legal ambiguities, and global technological equity. This article delves into the phenomenon of AI imperialism, exploring how Western dominance shapes the future of global technology and the implications for developing nations.&lt;/p></description></item><item><title>Visualizing Transformers and Attention</title><link>https://dasarpai.github.io/dsblog/visualizing-transformers-and-attention/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/visualizing-transformers-and-attention/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg" alt="Visualizing transformers and attention" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Visualizing Transformers and Attention
+&lt;div id="visualizing-transformers-and-attention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#visualizing-transformers-and-attention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href="https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide">here&lt;/a>&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Transformers and Their Flexibility&lt;/strong>
+&lt;div id="transformers-and-their-flexibility" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-and-their-flexibility" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📜 &lt;strong>Origin:&lt;/strong> Introduced in 2017 in the &amp;ldquo;Attention is All You Need&amp;rdquo; paper, originally for machine translation.&lt;/li>
+&lt;li>🌍 &lt;strong>Applications Beyond Translation:&lt;/strong> Used in transcription (e.g., Whisper), text-to-speech, and even image classification.&lt;/li>
+&lt;li>🤖 &lt;strong>Chatbot Models:&lt;/strong> Focused on models trained to predict the next token in a sequence, generating text iteratively one token at a time.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Next Token Prediction and Creativity&lt;/strong>
+&lt;div id="next-token-prediction-and-creativity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#next-token-prediction-and-creativity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔮 &lt;strong>Prediction Process:&lt;/strong> Predicts probabilities for possible next tokens, selects one, and repeats the process.&lt;/li>
+&lt;li>🌡️ &lt;strong>Temperature Control:&lt;/strong> Adjusting randomness in token selection affects creativity vs. predictability in outputs.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Tokens and Tokenization&lt;/strong>
+&lt;div id="tokens-and-tokenization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tokens-and-tokenization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🧩 &lt;strong>What are Tokens?&lt;/strong> Subdivisions of input data (words, subwords, punctuation, or image patches).&lt;/li>
+&lt;li>🔡 &lt;strong>Why Not Characters?&lt;/strong> Using characters increases context size and computational complexity; tokens balance meaning and computational efficiency.&lt;/li>
+&lt;li>📖 &lt;strong>Byte Pair Encoding (BPE):&lt;/strong> A common method for tokenization.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Embedding Tokens into Vectors&lt;/strong>
+&lt;div id="embedding-tokens-into-vectors" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-tokens-into-vectors" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📏 &lt;strong>Embedding:&lt;/strong> Tokens are mapped to high-dimensional vectors representing their meaning.&lt;/li>
+&lt;li>🗺️ &lt;strong>Contextual Meaning:&lt;/strong> Vectors evolve through the network to capture context, disambiguate meaning, and encode relationships.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>The Attention Mechanism&lt;/strong>
+&lt;div id="the-attention-mechanism" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-attention-mechanism" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔍 &lt;strong>Purpose:&lt;/strong> Enables tokens to &amp;ldquo;attend&amp;rdquo; to others, updating their vectors based on relevance.&lt;/li>
+&lt;li>🔑 &lt;strong>Key Components:&lt;/strong>
+&lt;ul>
+&lt;li>Query Matrix: Encodes what a token is &amp;ldquo;looking for.&amp;rdquo;&lt;/li>
+&lt;li>Key Matrix: Encodes how a token responds to queries.&lt;/li>
+&lt;li>Value Matrix: Encodes information passed between tokens.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🧮 &lt;strong>Calculations:&lt;/strong>
+&lt;ul>
+&lt;li>Dot Product: Measures alignment between keys and queries.&lt;/li>
+&lt;li>Softmax: Converts dot products into normalized weights for updates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>⛓️ &lt;strong>Masked Attention:&lt;/strong> Ensures causality by blocking future tokens from influencing past ones.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Multi-Headed Attention&lt;/strong>
+&lt;div id="multi-headed-attention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multi-headed-attention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>💡 &lt;strong>Parallel Heads:&lt;/strong> Multiple attention heads allow different types of relationships (e.g., grammar, semantic context) to be processed simultaneously.&lt;/li>
+&lt;li>🚀 &lt;strong>Efficiency on GPUs:&lt;/strong> Designed to maximize parallelization for faster computation.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Multi-Layer Perceptrons (MLPs)&lt;/strong>
+&lt;div id="multi-layer-perceptrons-mlps" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multi-layer-perceptrons-mlps" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🤔 &lt;strong>Role in Transformers:&lt;/strong>
+&lt;ul>
+&lt;li>Add capacity for general knowledge and non-contextual reasoning.&lt;/li>
+&lt;li>Store facts learned during training, e.g., associations like &amp;ldquo;Michael Jordan plays basketball.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🔢 &lt;strong>Parameters:&lt;/strong> MLPs hold the majority of the model’s parameters.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Training Transformers&lt;/strong>
+&lt;div id="training-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#training-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📚 &lt;strong>Learning Framework:&lt;/strong>
+&lt;ul>
+&lt;li>Models are trained on vast datasets using next-token prediction, requiring no manual labels.&lt;/li>
+&lt;li>&lt;strong>Cost Function:&lt;/strong> Measures prediction accuracy using negative log probabilities, guiding parameter updates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🏔️ &lt;strong>Optimization:&lt;/strong> Gradient descent navigates a high-dimensional cost surface to minimize error.&lt;/li>
+&lt;li>🌐 &lt;strong>Pretraining:&lt;/strong> Allows large-scale unsupervised learning before fine-tuning with human feedback.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Embedding Space and High Dimensions&lt;/strong>
+&lt;div id="embedding-space-and-high-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-space-and-high-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔄 &lt;strong>Semantic Clusters:&lt;/strong> Similar words cluster together; directions in the space encode relationships (e.g., gender: King - Male + Female = Queen).&lt;/li>
+&lt;li>🌌 &lt;strong>High Dimensionality:&lt;/strong> Embedding spaces have thousands of dimensions, enabling distinct representations of complex concepts.&lt;/li>
+&lt;li>📈 &lt;strong>Scaling Efficiency:&lt;/strong> High-dimensional spaces allow exponentially more &amp;ldquo;almost orthogonal&amp;rdquo; directions for encoding meanings.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Practical Applications&lt;/strong>
+&lt;div id="practical-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#practical-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>✍️ &lt;strong>Language Models:&lt;/strong> Effective for chatbots, summarization, and more due to their generality and parallel processing.&lt;/li>
+&lt;li>🖼️ &lt;strong>Multimodal Models:&lt;/strong> Transformers can integrate text, images, and sound by treating all as tokens in a unified framework.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Challenges and Limitations&lt;/strong>
+&lt;div id="challenges-and-limitations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#challenges-and-limitations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📏 &lt;strong>Context Size Limitations:&lt;/strong> Attention grows quadratically with context size, requiring optimization for large contexts.&lt;/li>
+&lt;li>♻️ &lt;strong>Inference Redundancy:&lt;/strong> Token-by-token generation can involve redundant computations; caching mitigates this at inference time.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Engineering and Design&lt;/strong>
+&lt;div id="engineering-and-design" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#engineering-and-design" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🛠️ &lt;strong>Hardware Optimization:&lt;/strong> Transformers are designed to exploit GPUs&amp;rsquo; parallelism for efficient matrix multiplication.&lt;/li>
+&lt;li>🔗 &lt;strong>Residual Connections:&lt;/strong> Baked into the architecture to enhance stability and ease of training.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>The Power of Scale&lt;/strong>
+&lt;div id="the-power-of-scale" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-power-of-scale" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📈 &lt;strong>Scaling Laws:&lt;/strong> Larger models and more data improve performance, often qualitatively.&lt;/li>
+&lt;li>🔄 &lt;strong>Self-Supervised Pretraining:&lt;/strong> Enables training on vast unlabeled datasets before fine-tuning.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>BPE (Byte Pair Encoding)&lt;/strong>
+&lt;div id="bpe-byte-pair-encoding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bpe-byte-pair-encoding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>BPE is a widely used tokenization method in natural language processing (NLP) and machine learning. It is designed to balance between breaking text into characters and full words by representing text as a sequence of subword units. This approach helps models handle rare and unseen words effectively while keeping the vocabulary size manageable.&lt;/p></description></item><item><title>Transformers Demystified A Step-by-Step Guide</title><link>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</link><pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg" alt="Transformers Demystified A Step-by-Step Guide" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transformers Demystified A Step-by-Step Guide
+&lt;div id="transformers-demystified-a-step-by-step-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-demystified-a-step-by-step-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>All modern Transformers are based on a paper &amp;ldquo;Attention is all you need&amp;rdquo;&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This was the mother paper of all the transformer architectures we see today around NLP, Multimodal, Deep Learning. It was presented by Ashish Vaswani et al from Deep Learning / Google in 2017. We will discuss following and anything whatever question/observation/idea I have.&lt;/p></description></item><item><title>Important AI Paper List</title><link>https://dasarpai.github.io/dsblog/select-ai-papers/</link><pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/select-ai-papers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg" alt="Important AI Paper List" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Important AI Paper List
+&lt;div id="important-ai-paper-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#important-ai-paper-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduciton
+&lt;div id="introduciton" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduciton" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In almost all citations it becomes very difficult to read the title of research papers. Why? Because the contributors&amp;rsquo; information is first and most of the time, it is difficult to read the name other than native people. For example, if an Indian find a native name like &amp;ldquo;Vivek Ramaswami, Kartikeyan Karunanidhi&amp;rdquo; it is easy for them to read the name but the same name becomes difficult to read for non-Indian people, and vice-versa. Giving respect to the creator is very important but more than we need to know what have they done. I know from my experience, for almost every researcher, it becomes very difficult to track good AI research papers. For me, it is more difficult because I need to maintain this blog and I want to give references to the work across different webpages. Therefore I am creating a citation key, which includes the Last name of the first researcher + year of presenting that paper. Along with this, I am describing the title of the paper and where it was presented. If you find a particular title interesting for your work you can search that paper on &amp;ldquo;google scholar&amp;rdquo;, Mendeley, sci-hub or other places with which you are familiar and comfortable. Post that you can download and read that paper at your leisure. Hope you find this list of some use for your work.&lt;/p></description></item><item><title>What is LLM</title><link>https://dasarpai.github.io/dsblog/what-is-llm/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6087-What-is-LLM.jpg" alt="What is LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Large Language Model
+&lt;div id="what-is-large-language-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-large-language-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM stands for &lt;strong>Large Language Model&lt;/strong>. It is a type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. This allows LLMs to learn the statistical relationships between words and phrases, and to generate text that is similar to the text that they were trained on.&lt;/p></description></item><item><title>GPT Usecases</title><link>https://dasarpai.github.io/dsblog/gpt-usecases/</link><pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/gpt-usecases/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6020-GPT-Usecases.jpg" alt="GPT Usecases" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GPT?
+&lt;div id="what-is-gpt" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gpt" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>GPT is a transformer. Don&amp;rsquo;t confuse it with your electricity transformer! In Artificial Intelligence there are different kinds of neural network architectures to perform various tasks like classification, translation, segmentation, regression, etc. One of those architectures is transformer architecture. The Foundation of this architecture is based on another two architectures called encoder architecture and decoder architecture. There are lots of other technical complexity but for the business readers I am hiding that for that the time being, we will discuss that at some other place. In nutshell, GPT is a Transformer technology developed by OpenAI and it can perform several NLP tasks. NLP stands for natural language preprocessing. NLP tasks mean tasks like sentiment analysis of the text, text classification, topic modeling, translation, named entity recognition, and dozens of other tasks.&lt;/p></description></item><item><title>What Are Transformers in AI</title><link>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg" alt="What-are-Transformers-in-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Are Transformers in AI
+&lt;div id="what-are-transformers-in-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-transformers-in-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Transformer Architecture
+&lt;div id="transformer-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformer-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/transformer/transformer-arch.jpg" alt="Transformer" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item></channel></rss>

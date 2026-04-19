@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Version Control on</title><link>https://dasarpai.github.io/tags/version-control/</link><description>Recent content in Version Control on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/version-control/index.xml" rel="self" type="application/rss+xml"/><item><title>Working with GitHub from WSL and Windows Folders</title><link>https://dasarpai.github.io/dsblog/working-with-github-from-wsl-and-windows-folders/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/working-with-github-from-wsl-and-windows-folders/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg" alt="Working with GitHub from WSL and Windows Folders" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Problem Statement:
+&lt;div id="problem-statement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#problem-statement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>I have project in D:\github-blog\dasarpai-websitetest. This is also a github repo. It&amp;rsquo;s remote repo is &lt;a href="https://github.com/dasarpai/dasarpai-websitetest" target="_blank">https://github.com/dasarpai/dasarpai-websitetest&lt;/a>. I have github desktop for windows 11 installed on my machine. Sometime I push/pull files in github repo using this github desktop. I have Visual Code IDE installed on my windows 11 machine and I also visual code IDE on my machine&amp;rsquo;s wsl.&lt;/p></description></item><item><title>Exploring Github</title><link>https://dasarpai.github.io/dsblog/exploring-github/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-github/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6142-Exploring-Github.jpg" alt="Exploring Github" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Github
+&lt;div id="exploring-github" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-github" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Question: What is github package and what can I do with this?
+&lt;div id="question-what-is-github-package-and-what-can-i-do-with-this" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-what-is-github-package-and-what-can-i-do-with-this" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>GitHub Packages is a service that allows you to host and manage packages (e.g., code libraries, Docker containers) within GitHub. Here&amp;rsquo;s a breakdown of what you can do or achieve with GitHub Packages:&lt;/p></description></item></channel></rss>

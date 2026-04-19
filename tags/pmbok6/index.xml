@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PMBOK6 on</title><link>https://dasarpai.github.io/tags/pmbok6/</link><description>Recent content in PMBOK6 on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 15 Feb 2018 03:38:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/pmbok6/index.xml" rel="self" type="application/rss+xml"/><item><title>PMBOK 6 Processes</title><link>https://dasarpai.github.io/pmblog/pmbok-6-processes/</link><pubDate>Thu, 15 Feb 2018 03:38:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/pmbok-6-processes/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1033-PMBOK6.jpg" alt="PMBOK 6 Processes" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">PMBOK 6 Processes &amp;amp; Process Groups
+&lt;div id="pmbok-6-processes--process-groups" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pmbok-6-processes--process-groups" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Project Management Body of Knowledge 6th Edition has 49 processes, across 10 knowledge areas and 5 process groups. How these 49 processes are distributed across different knowledge areas and process groups can be visualized from the tabl below.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Integration Management&lt;/th>
+&lt;th>Initiating&lt;/th>
+&lt;th>[glossary slug=’Develop-Project-Charter’]Develop Project Charter[/glossary]&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Develop-Project-Management-Plan’]Develop Project Management Plan[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Direct-and-Manage-Project-Work’]Direct and Manage Project Work[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Manage-Project-Knowledge’]Manage Project Knowledge[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Monitor-and-Control-Project-Work’]Monitor and Control Project Work[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Perform-Integrated-Change-Control’]Perform Integrated Change Control[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Closing&lt;/td>
+&lt;td>[glossary slug=’Close-Project-or-Phase’]Close Project or Phase[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Scope Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Collect-Requirements’]Collect Requirements[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Create-WBS’]Create WBS[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Define-Scope’]Define Scope[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Plan-Scope-Management’]Plan Scope Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Control-Scope’]Control Scope[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Validate-Scope’]Validate Scope[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Schedule Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Define-Activities’]Define Activities[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Develop-Schedule’]Develop Schedule[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Estimate-Activity-Durations’]Estimate Activity Durations[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Plan-Schedule-Management’]Plan Schedule Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Sequence-Activities’]Sequence Activities[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Control-Schedule’]Control Schedule[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cost Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Estimate-Costs’]Estimate Costs[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Determine-Budget’]Determine Budget[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Plan-Cost-Management’]Plan Cost Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Control-Costs’]Control Costs[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Quality Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Plan-Quality-Management’]Plan Quality Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Manage-Quality’]Manage Quality[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Control-Quality’]Control Quality[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Resource Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Estimate-Activity-Resources’]Estimate Activity Resources[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Plan-Resource-Management’]Plan Resource Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Acquire-Resources’]Acquire Resources[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Develop-Team’]Develop Team[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Manage-Team’]Manage Team[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Control-Resources’]Control Resources[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Communication Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Plan-Communications-Management’]Plan Communications Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Manage-Communications’]Manage Communications[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Monitor-Communications’]Monitor Communications[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Risk Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Identify-Risks’]Identify Risks[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Perform-Qualitative-Risk-Analysis’]Perform Qualitative Risk Analysis[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Perform-Quantitative-Risk-Analysis’]Perform Quantitative Risk Analysis[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Plan-Risk-Management’]Plan Risk Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’Plan-Risk-Responses’]Plan Risk Responses[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Implement-Risk-Responses’]Implement Risk Responses[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Monitor-Risks’]Monitor Risks[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Procurement Management&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Plan-Procurement-Management’]Plan Procurement Management[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Conduct-Procurements’]Conduct Procurements[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Control-Procurements’]Control Procurements[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stakeholder Management&lt;/td>
+&lt;td>Initiating&lt;/td>
+&lt;td>[glossary slug=’Identify-Stakeholders’]Identify Stakeholders[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Planning&lt;/td>
+&lt;td>[glossary slug=’Plan-Stakeholder-Engagement’]Plan Stakeholder Engagement[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Executing&lt;/td>
+&lt;td>[glossary slug=’Manage-Stakeholder-Engagement’]Manage Stakeholder Engagement[/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Monitoring and Controlling&lt;/td>
+&lt;td>[glossary slug=’Monitor-Stakeholder-Engagement’]Monitor Stakeholder Engagement[/glossary]&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>This Summary Process Table is based on PMBOK 6th Edition.&lt;/p></description></item></channel></rss>

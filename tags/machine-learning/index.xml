@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning on</title><link>https://dasarpai.github.io/tags/machine-learning/</link><description>Recent content in Machine Learning on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Train Tensorflow Lite Models for Android</title><link>https://dasarpai.github.io/dscourses/building-and-deploying-generative-ai-with-amazon-bedrock/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/building-and-deploying-generative-ai-with-amazon-bedrock/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg" alt="Building and Deploying Generative AI with Amazon Bedrock" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Building and Deploying Generative AI with Amazon Bedrock
+&lt;div id="building-and-deploying-generative-ai-with-amazon-bedrock" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-and-deploying-generative-ai-with-amazon-bedrock" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Course Objective&lt;/strong>
+&lt;div id="course-objective" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-objective" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This hands-on Amazon Bedrock workshop is designed to equip participants with in-depth knowledge and practical skills to harness the power of Amazon Bedrock for generative AI applications. Over the course of 2-3 days, participants will gain a foundational understanding of Bedrock&amp;rsquo;s services, learn to configure and integrate its APIs, and customize models to meet specific use cases. By the end of the workshop, participants will be able to build, deploy, and scale generative AI models, applying best practices for performance and cost-efficiency in real-world scenarios.&lt;/p></description></item><item><title>Design for Cloud Computing with GCP</title><link>https://dasarpai.github.io/dscourses/design-for-cloud-computing-with-gcp/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/design-for-cloud-computing-with-gcp/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg" alt="Design for Cloud Computing with GCP" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Design for Cloud Computing with GCP
+&lt;div id="design-for-cloud-computing-with-gcp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#design-for-cloud-computing-with-gcp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Duration: 4 weeks : - 20 Days&lt;/p>
+&lt;h2 class="relative group">Pre-requisites:
+&lt;div id="pre-requisites" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pre-requisites" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>• Basic Understanding of Cloud Computing
+• Fundamentals of IT and Networking
+• Knowledge on Application development
+• Basic understanding of Linux and Command Line
+• Familiarity with DevOps concepts
+• Familiarity with Git&lt;/p></description></item><item><title>Train Tensorflow Lite Models for Android</title><link>https://dasarpai.github.io/dscourses/train-tensorflow-lite-models-for-android/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/train-tensorflow-lite-models-for-android/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg" alt="Train Tensorflow Lite Models for Android" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Train Tensorflow Lite Models for Android
+&lt;div id="train-tensorflow-lite-models-for-android" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#train-tensorflow-lite-models-for-android" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Course Overview:&lt;/strong>
+&lt;div id="course-overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>We&amp;rsquo;ll begin by exploring the basics of Machine Learning and its various types, and then dive into the world of deep learning and artificial neural networks, which will serve as the foundation for training our machine learning models for Android.&lt;/p></description></item><item><title>RDBMS</title><link>https://dasarpai.github.io/dscourses/rdbms/</link><pubDate>Thu, 30 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/rdbms/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc316-RDBMS.jpg" alt="RDBMS" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Relational Database Management Systems (RDBMS)
+&lt;div id="relational-database-management-systems-rdbms" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#relational-database-management-systems-rdbms" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this course is as below. This is 60 hours course, it is suggested to complete this course in 1 month.&lt;/p>
+&lt;h2 class="relative group">An introduction to Database
+&lt;div id="an-introduction-to-database" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#an-introduction-to-database" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction Database&lt;/li>
+&lt;li>RDBMS&lt;/li>
+&lt;li>SQL Database&lt;/li>
+&lt;li>No-SQL Databases&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Basics of SQL
+&lt;div id="basics-of-sql" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-sql" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Data Retrieval with SQL&lt;/li>
+&lt;li>Compound Functions and Relational Operators&lt;/li>
+&lt;li>Pattern Matching with Wildcards&lt;/li>
+&lt;li>Basics of Sorting&lt;/li>
+&lt;li>Session Summary&lt;/li>
+&lt;li>Order by Clause&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Advanced SQL
+&lt;div id="advanced-sql" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#advanced-sql" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Aggregate Functions&lt;/li>
+&lt;li>Group by Clause &lt;/li>
+&lt;li>Having Clause&lt;/li>
+&lt;li>Nested Queries&lt;/li>
+&lt;li>Inner Join&lt;/li>
+&lt;li>Multi Join&lt;/li>
+&lt;li>Outer Join&lt;/li>
+&lt;li>Summary&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Database design
+&lt;div id="database-design" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#database-design" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Defining Data Warehouse&lt;/li>
+&lt;li>Structure of Data Warehouse&lt;/li>
+&lt;li>OLAP vs. OLTP&lt;/li>
+&lt;li>Star Schema&lt;/li>
+&lt;li>How to Use a Star Schema – A Demonstration&lt;/li>
+&lt;li>Data Warehouse Schema- Industry Example&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Updating Table
+&lt;div id="updating-table" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#updating-table" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Adding and Deleting Columns&lt;/li>
+&lt;li>Changing Column Name and Data Type&lt;/li>
+&lt;li>Creating Table from existing table&lt;/li>
+&lt;li>Changing Constraints (Primary key)&lt;/li>
+&lt;li>Changing Constraints (Foreign key)&lt;/li>
+&lt;li>String Manipulation&lt;/li>
+&lt;li>Date Manipulation&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Window Functions
+&lt;div id="window-functions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#window-functions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Introduction to Windowing Functions&lt;/li>
+&lt;li>Frames&lt;/li>
+&lt;li>Named Windows&lt;/li>
+&lt;li>Window Functions’ Restrictions&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">User Defined Functions and Stored Procedures
+&lt;div id="user-defined-functions-and-stored-procedures" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#user-defined-functions-and-stored-procedures" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Introduction to User defined Functions&lt;/li>
+&lt;li>User defined functions (Application)&lt;/li>
+&lt;li>Introduction to Stored Procedures&lt;/li>
+&lt;li>Stored Procedures (Application)&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Query Optimisation
+&lt;div id="query-optimisation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#query-optimisation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Optimisation in Select Clause&lt;/li>
+&lt;li>Optimisation in Where Clause&lt;/li>
+&lt;li>Optimisation in Group by and Order by&lt;/li>
+&lt;li>Optimisation in Joins&lt;/li>
+&lt;li>Optimisation in Window Function&lt;/li>
+&lt;/ul></description></item><item><title>Big Data</title><link>https://dasarpai.github.io/dscourses/big-data/</link><pubDate>Wed, 29 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/big-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc315-Big-Data.jpg" alt="Big Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Big Data Analytics
+&lt;div id="big-data-analytics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#big-data-analytics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Big Data Systems
+&lt;div id="big-data-systems" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#big-data-systems" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>What is Big Data&lt;/li>
+&lt;li>Data Warehouse, Data Lakes&lt;/li>
+&lt;li>Hadoop – Components&lt;/li>
+&lt;li>Storage – HDFS, Hbase&lt;/li>
+&lt;li>Resource Manager (MapReduce, YARN)&lt;/li>
+&lt;li>Types of data formats (JSON, ORC, Parquet, AVRO)&lt;/li>
+&lt;li>Scripting  (Hive, Pig)&lt;/li>
+&lt;li>Stream Processing&lt;/li>
+&lt;li>Massive Parallel Processing (Spark, Imapala, Mahout)&lt;/li>
+&lt;li>RDDs in Spark&lt;/li>
+&lt;li>Data Migration (Scoop/ Flume)&lt;/li>
+&lt;li>Schedular (Oozie)&lt;/li>
+&lt;li>Resource Negotiator (Zookeeper)&lt;/li>
+&lt;li>RDBMS Database&lt;/li>
+&lt;li>Columnar Database&lt;/li>
+&lt;li>Multimodel Database&lt;/li>
+&lt;li>NoSQL (HBase, Cassandra, MongoDB, DynamoDB)&lt;/li>
+&lt;li>RDBMS (MySQL, PostgreSQL)&lt;/li>
+&lt;li>CosmoDB&lt;/li>
+&lt;li>In memory database (Redis)&lt;/li>
+&lt;li>Spark SQL&lt;/li>
+&lt;li>Case Study&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Stream Processing &amp;amp; Analytics
+&lt;div id="stream-processing--analytics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#stream-processing--analytics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Real Time Streaming Architecture&lt;/li>
+&lt;li>Service Configuration and Coordination&lt;/li>
+&lt;li>Data Flow Management, Storing and Processing Streaming Data&lt;/li>
+&lt;li>Visualization Techniques for Real Time Streaming Data&lt;/li>
+&lt;li>Aggregation (Timed Counting, Multi Resolution Time Series Aggregation)&lt;/li>
+&lt;li>Statistical Approximation&lt;/li>
+&lt;li>Approximating with sketches&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">PySpark
+&lt;div id="pyspark" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pyspark" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Overview &amp;amp; Installation.&lt;/li>
+&lt;li>RDD&lt;/li>
+&lt;li>Dataframe.&lt;/li>
+&lt;li>Architecture.&lt;/li>
+&lt;li>MLLib&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Linear regression&lt;/li>
+&lt;li>Logistic regression&lt;/li>
+&lt;li>Decision tree&lt;/li>
+&lt;li>Naive Bayes&lt;/li>
+&lt;li>XGBoost&lt;/li>
+&lt;li>Timeseries&lt;/li>
+&lt;li>Spark Job automation with Scheduler&lt;/li>
+&lt;li>NYC Parking Case Study: Apache Spark&lt;/li>
+&lt;/ol></description></item><item><title>Tableau</title><link>https://dasarpai.github.io/dscourses/tableau/</link><pubDate>Tue, 28 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/tableau/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc314-Tableau.jpg" alt="Tableau" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Tableau Course
+&lt;div id="tableau-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tableau-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this Tableau course is as below. This is 16 hours course, it is suggested to complete this course in 1 week.&lt;/p>
+&lt;h2 class="relative group">Basic Visualization using Tableau
+&lt;div id="basic-visualization-using-tableau" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basic-visualization-using-tableau" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction to Tableau&lt;/li>
+&lt;li>Introduction to UI Interface&lt;/li>
+&lt;li>What is Data Analytics?&lt;/li>
+&lt;li>Why Data Visualization?&lt;/li>
+&lt;li>Why Tableau?&lt;/li>
+&lt;li>Tableau vs Excel and Power BI&lt;/li>
+&lt;li>Exploratory vs Explanatory Analysis&lt;/li>
+&lt;li>Getting Started with Tableau&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Introduction and installation
+&lt;div id="introduction-and-installation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-and-installation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Dashboarding &amp;amp; storytelling using Tableau&lt;/li>
+&lt;li>Talking about Business Intelligence&lt;/li>
+&lt;li>Tools and Methodologies used in BI&lt;/li>
+&lt;li>Why Visualization is getting more popular&lt;/li>
+&lt;li>Tableau Products&lt;/li>
+&lt;li>Tableau Architecture&lt;/li>
+&lt;li>BI Project Execution&lt;/li>
+&lt;li>Tableau Installation in local system&lt;/li>
+&lt;li>Introduction to Tableau Prep&lt;/li>
+&lt;li>Tableau Prep Builder User Interface&lt;/li>
+&lt;li>Data Preparation techniques using Tableau Prep Builder tool&lt;/li>
+&lt;li>How to connect Tableau with different data source&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Visualizing and Analyzing Data with Tableau
+&lt;div id="visualizing-and-analyzing-data-with-tableau" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#visualizing-and-analyzing-data-with-tableau" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Bar Charts&lt;/li>
+&lt;li>Line Charts and Filters&lt;/li>
+&lt;li>Area Charts&lt;/li>
+&lt;li>Box Plots and Pivoting&lt;/li>
+&lt;li>Maps and Hierarchies&lt;/li>
+&lt;li>Pie Charts&lt;/li>
+&lt;li>Treemaps and Grouping&lt;/li>
+&lt;li>Dashboards – I&lt;/li>
+&lt;li>Visual Segments&lt;/li>
+&lt;li>Visual Analytics in depth&lt;/li>
+&lt;li>Filters, Parameters &amp;amp; Sets&lt;/li>
+&lt;li>Tableau Calculations using functions&lt;/li>
+&lt;li>Tableau Joins&lt;/li>
+&lt;li>Working with multiple data source (Data Blending)&lt;/li>
+&lt;li>Building Predictive Models&lt;/li>
+&lt;li>Dynamic Dashboards and Stories&lt;/li>
+&lt;li>Sharing your Reports&lt;/li>
+&lt;li>Tableau Server&lt;/li>
+&lt;li>User Security&lt;/li>
+&lt;li>Scheduling&lt;/li>
+&lt;li>Joins and Splits&lt;/li>
+&lt;li>Numeric and String Functions&lt;/li>
+&lt;li>Logical and Date Functions&lt;/li>
+&lt;li>Histograms and Parameters&lt;/li>
+&lt;li>Scatter Plots&lt;/li>
+&lt;li>Dual Axis Charts&lt;/li>
+&lt;li>Top N Parameters and Calculated Fields&lt;/li>
+&lt;li>Stacked Bar Charts&lt;/li>
+&lt;li>Dashboards – II and Filter Actions&lt;/li>
+&lt;li>Storytelling&lt;/li>
+&lt;li>Batting Performance Analysis&lt;/li>
+&lt;li>Additional Reading&lt;/li>
+&lt;li>Connecting to MySQL Workbench&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">LOD (Level of Details)
+&lt;div id="lod-level-of-details" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#lod-level-of-details" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Data Mining With Tableau
+&lt;div id="data-mining-with-tableau" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-mining-with-tableau" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Get the Dataset + Project Overview&lt;/li>
+&lt;li>Connecting Tableau to an Excel File&lt;/li>
+&lt;li>How to visualize an ad-hoc A-B test in Tableau&lt;/li>
+&lt;li>Working with Aliases&lt;/li>
+&lt;li>Adding a Reference Line&lt;/li>
+&lt;li>Looking for anomalies&lt;/li>
+&lt;li>Handy trick to validate your approach / data&lt;/li>
+&lt;li>Creating bins &amp;amp; Visualizing distributions&lt;/li>
+&lt;li>Creating a classification test for a numeric variable&lt;/li>
+&lt;li>Combining two charts and working with them in Tableau&lt;/li>
+&lt;li>Validating Tableau Data Mining with a Chi-Squared test&lt;/li>
+&lt;li>Chi-Squared test when there is more than 2 categories&lt;/li>
+&lt;li>Visualising Balance and Estimated Salary distribution&lt;/li>
+&lt;li>Chi-Squared Test&lt;/li>
+&lt;li>Section Recap&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Data Storytelling
+&lt;div id="data-storytelling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-storytelling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction to Data Storytelling&lt;/li>
+&lt;li>Introduction to the Module&lt;/li>
+&lt;li>Pre-Read Assignment&lt;/li>
+&lt;li>What is Data Storytelling?&lt;/li>
+&lt;li>Importance of Data Storytelling&lt;/li>
+&lt;li>Characteristics of a Good Story with Data&lt;/li>
+&lt;li>What Makes Data Storytelling Difficult?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Components of a Good Story with Data
+&lt;div id="components-of-a-good-story-with-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#components-of-a-good-story-with-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Essential Components of a Good Story with Data&lt;/li>
+&lt;li>Importance of Objective and Agenda&lt;/li>
+&lt;li>Five Patterns of Insights&lt;/li>
+&lt;li>Analysis Approach: Deriving New Columns&lt;/li>
+&lt;li>Analysis Approach: Summarizing Rows&lt;/li>
+&lt;li>Insight Overview&lt;/li>
+&lt;li>Structure and Flow&lt;/li>
+&lt;li>Pyramid Principle&lt;/li>
+&lt;li>Visuals&lt;/li>
+&lt;li>Importance of Visualization&lt;/li>
+&lt;li>Visualization of Quantitative Data&lt;/li>
+&lt;li>Visualization of Qualitative Variables&lt;/li>
+&lt;li>Visualization of Other Types of Information&lt;/li>
+&lt;li>Visualization of Advanced Analytical Techniques&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Golden Rules for an Effective Data Storytelling
+&lt;div id="golden-rules-for-an-effective-data-storytelling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#golden-rules-for-an-effective-data-storytelling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Visual Design Principles and Storyboarding&lt;/li>
+&lt;li>Best Practices for Data Storytelling&lt;/li>
+&lt;li>Ideal Solution for the Home Loans Case Study&lt;/li>
+&lt;/ul></description></item><item><title>Power BI</title><link>https://dasarpai.github.io/dscourses/power-bi/</link><pubDate>Mon, 27 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/power-bi/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc313-Power-BI.jpg" alt="Power BI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Microsoft Power BI Course
+&lt;div id="microsoft-power-bi-course" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#microsoft-power-bi-course" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this Power BI course is as below. This is 16 hours course, it is suggested to complete this course within 1 week.&lt;/p>
+&lt;h2 class="relative group">Introduction and Installation
+&lt;div id="introduction-and-installation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-and-installation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Power BI introduction and overview&lt;/li>
+&lt;li>Key Benefits of Power BI&lt;/li>
+&lt;li>Power BI Architecture&lt;/li>
+&lt;li>Power BI – Building Blocks&lt;/li>
+&lt;li>Power BI vs other BI tools&lt;/li>
+&lt;li>Power Installation&lt;/li>
+&lt;li>Overview of Power BI Desktop&lt;/li>
+&lt;li>Power BI Mobile&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Introduction to Interface
+&lt;div id="introduction-to-interface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-interface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Data Sources in Power BI Desktop&lt;/li>
+&lt;li>Connecting to a data Sources&lt;/li>
+&lt;li>Query Editor in Power BI&lt;/li>
+&lt;li>Views in Power BI&lt;/li>
+&lt;li>Field Pane&lt;/li>
+&lt;li>Visual Pane&lt;/li>
+&lt;li>Custom Visual Option&lt;/li>
+&lt;li>Filters &lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Connecting to Different Sources
+&lt;div id="connecting-to-different-sources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#connecting-to-different-sources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction to using Excel data in Power BI&lt;/li>
+&lt;li>Import Power View and Power Pivot to Power BI&lt;/li>
+&lt;li>Import data from various sources into PowerBI&lt;/li>
+&lt;li>Exploring live connections to data with Power BI&lt;/li>
+&lt;li>Connecting directly to SQL Azure, HD Spark, SQL Server Analysis Services/ My SQL&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Building Reports in Power BI
+&lt;div id="building-reports-in-power-bi" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-reports-in-power-bi" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Power Query Introduction&lt;/li>
+&lt;li>Query Editor Interface&lt;/li>
+&lt;li>Clean and Transform your data with Query Editor&lt;/li>
+&lt;li>Data Type&lt;/li>
+&lt;li>Column Transformations vs Adding Colums&lt;/li>
+&lt;li>Text Transformations&lt;/li>
+&lt;li>Cleaning irregularly formatted data -Transpose&lt;/li>
+&lt;li>Date and Time Calculations&lt;/li>
+&lt;li>Advance editor: Use Case&lt;/li>
+&lt;li>Query Level Parameters&lt;/li>
+&lt;li>Combining Data – Merging and Appending&lt;/li>
+&lt;li>Time Intelligence Functions&lt;/li>
+&lt;li>Types of visualization in a Power BI report&lt;/li>
+&lt;li>Custom visualization to a Power BI report&lt;/li>
+&lt;li>Matrices and tables&lt;/li>
+&lt;li>Getting started with color formatting and axis properties&lt;/li>
+&lt;li>Change how a chart is sorted in a Power BI report&lt;/li>
+&lt;li>Move, resize, and pop out a visualization in a Power BI report&lt;/li>
+&lt;li>Drill down in a visualization in Power BI&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">DAX &amp;amp; PowerBI
+&lt;div id="dax--powerbi" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dax--powerbi" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>What is DAX?&lt;/li>
+&lt;li>Why is DAX important?&lt;/li>
+&lt;li>Calculated Columns&lt;/li>
+&lt;li>Measures/New Quick Measures&lt;/li>
+&lt;li>Calculated Tables&lt;/li>
+&lt;li>Optimizing Data Models&lt;/li>
+&lt;li>Row Context vs Set Context&lt;/li>
+&lt;li>Cross Filter Direction&lt;/li>
+&lt;li>Advanced calculations using Calculate functions&lt;/li>
+&lt;li>DAX queries&lt;/li>
+&lt;li>DAX Parameter Naming&lt;/li>
+&lt;li>Data Acquisition and Transformation in Power BI&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">PowerBI Online
+&lt;div id="powerbi-online" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#powerbi-online" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Power BI Service&lt;/li>
+&lt;li>Power BI Workspace&lt;/li>
+&lt;li>Power BI Publish&lt;/li>
+&lt;li>Reports in Power BI Service&lt;/li>
+&lt;li>Creating Dashboards&lt;/li>
+&lt;li>Publishing Reports and Scheduling Data Refresh&lt;/li>
+&lt;li>Security, Share PowerBI Reports, Dashboards.&lt;/li>
+&lt;li>Accessing Power BI on Mobile&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Data Modelling with PowerBI
+&lt;div id="data-modelling-with-powerbi" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-modelling-with-powerbi" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h1 class="relative group">Manage Data Relationship
+&lt;div id="manage-data-relationship" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#manage-data-relationship" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Best Practices in Power BI
+&lt;div id="best-practices-in-power-bi" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-practices-in-power-bi" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2></description></item><item><title>Reinforcement Learning</title><link>https://dasarpai.github.io/dscourses/reinforcement-learning/</link><pubDate>Sun, 26 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/reinforcement-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc312-Reinforcement-Learning.jpg" alt="Reinforcement Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Reinforcement Learning
+&lt;div id="reinforcement-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reinforcement-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Classical Reinforcement Learning
+&lt;div id="classical-reinforcement-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#classical-reinforcement-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Markov Decision Process
+&lt;div id="markov-decision-process" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#markov-decision-process" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>What is Reinforcement Learning?&lt;/li>
+&lt;li>Agent-Environment Interaction&lt;/li>
+&lt;li>State Vectors&lt;/li>
+&lt;li>Objective of RL Agent&lt;/li>
+&lt;li>Actions &amp;amp; Policy&lt;/li>
+&lt;li>Exploration vs Exploitation&lt;/li>
+&lt;li>Markov State&lt;/li>
+&lt;li>Markov Decision Process (MDP)&lt;/li>
+&lt;li>Value Function&lt;/li>
+&lt;li>Optimal Policy&lt;/li>
+&lt;li>Model of the Environment&lt;/li>
+&lt;li>RL vs Supervised Learning&lt;/li>
+&lt;li>Inventory Management (MDP)&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Fundamental Equations in RL
+&lt;div id="fundamental-equations-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#fundamental-equations-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>RL Equations – State Value Function&lt;/li>
+&lt;li>RL Equations – Action Value Function&lt;/li>
+&lt;li>Understanding the RL Equations&lt;/li>
+&lt;li>Bellman Equations of Optimality&lt;/li>
+&lt;li>Policy Improvement&lt;/li>
+&lt;li>Introduction&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Model-Based Method – Dynamic Programming
+&lt;div id="model-based-method--dynamic-programming" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#model-based-method--dynamic-programming" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Dynamic Programming&lt;/li>
+&lt;li>Policy Iteration – Algorithm&lt;/li>
+&lt;li>Policy Evaluation – Prediction&lt;/li>
+&lt;li>Policy Improvement – Control&lt;/li>
+&lt;li>Policy Iteration – GridWorld&lt;/li>
+&lt;li>Value Iteration&lt;/li>
+&lt;li>Generalised Policy Iteration (GPI)&lt;/li>
+&lt;li>Ad Placement Optimization (Demo)&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Model-Free Methods
+&lt;div id="model-free-methods" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#model-free-methods" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Intuition behind Monte-Carlo Methods&lt;/li>
+&lt;li>Monte-Carlo Prediction &amp;amp; Demo&lt;/li>
+&lt;li>Monte-Carlo Control&lt;/li>
+&lt;li>Off Policy&lt;/li>
+&lt;li>Temporal Difference&lt;/li>
+&lt;li>Q-Learning with Pseudocode&lt;/li>
+&lt;li>Cliff Walking Demo&lt;/li>
+&lt;li>Ad Placement Optimization Demo -Q Learning&lt;/li>
+&lt;li>OpenAI Gym -Taxi v2&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Inventory Management Demo
+&lt;div id="inventory-management-demo" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inventory-management-demo" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;li>Problem Statement&lt;/li>
+&lt;li>MDP code&lt;/li>
+&lt;li>Q-Learning code&lt;/li>
+&lt;li>Results&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Assignment -Classical Reinforcement Learning
+&lt;div id="assignment--classical-reinforcement-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#assignment--classical-reinforcement-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Assignment – Tic-Tac-Toe
+&lt;div id="assignment--tic-tac-toe" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#assignment--tic-tac-toe" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Deep Reinforcement Learning
+&lt;div id="deep-reinforcement-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#deep-reinforcement-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Want to build your own Atari Game? Learn the Q-function or policy using the various Deep Reinforcement Learning algorithms: Deep Q Learning, Policy Gradient Methods, Actor-Critic method.&lt;/p></description></item><item><title>Explainable AI</title><link>https://dasarpai.github.io/dscourses/explainable-ai/</link><pubDate>Sat, 25 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/explainable-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc311-Explainable-AI.jpg" alt="Explainable AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Explainable AI - XAI
+&lt;div id="explainable-ai---xai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#explainable-ai---xai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Please contant me via &lt;a href="mailto:hari@dasarpai.com">hari@dasarpai.com&lt;/a> or whatsapp +91 9 5 3 5 9 9 9 3 3 6
+&lt;div id="please-contant-me-via--or-whatsapp-91-9-5-3-5-9-9-9-3-3-6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#please-contant-me-via--or-whatsapp-91-9-5-3-5-9-9-9-3-3-6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2></description></item><item><title>Microsoft Excel</title><link>https://dasarpai.github.io/dscourses/microsoft-excel/</link><pubDate>Fri, 24 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/microsoft-excel/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc310-Microsoft-Excel.jpg" alt="Microsoft Excel" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Microsoft Excel
+&lt;div id="microsoft-excel" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#microsoft-excel" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to Excel
+&lt;div id="introduction-to-excel" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-excel" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Basic
+&lt;div id="basic" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basic" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Microsoft Excel Fundamentals&lt;/li>
+&lt;li>Introduction to Interface&lt;/li>
+&lt;li>Discovering Shortcuts&lt;/li>
+&lt;li>Entering and Editing Text and Formulas&lt;/li>
+&lt;li>Excel Data Validation&lt;/li>
+&lt;li>Excel List Functions&lt;/li>
+&lt;li>Slicing and Dicing Data – Sort and Filter&lt;/li>
+&lt;li>Cell Referencing and Text Functions&lt;/li>
+&lt;li>Passwords and Naming Files&lt;/li>
+&lt;li>Inserting Images and Shapes into an Excel Worksheet&lt;/li>
+&lt;li>Modifying an Excel Worksheet&lt;/li>
+&lt;li>Protecting Excel Worksheets and Workbooks&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Working with Cells
+&lt;div id="working-with-cells" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#working-with-cells" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Cell Referencing and Text Functions&lt;/li>
+&lt;li>Common Errors in Excel&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Working with Formulae
+&lt;div id="working-with-formulae" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#working-with-formulae" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Introduction to Formulae&lt;/li>
+&lt;li>Logical Formulae&lt;/li>
+&lt;li>Lookup Functions&lt;/li>
+&lt;li>Text Based Functions&lt;/li>
+&lt;li>Complex Functions&lt;/li>
+&lt;li>Conditional Functions&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Working with Files
+&lt;div id="working-with-files" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#working-with-files" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Importing and Exporting Data&lt;/li>
+&lt;li>Importing Data from Text Files&lt;/li>
+&lt;li>Delimited Files&lt;/li>
+&lt;li>Auditing an Excel Worksheet&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Printing &amp;amp; Formatting
+&lt;div id="printing--formatting" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#printing--formatting" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Formatting Data in an Excel Worksheet&lt;/li>
+&lt;li>Preparing Weekly Report&lt;/li>
+&lt;li>Printing an Excel Worksheet&lt;/li>
+&lt;li>Printing and Page Layout&lt;/li>
+&lt;li>Report Making II: Conditional Formatting&lt;/li>
+&lt;li>Report Making III: Advanced Formatting&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Advance Excel
+&lt;div id="advance-excel" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#advance-excel" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Charts
+&lt;div id="charts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#charts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Types of Charts&lt;/li>
+&lt;li>Charts&lt;/li>
+&lt;li>Creating Basic Charts in Excel&lt;/li>
+&lt;li>Creating and Formatting Charts&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Pivot
+&lt;div id="pivot" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pivot" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Creating a Pivot Table&lt;/li>
+&lt;li>Analyzing Data in a Pivot Table&lt;/li>
+&lt;li>Filtering Data in a Pivot Table&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Automation
+&lt;div id="automation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#automation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>VBA&lt;/li>
+&lt;li>Automating Repetitive Tasks in Excel with Macros&lt;/li>
+&lt;li>Preparing and Cleaning Up Data with VBA&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Analysis
+&lt;div id="analysis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#analysis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Mastering Excel “What If?” Tools&lt;/li>
+&lt;li>Working with Large Sets of Excel Data&lt;/li>
+&lt;li>VLOOKUP-Linking Data from Multiple Files &amp;amp; Tables&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Visualization and EDA in Excel
+&lt;div id="visualization-and-eda-in-excel" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#visualization-and-eda-in-excel" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Limitations of Excel
+&lt;div id="limitations-of-excel" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#limitations-of-excel" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2></description></item><item><title>Data Engineering</title><link>https://dasarpai.github.io/dscourses/data-engineering/</link><pubDate>Thu, 23 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/data-engineering/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc309-Data-Engineering.jpg" alt="Data Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Data Engineering
+&lt;div id="data-engineering" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-engineering" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Exploratory Data Analysis (EDA)
+&lt;div id="exploratory-data-analysis-eda" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploratory-data-analysis-eda" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Data sourcing – public and private data&lt;/li>
+&lt;li>Data cleaning – handling missing values, handling invalid data, filtering data, standardization, etc.&lt;/li>
+&lt;li>Univariate analysis – unordered vs ordered categorical variables, quantitative variables &amp;amp; measures of central tendency&lt;/li>
+&lt;li>Segmented univariate analysis – basis of segmentation, comparison of averages and other metrics&lt;/li>
+&lt;li>Bivariate analysis – bivariate on quantitative and categorical variables, correlation&lt;/li>
+&lt;li>Derived metrics – introduction, type-driven metrics, business-driven metrics, data-driven metrics&lt;/li>
+&lt;li>&lt;strong>Examples&lt;/strong>
+&lt;ul>
+&lt;li>Feature engineering and selection.&lt;/li>
+&lt;li>Analyzing bike sharing trends.&lt;/li>
+&lt;li>Analyzing movie reviews sentiment.&lt;/li>
+&lt;li>Customer segmentation and effective cross-selling.&lt;/li>
+&lt;li>Analyzing wine types and quality.&lt;/li>
+&lt;li>Analyzing music trends and recommendations.&lt;/li>
+&lt;li>Forecasting stock and commodity prices&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Data Mining
+&lt;div id="data-mining" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-mining" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Introduction: Definitions, Activities, Process, Key challenges&lt;/li>
+&lt;li>Understanding Data:  Data Types/ Attribute Types,  Statistical Descriptions of Data&lt;/li>
+&lt;li>Measuring Data Similarity and Dissimilarity&lt;/li>
+&lt;li>Data Pre-processing – Overview&lt;/li>
+&lt;li>Association Rule Mining&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Data Modelling
+&lt;div id="data-modelling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-modelling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Data Cleaning
+&lt;div id="data-cleaning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-cleaning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Data Visualization &amp;amp; Interpretation
+&lt;div id="data-visualization--interpretation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-visualization--interpretation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Information overload and issues in decision making&lt;/li>
+&lt;li>Design of visual encoding schemes to improve comprehension of data and their use in decision making&lt;/li>
+&lt;li>Presentation and visualization of data for effective communication&lt;/li>
+&lt;li>Elementary graphics programming, charts, graphs, animations, user interactivity, hierarchical layouts, and techniques for visualization of high dimensional data &amp;amp; discovered patterns&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">EDA Tools
+&lt;div id="eda-tools" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#eda-tools" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Pandas Profiling&lt;/li>
+&lt;li>Lux&lt;/li>
+&lt;/ol></description></item><item><title>Python For Data Science</title><link>https://dasarpai.github.io/dscourses/python-for-data-science/</link><pubDate>Wed, 22 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/python-for-data-science/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc308-Python-For-Data-Science.jpg" alt="Python For Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python for Data Science
+&lt;div id="python-for-data-science" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-for-data-science" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this course is as below. This is 30 hours course, it is suggested to complete this course in 3 weeks. After the completion of this course, you will have a solid foundation in Python programming. Following that, you need to practice it consistently for a minimum of 6 months.&lt;/p></description></item><item><title>Pandas for Data Science</title><link>https://dasarpai.github.io/dscourses/pandas-for-data-science/</link><pubDate>Tue, 21 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/pandas-for-data-science/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg" alt="Pandas for Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Pandas for Data Science
+&lt;div id="pandas-for-data-science" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pandas-for-data-science" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this course is as below. This is 30 hours course, it is suggested to complete this course in 3 weeks. If you already know python enough, then you can skip the first 3 modules of this course. It will save you one week.&lt;/p></description></item><item><title>Statistics For Data Science</title><link>https://dasarpai.github.io/dscourses/statistics-for-data-science/</link><pubDate>Mon, 20 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/statistics-for-data-science/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg" alt="Statistics For Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Statistics for Data Science
+&lt;div id="statistics-for-data-science" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#statistics-for-data-science" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this course is as below. This is 25 hours course, it is suggested to complete this course in 3 weeks.&lt;/p>
+&lt;h2 class="relative group">Introduction of Statistics for Data Scientist
+&lt;div id="introduction-of-statistics-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-of-statistics-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Introduction to basic statistics terms&lt;/li>
+&lt;li>Types of statistics&lt;/li>
+&lt;li>Types of data&lt;/li>
+&lt;li>Levels of measurement (nominal, ordinal, and interval/ratio)&lt;/li>
+&lt;li>Measures of central tendency&lt;/li>
+&lt;li>Measures of dispersion&lt;/li>
+&lt;li>Random variables&lt;/li>
+&lt;li>Concept of Set&lt;/li>
+&lt;li>Skewness, Kurtosis&lt;/li>
+&lt;li>Covariance and correlation&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;li>Data summarization methods&lt;/li>
+&lt;li>Tables, Graphs, Charts, Histograms,&lt;/li>
+&lt;li>Frequency distributions&lt;/li>
+&lt;li>Box Plot&lt;/li>
+&lt;li>Chebychev’s Inequality on relationship&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Descriptive &amp;amp; Inferential Statistics for Data Scientist
+&lt;div id="descriptive--inferential-statistics-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#descriptive--inferential-statistics-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Type of Probability distributions – discrete vs continuous distributions,&lt;/li>
+&lt;li>Cumulative Probabilities, Normal &amp;amp; Standard Normal Distribution&lt;/li>
+&lt;li>Discrete Distributions&lt;/li>
+&lt;li>Binomial Distributions&lt;/li>
+&lt;li>Poisson Distribution&lt;/li>
+&lt;li>Continuous Distributions&lt;/li>
+&lt;li>Uniform Distribution&lt;/li>
+&lt;li>Normal Distribution&lt;/li>
+&lt;li>Standard Normal Distribution&lt;/li>
+&lt;li>Exponential Distribution&lt;/li>
+&lt;li>Sampling methods&lt;/li>
+&lt;li>Interval Estimation&lt;/li>
+&lt;li>Central limit theorem – sampling, sampling distribution, properties of sampling distribution, central limit theorem, estimating mean using CLT&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Hypothesis Testing for Data Scientist
+&lt;div id="hypothesis-testing-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#hypothesis-testing-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Concepts of hypothesis testing – business relevance, framing hypotheses, hypothesis testing process and p-value&lt;/li>
+&lt;li>Types of hypothesis tests – left- and right-tailed tests, two-tailed tests, types of errors, hypothesis testing using T-distribution&lt;/li>
+&lt;li>Industry demos on hypothesis testing (Excel) – two-sample mean test, two-sample proportion test, A/B testing&lt;/li>
+&lt;li>Z-Test, normal standard distribution&lt;/li>
+&lt;li>T-Test, t-stats, Student t distribution&lt;/li>
+&lt;li>T-stats vs. Z-stats&lt;/li>
+&lt;li>Type 1 &amp;amp; type 2 error&lt;/li>
+&lt;li>Bayes statistics (Bayes theorem)&lt;/li>
+&lt;li>Confidence interval (CI),  margin of error&lt;/li>
+&lt;li>Interpreting confidence levels and confidence intervals&lt;/li>
+&lt;li>Chi-square test&lt;/li>
+&lt;li>Chi-square distribution using python&lt;/li>
+&lt;li>Chi-square for goodness of fit test&lt;/li>
+&lt;li>When to use which statistical distribution?&lt;/li>
+&lt;li>Analysis of variance (ANOVA)&lt;/li>
+&lt;li>Assumptions to use ANOVA&lt;/li>
+&lt;li>ANOVA three type&lt;/li>
+&lt;li>Partitioning of variance in the ANOVA&lt;/li>
+&lt;li>Calculating using python&lt;/li>
+&lt;li>F-distribution&lt;/li>
+&lt;li>F-test (variance ratio test)&lt;/li>
+&lt;li>Determining the values of f&lt;/li>
+&lt;li>F distribution using python&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Project &amp;amp; Resources
+&lt;div id="project--resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#project--resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Resources for practice&lt;/li>
+&lt;li>A Final Assignment&lt;/li>
+&lt;/ol></description></item><item><title>Mathematics for Data Scientist</title><link>https://dasarpai.github.io/dscourses/mathematics-for-data-scientist/</link><pubDate>Sun, 19 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/mathematics-for-data-scientist/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg" alt="Mathematics for Data Scientist" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Mathematical for Data Scientist
+&lt;div id="mathematical-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#mathematical-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>To excel in the field of data science, especially as a data scientist, I would recommend you have good command over the topics mentioned below. There are many YouTube channels that you can use for this purpose. Because this is 10+2 level mathematics, and it is just a matter of revision. So I am not offering any course unless there is a specific need for some group, organization.&lt;/p></description></item><item><title>Deep Learning for Computer Vision</title><link>https://dasarpai.github.io/dscourses/deep-learning-for-computer-vision/</link><pubDate>Sat, 18 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/deep-learning-for-computer-vision/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg" alt="Deep Learning for Computer Vision" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Deep Learning – Computer Vision
+&lt;div id="deep-learning--computer-vision" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#deep-learning--computer-vision" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Foundation of Computer Vision
+&lt;div id="foundation-of-computer-vision" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#foundation-of-computer-vision" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Common Architectural Principles of Deep Networks&lt;/li>
+&lt;li>Building Blocks of Deep Networks&lt;/li>
+&lt;li>Convolutional Neural Networks (CNNs)&lt;/li>
+&lt;li>Recurrent Neural Networks&lt;/li>
+&lt;li>Recursive Neural Networks; Applications to Sequence Data&lt;/li>
+&lt;li>Anomaly Detection&lt;/li>
+&lt;li>Tuning Deep Networks&lt;/li>
+&lt;li>Vectorization&lt;/li>
+&lt;li>Data Mining (Pre-requisites)&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">CNN overview
+&lt;div id="cnn-overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cnn-overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>CNN Definition&lt;/li>
+&lt;li>CNN based Architectures&lt;/li>
+&lt;li>End to end CNN network&lt;/li>
+&lt;li>Training CNN&lt;/li>
+&lt;li>Deployment in Azure Cloud&lt;/li>
+&lt;li>Performance tuning of CNN network&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Advance Computer Vision – Part 1
+&lt;div id="advance-computer-vision--part-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#advance-computer-vision--part-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>CNN Architectures with research paper and mathematics&lt;/li>
+&lt;li>Resnet-5 variants with research paper and practical&lt;/li>
+&lt;li>AlexNet variants with research paper and practical&lt;/li>
+&lt;li>GoogleNet variants with research paper and practical&lt;/li>
+&lt;li>Transfer learning&lt;/li>
+&lt;li>VGGNet variants with research paper and practical&lt;/li>
+&lt;li>Inception net variants with research paper and practical&lt;/li>
+&lt;li>Darknet variants with research paper and practical&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Advance Computer Vision – Part 2
+&lt;div id="advance-computer-vision--part-2" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#advance-computer-vision--part-2" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Object detection in-depth&lt;/li>
+&lt;li>Transfer learning&lt;/li>
+&lt;li>RCNN with research paper and practical&lt;/li>
+&lt;li>Fast RCNN with research paper and practical&lt;/li>
+&lt;li>Faster RCNN with research paper and practical&lt;/li>
+&lt;li>SSD with research paper and practical&lt;/li>
+&lt;li>SSD lite with research paper and practical&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Training of Custom Object Detection
+&lt;div id="training-of-custom-object-detection" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#training-of-custom-object-detection" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>TFOD introduction&lt;/li>
+&lt;li>Environment setup wtih TFOD&lt;/li>
+&lt;li>GPU vs TPU vs CPU&lt;/li>
+&lt;li>GPU Comparison&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Advance Computer Vision – Part 3
+&lt;div id="advance-computer-vision--part-3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#advance-computer-vision--part-3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Yolo v1 with research paper and practical&lt;/li>
+&lt;li>Retina net&lt;/li>
+&lt;li>Face net&lt;/li>
+&lt;li>Detectron2 with practical and live testing&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Object segmentation
+&lt;div id="object-segmentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#object-segmentation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Semantic segmentation&lt;/li>
+&lt;li>Panoptic segmentation&lt;/li>
+&lt;li>Masked RCNN&lt;/li>
+&lt;li>Practical with Detectron&lt;/li>
+&lt;li>Practical with TFOD&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Object tracking
+&lt;div id="object-tracking" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#object-tracking" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Detail of object tracking&lt;/li>
+&lt;li>Kalman filtering&lt;/li>
+&lt;li>Sort&lt;/li>
+&lt;li>Deep sort&lt;/li>
+&lt;li>Object tracking live project with live camera testing&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">OCR
+&lt;div id="ocr" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ocr" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Introduction to OCR&lt;/li>
+&lt;li>Various framework and API for OCR&lt;/li>
+&lt;li>Practical implementation of OCR&lt;/li>
+&lt;li>Live project deployment for bill parsing&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Image captioning
+&lt;div id="image-captioning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#image-captioning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Image captioning overview&lt;/li>
+&lt;li>Image captioning project with deployment&lt;/li>
+&lt;/ol></description></item><item><title>Natural Language Processing</title><link>https://dasarpai.github.io/dscourses/natural-language-processing/</link><pubDate>Fri, 17 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/natural-language-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc303-Natural-Language-Processing.jpg" alt="Natural Language Processing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Natural Language Processing (NLP)
+&lt;div id="natural-language-processing-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#natural-language-processing-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Foundation of Natural Language Processing
+&lt;div id="foundation-of-natural-language-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#foundation-of-natural-language-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Overview computational linguistic.&lt;/li>
+&lt;li>History of NLP&lt;/li>
+&lt;li>Why NLP&lt;/li>
+&lt;li>Use of NLP&lt;/li>
+&lt;li>Language modelling with N-gram&lt;/li>
+&lt;li>Spelling correction&lt;/li>
+&lt;li>Neural networks and neural language models&lt;/li>
+&lt;li>Parts-of-Speech tagging&lt;/li>
+&lt;li>Syntactic parsing&lt;/li>
+&lt;li>Language semantics&lt;/li>
+&lt;li>Computational semantics&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Text Analytics, Processing, and Predictive Modelling
+&lt;div id="text-analytics-processing-and-predictive-modelling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#text-analytics-processing-and-predictive-modelling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction to text analytics (text encoding, regular expressions*, word frequencies &amp;amp; stop words, tokenization, bag-of-words representation, stemming &amp;amp; lemmatization, TF-IDF)&lt;/li>
+&lt;li>The Naive Bayes algorithm (Bayes’ theorem and its building blocks, Naive Bayes for text classification)&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Text Processing Importing text.
+&lt;div id="text-processing-importing-text" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#text-processing-importing-text" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Web scrapping.&lt;/li>
+&lt;li>Text processing&lt;/li>
+&lt;li>Understanding regex.&lt;/li>
+&lt;li>Text normalization&lt;/li>
+&lt;li>Word count.&lt;/li>
+&lt;li>Frequency distribution.&lt;/li>
+&lt;li>Text annotation.&lt;/li>
+&lt;li>Use of annotator.&lt;/li>
+&lt;li>String tokenization&lt;/li>
+&lt;li>Annotator creation.&lt;/li>
+&lt;li>Sentence processing.&lt;/li>
+&lt;li>Lemmatization in text processing&lt;/li>
+&lt;li>POS.&lt;/li>
+&lt;li>Named entity recognition&lt;/li>
+&lt;li>Dependency parsing in text.&lt;/li>
+&lt;li>Sentimental analysis&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Word embedding
+&lt;div id="word-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#word-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Word embedding&lt;/li>
+&lt;li>Co-occurrence vectors&lt;/li>
+&lt;li>Word2vec&lt;/li>
+&lt;li>Doc2vec&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">RNN for NLP
+&lt;div id="rnn-for-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#rnn-for-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Recurrent neural networks.&lt;/li>
+&lt;li>Long short term memory (LSTM)&lt;/li>
+&lt;li>Bi LSTM.&lt;/li>
+&lt;li>Stacked LSTM&lt;/li>
+&lt;li>GRU implementation.&lt;/li>
+&lt;li>Building a story writer using character level RNN.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Attention based model
+&lt;div id="attention-based-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#attention-based-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Seq2Seq.&lt;/li>
+&lt;li>Encoders and decoders.&lt;/li>
+&lt;li>Attention mechanism.&lt;/li>
+&lt;li>Attention neural networks&lt;/li>
+&lt;li>Self-attention&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Transfer learning in NLP
+&lt;div id="transfer-learning-in-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transfer-learning-in-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Introduction to transformers.&lt;/li>
+&lt;li>Bert model.&lt;/li>
+&lt;li>Elmo model.&lt;/li>
+&lt;li>GPT2 model&lt;/li>
+&lt;li>GPT3 model.&lt;/li>
+&lt;li>Albert model.&lt;/li>
+&lt;li>Distilbert model&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Transformers for NLP
+&lt;div id="transformers-for-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-for-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>GPT3&lt;/li>
+&lt;li>BERT&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">NLP Libraries
+&lt;div id="nlp-libraries" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#nlp-libraries" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Spacy
+&lt;div id="spacy" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#spacy" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Spacy overview&lt;/li>
+&lt;li>Spacy function&lt;/li>
+&lt;li>Spacy function implementation in text processing.&lt;/li>
+&lt;li>Pos tagging, challenges and accuracy.&lt;/li>
+&lt;li>Entities and named entry recognition&lt;/li>
+&lt;li>Interpolation, language models&lt;/li>
+&lt;li>NLTK&lt;/li>
+&lt;li>Text blob&lt;/li>
+&lt;li>Stanford NLP&lt;/li>
+&lt;/ul></description></item><item><title>Machine Learning for Timeseries</title><link>https://dasarpai.github.io/dscourses/machine-learning-for-timeseries/</link><pubDate>Thu, 16 Sep 2021 15:46:43 -0400</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/machine-learning-for-timeseries/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg" alt="Machine Learning for Timeseries" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning for Timeseries
+&lt;div id="machine-learning-for-timeseries" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-for-timeseries" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this course is as below. This is 24 hours course, it is suggested to complete this course in 3 weeks. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.&lt;/p></description></item><item><title>Machine Learning Course</title><link>https://dasarpai.github.io/dscourses/machine-learning/</link><pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc301-Machine-Learning.jpg" alt="Machine Learning Course" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Courses
+&lt;div id="machine-learning-courses" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-courses" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A brief summary of the topics covered in this course is as below. This is 150 hours course, it is suggested to complete this course in 2 Months. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.&lt;/p></description></item></channel></rss>

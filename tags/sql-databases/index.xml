@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SQL Databases on</title><link>https://dasarpai.github.io/tags/sql-databases/</link><description>Recent content in SQL Databases on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/sql-databases/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring SQL and GraphQL Commands</title><link>https://dasarpai.github.io/dsblog/exploring-sql-and-graphql-commands/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-sql-and-graphql-commands/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg" alt="Exploring SQL and GraphQL Commands" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring SQL and GraphQL Commands
+&lt;div id="exploring-sql-and-graphql-commands" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-sql-and-graphql-commands" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is SQL?
+&lt;div id="what-is-sql" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-sql" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>SQL, or Structured Query Language, is a standardized programming language used for managing and manipulating relational databases. It allows users to perform various operations on the data stored in a database, including:&lt;/p></description></item><item><title>Selecting Database for Project</title><link>https://dasarpai.github.io/dsblog/selecting-database-for-project/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/selecting-database-for-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg" alt="Selecting Database for Project" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Essential Database Selection Criteria for Modern Applications
+&lt;div id="essential-database-selection-criteria-for-modern-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#essential-database-selection-criteria-for-modern-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answer for these questions then &amp;ldquo;Yes&amp;rdquo;.&lt;/p>
+&lt;ul>
+&lt;li>What parameters should you consider to choose a database for your project?&lt;/li>
+&lt;li>What are different data formats for bigdata?&lt;/li>
+&lt;li>What is the difference between OCR and Parquet data formats?&lt;/li>
+&lt;li>What is CAP Theorem?&lt;/li>
+&lt;li>What is the difference between Sharding and Partitioning&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What parameters should you consider to choose a database for your project?
+&lt;div id="what-parameters-should-you-consider-to-choose-a-database-for-your-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-parameters-should-you-consider-to-choose-a-database-for-your-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you are developing an application which need to store the data or you need to pull data from some format for your project work that time you need to take care of many parameters. Sometimes it looks there is an ovbious choice to go for a certain type of database for some specific work but most of the time it is challenging. What are those aspects of a database which you need to take care of?&lt;/p></description></item><item><title>Exploring Apache Hive</title><link>https://dasarpai.github.io/dsblog/exploring-apache-hive/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-apache-hive/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg" alt="Exploring Apache Hive" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Apache Hive: Capabilities and Scalability for Big Data Processing
+&lt;div id="exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Hive?
+&lt;div id="what-is-hive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-hive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. It provides a platform for processing large datasets stored in Hadoop Distributed File System (HDFS) and other data storage systems that integrate with Hadoop. Hive simplifies querying and managing big data with a familiar SQL-like syntax (HiveQL). Below are the key capabilities of Hive:&lt;/p></description></item><item><title>SQL and Relational Algebra</title><link>https://dasarpai.github.io/dsblog/relational-algebra/</link><pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/relational-algebra/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6084-Relational-Algebra.jpg" alt="Relational Algebra" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">SQL and Relational Algebra
+&lt;div id="sql-and-relational-algebra" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sql-and-relational-algebra" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Relational algebra (RA) is considered as a procedural query language where the user tells the system to carry out a set of operations to obtain the desired results. i.e. The user tells what data should be retrieved from the database and how to retrieve it.&lt;/p>
+&lt;p>Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL, SQLite SQL, DB2 SQL, MariaDB SQL, FireBird SQL, PSQL, ANSI SQL commands in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.&lt;/p></description></item><item><title>Type of Databases</title><link>https://dasarpai.github.io/dsblog/type-of-databases/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/type-of-databases/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6041-Type-of-Databases.jpg" alt="Type of Databases" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What are the various types of databases?
+&lt;div id="what-are-the-various-types-of-databases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-various-types-of-databases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let&amp;rsquo;s look into these.&lt;/p></description></item><item><title>Data Science Interview Question Answers</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg" alt="Data Science Interview Question Answers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Data Science Interview Question Answers
+&lt;div id="data-science-interview-question-answers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-science-interview-question-answers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python &amp;amp; Statistics. These questions are related to technology, architectures and solving business problem. &lt;a href="https://drive.google.com/drive/folders/1O9DcVhE5r0lBPpZd8bFjaA0FqPv94Vbm?usp=sharing" target="_blank">This gdrive link&lt;/a> has 51 pdf files which contains the questions and answers.&lt;/p></description></item></channel></rss>

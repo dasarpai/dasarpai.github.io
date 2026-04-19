@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Security on</title><link>https://dasarpai.github.io/tags/data-security/</link><description>Recent content in Data Security on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-security/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Usecases in Cybersecurity</title><link>https://dasarpai.github.io/dsblog/ai-usecases-in-cybersecurity/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-usecases-in-cybersecurity/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg" alt="AI-Usecases-in-Cybersecurity" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Usecases in Cybersecurity
+&lt;div id="ai-usecases-in-cybersecurity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-usecases-in-cybersecurity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h1 class="relative group">AI in Cyber Security, Ethics Related Challenges and Usecases
+&lt;div id="ai-in-cyber-security-ethics-related-challenges-and-usecases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-in-cyber-security-ethics-related-challenges-and-usecases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">AI Usecases in Cyber Security
+&lt;div id="ai-usecases-in-cyber-security" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-usecases-in-cyber-security" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Threat Detection and Response
+AI can enhance the detection and response to cybersecurity threats by:&lt;/p></description></item><item><title>LLM Security and Ethics Considerations</title><link>https://dasarpai.github.io/dsblog/llm-security-and-ethics-considerations/</link><pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/llm-security-and-ethics-considerations/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg" alt="LLM-Security-and-Ethics-Considerations" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">LLM Security and Ethics Considerations
+&lt;div id="llm-security-and-ethics-considerations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#llm-security-and-ethics-considerations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Question: For my client&amp;rsquo;s highly secured data like health industry data, banking, insurnace, internal security, etc. data can I use gpt4 for finetuning?
+&lt;div id="question-for-my-clients-highly-secured-data-like-health-industry-data-banking-insurnace-internal-security-etc-data-can-i-use-gpt4-for-finetuning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-for-my-clients-highly-secured-data-like-health-industry-data-banking-insurnace-internal-security-etc-data-can-i-use-gpt4-for-finetuning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>For highly sensitive data, such as health industry data, banking information, insurance details, and security data, using models like ChatGPT-3.5 or GPT-4 involves several considerations to ensure security and compliance:&lt;/p></description></item><item><title>Software Security Concepts</title><link>https://dasarpai.github.io/dsblog/software-security-concepts/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/software-security-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6132-Software-Security-Concepts.jpg" alt="Software-Security-Concepts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Software Security Concepts
+&lt;div id="software-security-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#software-security-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>As of today, this article is answering following questions related to software security. In future, I will add more concepts here.&lt;/p>
+&lt;ul>
+&lt;li>What are the major ideas which we need to understand while creating security architecture of any app?&lt;/li>
+&lt;li>What is the difference between authentication and authorization?&lt;/li>
+&lt;li>What is OAuth?&lt;/li>
+&lt;li>Can you share popular Compliance and Regulatory Requirements around various industries?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What are the major ideas which we need to understand while creating security architecture of any app?
+&lt;div id="what-are-the-major-ideas-which-we-need-to-understand-while-creating-security-architecture-of-any-app" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-major-ideas-which-we-need-to-understand-while-creating-security-architecture-of-any-app" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The security architecture of an application encompasses various concepts and strategies designed to protect the application&amp;rsquo;s data, resources, and services from threats. Here are the main ideas and concepts typically involved:&lt;/p></description></item><item><title>All about Hashing</title><link>https://dasarpai.github.io/dsblog/all-about-hashing/</link><pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/all-about-hashing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6123-All-about-Hashing.jpg" alt="All-about-Hashing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">All about Hashing
+&lt;div id="all-about-hashing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-about-hashing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Hashing function?
+&lt;div id="what-is-hashing-function" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-hashing-function" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A hashing function is a mathematical algorithm that converts an input (or &amp;ldquo;message&amp;rdquo;) into a fixed-size string of bytes, typically a hash code or hash value. This output is usually a short, unique representation of the input data. Examples of common hash functions include MD5, SHA-1, and SHA-256.&lt;/p></description></item><item><title>Dealing with Sensitive Data</title><link>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</link><pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg" alt="XAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dealing with Sensitive Data
+&lt;div id="dealing-with-sensitive-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dealing-with-sensitive-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>One of the biggest problems for a Data Science project team is to protect the data. We know, data is the basic raw material for building any supervised or unsupervised models. We cannot make a without data. Let’s assume you are working for an eCommerce retail company like Amazon; or in the health domain with some big hospital chain or government hospital; or in the banking industry with some big bank like Bank of America, Standard Charted, SBI, or ICICI Bank. They have huge data. That data can be used to develop ML models. These models can help them to serve their customers or other stakeholders in a better and efficient way. To develop these models, data should be given to the Data Science team. When the data is moving out from the production environment to the project environment, there is no guarantee that data will not fall in the wrong hands and will not be misused during the project or post the project completion. When the data is moving within the same company, there are lesser chances of this disaster. But when the company is giving data to third parties or vendors, then there are high chances.&lt;/p></description></item></channel></rss>

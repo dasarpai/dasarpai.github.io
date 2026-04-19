@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Engineering on</title><link>https://dasarpai.github.io/categories/data-engineering/</link><description>Recent content in Data Engineering on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/data-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Selecting Database for Project</title><link>https://dasarpai.github.io/dsblog/selecting-database-for-project/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/selecting-database-for-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg" alt="Selecting Database for Project" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Essential Database Selection Criteria for Modern Applications
+&lt;div id="essential-database-selection-criteria-for-modern-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#essential-database-selection-criteria-for-modern-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answer for these questions then &amp;ldquo;Yes&amp;rdquo;.&lt;/p>
+&lt;ul>
+&lt;li>What parameters should you consider to choose a database for your project?&lt;/li>
+&lt;li>What are different data formats for bigdata?&lt;/li>
+&lt;li>What is the difference between OCR and Parquet data formats?&lt;/li>
+&lt;li>What is CAP Theorem?&lt;/li>
+&lt;li>What is the difference between Sharding and Partitioning&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What parameters should you consider to choose a database for your project?
+&lt;div id="what-parameters-should-you-consider-to-choose-a-database-for-your-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-parameters-should-you-consider-to-choose-a-database-for-your-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you are developing an application which need to store the data or you need to pull data from some format for your project work that time you need to take care of many parameters. Sometimes it looks there is an ovbious choice to go for a certain type of database for some specific work but most of the time it is challenging. What are those aspects of a database which you need to take care of?&lt;/p></description></item><item><title>Exploring Apache Hive</title><link>https://dasarpai.github.io/dsblog/exploring-apache-hive/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-apache-hive/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg" alt="Exploring Apache Hive" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Apache Hive: Capabilities and Scalability for Big Data Processing
+&lt;div id="exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Hive?
+&lt;div id="what-is-hive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-hive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. It provides a platform for processing large datasets stored in Hadoop Distributed File System (HDFS) and other data storage systems that integrate with Hadoop. Hive simplifies querying and managing big data with a familiar SQL-like syntax (HiveQL). Below are the key capabilities of Hive:&lt;/p></description></item><item><title>Data Lake vs Data Warehouse vs Data Mart</title><link>https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg" alt="Datalake vs Data Warehouse" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is the difference between Data Lake and Data Warehouse?
+&lt;div id="what-is-the-difference-between-data-lake-and-data-warehouse" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-data-lake-and-data-warehouse" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A data warehouse is a system used for reporting and data analysis, and is considered a &amp;ldquo;single version of the truth.&amp;rdquo; It typically includes a subset of an organization&amp;rsquo;s data that is specifically structured for querying and reporting. A data lake, on the other hand, is a more flexible and general-purpose system for storing raw, unstructured data. Data in a lake can be stored in its original format and can be used for a variety of purposes, including reporting and analysis. Data warehouse is more structured while data lake is unstructured. Data warehouse is optimized for reporting and analytics while data lake is optimized for storing and processing large amount of raw data.&lt;/p></description></item><item><title>Type of Databases</title><link>https://dasarpai.github.io/dsblog/type-of-databases/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/type-of-databases/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6041-Type-of-Databases.jpg" alt="Type of Databases" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What are the various types of databases?
+&lt;div id="what-are-the-various-types-of-databases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-various-types-of-databases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let&amp;rsquo;s look into these.&lt;/p></description></item><item><title>Navigating the Data Landscape: Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects</title><link>https://dasarpai.github.io/dsblog/navigating-the-data=landscape/</link><pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-the-data=landscape/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg" alt="Data Sources, Databases, ETL Tools" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating the Data Landscape:
+&lt;div id="navigating-the-data-landscape" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-the-data-landscape" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects&lt;/strong>&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Data sources: Data sources refer to the origins or locations from which data is collected or generated. They can include various platforms, systems, devices, or applications that generate or store data, such as databases, APIs, files, sensors, social media platforms, or web services.&lt;/p></description></item><item><title>Thousands of Machine Learning Datasets</title><link>https://dasarpai.github.io/dsblog/datasets/</link><pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/datasets/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr115-Datasets.jpg" alt="Datasets" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Thousands of Machine Learning Datasets
+&lt;div id="thousands-of-machine-learning-datasets" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#thousands-of-machine-learning-datasets" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction:
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Without Data there is no Machine Learning, no AI, no Deep Learning. Because of heavy automation, IOT devices all around, there is no dirth of data. The first issue is, due to privacy and security related issues, data is not available for everyone. The second issue is cleaning this data. He third issues is getting complete data which can solve a given business problem. To get the complete data you need to get the data from multiple sources, identify the key to connect different records/sample of different sources. It is an expensive and time-consuming step of data science project. If you want to learn data science or want to solve any existing problem using new methods. Then you need some benchmarking framework in place which can display the model metrics (recall/precision/accuracy etc.) of each new approach (algorithm) against a given dataset. So datasets play a critical role in benchmarking algorithm performance.&lt;/p></description></item></channel></rss>
