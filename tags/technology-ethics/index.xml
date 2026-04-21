@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology Ethics on</title><link>https://dasarpai.github.io/tags/technology-ethics/</link><description>Recent content in Technology Ethics on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/technology-ethics/index.xml" rel="self" type="application/rss+xml"/><item><title>Open Source vs Closed Source AI</title><link>https://dasarpai.github.io/dsblog/open-source-vs-closed-source-ai/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/open-source-vs-closed-source-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg" alt="Open-Source-vs-Closed-Source-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Open Source AI vs Closed Source AI
+&lt;div id="open-source-ai-vs-closed-source-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#open-source-ai-vs-closed-source-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Major players in the AI industry, such as Google, Microsoft, IBM, Salesforce, etc each have their own proprietary models and infrastructure to host these models. They offer AI services that companies use to develop AI products for either their end customers or internal use. Training or developing AI models requires expensive hardware and highly skilled personnel, making it a costly process. However, the deployment and inference stages are even more expensive, as they involve ongoing costs for hardware and monitoring.&lt;/p></description></item><item><title>Responsible AI</title><link>https://dasarpai.github.io/dsblog/responsible-ai/</link><pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/responsible-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6047-Responsible-AI.jpg" alt="Responsible-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Responsible AI
+&lt;div id="responsible-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#responsible-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction:
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Artificial Intelligence (AI) is rapidly transforming the way we live, work, and interact with the world around us. As AI systems become increasingly sophisticated and ubiquitous, it is more important than ever to ensure that they are developed and deployed in a responsible and ethical manner. Responsible AI refers to the principles and practices of developing and using AI in a way that is safe, transparent, accountable, and aligned with human values. In this blog post, we will explore the different aspects of responsible AI, including ethics, safety, transparency, accountability, and societal impact.&lt;/p></description></item></channel></rss>

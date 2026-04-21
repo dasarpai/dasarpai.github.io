@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PMBOK Tools and Techniques on</title><link>https://dasarpai.github.io/tags/pmbok-tools-and-techniques/</link><description>Recent content in PMBOK Tools and Techniques on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 16 Feb 2021 16:12:11 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/pmbok-tools-and-techniques/index.xml" rel="self" type="application/rss+xml"/><item><title>Decision Making</title><link>https://dasarpai.github.io/pmbok6/decision-making/</link><pubDate>Tue, 16 Feb 2021 16:12:11 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/decision-making/</guid><description>&lt;h2 class="relative group">Decision Making
+&lt;div id="decision-making" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#decision-making" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Decision-making tool &amp;amp; technique is used for prioritization/ranking of actions/ requirements/ alternatives etc. This tool and technique is used in the following processes of PMBOK6.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/monitor-and-control-project-work">Monitor and Control Project Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/perform-integrated-change-control">Perform Integrated Change Control&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/collect-requirements">Collect Requirements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/define-scope">Define Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/validate-scope">Validate Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/estimate-activity-durations">Estimate Activity Durations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/estimate-costs">Estimate Costs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-quality-management">Plan Quality Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/manage-quality">Manage Quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/acquire-resources">Acquire Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-risk-responses">Plan Risk Responses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-stakeholder-engagement">Plan Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/monitor-stakeholder-engagement">Monitor Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Primarily there are two main techniques of making decision.&lt;/strong>&lt;/p></description></item><item><title>Project Management Information System</title><link>https://dasarpai.github.io/pmbok6/project-management-information-system/</link><pubDate>Tue, 16 Feb 2021 15:58:04 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/project-management-information-system/</guid><description>&lt;h2 class="relative group">Project Management Information System
+&lt;div id="project-management-information-system" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#project-management-information-system" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Project Management Information System (PMIS) Tools &amp;amp; Technique can be any software or physical system used to manage the project information. If your project is extremely simple and small duration then your project diary can serve the purpose. But when a project becomes larger, complex, and involves multiple stakeholders, multiple geographies, complex technology, and business requirements then we need to depend upon software tools. Keep in mind we do not include any design, development, IDE tools as PMIS if they are designed only for that purpose. But luckily today’s design and development tools are integrating the project management aspects so that the project team need not duplicate the work of data entry. Broadly they can be grouped into the following categories.&lt;/p></description></item><item><title>Data Gathering</title><link>https://dasarpai.github.io/pmbok6/data-gathering/</link><pubDate>Mon, 15 Feb 2021 17:53:59 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/data-gathering/</guid><description>&lt;h2 class="relative group">Data Gathering
+&lt;div id="data-gathering" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-gathering" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Data Gathering is a tool and technique used by the project team. Based on the process name and process context it can mean any of the following.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/benchmarking">Benchmarking&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/brainstorming">Brainstorming&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/check-sheets">Check-sheets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/checklists">Checklists&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/focus-groups">Focus-groups&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/interviews">Interviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/market-research-">Market-research &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/questionnaires-and-surveys">Questionnaires-and-surveys&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/statistical-sampling">Statistical-sampling&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Data Gathering tool and technique is used by project team during following proceses.&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/develop-project-charter">Develop Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/develop-project-management-plan">Develop Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/collect-requirements">Collect Requirements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-quality-management">Plan Quality Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/manage-quality">Manage Quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/control-quality">Control Quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/identify-risks">Identify Risks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/perform-qualitative-risk-analysis">Perform Qualitative Risk Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/perform-quantitative-risk-analysis">Perform Quantitative Risk Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-risk-responses">Plan Risk Responses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-procurement-management">Plan Procurement Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/identify-stakeholders">Identify Stakeholders&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/plan-stakeholder-engagement">Plan Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Meetings</title><link>https://dasarpai.github.io/pmbok6/meetings/</link><pubDate>Mon, 15 Feb 2021 17:48:43 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/meetings/</guid><description>&lt;h2 class="relative group">Meetings
+&lt;div id="meetings" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#meetings" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Meetings with stakeholders help us understand their viewpoint which is critical for making decisions. There are different types of meeting in a project. Whenever PMBOK is referring to Meeting as a tool and technique it may be any of the following meetings.&lt;/p>
+&lt;ul>
+&lt;li>F2F&lt;/li>
+&lt;li>Virtual&lt;/li>
+&lt;li>Formal&lt;/li>
+&lt;li>Informal&lt;/li>
+&lt;li>Standup Meeting&lt;/li>
+&lt;li>Kickoff Meetings&lt;/li>
+&lt;li>Adhoc Meeting&lt;/li>
+&lt;li>Review Meeting&lt;/li>
+&lt;li>Off-site Meetings&lt;/li>
+&lt;li>On-Site Meeting&lt;/li>
+&lt;/ul>
+&lt;p>“Meeting” is used as a Tool and Technique in following processes of the PMBOK 6th Edition.&lt;/p></description></item><item><title>Interpersonal and Team Skills</title><link>https://dasarpai.github.io/pmbok6/interpersonal-and-team-skills/</link><pubDate>Mon, 15 Feb 2021 17:42:11 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/interpersonal-and-team-skills/</guid><description>&lt;h2 class="relative group">Interpersonal and Team Skills
+&lt;div id="interpersonal-and-team-skills" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#interpersonal-and-team-skills" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>“Interpersonal and Team Skills” is one of the most powerful tools and techniques of a project manager. This is used in 20 processes of PMBOK 6th Edition. PMBOK standard expects a project manager to be aware of these techniques and practice them effectively whenever the of these arises in a project life cycle. Interpersonal and Team Skills means following skills.&lt;/p></description></item><item><title>Data Representation</title><link>https://dasarpai.github.io/pmbok6/data-representation/</link><pubDate>Mon, 15 Feb 2021 17:33:52 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/data-representation/</guid><description>&lt;h2 class="relative group">Data Representation
+&lt;div id="data-representation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-representation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Data Representation is a tool and technique used in 11 processes (PMBOK6). Based on the process name, context of the process it can mean any of the following techniques.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/affinity-diagrams">Affinity diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/cause-and-effect-diagrams">Cause-and-effect diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/control-charts">Control charts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/flowcharts">Flowcharts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/hierarchical-charts">Hierarchical charts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/histograms">Histograms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/logical-data-model">Logical data model&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/matrix-diagrams">Matrix diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/matrix-based-charts">Matrix-based charts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/mind-mapping">Mind mapping&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/probability-and-impact-matrix">Probability and impact matrix&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/scatter-diagrams">Scatter diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/stakeholder-engagement-assessment-matrix">Stakeholder engagement assessment matrix&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/stakeholder-mapping/-representation">Stakeholder mapping/ representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/text-oriented-formats">Text-oriented formats&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Data Representation is tool and technique of following processes&lt;/strong>&lt;/p></description></item><item><title>Data Analysis</title><link>https://dasarpai.github.io/pmbok6/data-analysis/</link><pubDate>Mon, 15 Feb 2021 17:26:13 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/data-analysis/</guid><description>&lt;h2 class="relative group">Data Analysis
+&lt;div id="data-analysis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-analysis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Data Analysis is a tool and technique used in 32 out of 49 processes (PMBOK 6th Edition). Based no the process name and context in which process is being applied it can mean any of the following or multiple tools simultaneously.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/alternatives-analysis">Alternatives-analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/assessment-of-other-risk-parameters">Assessment of other risk parameters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/assumption-and-constraint-analysis">Assumption and constraint analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/cost-of-quality">Cost of quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/cost-benefit-analysis">Cost-benefit analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/decision-tree-analysis">Decision tree analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/document-analysis">Document analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/earned-value-analysis">Earned value analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/influence-diagrams-">Influence diagrams &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/iteration-burndown-chart">Iteration burndown chart&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/make-or-buy-analysis">Make-or-buy analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/performance-reviews">Performance reviews&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/process-analysis">Process analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/proposal-evaluation-">Proposal evaluation &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/regression-analysis">Regression analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/reserve-analysis">Reserve analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/risk-data-quality-assessment">Risk data quality assessment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/risk-probability-and-impact-assessment">Risk probability and impact assessment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/root-cause-analysis">Root cause analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/sensitivity-analysis-">Sensitivity analysis &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/simulation">Simulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/stakeholder-analysis">Stakeholder analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/swot-analysis-">SWOT analysis &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/technical-performance-analysis">Technical performance analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/trend-analysis">Trend analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/variance-analysis">Variance analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/what-if-scenario-analysis">What-if scenario analysis&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Data Analysis is Tool and Techniques of Following Processes&lt;/strong>&lt;/p></description></item><item><title>Variance Analysis</title><link>https://dasarpai.github.io/pmbok6/variance-analysis/</link><pubDate>Mon, 15 Feb 2021 09:13:36 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/variance-analysis/</guid><description>&lt;h2 class="relative group">Variance Analysis
+&lt;div id="variance-analysis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#variance-analysis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Variance analysis is a technique for determining the cause and degree of difference between the baseline and actual performance. Project performance measurement metrics are used to assess the magnitude of variation from the original scope baseline.&lt;/p>
+&lt;h2 class="relative group">Useful Links
+&lt;div id="useful-links" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#useful-links" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://corporatefinanceinstitute.com/resources/knowledge/accounting/variance-analysis/" target="_blank">Variance Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=SMTa1lZu7Qw" target="_blank">https://www.youtube.com/watch?v=SMTa1lZu7Qw&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="405" loading="lazy" src="https://www.youtube.com/embed/SMTa1lZu7Qw?feature=oembed" title="Variance Analysis" width="720">&lt;/iframe></description></item><item><title>Analytical Techniques</title><link>https://dasarpai.github.io/pmbok6/analytical-techniques/</link><pubDate>Mon, 15 Feb 2021 06:50:06 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/analytical-techniques/</guid><description>&lt;h2 class="relative group">Analytical Techniques
+&lt;div id="analytical-techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#analytical-techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Due to environmental factors, a project execution may vary from the plan. It is the project manager’s responsibility to identify the amount of variance in comparison to the original plan, determine the root cause, and forecast potential outcomes considering the amount of variance and environmental variables. This work is called “Analytical Techniques”. In PMBOK this is defined as tool and technique. Below is a list of examples of Analytical Techniques.&lt;/p></description></item><item><title>Expert Judgement</title><link>https://dasarpai.github.io/pmbok6/expert-judgement/</link><pubDate>Mon, 15 Feb 2021 03:09:21 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/expert-judgement/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmlogy/PMBOK-TT-Expert-Judgement-min.png" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Expert Judgement
+&lt;div id="expert-judgement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#expert-judgement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>PMBOK is an industry-agnostic project management standard. PMBOK 6th Edition defines 49 processes to manage a project. Every process has defined input, output, &lt;a href="https://dasarpai.github.io/pmbok6/pmbok-tools-techniques">tools &amp;amp; techniques&lt;/a>. But we know that the tools and techniques required to manage a project also depend upon the industry for which we are doing a project. To do the industry-specific work PMI has come up with a beautiful concept called “Expert Judgement”. This term is heavily used in the PMBOK in fact 28 processes out of 47, i.e. 60% of the processes use this term as a tool and technique. But the meaning and purpose of this change from process to process and industry to industry. Broadly expert judgement can be bucketed into the following groups.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Generative AI on</title><link>https://dasarpai.github.io/tags/generative-ai/</link><description>Recent content in Generative AI on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/generative-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview</title><link>https://dasarpai.github.io/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/state-of-the-art-image-generation-models-in-computer-vision/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg" alt="State-of-the-Art 3D Image Generation Models" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">State of the Art Computer Vision Models
+&lt;div id="state-of-the-art-computer-vision-models" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#state-of-the-art-computer-vision-models" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the different methods of Image generation?
+&lt;div id="what-are-the-different-methods-of-image-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-different-methods-of-image-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are several methods for image generation. Diffusion models are currently the state-of-the-art due to their balance of quality, flexibility, and scalability. However, other methods like GANs and autoregressive models remain relevant for specific use cases. Let&amp;rsquo;s see them one by one.&lt;/p></description></item><item><title>AI Models and Creators</title><link>https://dasarpai.github.io/dsblog/ai-models-and-creators/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-models-and-creators/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6187-ai-models-and-creators.jpg" alt="AI Models and Creators" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Models and Creators
+&lt;div id="ai-models-and-creators" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-models-and-creators" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Popular Models and Their Creator
+&lt;div id="popular-models-and-their-creator" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#popular-models-and-their-creator" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Nova - Amazon&lt;/li>
+&lt;li>Gemini, Gemma - Google&lt;/li>
+&lt;li>Granite - Oracle&lt;/li>
+&lt;li>GPT - OpenAI&lt;/li>
+&lt;li>Phi - Microsoft Azure&lt;/li>
+&lt;li>Einstein - Salesforce&lt;/li>
+&lt;li>Joule - SAP&lt;/li>
+&lt;li>Grok - X (formerly Twitter)&lt;/li>
+&lt;li>Llama - Meta&lt;/li>
+&lt;li>Qwen - Alibaba&lt;/li>
+&lt;li>Claude - Anthropic&lt;/li>
+&lt;li>Bard - Google&lt;/li>
+&lt;li>PaLM - Google&lt;/li>
+&lt;li>Mistral - Mistral AI&lt;/li>
+&lt;li>Falcon - Technology Innovation Institute (TII), UAE&lt;/li>
+&lt;li>Gato - DeepMind&lt;/li>
+&lt;li>Jasper - Jasper AI&lt;/li>
+&lt;li>Bloom - BigScience (collaborative project)&lt;/li>
+&lt;li>Ernie - Baidu&lt;/li>
+&lt;li>Alpaca - Stanford University (fine-tuned LLaMA model)&lt;/li>
+&lt;li>Stable Diffusion - Stability AI&lt;/li>
+&lt;li>HuggingChat - Hugging Face&lt;/li>
+&lt;li>Cohere of Command&lt;/li>
+&lt;li>Alpha fold of deepmind&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Models Developed by Microsoft
+&lt;div id="models-developed-by-microsoft" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#models-developed-by-microsoft" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Microsoft has developed or collaborated on several AI models and frameworks, especially as part of its Azure AI ecosystem and its partnership with OpenAI. Below is a list of models and AI systems associated with Microsoft:&lt;/p></description></item><item><title>Generative AI for Client and Stakeholder Engagement</title><link>https://dasarpai.github.io/dscourses/genai-for-client-and-stakeholder-engagement/</link><pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/genai-for-client-and-stakeholder-engagement/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg" alt="AI Powered Client and Stakeholder Engagement" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Program Outline: AI Powered Client and Stakeholder Engagement
+&lt;div id="program-outline-ai-powered-client-and-stakeholder-engagement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#program-outline-ai-powered-client-and-stakeholder-engagement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Duration:
+&lt;div id="duration" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#duration" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>2 Days&lt;/p>
+&lt;h2 class="relative group">Course Audience:
+&lt;div id="course-audience" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-audience" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Service Delivery Managers, Product Managers, Scrum Masters, NBU Leads/Managers&lt;/p></description></item><item><title>Developing GenAI Solutions with LangChain &amp; LlamaIndex</title><link>https://dasarpai.github.io/dscourses/genai-for-developing-solutions-with-rag/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/genai-for-developing-solutions-with-rag/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg" alt="Developing GenAI Solutions with RAG" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Program Outline: Developing GenAI Solutions with RAG
+&lt;div id="program-outline-developing-genai-solutions-with-rag" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#program-outline-developing-genai-solutions-with-rag" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Duration:
+&lt;div id="duration" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#duration" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>4 Days&lt;/p>
+&lt;h2 class="relative group">Course Audience:
+&lt;div id="course-audience" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-audience" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Technical Leads, Technical Architects, Service Delivery Managers&lt;/p>
+&lt;h2 class="relative group">Target Unit:
+&lt;div id="target-unit" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#target-unit" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Delivery CoE, Product, Internal Applications&lt;/p></description></item><item><title>Generative AI for Sales and Marketing</title><link>https://dasarpai.github.io/dscourses/genai-for-sales-and-marketing/</link><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/genai-for-sales-and-marketing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg" alt="GenAI for Sales and Marketing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Program Outline: Generative AI for Sales &amp;amp; Marketing Team
+&lt;div id="program-outline-generative-ai-for-sales--marketing-team" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#program-outline-generative-ai-for-sales--marketing-team" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Duration:
+&lt;div id="duration" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#duration" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>4 Days&lt;/p>
+&lt;h2 class="relative group">Course Audience:
+&lt;div id="course-audience" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-audience" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Sales &amp;amp; Marketing Leads/Managers&lt;/p>
+&lt;h2 class="relative group">Target Unit:
+&lt;div id="target-unit" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#target-unit" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Sales and Marketing&lt;/p></description></item><item><title>GenAI for ALL</title><link>https://dasarpai.github.io/dscourses/genai-for-all/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dscourses/genai-for-all/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dscourses/dsc323-GenAI-for-ALL.jpg" alt="GenAI for ALL" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Program Outline: Generative AI for All
+&lt;div id="program-outline-generative-ai-for-all" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#program-outline-generative-ai-for-all" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Duration:
+&lt;div id="duration" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#duration" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>2 Days&lt;/p>
+&lt;h2 class="relative group">Course Audience:
+&lt;div id="course-audience" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#course-audience" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>QA Leads, Support Leads, Technical Leads, Service Delivery Managers, NBU Leads/Managers&lt;/p>
+&lt;h2 class="relative group">Target Unit :
+&lt;div id="target-unit-" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#target-unit-" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Delivery CoE Product Sales and marketing Facility and IT Operations HR Internal Applications Finance Capability Building&lt;/p></description></item><item><title>Exploring All Dimensions of Application Development</title><link>https://dasarpai.github.io/dsblog/exploring-all-dimensions-of-application-development/</link><pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-all-dimensions-of-application-development/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring All Dimensions of Application Development
+&lt;div id="exploring-all-dimensions-of-application-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-all-dimensions-of-application-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>These aspects highlight the diverse areas involved in application development beyond just frontend, backend, or mobile/desktop apps. Each plays a critical role in building, deploying, and maintaining robust, scalable, and user-friendly applications.&lt;/p>
+&lt;p>Each of these aspects is crucial to modern software development, covering everything from handling the user interface on the frontend to processing data and requests on the backend, as well as building specialized mobile or desktop applications.&lt;/p></description></item><item><title>Exploring LLM Application Development</title><link>https://dasarpai.github.io/dsblog/exploring-llm-app-development/</link><pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-llm-app-development/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg" alt="Exploring LLM Application Development" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring LLM Application Development
+&lt;div id="exploring-llm-application-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-llm-application-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is LLM Application Development?
+&lt;div id="what-is-llm-application-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-llm-application-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Large Language Model (LLM) application development involves creating applications that leverage pretrained large language models, like GPT (like GPT3.5, GPT4.o), Sonnet, DALLE, SORA, BERT, T5, Gemma, RoBERTa, DINO, Turning-NLG, Phi, Llama, Stable Diffusion, Flang, Einstine, Megatron, StyleGAN, BART, Granite, or others, to perform natural language processing tasks. Unlike classical applications, which operate on explicit programming logic, LLM-based applications rely on trained models to process human language, make predictions, and respond dynamically based on vast amounts of text data.&lt;/p></description></item><item><title>AI Benchmarks Explained</title><link>https://dasarpai.github.io/dsblog/ai-benchmarks-explained/</link><pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-benchmarks-explained/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg" alt="AI-Benchmarks-Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Benchmarks Explained: Essential Components and Leading LLM Evaluation Techniques
+&lt;div id="ai-benchmarks-explained-essential-components-and-leading-llm-evaluation-techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-benchmarks-explained-essential-components-and-leading-llm-evaluation-techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is a Benchmark in AI?
+&lt;div id="what-is-a-benchmark-in-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-a-benchmark-in-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>benchmark&lt;/strong> in AI is like a standard measurement tool that helps researchers and developers assess how well their artificial intelligence models perform. Just like athletes are judged based on their performance against specific standards, AI models are evaluated against predefined tasks and metrics.&lt;/p></description></item><item><title>Transfer Learning Key AI Techniques Explained</title><link>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg" alt="Transfer Learning Key AI Techniques Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transfer Learning Key AI Techniques Explained
+&lt;div id="transfer-learning-key-ai-techniques-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transfer-learning-key-ai-techniques-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article we will understand some important concepts used within machine learning.&lt;/p>
+&lt;ul>
+&lt;li>What is in-context Learning?&lt;/li>
+&lt;li>What is Prompt-Engineering?&lt;/li>
+&lt;li>What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li>
+&lt;li>What is Zero-shot learning?&lt;/li>
+&lt;li>How Zero-shot learning is different from In-context Learning?&lt;/li>
+&lt;li>What is Meta-Learning?&lt;/li>
+&lt;li>What is Few-shot learning?&lt;/li>
+&lt;li>Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li>
+&lt;li>What is transfer learning?&lt;/li>
+&lt;li>How do we do transfer learning from existing model?&lt;/li>
+&lt;li>What is finetuning?&lt;/li>
+&lt;li>Which layers to update, what weight to update during finetuning?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Prompt Engineering, In Context Learning and Zero-shot Learning
+&lt;div id="prompt-engineering-in-context-learning-and-zero-shot-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#prompt-engineering-in-context-learning-and-zero-shot-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">What is in-context Learning?
+&lt;div id="what-is-in-context-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-in-context-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p></description></item><item><title>Types of Large Language Models (LLM)</title><link>https://dasarpai.github.io/dsblog/types-of-llm/</link><pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6171-Types-of-LLM.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Introduction:&lt;/strong>
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The world of Generative AI (GenAI) is expanding at an astonishing rate, with new models emerging almost daily, each sporting unique names, capabilities, versions, and sizes. For AI professionals, keeping track of these models can feel like a full-time job. But for business users, IT professionals, and software developers trying to make the right choice, understanding the model’s name and what it represents can seem overwhelming. Wouldn’t it be helpful if we could decode the meaning behind these names to know if a model fits our needs and is worth the investment? In this article, we’ll break down how the names of GenAI models can reveal clues about their functionality and suitability for specific tasks, helping you make informed decisions with confidence.&lt;/p></description></item><item><title>Navigating the JavaScript Ecosystem</title><link>https://dasarpai.github.io/dsblog/navigating-the-javascript-ecosystem/</link><pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-the-javascript-ecosystem/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg" alt="Navigating the JavaScript Ecosystem" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More
+&lt;div id="navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This article is trying to answer following questions.&lt;/p>
+&lt;ol>
+&lt;li>Evoluation of Javascript and Relationship with Java.&lt;/li>
+&lt;li>What are popular javascript libraries?&lt;/li>
+&lt;li>What is Node and Node.js?&lt;/li>
+&lt;li>Key Features of Node.js.&lt;/li>
+&lt;li>How are Node and Node.js Related?&lt;/li>
+&lt;li>What are the Central Repositories of Javascript Packages?&lt;/li>
+&lt;li>What is the difference between npm and npx?&lt;/li>
+&lt;li>What are important npx commands?&lt;/li>
+&lt;li>What is the &amp;rsquo;export&amp;rsquo; keyword in javascript?&lt;/li>
+&lt;li>How to Use the Exported Function?&lt;/li>
+&lt;li>What is the meaning of workspace in Yarn pacakge manager?&lt;/li>
+&lt;li>Key Features of Yarn Workspaces.&lt;/li>
+&lt;li>How to Set Up Yarn Workspaces?&lt;/li>
+&lt;li>Can I use multiple package managers in my Javascript project?&lt;/li>
+&lt;li>What are other Important Languages and their primary purpose?&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Evoluation of Javascript and Relationship with Java.
+&lt;div id="evoluation-of-javascript-and-relationship-with-java" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#evoluation-of-javascript-and-relationship-with-java" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There is no relationship between Java and JavaScript.&lt;/p></description></item><item><title>Applications of GenAI</title><link>https://dasarpai.github.io/dsblog/applications-of-genai/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/applications-of-genai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg" alt="Applications of GenAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Application of Generative AI (GenAI)
+&lt;div id="application-of-generative-ai-genai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#application-of-generative-ai-genai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Generative AI (GenAI) is transforming how we interact with technology by producing human-like text, images, audio, and even code. Leveraging advanced models, especially large language models (LLMs), GenAI offers a wide range of applications across industries and data types. Let&amp;rsquo;s explore some of the key use cases and how different sectors are benefiting from this technology.&lt;/p></description></item><item><title>GenAI Capabilities from AWS, Azure and GCP</title><link>https://dasarpai.github.io/dsblog/genai-capabilities-from-aws+gcp+azure/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/genai-capabilities-from-aws+gcp+azure/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg" alt="GenAI Capabilities from AWS, Azure, and Google Cloud" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Battle for AI Supremacy: GenAI Capabilities from AWS, Azure, and Google Cloud
+&lt;div id="the-battle-for-ai-supremacy-genai-capabilities-from-aws-azure-and-google-cloud" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-battle-for-ai-supremacy-genai-capabilities-from-aws-azure-and-google-cloud" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this Article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking for answer of following questions then this article is for you, else you can skip this.&lt;/p></description></item><item><title>Understanding LLM GAN and Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg" alt="Understanding-LLM-GAN-Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding LLM, GAN and Transformers
+&lt;div id="understanding-llm-gan-and-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-gan-and-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">LLM Layers
+&lt;div id="llm-layers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#llm-layers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:&lt;/p></description></item><item><title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title><link>https://dasarpai.github.io/dsblog/rps-pretrained-language-models-for-text-generation/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rps-pretrained-language-models-for-text-generation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg" alt="Pretrained Language Models for Text Generation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong>&lt;br>
+Typer of Paper:- Survey Paper&lt;br>
+&lt;a href="https://arxiv.org/abs/2105.10311" target="_blank">Paper URL&lt;/a>&lt;br>
+Paper title of the citations mentioned can be found at &lt;a href="https://dasarpai.github.io/dsblog/aip">AI Papers with Heading&lt;/a>. Use citation code to locate.&lt;/p>
+&lt;h1 class="relative group">Paper Summary :- Pretrained Language Models for Text Generation
+&lt;div id="paper-summary---pretrained-language-models-for-text-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-summary---pretrained-language-models-for-text-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Paper Outcome
+&lt;div id="paper-outcome" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-outcome" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>General task deﬁnition&lt;/li>
+&lt;li>Describe the mainstream architectures of PLMs for text generation.&lt;/li>
+&lt;li>How to adapt existing PLMs to model different input data and satisfy special properties in the generated text.&lt;/li>
+&lt;li>Summarize several important ﬁne-tuning strategies for text generation.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Ideas from the Paper
+&lt;div id="ideas-from-the-paper" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ideas-from-the-paper" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Main Ideas
+&lt;div id="main-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#main-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>This paper discusses &amp;ldquo;major advances achieved in the topic of PLMs for text generation&amp;rdquo;&lt;/li>
+&lt;li>This survey aims to provide &amp;ldquo;text generation researchers a synthesis&amp;rdquo; and pointer to related research.&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">General Ideas
+&lt;div id="general-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#general-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Text generation has become one of the most important yet challenging tasks in natural language processing (NLP).&lt;/li>
+&lt;li>Neural generation model are deep learning models&lt;/li>
+&lt;li>Pretrained language models (PLMs) are neural generation model&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Task Types and Typical Applications
+&lt;div id="task-types-and-typical-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#task-types-and-typical-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )&lt;/li>
+&lt;li>If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
+generation task(generate text without any constraint) &lt;a href="https://dasarpai.github.io/dsblog/aip#radford2019">Radford2019&lt;/a>&lt;/li>
+&lt;li>If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
+attribute-based generation. X plays the role of guiding the text generation. &lt;a href="https://dasarpai.github.io/dsblog/aip#Keskar2019">Keskar2019&lt;/a>.&lt;/li>
+&lt;li>If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation &lt;a href="https://dasarpai.github.io/dsblog/aip#Li2021c">Li2021c&lt;/a>.&lt;/li>
+&lt;li>If X is multimedia input such as image, the task becomes image caption &lt;a href="https://dasarpai.github.io/dsblog/aip#Xia2020">Xia2020&lt;/a>&lt;/li>
+&lt;li>If X is multimedia input such as speech, the task become speech recognition &lt;a href="https://dasarpai.github.io/dsblog/aip#Fan2019">Fan2019&lt;/a>.&lt;/li>
+&lt;li>If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system.&lt;/li>
+&lt;li>Machine translation aims to translate text from one language into another language automatically &lt;a href="https://dasarpai.github.io/dsblog/aip#Conneau2019">Conneau2019&lt;/a>&lt;/li>
+&lt;li>Generating condensed summary of a long document &lt;a href="https://dasarpai.github.io/dsblog/aip#Zhang2019b">Zhang2019b&lt;/a>&lt;/li>
+&lt;li>Dialogue system to converse with humans using natural language. &lt;a href="https://dasarpai.github.io/dsblog/aip#Wolf2019">Wolf2019&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Architectures for Text Generation
+&lt;div id="architectures-for-text-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#architectures-for-text-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
+&lt;ul>
+&lt;li>MASS &lt;a href="https://dasarpai.github.io/dsblog/aip#song2019">Song2019&lt;/a>&lt;/li>
+&lt;li>T5 &lt;a href="https://dasarpai.github.io/dsblog/aip#raffel2020">Raffel2020&lt;/a>&lt;/li>
+&lt;li>BART &lt;a href="https://dasarpai.github.io/dsblog/aip#lewis2020">Lewis2020&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens.
+&lt;ul>
+&lt;li>GPT &lt;a href="https://dasarpai.github.io/dsblog/aip#radfordet2019">Radfordet2019&lt;/a>; &lt;a href="https://dasarpai.github.io/dsblog/aip#brown2020">Brown2020&lt;/a>&lt;/li>
+&lt;li>CTRL [Keskar2019]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Modeling Different Data Types from Input
+&lt;div id="modeling-different-data-types-from-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#modeling-different-data-types-from-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Unstructured Input
+&lt;div id="unstructured-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#unstructured-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Hierarchical BERT to learn interactions between sentences with self-attention for document encoding. [Zhang2019b] and [Xu2020b]&lt;/li>
+&lt;li>Capturing intersentential relations, DiscoBERT stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. [Xu2020a]&lt;/li>
+&lt;li>Cross-lingual language models (XLMs) for multilingual language understanding. [Conneau2019]&lt;/li>
+&lt;li>Text generation models can obtain effective input word embeddings even in a low-resource language [Wada2018].&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Structured Input
+&lt;div id="structured-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#structured-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>PLMs are not designed for structured or tabular data but for sequential text/data.&lt;/li>
+&lt;li>Incorporating PLMs for data-to text generation, especially in few-shot settings. [Chen2020b] and [Gong2020]&lt;/li>
+&lt;li>To adapt to the sequential nature of PLMs linearized input knowledge graph (KG) and abstract meaning representation (AMR) graph into a sequence of triples. [Ribeiro2020] and [Mager2020]&lt;/li>
+&lt;li>Introduced an additional graph encoder to encode the input KG. [Li2021b]&lt;/li>
+&lt;li>Template based method to serialize input table into text sequence. [Gong2020]
+&lt;ul>
+&lt;li>For example, the attribute-value pair “name: jack reynolds” will be serialized as a sentence “name is jack reynolds”. However, direct linearization will lose the structural information of original data, which may lead to generating unfaithful text about data.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Auxiliary reconstruction task for recovering the structural information of input data, which can enhance the capacity of modeling structural information. [Gong2020]&lt;/li>
+&lt;li>The pointer generator mechanism is adopted to copy words from input knowledge data. [See2017] [Chen2020b].&lt;/li>
+&lt;li>Content matching loss for measuring the distance between the information in input data and the output text. [Gong2020]&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Multimedia Input
+&lt;div id="multimedia-input" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multimedia-input" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Conducted pretraining for the video caption task. VideoBERT [Sun2019b] and CBT [Sun2019a]&lt;/li>
+&lt;li>Used a shared multi-layer Transformer network for both encoding and decoding. Unified VLP [Zhou2020]&lt;/li>
+&lt;li>Pretrained the model on two masked language modeling (MLM) tasks, like cloze tasks designed for sequence-to-sequence LM. UniLM [Dong2019]&lt;/li>
+&lt;li>Cross-modal pretrained model (XGPT) by taking images as inputs and using the image caption task as the basic generative task in the pretraining stage. Xia2020&lt;/li>
+&lt;li>Image, video, speech recognition is hungry for human-transcripted supervised data.&lt;/li>
+&lt;li>Integrate PLMs for weakly-supervised learning. For example,
+&lt;ul>
+&lt;li>Unsupervised approach to pretraining encoder-decoder model with unpaired speech and transcripts. [Fan2019]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Two pretraining stages are used to extract acoustic and linguistic information with speech and transcripts, which is useful for downstream speech recognition task.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Satisfying Special Properties for Output Text
+&lt;div id="satisfying-special-properties-for-output-text" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#satisfying-special-properties-for-output-text" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Generated text should satisfy several key properties like. relevance, faithfulness, and order-preservation.&lt;/li>
+&lt;li>Relevance. Relevance refers that the topics in output text is highly related to the input text. The generated responses should
+also be relevant to the condition. RNN-based models still tend to generate irrelevant output text and lack consistency with input. - When applying PLMs to the task of dialogue systems, TransferTransfo and DialoGPT were able to generate more relevant responses than RNNbased models. [Wolf2019] [Zhang2020] - Utilize elaborated condition blocks to incorporate external conditions. They used BERT for both encoder and decoder by utilizing different input
+representations and self-attention masks to distinguish the source and target sides of dialogue. On the target (generation) side, a new attention routing mechanism is adopted to generate context-related words. [Zeng2020] - Approach for non-conditioned dialogue [Bao2020].&lt;/li>
+&lt;li>Faithfulness. Means the content in generated text should not contradict the facts in input text.
+&lt;ul>
+&lt;li>PLMs are potentially beneficial to generate faithful text by utilizing background knowledge.&lt;/li>
+&lt;li>Initialize the encoder and decoder with three outstanding PLMs, i.e., BERT, GPT and RoBERTa. [Rothe2020]&lt;/li>
+&lt;li>With pretraining, the models are more aware of the domain characteristics and less prone to language model vulnerabilities.&lt;/li>
+&lt;li>Decompose the decoder into a contextual network that retrieves relevant parts of the source document and a PLM that incorporates prior knowledge about language generation. [Kryscinski2018]&lt;/li>
+&lt;li>Generate faithful text in different target domains, fine-tuned PLMs on target domains through theme modeling loss. [Yang2020b]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Order-preservation. Order-preservation denotes that the order of semantic units (word, phrase, etc.) in both input and output text is consistent.
+&lt;ul>
+&lt;li>When translating from source language to target language, keeping the order of phrases consistent in source language and target language will ensure the accuracy of the translation.&lt;/li>
+&lt;li>Code-Switching Pre-training (CSP) for machine translation. [Yang2020a]
+&lt;ul>
+&lt;li>Extracted the word-pair alignment information from the source and target language,&lt;/li>
+&lt;li>Aplied the extracted alignment information to enhance order-preserving.&lt;/li>
+&lt;li>Translation across multiple languages, called multilingual machine translation [Conneau2019].&lt;/li>
+&lt;li>mRASP (technique of randomly aligned substitution), an approach to pretraining a universal multilingual machine translation model. [Lin2020]&lt;/li>
+&lt;li>Aligning word representations of each language, making it possible to preserve the word order consistent cross multiple languages. Wada2018&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Summary from Introduction
+&lt;div id="summary-from-introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#summary-from-introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Researchers have developed numerous techniques for a wide range of applications of text generation [Li2021a].&lt;/li>
+&lt;li>Machine translation generates text in a different language based on the source text [Yang2020a];&lt;/li>
+&lt;li>Summarization generates an abridged version of the source text to include salient information [Guan2020].&lt;/li>
+&lt;li>Text generation tasks based on
+&lt;ul>
+&lt;li>Recurrent neural networks (RNN) [Li2019],&lt;/li>
+&lt;li>Convolutional neural networks (CNN) [Gehring2017],&lt;/li>
+&lt;li>Graph neural networks (GNN) [Li2020],&lt;/li>
+&lt;li>Attention mechanism [Bahdanau2015].&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>One of the advantages of these neural models is that they enable end-to-end learning of semantic mappings from input to output in text generation.&lt;/li>
+&lt;li>Neural models are able to learn low-dimensional, dense vectors to implicitly represent linguistic features of text, which is also useful to alleviate data sparsity.&lt;/li>
+&lt;li>Deep neural networks usually have a large number of parameters to learn, which are likely to overﬁt on these small datasets and do not generalize well in practice.&lt;/li>
+&lt;li>The idea behind PLMs is to ﬁrst pretrain the models in large-scale corpus and then ﬁnetune these models in various downstream tasks to achieve
+state-of-the-art results.&lt;/li>
+&lt;li>PLMs can encode a large amount of linguistic knowledge from corpus and induce universal representations of language.&lt;/li>
+&lt;li>PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown2020].&lt;/li>
+&lt;li>A synthesis to the research on some text generation subtasks. Zaib et al. [2020], and Guan et al. [2020]&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Conclusion &amp;amp; Future Recommendations
+&lt;div id="conclusion--future-recommendations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#conclusion--future-recommendations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Model Extension.&lt;/p></description></item><item><title>What is GAN Architecture?</title><link>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</link><pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg" alt="What is GAN Architecture?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN Architecture?
+&lt;div id="what-is-gan-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. It is a type of artificial intelligence (AI) model that consists of two neural networks: a generator and a discriminator. GANs are used for generative tasks, such as creating realistic images, videos, or even audio.&lt;/p></description></item><item><title>What is GAN?</title><link>https://dasarpai.github.io/dsblog/what-is-gan/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6043-gan.jpg" alt="Partial Dependence Plots" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN?
+&lt;div id="what-is-gan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is GAN (Generative Adversarial Network)?
+&lt;div id="what-is-gan-generative-adversarial-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-generative-adversarial-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Generative adversarial networks (GANs) are besing used to generate images, videos, text, audio and music. GAN is a class of machine-learning models introduced by Ian Goodfellow and his colleagues in 2014. The GANs became popular among researchers quickly because of their property to generate new data with the same statistics as the input training set. It can be applied to images, videos, textual data, tabular data and more, proving useful for semi-supervised, fully supervised, and reinforcement learning.&lt;/p></description></item></channel></rss>

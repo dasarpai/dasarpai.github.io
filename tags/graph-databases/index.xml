@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph Databases on</title><link>https://dasarpai.github.io/tags/graph-databases/</link><description>Recent content in Graph Databases on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/graph-databases/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring GraphDB and Neo4j - A Guide to Graph Databases</title><link>https://dasarpai.github.io/dsblog/exploring-graphdb-and-neo4j/</link><pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-graphdb-and-neo4j/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg" alt="Exploring GraphDB and Neo4j" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">RDBMS vs. Neo4j (Cypher) Command Comparison
+&lt;div id="rdbms-vs-neo4j-cypher-command-comparison" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#rdbms-vs-neo4j-cypher-command-comparison" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Are GraphDB faster than RDBMS?
+&lt;div id="are-graphdb-faster-than-rdbms" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#are-graphdb-faster-than-rdbms" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Graph databases (GraphDBs) can be &lt;strong>faster&lt;/strong> than relational databases (RDBMS) in scenarios that involve &lt;strong>complex relationships and deep traversals&lt;/strong>, but they are not always universally faster. It depends on the &lt;strong>query type, data structure, and use case&lt;/strong>.&lt;/p></description></item><item><title>Type of Databases</title><link>https://dasarpai.github.io/dsblog/type-of-databases/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/type-of-databases/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6041-Type-of-Databases.jpg" alt="Type of Databases" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What are the various types of databases?
+&lt;div id="what-are-the-various-types-of-databases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-various-types-of-databases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let&amp;rsquo;s look into these.&lt;/p></description></item></channel></rss>

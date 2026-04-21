@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Warehousing on</title><link>https://dasarpai.github.io/tags/data-warehousing/</link><description>Recent content in Data Warehousing on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Apache Hive</title><link>https://dasarpai.github.io/dsblog/exploring-apache-hive/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-apache-hive/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg" alt="Exploring Apache Hive" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Apache Hive: Capabilities and Scalability for Big Data Processing
+&lt;div id="exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Hive?
+&lt;div id="what-is-hive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-hive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. It provides a platform for processing large datasets stored in Hadoop Distributed File System (HDFS) and other data storage systems that integrate with Hadoop. Hive simplifies querying and managing big data with a familiar SQL-like syntax (HiveQL). Below are the key capabilities of Hive:&lt;/p></description></item><item><title>Data Lake vs Data Warehouse vs Data Mart</title><link>https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg" alt="Datalake vs Data Warehouse" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is the difference between Data Lake and Data Warehouse?
+&lt;div id="what-is-the-difference-between-data-lake-and-data-warehouse" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-data-lake-and-data-warehouse" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A data warehouse is a system used for reporting and data analysis, and is considered a &amp;ldquo;single version of the truth.&amp;rdquo; It typically includes a subset of an organization&amp;rsquo;s data that is specifically structured for querying and reporting. A data lake, on the other hand, is a more flexible and general-purpose system for storing raw, unstructured data. Data in a lake can be stored in its original format and can be used for a variety of purposes, including reporting and analysis. Data warehouse is more structured while data lake is unstructured. Data warehouse is optimized for reporting and analytics while data lake is optimized for storing and processing large amount of raw data.&lt;/p></description></item></channel></rss>

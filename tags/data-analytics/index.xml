@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analytics on</title><link>https://dasarpai.github.io/tags/data-analytics/</link><description>Recent content in Data Analytics on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Apache Hive</title><link>https://dasarpai.github.io/dsblog/exploring-apache-hive/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-apache-hive/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg" alt="Exploring Apache Hive" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Apache Hive: Capabilities and Scalability for Big Data Processing
+&lt;div id="exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Hive?
+&lt;div id="what-is-hive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-hive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. It provides a platform for processing large datasets stored in Hadoop Distributed File System (HDFS) and other data storage systems that integrate with Hadoop. Hive simplifies querying and managing big data with a familiar SQL-like syntax (HiveQL). Below are the key capabilities of Hive:&lt;/p></description></item><item><title>Database and Analytics Product Services from Google Azure AWS</title><link>https://dasarpai.github.io/dsblog/database-and-analytics-product-services-from-google-azure-aws/</link><pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/database-and-analytics-product-services-from-google-azure-aws/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg" alt="Database and Analytics Product Services from Google Azure AWS" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Database and Analytics Product Services from Google Azure AWS
+&lt;div id="database-and-analytics-product-services-from-google-azure-aws" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#database-and-analytics-product-services-from-google-azure-aws" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Database Tools/Services
+&lt;div id="database-toolsservices" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#database-toolsservices" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno&lt;/th>
+&lt;th>Amazon&lt;/th>
+&lt;th>Azure&lt;/th>
+&lt;th>Microsoft&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/rds/aurora/?nc2=h_ql_prod_db_aa" target="_blank">Amazon Aurora : High performance managed relational database with full MySQL and PostgreSQL compatibility&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/sql?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">SQL : Managed MySQL, PostgreSQL, SQL Server&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/azure-sql/" target="_blank">Azure SQL : Migrate, modernize, and innovate on the modern SQL family of cloud databases&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/rds/aurora/serverless/?nc2=h_ql_prod_db_aav2" target="_blank">Amazon Aurora Serverless V2 : Instantly scale to &amp;gt;100,000 transactions per second&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/datastore?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Datastore : NoSQL database for your web and mobile apps&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/cosmos-db/" target="_blank">Azure Cosmos DB : Build or modernize scalable, high-performance apps&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/documentdb/?nc2=h_ql_prod_db_doc" target="_blank">Amazon DocumentDB (with MongoDB compatibility) : Fully managed document database&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/firestore?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Firestore : Serverless NoSQL document DB&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/azure-sql/database/" target="_blank">Azure SQL Database : Build apps that scale with managed and intelligent SQL database in the cloud&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/dynamodb/?nc2=h_ql_prod_db_ddb" target="_blank">Amazon DynamoDB : Managed NoSQL database&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/spanner?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Spanner : Horizontally scalable relational DB&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/postgresql/" target="_blank">Azure Database for PostgreSQL : Fully managed, intelligent, and scalable PostgreSQL&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/elasticache/?nc2=h_ql_prod_db_elc" target="_blank">Amazon ElastiCache : In-memory caching service&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/bigtable?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Bigtable : Petabyte-scale, low-latency, non-relational&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/azure-sql/managed-instance/" target="_blank">Azure SQL Managed Instance : Modernize SQL Server applications with a managed, always-up-to-date SQL instance in the cloud&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/keyspaces/?nc2=h_ql_prod_db_mcs" target="_blank">Amazon Keyspaces (for Apache Cassandra) : Managed Cassandra-compatible database&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/memorystore?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Memorystore : Managed Redis and Memcached&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/services/mysql/" target="_blank">Azure Database for MySQL : Fully managed, scalable MySQL Database&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/memorydb/?nc2=h_ql_prod_db_memdb" target="_blank">Amazon MemoryDB for Redis : Redis-compatible, durable, in-memory database that delivers ultra-fast performance&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/dbmigration?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Database Migration : Cloud SQL migrations simplified&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/" target="_blank">SQL Server on Azure Virtual Machines : Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/neptune/?nc2=h_ql_prod_db_nep" target="_blank">Amazon Neptune : Fully managed graph database service&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/marketplace/product/mongodb/mdb-atlas-self-service?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">MongoDB Atlas : JSON-like data models, querying, &amp;amp; scaling&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/cache/" target="_blank">Azure Cache for Redis : Accelerate apps with high-throughput, low-latency data caching&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/qldb/?nc2=h_ql_prod_db_qldb" target="_blank">Amazon Quantum Ledger Database (QLDB) : Fully managed ledger database&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/marketplace/product/endpoints/prod.n4gcp.neo4j.io?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Neo4j Aura : Integrated, fully managed graph databases&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/database-migration/" target="_blank">Azure Database Migration Service : Accelerate your data migration to Azure&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/rds/?nc2=h_ql_prod_db_rds" target="_blank">Amazon RDS : Managed relational database service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/marketplace/product/redis-marketplace-isaas/redis-enterprise-cloud-flexible-plan?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Redis Enterprise : Robust in-memory database platform&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/services/managed-instance-apache-cassandra/" target="_blank">Azure Managed Instance for Apache Cassandra : Modernize Cassandra data clusters with a managed instance in the cloud&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/rds/outposts/?nc2=h_ql_prod_db_rdsvm" target="_blank">Amazon RDS on Outposts : Automate on-premises database management&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">AlloyDB : Enterprise-grade, PostgreSQL-compatible databases&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/services/mariadb/" target="_blank">Azure Database for MariaDB : Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/redshift/?nc2=h_ql_prod_db_rs" target="_blank">Amazon Redshift : Fast, simple, cost-effective data warehousing&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/timestream/?nc2=h_ql_prod_db_ts" target="_blank">Amazon Timestream : Fully managed time series database&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/dms/?nc2=h_ql_prod_db_dbm" target="_blank">AWS Database Migration Service : Migrate databases with minimal downtime&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 class="relative group">Data Analytics Tools/Services
+&lt;div id="data-analytics-toolsservices" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-analytics-toolsservices" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno&lt;/th>
+&lt;th>Amazon&lt;/th>
+&lt;th>Azure&lt;/th>
+&lt;th>Microsoft&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/athena/?nc2=h_ql_prod_an_ath" target="_blank">Amazon Athena : Query data in S3 using SQL&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">BigQuery : Data warehouse for business agility and insights.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank">Azure Synapse Analytics : Limitless analytics with unmatched time to insight&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/cloudsearch/?nc2=h_ql_prod_an_cs" target="_blank">Amazon Cloud : SearchManaged search service&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Looker : Platform for BI, data applications, and embedded analytics.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank">Azure Databricks : Design AI with Apache Spark™-based analytics&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/datazone/?nc2=h_ql_prod_an_dz" target="_blank">Amazon DataZone (Preview) : Unlock data across organizational boundaries with built-in governance&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Dataflow : Streaming analytics for stream and batch processing.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/purview/" target="_blank">Microsoft Purview : Govern, protect, and manage your data estate&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/opensearch-service/?nc2=h_ql_prod_an_es" target="_blank">Amazon OpenSearch Service : Search, visualize, and analyze up to petabytes of text and unstructured data&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Pub/Sub : Messaging service for event ingestion and delivery.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank">Azure Data Factory : Hybrid data integration at enterprise scale, made easy&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/emr/?nc2=h_ql_prod_an_emr" target="_blank">Amazon EMR : Easily run big data frameworks&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Dataproc : Service for running Apache Spark and Apache Hadoop clusters.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/hdinsight/" target="_blank">HDInsight : Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/finspace/?nc2=h_ql_prod_an_fs" target="_blank">Amazon FinSpace : Analytics for the financial services industry&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Cloud Data Fusion : Data integration for building and managing data pipelines.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/stream-analytics/" target="_blank">Azure Stream Analytics : Real-time analytics on fast-moving streaming data&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/kinesis/?nc2=h_ql_prod_an_kin" target="_blank">Amazon Kinesis : Analyze real-time video and data streams&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Cloud Composer : Workflow orchestration service built on Apache Airflow.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/machine-learning/" target="_blank">Azure Machine Learning : Build, train, and deploy models from the cloud to the edge&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/msk/?nc2=h_ql_prod_an_msak" target="_blank">Amazon Managed Streaming for Apache Kafka : Fully managed Apache Kafka service&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Dataprep : Service to prepare data for analysis and machine learning.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/analysis-services/" target="_blank">Azure Analysis Services : Enterprise-grade analytics engine as a service&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/redshift/?nc2=h_ql_prod_an_rs" target="_blank">Amazon Redshift : Fast, simple, cost-effective data warehousing&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Dataplex : Intelligent data fabric for unifying data management across silos.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/storage/data-lake-storage/" target="_blank">Azure Data Lake Storage : Scalable, secure data lake for high-performance analytics&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/quicksight/?nc2=h_ql_prod_an_qs" target="_blank">Amazon QuickSight : Fast business analytics service&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Looker Studio : Interactive data suite for dashboarding, reporting, and analytics.&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://azure.microsoft.com/en-us/products/data-explorer/" target="_blank">Azure Data Explorer : Fast and highly scalable data exploration service&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/clean-rooms/?nc2=h_ql_prod_an_cr" target="_blank">AWS Clean Rooms : Match, analyze, and collaborate on datasets–without sharing or revealing underlying data&lt;/a>&lt;/td>
+&lt;td>&lt;a href="https://console.cloud.google.com/alloydb?authuser=3&amp;amp;project=test-project-gcp-360004" target="_blank">Analytics Hub : Service for securely and efficiently exchanging data analytics assets.&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/data-exchange/?nc2=h_ql_prod_an_dex" target="_blank">AWS Data Exchange : Find, subscribe to, and use third-party data in the cloud&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/datapipeline/?nc2=h_ql_prod_an_dp" target="_blank">AWS Data Pipeline : Orchestration service for periodic, data-driven workflows&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/glue/?nc2=h_ql_prod_an_glu" target="_blank">AWS Glue : Simple, scalable, and serverless data integration&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15.&lt;/td>
+&lt;td>&lt;a href="https://aws.amazon.com/lake-formation/?nc2=h_ql_prod_an_lkf" target="_blank">AWS Lake Formation : Build, manage, and secure your data lake&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Author&lt;/strong>&lt;br>
+Dr Hari Thapliyaal&lt;br>
+dasarpai.com&lt;br>
+linkedin.com/in/harithapliyal&lt;/p></description></item></channel></rss>

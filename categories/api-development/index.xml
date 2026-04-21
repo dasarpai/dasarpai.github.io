@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>API Development on</title><link>https://dasarpai.github.io/categories/api-development/</link><description>Recent content in API Development on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/api-development/index.xml" rel="self" type="application/rss+xml"/><item><title>WhatsApp Integration: Webhooks, Messaging, and Architecture Design</title><link>https://dasarpai.github.io/dsblog/whatsapp-integration/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/whatsapp-integration/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6204-Whatsapp-Integration.jpg" alt="WhatsApp Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">WhatsApp Integration: Webhooks, Messaging, and Architecture Design
+&lt;div id="whatsapp-integration-webhooks-messaging-and-architecture-design" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#whatsapp-integration-webhooks-messaging-and-architecture-design" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When evaluating WhatsApp integrators, it’s crucial to assess their capabilities based on your business requirements, technical constraints, and operational goals. Here are key questions to ask yourself to assess their suitability:&lt;/p></description></item><item><title>Exploring SQL and GraphQL Commands</title><link>https://dasarpai.github.io/dsblog/exploring-sql-and-graphql-commands/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-sql-and-graphql-commands/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg" alt="Exploring SQL and GraphQL Commands" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring SQL and GraphQL Commands
+&lt;div id="exploring-sql-and-graphql-commands" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-sql-and-graphql-commands" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is SQL?
+&lt;div id="what-is-sql" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-sql" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>SQL, or Structured Query Language, is a standardized programming language used for managing and manipulating relational databases. It allows users to perform various operations on the data stored in a database, including:&lt;/p></description></item><item><title>Exploring Google Firebase</title><link>https://dasarpai.github.io/dsblog/exploring-firebase/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-firebase/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6159-Exploring-Firebase.jpg" alt="Exploring Firebase" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Firebase
+&lt;div id="exploring-firebase" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-firebase" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Firebase?
+&lt;div id="what-is-firebase" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-firebase" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Originally, Firebase started as a product called &lt;strong>Envolve&lt;/strong> in 2011, which was a real-time chat service. It was co-founded by &lt;strong>James Tamplin&lt;/strong> and &lt;strong>Andrew Lee&lt;/strong>. While developing Envolve, they realized that developers were using its real-time system to sync application data, not just chat messages. This led them to pivot and create Firebase as a real-time database product in 2012. Google acquired Firebase in &lt;strong>2014&lt;/strong> and integrated it into its broader ecosystem, expanding it into a full-fledged platform for app development.&lt;/p></description></item><item><title>REST API</title><link>https://dasarpai.github.io/dsblog/rest-api/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rest-api/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6121-REST-API.jpg" alt="REST-API" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">REST API
+&lt;div id="rest-api" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#rest-api" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>An API (Application Programming Interface) is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to communicate with each other, enabling them to request and exchange information.&lt;/p>
+&lt;p>Here are some key aspects of an API:&lt;/p></description></item><item><title>Python APIs for Data</title><link>https://dasarpai.github.io/dsblog/python-apis-for-data/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-apis-for-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg" alt="Python APIs for Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python APIs for Data
+&lt;div id="python-apis-for-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-apis-for-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://www.bing.com/" target="_blank">Bing&lt;/a> Bing is a search engine that brings together the best of search and people in your social networks to help you spend less time searching and more time doing.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.bing.com/dev/en-us/dev-center" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/pybing/" target="_blank">Python wrapper for the Bing search API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="http://www.bitly.com/" target="_blank">Bitly&lt;/a> URL shortening and bookmarking service&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://dev.bitly.com/get_started.html" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/python-bitly/" target="_blank">Python wrapper around the bit.ly API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://blogger.com/" target="_blank">Blogger&lt;/a> Blog-publishing service&lt;/p></description></item><item><title>Google Cloud APIs</title><link>https://dasarpai.github.io/dsblog/google-cloud-apis/</link><pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/google-cloud-apis/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6082-Google-API-Services.jpg" alt="Google Cloud APIs" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Google Cloud APIs
+&lt;div id="google-cloud-apis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#google-cloud-apis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Hundreds of services from Google are available to consumers as API. Every API has a specific purpose. Over a period of time, google keeps clubbing these API endpoints (a url/place where a service is available), cleaning their code and improving the capabilities of these services. Therefore, sometimes it looks endpoint or pip package is the same, but its API name is different. Recently when google clubbed their many AI APIs they are moved under VertexAI and API endpoint changed to aiplatform.googleapi.com. To bring some clarity for my own sake and some of you may like this, I wrote this article.&lt;/p></description></item></channel></rss>

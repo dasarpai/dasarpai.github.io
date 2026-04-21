@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transformer Models on</title><link>https://dasarpai.github.io/tags/transformer-models/</link><description>Recent content in Transformer Models on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/transformer-models/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Contextual Embedding in Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-contextual-embedding-in-transformers/</link><pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-contextual-embedding-in-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg" alt="Understanding Contextual Embedding in Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Embedding can be confusing for many people, and contextual embedding performed by transformers can be even more perplexing. Even after gaining an understanding, many questions remain. In this article, we aim to address the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What is Embedding?&lt;/li>
+&lt;li>What is Fixed Embedding?&lt;/li>
+&lt;li>How Transformers Handle Context&lt;/li>
+&lt;li>How this token &amp;lsquo;bank&amp;rsquo; and corresponding embedding is stored in embedding database?&lt;/li>
+&lt;li>How contextural embedding is generated?&lt;/li>
+&lt;li>What will be the output size of attention formula softmax?&lt;/li>
+&lt;li>What is meaning of a LLM has context length of 2 million tokens?&lt;/li>
+&lt;li>How many attention layers we keep in transformer like gpt4?&lt;/li>
+&lt;li>What is the meaning of 96 attention layers, are they attention head count?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is Embedding?
+&lt;div id="what-is-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>An embedding is a way to represent discrete data (like words or tokens) as continuous vectors of numbers.&lt;/p></description></item><item><title>AI Imperialism: Western Dominance and the Future of Global Technology</title><link>https://dasarpai.github.io/dsblog/ai-imperialism/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-imperialism/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6191-AI-Imperialism.jpg" alt="AI Imperialism" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Imperialism: Western Dominance and the Future of Global Technology
+&lt;div id="ai-imperialism-western-dominance-and-the-future-of-global-technology" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-imperialism-western-dominance-and-the-future-of-global-technology" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In the rapidly evolving landscape of artificial intelligence (AI), the emergence of transformer models has marked a significant milestone. Among these, OpenAI&amp;rsquo;s GPT-3 stands out as a groundbreaking achievement, yet its dominance raises critical questions about the concentration of power, legal ambiguities, and global technological equity. This article delves into the phenomenon of AI imperialism, exploring how Western dominance shapes the future of global technology and the implications for developing nations.&lt;/p></description></item><item><title>Visualizing Transformers and Attention</title><link>https://dasarpai.github.io/dsblog/visualizing-transformers-and-attention/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/visualizing-transformers-and-attention/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg" alt="Visualizing transformers and attention" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Visualizing Transformers and Attention
+&lt;div id="visualizing-transformers-and-attention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#visualizing-transformers-and-attention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href="https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide">here&lt;/a>&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Transformers and Their Flexibility&lt;/strong>
+&lt;div id="transformers-and-their-flexibility" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-and-their-flexibility" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📜 &lt;strong>Origin:&lt;/strong> Introduced in 2017 in the &amp;ldquo;Attention is All You Need&amp;rdquo; paper, originally for machine translation.&lt;/li>
+&lt;li>🌍 &lt;strong>Applications Beyond Translation:&lt;/strong> Used in transcription (e.g., Whisper), text-to-speech, and even image classification.&lt;/li>
+&lt;li>🤖 &lt;strong>Chatbot Models:&lt;/strong> Focused on models trained to predict the next token in a sequence, generating text iteratively one token at a time.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Next Token Prediction and Creativity&lt;/strong>
+&lt;div id="next-token-prediction-and-creativity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#next-token-prediction-and-creativity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔮 &lt;strong>Prediction Process:&lt;/strong> Predicts probabilities for possible next tokens, selects one, and repeats the process.&lt;/li>
+&lt;li>🌡️ &lt;strong>Temperature Control:&lt;/strong> Adjusting randomness in token selection affects creativity vs. predictability in outputs.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Tokens and Tokenization&lt;/strong>
+&lt;div id="tokens-and-tokenization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tokens-and-tokenization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🧩 &lt;strong>What are Tokens?&lt;/strong> Subdivisions of input data (words, subwords, punctuation, or image patches).&lt;/li>
+&lt;li>🔡 &lt;strong>Why Not Characters?&lt;/strong> Using characters increases context size and computational complexity; tokens balance meaning and computational efficiency.&lt;/li>
+&lt;li>📖 &lt;strong>Byte Pair Encoding (BPE):&lt;/strong> A common method for tokenization.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Embedding Tokens into Vectors&lt;/strong>
+&lt;div id="embedding-tokens-into-vectors" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-tokens-into-vectors" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📏 &lt;strong>Embedding:&lt;/strong> Tokens are mapped to high-dimensional vectors representing their meaning.&lt;/li>
+&lt;li>🗺️ &lt;strong>Contextual Meaning:&lt;/strong> Vectors evolve through the network to capture context, disambiguate meaning, and encode relationships.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>The Attention Mechanism&lt;/strong>
+&lt;div id="the-attention-mechanism" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-attention-mechanism" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔍 &lt;strong>Purpose:&lt;/strong> Enables tokens to &amp;ldquo;attend&amp;rdquo; to others, updating their vectors based on relevance.&lt;/li>
+&lt;li>🔑 &lt;strong>Key Components:&lt;/strong>
+&lt;ul>
+&lt;li>Query Matrix: Encodes what a token is &amp;ldquo;looking for.&amp;rdquo;&lt;/li>
+&lt;li>Key Matrix: Encodes how a token responds to queries.&lt;/li>
+&lt;li>Value Matrix: Encodes information passed between tokens.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🧮 &lt;strong>Calculations:&lt;/strong>
+&lt;ul>
+&lt;li>Dot Product: Measures alignment between keys and queries.&lt;/li>
+&lt;li>Softmax: Converts dot products into normalized weights for updates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>⛓️ &lt;strong>Masked Attention:&lt;/strong> Ensures causality by blocking future tokens from influencing past ones.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Multi-Headed Attention&lt;/strong>
+&lt;div id="multi-headed-attention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multi-headed-attention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>💡 &lt;strong>Parallel Heads:&lt;/strong> Multiple attention heads allow different types of relationships (e.g., grammar, semantic context) to be processed simultaneously.&lt;/li>
+&lt;li>🚀 &lt;strong>Efficiency on GPUs:&lt;/strong> Designed to maximize parallelization for faster computation.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Multi-Layer Perceptrons (MLPs)&lt;/strong>
+&lt;div id="multi-layer-perceptrons-mlps" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multi-layer-perceptrons-mlps" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🤔 &lt;strong>Role in Transformers:&lt;/strong>
+&lt;ul>
+&lt;li>Add capacity for general knowledge and non-contextual reasoning.&lt;/li>
+&lt;li>Store facts learned during training, e.g., associations like &amp;ldquo;Michael Jordan plays basketball.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🔢 &lt;strong>Parameters:&lt;/strong> MLPs hold the majority of the model’s parameters.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Training Transformers&lt;/strong>
+&lt;div id="training-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#training-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📚 &lt;strong>Learning Framework:&lt;/strong>
+&lt;ul>
+&lt;li>Models are trained on vast datasets using next-token prediction, requiring no manual labels.&lt;/li>
+&lt;li>&lt;strong>Cost Function:&lt;/strong> Measures prediction accuracy using negative log probabilities, guiding parameter updates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🏔️ &lt;strong>Optimization:&lt;/strong> Gradient descent navigates a high-dimensional cost surface to minimize error.&lt;/li>
+&lt;li>🌐 &lt;strong>Pretraining:&lt;/strong> Allows large-scale unsupervised learning before fine-tuning with human feedback.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Embedding Space and High Dimensions&lt;/strong>
+&lt;div id="embedding-space-and-high-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-space-and-high-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔄 &lt;strong>Semantic Clusters:&lt;/strong> Similar words cluster together; directions in the space encode relationships (e.g., gender: King - Male + Female = Queen).&lt;/li>
+&lt;li>🌌 &lt;strong>High Dimensionality:&lt;/strong> Embedding spaces have thousands of dimensions, enabling distinct representations of complex concepts.&lt;/li>
+&lt;li>📈 &lt;strong>Scaling Efficiency:&lt;/strong> High-dimensional spaces allow exponentially more &amp;ldquo;almost orthogonal&amp;rdquo; directions for encoding meanings.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Practical Applications&lt;/strong>
+&lt;div id="practical-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#practical-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>✍️ &lt;strong>Language Models:&lt;/strong> Effective for chatbots, summarization, and more due to their generality and parallel processing.&lt;/li>
+&lt;li>🖼️ &lt;strong>Multimodal Models:&lt;/strong> Transformers can integrate text, images, and sound by treating all as tokens in a unified framework.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Challenges and Limitations&lt;/strong>
+&lt;div id="challenges-and-limitations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#challenges-and-limitations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📏 &lt;strong>Context Size Limitations:&lt;/strong> Attention grows quadratically with context size, requiring optimization for large contexts.&lt;/li>
+&lt;li>♻️ &lt;strong>Inference Redundancy:&lt;/strong> Token-by-token generation can involve redundant computations; caching mitigates this at inference time.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Engineering and Design&lt;/strong>
+&lt;div id="engineering-and-design" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#engineering-and-design" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🛠️ &lt;strong>Hardware Optimization:&lt;/strong> Transformers are designed to exploit GPUs&amp;rsquo; parallelism for efficient matrix multiplication.&lt;/li>
+&lt;li>🔗 &lt;strong>Residual Connections:&lt;/strong> Baked into the architecture to enhance stability and ease of training.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>The Power of Scale&lt;/strong>
+&lt;div id="the-power-of-scale" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-power-of-scale" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📈 &lt;strong>Scaling Laws:&lt;/strong> Larger models and more data improve performance, often qualitatively.&lt;/li>
+&lt;li>🔄 &lt;strong>Self-Supervised Pretraining:&lt;/strong> Enables training on vast unlabeled datasets before fine-tuning.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>BPE (Byte Pair Encoding)&lt;/strong>
+&lt;div id="bpe-byte-pair-encoding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bpe-byte-pair-encoding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>BPE is a widely used tokenization method in natural language processing (NLP) and machine learning. It is designed to balance between breaking text into characters and full words by representing text as a sequence of subword units. This approach helps models handle rare and unseen words effectively while keeping the vocabulary size manageable.&lt;/p></description></item><item><title>LLM Architecture and Training</title><link>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg" alt="LLM-Architecture-and-Training" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Understanding LLM Architectures and Model Training&lt;/strong>
+&lt;div id="understanding-llm-architectures-and-model-training" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-architectures-and-model-training" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Large Language Models (LLMs) are transforming the field of artificial intelligence by enabling machines to understand and generate human language with unprecedented accuracy. This article delves into the architecture, training methods, and practical applications of LLMs. We’ll explore the core components that make these models so powerful and explain how they are trained and fine-tuned for real-world use cases.&lt;/p></description></item><item><title>Understanding LLM GAN and Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg" alt="Understanding-LLM-GAN-Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding LLM, GAN and Transformers
+&lt;div id="understanding-llm-gan-and-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-gan-and-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">LLM Layers
+&lt;div id="llm-layers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#llm-layers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:&lt;/p></description></item><item><title>Transformers Demystified A Step-by-Step Guide</title><link>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</link><pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg" alt="Transformers Demystified A Step-by-Step Guide" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transformers Demystified A Step-by-Step Guide
+&lt;div id="transformers-demystified-a-step-by-step-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-demystified-a-step-by-step-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>All modern Transformers are based on a paper &amp;ldquo;Attention is all you need&amp;rdquo;&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This was the mother paper of all the transformer architectures we see today around NLP, Multimodal, Deep Learning. It was presented by Ashish Vaswani et al from Deep Learning / Google in 2017. We will discuss following and anything whatever question/observation/idea I have.&lt;/p></description></item><item><title>A Guide to Model Fine Tuning with OpenAI API</title><link>https://dasarpai.github.io/dsblog/model-fine-tuning-with-openai-api/</link><pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/model-fine-tuning-with-openai-api/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg" alt="A Guide to Model Fine Tuning with OpenAI API" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Guide to Model Fine Tuning with OpenAI API
+&lt;div id="a-guide-to-model-fine-tuning-with-openai-api" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-guide-to-model-fine-tuning-with-openai-api" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Account Setup and API Key Generation
+&lt;div id="account-setup-and-api-key-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#account-setup-and-api-key-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Go to &lt;a href="https://platform.openai.com/" target="_blank">openai&lt;/a>, sign up there and create your account. After than you need to create an API using &lt;a href="https://platform.openai.com/account/api-keys" target="_blank">API Key Link&lt;/a>. You need to copy the api key and you replace the text below &amp;lt;OPENAI_API_KEY&amp;gt;. Being string the key should be within &amp;ldquo;&amp;rdquo;. Keeping security in mind it is highly recommended that you do not put the API in the code file. Keep it at some secured place and read that file to fetch the API key. OpenAI gives you USD 5 free usage. After that you need to pay. For that you need to setup your credit card details on their system. They are very fair on the charges, just keep track of your usage. If you don&amp;rsquo;t use any of their service they won&amp;rsquo;t charge anything for just having account with them. While doing any model finetuning or prediction openai tells you how much they will charge you for that particular command. My suggestion is if you are just experimenting then keep your dataset small so that you can manage your learning with USD 10-20.&lt;/p></description></item><item><title>Capabilities of AI Transformers</title><link>https://dasarpai.github.io/dsblog/capabilities-of-ai-transformers/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/capabilities-of-ai-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg" alt="Capabilities of AI Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Capabilities of AI Transformers
+&lt;div id="capabilities-of-ai-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#capabilities-of-ai-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item></channel></rss>

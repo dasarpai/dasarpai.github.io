@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>API Integration on</title><link>https://dasarpai.github.io/tags/api-integration/</link><description>Recent content in API Integration on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/api-integration/index.xml" rel="self" type="application/rss+xml"/><item><title>WhatsApp Integration: Webhooks, Messaging, and Architecture Design</title><link>https://dasarpai.github.io/dsblog/whatsapp-integration/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/whatsapp-integration/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6204-Whatsapp-Integration.jpg" alt="WhatsApp Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">WhatsApp Integration: Webhooks, Messaging, and Architecture Design
+&lt;div id="whatsapp-integration-webhooks-messaging-and-architecture-design" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#whatsapp-integration-webhooks-messaging-and-architecture-design" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When evaluating WhatsApp integrators, it’s crucial to assess their capabilities based on your business requirements, technical constraints, and operational goals. Here are key questions to ask yourself to assess their suitability:&lt;/p></description></item><item><title>A Guide to Model Fine Tuning with OpenAI API</title><link>https://dasarpai.github.io/dsblog/model-fine-tuning-with-openai-api/</link><pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/model-fine-tuning-with-openai-api/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg" alt="A Guide to Model Fine Tuning with OpenAI API" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Guide to Model Fine Tuning with OpenAI API
+&lt;div id="a-guide-to-model-fine-tuning-with-openai-api" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-guide-to-model-fine-tuning-with-openai-api" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Account Setup and API Key Generation
+&lt;div id="account-setup-and-api-key-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#account-setup-and-api-key-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Go to &lt;a href="https://platform.openai.com/" target="_blank">openai&lt;/a>, sign up there and create your account. After than you need to create an API using &lt;a href="https://platform.openai.com/account/api-keys" target="_blank">API Key Link&lt;/a>. You need to copy the api key and you replace the text below &amp;lt;OPENAI_API_KEY&amp;gt;. Being string the key should be within &amp;ldquo;&amp;rdquo;. Keeping security in mind it is highly recommended that you do not put the API in the code file. Keep it at some secured place and read that file to fetch the API key. OpenAI gives you USD 5 free usage. After that you need to pay. For that you need to setup your credit card details on their system. They are very fair on the charges, just keep track of your usage. If you don&amp;rsquo;t use any of their service they won&amp;rsquo;t charge anything for just having account with them. While doing any model finetuning or prediction openai tells you how much they will charge you for that particular command. My suggestion is if you are just experimenting then keep your dataset small so that you can manage your learning with USD 10-20.&lt;/p></description></item></channel></rss>

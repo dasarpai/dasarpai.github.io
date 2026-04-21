@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Management on</title><link>https://dasarpai.github.io/tags/data-management/</link><description>Recent content in Data Management on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Selecting Database for Project</title><link>https://dasarpai.github.io/dsblog/selecting-database-for-project/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/selecting-database-for-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg" alt="Selecting Database for Project" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Essential Database Selection Criteria for Modern Applications
+&lt;div id="essential-database-selection-criteria-for-modern-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#essential-database-selection-criteria-for-modern-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answer for these questions then &amp;ldquo;Yes&amp;rdquo;.&lt;/p>
+&lt;ul>
+&lt;li>What parameters should you consider to choose a database for your project?&lt;/li>
+&lt;li>What are different data formats for bigdata?&lt;/li>
+&lt;li>What is the difference between OCR and Parquet data formats?&lt;/li>
+&lt;li>What is CAP Theorem?&lt;/li>
+&lt;li>What is the difference between Sharding and Partitioning&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What parameters should you consider to choose a database for your project?
+&lt;div id="what-parameters-should-you-consider-to-choose-a-database-for-your-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-parameters-should-you-consider-to-choose-a-database-for-your-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you are developing an application which need to store the data or you need to pull data from some format for your project work that time you need to take care of many parameters. Sometimes it looks there is an ovbious choice to go for a certain type of database for some specific work but most of the time it is challenging. What are those aspects of a database which you need to take care of?&lt;/p></description></item><item><title>SQL and Relational Algebra</title><link>https://dasarpai.github.io/dsblog/relational-algebra/</link><pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/relational-algebra/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6084-Relational-Algebra.jpg" alt="Relational Algebra" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">SQL and Relational Algebra
+&lt;div id="sql-and-relational-algebra" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sql-and-relational-algebra" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Relational algebra (RA) is considered as a procedural query language where the user tells the system to carry out a set of operations to obtain the desired results. i.e. The user tells what data should be retrieved from the database and how to retrieve it.&lt;/p>
+&lt;p>Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL, SQLite SQL, DB2 SQL, MariaDB SQL, FireBird SQL, PSQL, ANSI SQL commands in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.&lt;/p></description></item><item><title>Data Lake vs Data Warehouse vs Data Mart</title><link>https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg" alt="Datalake vs Data Warehouse" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is the difference between Data Lake and Data Warehouse?
+&lt;div id="what-is-the-difference-between-data-lake-and-data-warehouse" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-data-lake-and-data-warehouse" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A data warehouse is a system used for reporting and data analysis, and is considered a &amp;ldquo;single version of the truth.&amp;rdquo; It typically includes a subset of an organization&amp;rsquo;s data that is specifically structured for querying and reporting. A data lake, on the other hand, is a more flexible and general-purpose system for storing raw, unstructured data. Data in a lake can be stored in its original format and can be used for a variety of purposes, including reporting and analysis. Data warehouse is more structured while data lake is unstructured. Data warehouse is optimized for reporting and analytics while data lake is optimized for storing and processing large amount of raw data.&lt;/p></description></item><item><title>Type of Databases</title><link>https://dasarpai.github.io/dsblog/type-of-databases/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/type-of-databases/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6041-Type-of-Databases.jpg" alt="Type of Databases" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What are the various types of databases?
+&lt;div id="what-are-the-various-types-of-databases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-various-types-of-databases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let&amp;rsquo;s look into these.&lt;/p></description></item><item><title>Dealing with Sensitive Data</title><link>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</link><pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg" alt="XAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dealing with Sensitive Data
+&lt;div id="dealing-with-sensitive-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dealing-with-sensitive-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>One of the biggest problems for a Data Science project team is to protect the data. We know, data is the basic raw material for building any supervised or unsupervised models. We cannot make a without data. Let’s assume you are working for an eCommerce retail company like Amazon; or in the health domain with some big hospital chain or government hospital; or in the banking industry with some big bank like Bank of America, Standard Charted, SBI, or ICICI Bank. They have huge data. That data can be used to develop ML models. These models can help them to serve their customers or other stakeholders in a better and efficient way. To develop these models, data should be given to the Data Science team. When the data is moving out from the production environment to the project environment, there is no guarantee that data will not fall in the wrong hands and will not be misused during the project or post the project completion. When the data is moving within the same company, there are lesser chances of this disaster. But when the company is giving data to third parties or vendors, then there are high chances.&lt;/p></description></item></channel></rss>

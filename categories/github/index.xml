@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub on</title><link>https://dasarpai.github.io/categories/github/</link><description>Recent content in GitHub on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Working with GitHub from WSL and Windows Folders</title><link>https://dasarpai.github.io/dsblog/working-with-github-from-wsl-and-windows-folders/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/working-with-github-from-wsl-and-windows-folders/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg" alt="Working with GitHub from WSL and Windows Folders" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Problem Statement:
+&lt;div id="problem-statement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#problem-statement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>I have project in D:\github-blog\dasarpai-websitetest. This is also a github repo. It&amp;rsquo;s remote repo is &lt;a href="https://github.com/dasarpai/dasarpai-websitetest" target="_blank">https://github.com/dasarpai/dasarpai-websitetest&lt;/a>. I have github desktop for windows 11 installed on my machine. Sometime I push/pull files in github repo using this github desktop. I have Visual Code IDE installed on my windows 11 machine and I also visual code IDE on my machine&amp;rsquo;s wsl.&lt;/p></description></item><item><title>Mastering Git: Comprehensive Guide to Git Commands</title><link>https://dasarpai.github.io/dsblog/git-comprehensive-guide/</link><pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/git-comprehensive-guide/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg" alt="Mastering Git: Comprehensive Guide to Git Commands" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Comprehensive Guide to Git Commands
+&lt;div id="comprehensive-guide-to-git-commands" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#comprehensive-guide-to-git-commands" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are a developer and you want to learn Git commands and their usage, this article is for you. If you are a data scientist and you want to learn Git commands and their usage, this article is also for you. If you are a manager and you want to get familiarize about git commands so that you know what your team is talking about then, this article is also for you.&lt;/p></description></item><item><title>Exploring Github</title><link>https://dasarpai.github.io/dsblog/exploring-github/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-github/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6142-Exploring-Github.jpg" alt="Exploring Github" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Github
+&lt;div id="exploring-github" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-github" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Question: What is github package and what can I do with this?
+&lt;div id="question-what-is-github-package-and-what-can-i-do-with-this" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-what-is-github-package-and-what-can-i-do-with-this" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>GitHub Packages is a service that allows you to host and manage packages (e.g., code libraries, Docker containers) within GitHub. Here&amp;rsquo;s a breakdown of what you can do or achieve with GitHub Packages:&lt;/p></description></item><item><title>Github Repos for Data Science</title><link>https://dasarpai.github.io/dsblog/github-repos-for-datascience/</link><pubDate>Thu, 22 Jul 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/github-repos-for-datascience/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg" alt="Github Repos for Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Github-Repos-for-DataScience
+&lt;div id="github-repos-for-datascience" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#github-repos-for-datascience" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno.&lt;/th>
+&lt;th>Repo Name&lt;/th>
+&lt;th>Repo Description&lt;/th>
+&lt;th>Language&lt;/th>
+&lt;th>Starred&lt;/th>
+&lt;th>Fork&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>&lt;a href="https://github.com/abacaj/awesome-transformers" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A curated list of awesome transformer models.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>504&lt;/td>
+&lt;td>35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>&lt;a href="https://github.com/academic/awesome-datascience" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>:memo: An awesome Data Science repository to learn and apply for real world problems.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>21350&lt;/td>
+&lt;td>5461&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>&lt;a href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>6440&lt;/td>
+&lt;td>900&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>&lt;a href="https://github.com/AI4Bharat/indicnlp_catalog" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A collaborative catalog of NLP resources for Indic languages&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>432&lt;/td>
+&lt;td>64&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>&lt;a href="https://github.com/alexeygrigorev/mlbookcamp-code" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The code from the Machine Learning Bookcamp book and a free course based on the book&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>6042&lt;/td>
+&lt;td>1562&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>&lt;a href="https://github.com/alexlenail/NN-SVG" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Publication-ready NN-architecture schematics.&lt;/td>
+&lt;td>JavaScript&lt;/td>
+&lt;td>3770&lt;/td>
+&lt;td>478&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>&lt;a href="https://github.com/altryne/chatGPT-telegram-bot" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>This is a very early attempt at having chatGPT work within a telegram bot&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1639&lt;/td>
+&lt;td>247&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>&lt;a href="https://github.com/andrewgbruce/statistics-for-data-scientists" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Code and data associated with the book &amp;ldquo;Statistics for Data Scientists: 50 Essential Concepts&amp;rdquo;&lt;/td>
+&lt;td>R&lt;/td>
+&lt;td>1018&lt;/td>
+&lt;td>633&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>&lt;a href="https://github.com/Apress/text-analytics-w-python-2e" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Source Code for &amp;lsquo;Text Analytics with Python,&amp;rsquo; 2nd Edition by Dipanjan Sarkar&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>72&lt;/td>
+&lt;td>70&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>&lt;a href="https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>365 Days Computer Vision Learning Linkedin Post&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>395&lt;/td>
+&lt;td>129&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>&lt;a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>500 AI Machine learning Deep learning Computer vision NLP Projects with code&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>12607&lt;/td>
+&lt;td>3747&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>&lt;a href="https://github.com/ashishpatel26/Computer-Vision-Papers-of-the-week" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Computer Vision Papers of the week&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16&lt;/td>
+&lt;td>4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>&lt;a href="https://github.com/aupasana/ashtadhyayi" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Various vrittis associated with the ashtadhyayi&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>8&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>&lt;a href="https://github.com/avinsit123/HindiNLP" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Python library to aid with your Hindi NLP tasks&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>&lt;a href="https://github.com/aws-samples/ml-inference-using-aws-lambda-and-amazon-efs" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>38&lt;/td>
+&lt;td>27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>&lt;a href="https://github.com/aws/sagemaker-python-sdk" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A library for training and deploying machine learning models on Amazon SageMaker&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1856&lt;/td>
+&lt;td>985&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>&lt;a href="https://github.com/b7leung/MLE-Flashcards" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>1631&lt;/td>
+&lt;td>135&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>&lt;a href="https://github.com/benedekrozemberczki/awesome-community-detection" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A curated list of community detection research papers with implementations.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2145&lt;/td>
+&lt;td>356&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>&lt;a href="https://github.com/benfred/implicit" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Fast Python Collaborative Filtering for Implicit Feedback Datasets&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>3177&lt;/td>
+&lt;td>599&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>&lt;a href="https://github.com/bfelbo/DeepMoji" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1449&lt;/td>
+&lt;td>317&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>21&lt;/td>
+&lt;td>&lt;a href="https://github.com/bigscience-workshop/petals" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>4807&lt;/td>
+&lt;td>175&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22&lt;/td>
+&lt;td>&lt;a href="https://github.com/BNN-UPC/ignnition" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Framework for fast prototyping of Graph Neural Networks&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>37&lt;/td>
+&lt;td>15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>23&lt;/td>
+&lt;td>&lt;a href="https://github.com/booknlp/booknlp" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>BookNLP, a natural language processing pipeline for books&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>700&lt;/td>
+&lt;td>74&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24&lt;/td>
+&lt;td>&lt;a href="https://github.com/carpentries/carpentries.org" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The Carpentries website&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>62&lt;/td>
+&lt;td>122&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>25&lt;/td>
+&lt;td>&lt;a href="https://github.com/carpentries/instructor-training" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Instructor Training&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>161&lt;/td>
+&lt;td>271&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26&lt;/td>
+&lt;td>&lt;a href="https://github.com/ChristosChristofidis/awesome-deep-learning" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A curated list of awesome Deep Learning tutorials, projects and communities.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>21030&lt;/td>
+&lt;td>5852&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>27&lt;/td>
+&lt;td>&lt;a href="https://github.com/cleanlab/cleanlab" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>6057&lt;/td>
+&lt;td>500&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28&lt;/td>
+&lt;td>&lt;a href="https://github.com/cmunch1/nba-prediction" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A project to deploy an online app that predicts the win probability for each NBA game every day. Demonstrates end-to-end Machine Learning deployment.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>104&lt;/td>
+&lt;td>12&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>29&lt;/td>
+&lt;td>&lt;a href="https://github.com/codebasics/deep-learning-keras-tf-tutorial" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tutorials, tensorflow 2.0 tutorial. deep learning tutorial python.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>643&lt;/td>
+&lt;td>1685&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>&lt;a href="https://github.com/comet-ml/kangas" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🦘 Explore multimedia datasets at scale&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>920&lt;/td>
+&lt;td>41&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>31&lt;/td>
+&lt;td>&lt;a href="https://github.com/connorferster/handcalcs" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Python library for converting Python calculations into rendered latex.&lt;/td>
+&lt;td>CSS&lt;/td>
+&lt;td>5211&lt;/td>
+&lt;td>398&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>32&lt;/td>
+&lt;td>&lt;a href="https://github.com/continuum-llms/chatgpt-memory" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>363&lt;/td>
+&lt;td>39&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>33&lt;/td>
+&lt;td>&lt;a href="https://github.com/CoreyMSchafer/code_snippets" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>9796&lt;/td>
+&lt;td>17732&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>34&lt;/td>
+&lt;td>&lt;a href="https://github.com/dair-ai/d2l-study-group" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🧠 Material for the Deep Learning Study Group&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>385&lt;/td>
+&lt;td>52&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>35&lt;/td>
+&lt;td>&lt;a href="https://github.com/dair-ai/ML-Papers-Explained" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Explanation to key concepts in ML&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>4297&lt;/td>
+&lt;td>355&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>36&lt;/td>
+&lt;td>&lt;a href="https://github.com/dair-ai/nlp_paper_summaries" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>✍️ A carefully curated list of NLP paper summaries&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>1453&lt;/td>
+&lt;td>249&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>37&lt;/td>
+&lt;td>&lt;a href="https://github.com/darklord0303/Hindi-OCR" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>16&lt;/td>
+&lt;td>12&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>38&lt;/td>
+&lt;td>&lt;a href="https://github.com/dasarpai/Fish-Weight_Prediction_dep" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Fish Weight Prediction Deployment&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>39&lt;/td>
+&lt;td>&lt;a href="https://github.com/dasarpai/House-Price-Prediction_dep" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40&lt;/td>
+&lt;td>&lt;a href="https://github.com/dasarpai/Malaria-Detection_dep" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Malaria Detection Deployed&lt;/td>
+&lt;td>PureBasic&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>41&lt;/td>
+&lt;td>&lt;a href="https://github.com/dasarpai/NLP" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>42&lt;/td>
+&lt;td>&lt;a href="https://github.com/dataflowr/notebooks" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>code for deep learning courses&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>877&lt;/td>
+&lt;td>282&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>43&lt;/td>
+&lt;td>&lt;a href="https://github.com/DataForScience/Epidemiology101" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Epidemic Modeling for Everyone&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>261&lt;/td>
+&lt;td>72&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>44&lt;/td>
+&lt;td>&lt;a href="https://github.com/datameet/india-election-data" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>To map publicly available datasets related to General Assembly (Lok Sabha) elections in India.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>137&lt;/td>
+&lt;td>114&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>45&lt;/td>
+&lt;td>&lt;a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Free MLOps course from DataTalks.Club&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>7175&lt;/td>
+&lt;td>1416&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>46&lt;/td>
+&lt;td>&lt;a href="https://github.com/Deci-AI/super-gradients" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2721&lt;/td>
+&lt;td>235&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>47&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepchem/deepchem" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>4367&lt;/td>
+&lt;td>1499&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>48&lt;/td>
+&lt;td>&lt;a href="https://github.com/Developer-Y/cs-video-courses" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>List of Computer Science courses with video lectures.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>56725&lt;/td>
+&lt;td>8028&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>49&lt;/td>
+&lt;td>&lt;a href="https://github.com/dipanjanS/nlp_crash_course_plugin20" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Contains relevant notebooks for the hands-on NLP workshop for the Analytics India Magazine Plugin Conference -2020 Edition&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>70&lt;/td>
+&lt;td>45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>50&lt;/td>
+&lt;td>&lt;a href="https://github.com/dipanjanS/nlp_workshop_odsc_europe20" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Extensive tutorials for the Advanced NLP Workshop in Open Data Science Conference Europe 2020. We will leverage machine learning, deep learning and deep transfer learning to learn and solve popular tasks using NLP including NER, Classification, Recommendation \ Information Retrieval, Summarization, Classification, Language Translation, Q&amp;amp;A and Topic Models.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>130&lt;/td>
+&lt;td>65&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>51&lt;/td>
+&lt;td>&lt;a href="https://github.com/donnemartin/data-science-ipython-notebooks" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>25169&lt;/td>
+&lt;td>7588&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>52&lt;/td>
+&lt;td>&lt;a href="https://github.com/dosisod/refurb" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A tool for refurbishing and modernizing Python codebases&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2250&lt;/td>
+&lt;td>44&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>53&lt;/td>
+&lt;td>&lt;a href="https://github.com/ebatty/MathToolsforNeuroscience" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Materials for Mathematical Tools for Neuroscience course at Harvard (Neurobio 212)&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>410&lt;/td>
+&lt;td>55&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>54&lt;/td>
+&lt;td>&lt;a href="https://github.com/equester/mlops-plugin_2020" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>MlOps End 2 End&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>13&lt;/td>
+&lt;td>11&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>55&lt;/td>
+&lt;td>&lt;a href="https://github.com/eugeneyan/applied-ml" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>📚 Papers &amp;amp; tech blogs by companies sharing their work on data science &amp;amp; machine learning in production.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>24281&lt;/td>
+&lt;td>3381&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>56&lt;/td>
+&lt;td>&lt;a href="https://github.com/explosion/projects" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🪐 End-to-end NLP workflows from prototype to production&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1106&lt;/td>
+&lt;td>444&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>57&lt;/td>
+&lt;td>&lt;a href="https://github.com/explosion/spaCy" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>💫 Industrial-strength Natural Language Processing (NLP) in Python&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>26318&lt;/td>
+&lt;td>4134&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>58&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/dropout" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Code release for &amp;ldquo;Dropout Reduces Underfitting&amp;rdquo;&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>290&lt;/td>
+&lt;td>16&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>59&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/fairseq" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Facebook AI Research Sequence-to-Sequence Toolkit written in Python.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>26266&lt;/td>
+&lt;td>5833&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/fastText" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Library for fast text representation and classification.&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>24685&lt;/td>
+&lt;td>4608&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>61&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/hiplot" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>HiPlot makes understanding high dimensional data easy&lt;/td>
+&lt;td>TypeScript&lt;/td>
+&lt;td>2485&lt;/td>
+&lt;td>125&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>62&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/llama" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Inference code for LLaMA models&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>23064&lt;/td>
+&lt;td>3680&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>63&lt;/td>
+&lt;td>&lt;a href="https://github.com/fastai/fastbook" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The fastai book, published as Jupyter Notebooks&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>18575&lt;/td>
+&lt;td>7081&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>64&lt;/td>
+&lt;td>&lt;a href="https://github.com/fastai/numerical-linear-algebra" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>9442&lt;/td>
+&lt;td>2413&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>65&lt;/td>
+&lt;td>&lt;a href="https://github.com/FavioVazquez/ds-cheatsheets" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>List of Data Science Cheatsheets to rule the world&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>12211&lt;/td>
+&lt;td>3437&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>66&lt;/td>
+&lt;td>&lt;a href="https://github.com/flairNLP/flair" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A very simple framework for state-of-the-art Natural Language Processing (NLP)&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>12852&lt;/td>
+&lt;td>2027&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>67&lt;/td>
+&lt;td>&lt;a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>freeCodeCamp.org&amp;rsquo;s open-source codebase and curriculum. Learn to code for free.&lt;/td>
+&lt;td>TypeScript&lt;/td>
+&lt;td>368430&lt;/td>
+&lt;td>32357&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>68&lt;/td>
+&lt;td>&lt;a href="https://github.com/GokuMohandas/Made-With-ML" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Learn how to responsibly develop, deploy and maintain production machine learning applications.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>33342&lt;/td>
+&lt;td>5462&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>69&lt;/td>
+&lt;td>&lt;a href="https://github.com/goodrahstar/draw-neural-network" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Quick tool to draw fully connected neural network architectures&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>42&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>70&lt;/td>
+&lt;td>&lt;a href="https://github.com/google-research/google-research" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Google Research&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>29664&lt;/td>
+&lt;td>7307&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>71&lt;/td>
+&lt;td>&lt;a href="https://github.com/goru001/nlp-for-sanskrit" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>State of the Art Language models and Classifier for Sanskrit language (ancient indian language)&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>63&lt;/td>
+&lt;td>20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>72&lt;/td>
+&lt;td>&lt;a href="https://github.com/hannarud/ExData_Plotting1" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Plotting Assignment 1 for Exploratory Data Analysis&lt;/td>
+&lt;td>R&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>73&lt;/td>
+&lt;td>&lt;a href="https://github.com/Hironsan/awesome-embedding-models" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A curated list of awesome embedding models tutorials, projects and communities.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>1629&lt;/td>
+&lt;td>243&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>74&lt;/td>
+&lt;td>&lt;a href="https://github.com/HKUNLP/icl-ceil" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>[ICML 2023] Code for our paper “Compositional Exemplars for In-context Learning”.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>50&lt;/td>
+&lt;td>4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>75&lt;/td>
+&lt;td>&lt;a href="https://github.com/huggingface/diffusers" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>15407&lt;/td>
+&lt;td>3082&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>76&lt;/td>
+&lt;td>&lt;a href="https://github.com/huggingface/neuralcoref" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>✨Fast Coreference Resolution in spaCy with Neural Networks&lt;/td>
+&lt;td>C&lt;/td>
+&lt;td>2698&lt;/td>
+&lt;td>470&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>77&lt;/td>
+&lt;td>&lt;a href="https://github.com/huggingface/transformers" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>103371&lt;/td>
+&lt;td>20879&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>78&lt;/td>
+&lt;td>&lt;a href="https://github.com/hundredblocks/concrete_NLP_tutorial" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>An NLP workshop about concrete solutions to real problems&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>1078&lt;/td>
+&lt;td>453&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>79&lt;/td>
+&lt;td>&lt;a href="https://github.com/hwchase17/langchain" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>⚡ Building applications with LLMs through composability ⚡&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>46250&lt;/td>
+&lt;td>5424&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>80&lt;/td>
+&lt;td>&lt;a href="https://github.com/Ileriayo/markdown-badges" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Badges for your personal developer branding, profile, and projects.&lt;/td>
+&lt;td>SCSS&lt;/td>
+&lt;td>8133&lt;/td>
+&lt;td>1193&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>81&lt;/td>
+&lt;td>&lt;a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Instruction Tuning with GPT-4&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>2805&lt;/td>
+&lt;td>198&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>82&lt;/td>
+&lt;td>&lt;a href="https://github.com/iryna-kondr/scikit-llm" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1789&lt;/td>
+&lt;td>139&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>83&lt;/td>
+&lt;td>&lt;a href="https://github.com/isl-org/Open3D" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Open3D: A Modern Library for 3D Data Processing&lt;/td>
+&lt;td>C++&lt;/td>
+&lt;td>8999&lt;/td>
+&lt;td>1987&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>84&lt;/td>
+&lt;td>&lt;a href="https://github.com/javascriptdata/dnotebook" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Dnotebook is a Jupyter-like library for javaScript environment. It allows you to create and share pages that contain live code, text and visualizations.&lt;/td>
+&lt;td>TypeScript&lt;/td>
+&lt;td>139&lt;/td>
+&lt;td>10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>85&lt;/td>
+&lt;td>&lt;a href="https://github.com/jaymody/picoGPT" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>An unnecessarily tiny implementation of GPT-2 in NumPy.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2392&lt;/td>
+&lt;td>301&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>86&lt;/td>
+&lt;td>&lt;a href="https://github.com/jivoi/awesome-ml-for-cybersecurity" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>:octocat: Machine Learning for Cyber Security&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>5964&lt;/td>
+&lt;td>1626&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>87&lt;/td>
+&lt;td>&lt;a href="https://github.com/jonathan-laurent/AlphaZero.jl" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A generic, simple and fast implementation of Deepmind&amp;rsquo;s AlphaZero algorithm.&lt;/td>
+&lt;td>Julia&lt;/td>
+&lt;td>1132&lt;/td>
+&lt;td>119&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>88&lt;/td>
+&lt;td>&lt;a href="https://github.com/josephmisiti/awesome-machine-learning" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A curated list of awesome Machine Learning frameworks, libraries and software.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>59061&lt;/td>
+&lt;td>14052&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>89&lt;/td>
+&lt;td>&lt;a href="https://github.com/JuliaAI/MLJBase.jl" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Core functionality for the MLJ machine learning framework&lt;/td>
+&lt;td>Julia&lt;/td>
+&lt;td>140&lt;/td>
+&lt;td>39&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>90&lt;/td>
+&lt;td>&lt;a href="https://github.com/justmarkham/DAT5" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>General Assembly&amp;rsquo;s Data Science course in Washington, DC&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>187&lt;/td>
+&lt;td>212&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>91&lt;/td>
+&lt;td>&lt;a href="https://github.com/kadirnar/segment-anything-video" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>MetaSeg: Packaged version of the Segment Anything repository&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>649&lt;/td>
+&lt;td>41&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>92&lt;/td>
+&lt;td>&lt;a href="https://github.com/kailashahirwar/cheatsheets-ai" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Essential Cheat Sheets for deep learning and machine learning researchers &lt;a href="https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5" target="_blank">https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>14619&lt;/td>
+&lt;td>3457&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>93&lt;/td>
+&lt;td>&lt;a href="https://github.com/karpathy/arxiv-sanity-preserver" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Web interface for browsing, search and filtering recent arxiv submissions&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>4846&lt;/td>
+&lt;td>1319&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>94&lt;/td>
+&lt;td>&lt;a href="https://github.com/kedro-org/kedro" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A Python framework for creating maintainable and modular data science code.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>8421&lt;/td>
+&lt;td>796&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>95&lt;/td>
+&lt;td>&lt;a href="https://github.com/kmario23/deep-learning-drizzle" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>11207&lt;/td>
+&lt;td>2832&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>96&lt;/td>
+&lt;td>&lt;a href="https://github.com/krishnaik06/Transfer-Learning" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>67&lt;/td>
+&lt;td>100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>97&lt;/td>
+&lt;td>&lt;a href="https://github.com/kyrolabs/awesome-langchain" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>😎 Awesome list of tools and projects with the awesome LangChain framework&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>2834&lt;/td>
+&lt;td>145&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>98&lt;/td>
+&lt;td>&lt;a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, &amp;hellip;), optimizers (adam, adabelief, &amp;hellip;), gans(cyclegan, stylegan2, &amp;hellip;), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, &amp;hellip; 🧠&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>24047&lt;/td>
+&lt;td>2580&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>99&lt;/td>
+&lt;td>&lt;a href="https://github.com/lllyasviel/ControlNet" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Let us control diffusion models!&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>20472&lt;/td>
+&lt;td>1899&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>100&lt;/td>
+&lt;td>&lt;a href="https://github.com/lucidrains/DALLE2-pytorch" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Implementation of DALL-E 2, OpenAI&amp;rsquo;s updated text-to-image synthesis neural network, in Pytorch&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>9799&lt;/td>
+&lt;td>934&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>101&lt;/td>
+&lt;td>&lt;a href="https://github.com/maikherbig/AIDeveloper" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>GUI-based software for training, evaluating and applying deep neural nets for image classification&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>82&lt;/td>
+&lt;td>18&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>102&lt;/td>
+&lt;td>&lt;a href="https://github.com/manoss96/pregex" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>PRegEx - Programmable Regular Expressions&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>718&lt;/td>
+&lt;td>21&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>103&lt;/td>
+&lt;td>&lt;a href="https://github.com/matplotlib/ipympl" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Matplotlib Jupyter Integration&lt;/td>
+&lt;td>TypeScript&lt;/td>
+&lt;td>1434&lt;/td>
+&lt;td>216&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>104&lt;/td>
+&lt;td>&lt;a href="https://github.com/MaxDu17/BehaviorRetrieval" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Code for the Behavior Retrieval Paper&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>9&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>105&lt;/td>
+&lt;td>&lt;a href="https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Examples of Data Science projects and Artificial Intelligence use-cases&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>344&lt;/td>
+&lt;td>267&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>106&lt;/td>
+&lt;td>&lt;a href="https://github.com/microsoft/Data-Science-For-Beginners" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>10 Weeks, 20 Lessons, Data Science for All!&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>19639&lt;/td>
+&lt;td>3872&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>107&lt;/td>
+&lt;td>&lt;a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>49227&lt;/td>
+&lt;td>10169&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>108&lt;/td>
+&lt;td>&lt;a href="https://github.com/microsoft/torchscale" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Transformers at any scale&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1667&lt;/td>
+&lt;td>92&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>109&lt;/td>
+&lt;td>&lt;a href="https://github.com/MicrosoftLearning/AI-102-AIEngineer" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Lab files for AI-102 - AI Engineer&lt;/td>
+&lt;td>C#&lt;/td>
+&lt;td>342&lt;/td>
+&lt;td>452&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>110&lt;/td>
+&lt;td>&lt;a href="https://github.com/MicrosoftLearning/MCT-User-Guide" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>GitHub User Guide for MCTs&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>38&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>111&lt;/td>
+&lt;td>&lt;a href="https://github.com/mikblack/instructor-training" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Software and Data Carpentry instructor training course material&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>112&lt;/td>
+&lt;td>&lt;a href="https://github.com/mindsdb/lightwood" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Lightwood is Legos for Machine Learning.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>369&lt;/td>
+&lt;td>82&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>113&lt;/td>
+&lt;td>&lt;a href="https://github.com/mljar/mercury" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Build Web Apps in Jupyter Notebook with Python only&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>3117&lt;/td>
+&lt;td>188&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>114&lt;/td>
+&lt;td>&lt;a href="https://github.com/muthuishere/rxpython-sessions" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>6&lt;/td>
+&lt;td>7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>115&lt;/td>
+&lt;td>&lt;a href="https://github.com/nomic-ai/gpt4all" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue&lt;/td>
+&lt;td>C++&lt;/td>
+&lt;td>45786&lt;/td>
+&lt;td>4869&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>116&lt;/td>
+&lt;td>&lt;a href="https://github.com/nshiab/simple-data-analysis.js" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Easy-to-use JavaScript library for most common data analysis tasks.&lt;/td>
+&lt;td>TypeScript&lt;/td>
+&lt;td>121&lt;/td>
+&lt;td>8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>117&lt;/td>
+&lt;td>&lt;a href="https://github.com/NVlabs/GroupViT" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>595&lt;/td>
+&lt;td>47&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>118&lt;/td>
+&lt;td>&lt;a href="https://github.com/Nyandwi/machine_learning_complete" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>4139&lt;/td>
+&lt;td>654&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>119&lt;/td>
+&lt;td>&lt;a href="https://github.com/omarsar/nlp_overview" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Overview of Modern Deep Learning Techniques Applied to Natural Language Processing&lt;/td>
+&lt;td>CSS&lt;/td>
+&lt;td>1294&lt;/td>
+&lt;td>198&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>120&lt;/td>
+&lt;td>&lt;a href="https://github.com/online-ml/river" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🌊 Online machine learning in Python&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>4262&lt;/td>
+&lt;td>474&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>121&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/openai-cookbook" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Examples and guides for using the OpenAI API&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>38518&lt;/td>
+&lt;td>5764&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>122&lt;/td>
+&lt;td>&lt;a href="https://github.com/openvenues/libpostal" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.&lt;/td>
+&lt;td>C&lt;/td>
+&lt;td>3718&lt;/td>
+&lt;td>392&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>123&lt;/td>
+&lt;td>&lt;a href="https://github.com/openvenues/pypostal" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Python bindings to libpostal for fast international address parsing/normalization&lt;/td>
+&lt;td>C&lt;/td>
+&lt;td>678&lt;/td>
+&lt;td>80&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>124&lt;/td>
+&lt;td>&lt;a href="https://github.com/ourownstory/neural_prophet" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>NeuralProphet: A simple forecasting package&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2977&lt;/td>
+&lt;td>419&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>125&lt;/td>
+&lt;td>&lt;a href="https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>79&lt;/td>
+&lt;td>89&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>126&lt;/td>
+&lt;td>&lt;a href="https://github.com/paperswithcode/paperswithcode-data" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The full dataset behind paperswithcode.com&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>267&lt;/td>
+&lt;td>27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>127&lt;/td>
+&lt;td>&lt;a href="https://github.com/pemagrg1/Hindi-POS-Tagging-and-Keyword-Extraction" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Hindi POS Tags and keywords using TNT model. Created Date: 28 Sept 2018&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>22&lt;/td>
+&lt;td>10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>128&lt;/td>
+&lt;td>&lt;a href="https://github.com/piyushpathak03/cracking-the-data-science-interview-in-7-days" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>125&lt;/td>
+&lt;td>49&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>129&lt;/td>
+&lt;td>&lt;a href="https://github.com/ploomber/ploomber" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>3088&lt;/td>
+&lt;td>210&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>130&lt;/td>
+&lt;td>&lt;a href="https://github.com/PrashanthVangipurapu/Sarcasm-Detection-in-Hindi-Text" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>This is used for identifying whether a given text has sarcasm in it or not.&lt;/td>
+&lt;td>Java&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>131&lt;/td>
+&lt;td>&lt;a href="https://github.com/probml/pml-book" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&amp;ldquo;Probabilistic Machine Learning&amp;rdquo; - a book series by Kevin Murphy&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>3935&lt;/td>
+&lt;td>484&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>132&lt;/td>
+&lt;td>&lt;a href="https://github.com/Public-course/TensorboardX" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Using tensorboardX (tensorboard for pytorch) e.g. ploting more than one graph in the same chat etc.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>133&lt;/td>
+&lt;td>&lt;a href="https://github.com/pycaret/pycaret" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>An open-source, low-code machine learning library in Python&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>7373&lt;/td>
+&lt;td>1604&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>134&lt;/td>
+&lt;td>&lt;a href="https://github.com/pytorch/pytorch" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Tensors and Dynamic neural networks in Python with strong GPU acceleration&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>67669&lt;/td>
+&lt;td>18541&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>135&lt;/td>
+&lt;td>&lt;a href="https://github.com/rafiqhasan/auto-tensorflow" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - &lt;a href="https://www.linkedin.com/in/sam04/" target="_blank">https://www.linkedin.com/in/sam04/&lt;/a>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>177&lt;/td>
+&lt;td>37&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>136&lt;/td>
+&lt;td>&lt;a href="https://github.com/RamiKrispin/30DayChartChallenge" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Code for 30DayChartChallenge&lt;/td>
+&lt;td>R&lt;/td>
+&lt;td>34&lt;/td>
+&lt;td>11&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>137&lt;/td>
+&lt;td>&lt;a href="https://github.com/RaoUmer/dwx" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Deep Web Extractor (DWX): Deep Web Extractor system is using statistical machine learning models for crawling and data discovery from the Deep Web (i.e., massive and quality portion of World Wide Web) to build knowledge based databases.&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>138&lt;/td>
+&lt;td>&lt;a href="https://github.com/RasaHQ/rasa" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>16510&lt;/td>
+&lt;td>4359&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>139&lt;/td>
+&lt;td>&lt;a href="https://github.com/RasaHQ/rasa-nlu-trainer" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>DEPRECATED: We recommend using Rasa X &lt;a href="https://rasa.com/docs/rasa-x/" target="_blank">https://rasa.com/docs/rasa-x/&lt;/a> for managing NLU data&lt;/td>
+&lt;td>JavaScript&lt;/td>
+&lt;td>467&lt;/td>
+&lt;td>183&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>140&lt;/td>
+&lt;td>&lt;a href="https://github.com/replicate/cog" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Containers for machine learning&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>4838&lt;/td>
+&lt;td>286&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>141&lt;/td>
+&lt;td>&lt;a href="https://github.com/roboflow/notebooks" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>2403&lt;/td>
+&lt;td>338&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>142&lt;/td>
+&lt;td>&lt;a href="https://github.com/rohitsaluja22/OpenOCRCorrect" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>An end to end Interactive Interface for correcting mistakes in OCR output.&lt;/td>
+&lt;td>C++&lt;/td>
+&lt;td>45&lt;/td>
+&lt;td>46&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>143&lt;/td>
+&lt;td>&lt;a href="https://github.com/ryankiros/skip-thoughts" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Sent2Vec encoder and training code from the paper &amp;ldquo;Skip-Thought Vectors&amp;rdquo;&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2050&lt;/td>
+&lt;td>555&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>144&lt;/td>
+&lt;td>&lt;a href="https://github.com/salesforce/DeepTime" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>PyTorch code for Learning Deep Time-index Models for Time Series Forecasting (ICML 2023)&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>257&lt;/td>
+&lt;td>43&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>145&lt;/td>
+&lt;td>&lt;a href="https://github.com/salesforce/Merlion" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Merlion: A Machine Learning Framework for Time Series Intelligence&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2991&lt;/td>
+&lt;td>258&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>146&lt;/td>
+&lt;td>&lt;a href="https://github.com/sassoftware/python-swat" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The SAS Scripting Wrapper for Analytics Transfer (SWAT) package is the Python client to SAS Cloud Analytic Services (CAS). It allows users to execute CAS actions and process the results all from Python.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>134&lt;/td>
+&lt;td>54&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>147&lt;/td>
+&lt;td>&lt;a href="https://github.com/satellite-image-deep-learning/datasets" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Datasets for deep learning with satellite &amp;amp; aerial imagery&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>246&lt;/td>
+&lt;td>33&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>148&lt;/td>
+&lt;td>&lt;a href="https://github.com/SeldonIO/alibi-detect" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Algorithms for outlier, adversarial and drift detection&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1838&lt;/td>
+&lt;td>180&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>149&lt;/td>
+&lt;td>&lt;a href="https://github.com/SeldonIO/seldon-core" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models&lt;/td>
+&lt;td>HTML&lt;/td>
+&lt;td>3754&lt;/td>
+&lt;td>758&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>150&lt;/td>
+&lt;td>&lt;a href="https://github.com/shellysheynin/Deep-Learning-Book" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Deep Learning book the covers the principles of deep learning, motivation, explanations, state of the art papers for the various tasks and architectures: CNNs, object detection, semantic segmentation, generative models, denoising, super resolution, style transfer and style manipulation, inpaintig, self supervised learning, vision transformers, OCR, and multi modal. Hope that it will be useful to some of you 🙂&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>91&lt;/td>
+&lt;td>20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>151&lt;/td>
+&lt;td>&lt;a href="https://github.com/Shivampanwar/Bert-text-classification" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>This shows how to fine-tune Bert language model and use PyTorch-transformers for text classififcation&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>63&lt;/td>
+&lt;td>35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>152&lt;/td>
+&lt;td>&lt;a href="https://github.com/shivanikohlii/SanTran" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A Machine Learning project to translate Sanskrit text to English&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>37&lt;/td>
+&lt;td>22&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>153&lt;/td>
+&lt;td>&lt;a href="https://github.com/shuyanzhou/docprompting" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Data and code for &amp;ldquo;DocPrompting: Generating Code by Retrieving the Docs&amp;rdquo; @ICLR 2023&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>165&lt;/td>
+&lt;td>10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>154&lt;/td>
+&lt;td>&lt;a href="https://github.com/sid573/Hindi_Sentiment_Analysis" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Model to predict the sentiment of Hindi sentences developed this model during my 2nd-year Internship @ algo8.ai&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>8&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>155&lt;/td>
+&lt;td>&lt;a href="https://github.com/SigmaQuan/Better-Python-59-Ways" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Code Sample of Book &amp;ldquo;Effective Python: 59 Specific Ways to Write Better Pyton&amp;rdquo; by Brett Slatkin&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>1362&lt;/td>
+&lt;td>213&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>156&lt;/td>
+&lt;td>&lt;a href="https://github.com/SkalskiP/courses" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2855&lt;/td>
+&lt;td>224&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>157&lt;/td>
+&lt;td>&lt;a href="https://github.com/smadha/SarcasmDetector" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>CSCI-544 Final Project&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>9&lt;/td>
+&lt;td>6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>158&lt;/td>
+&lt;td>&lt;a href="https://github.com/Stability-AI/StableLM" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>StableLM: Stability AI Language Models&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>14581&lt;/td>
+&lt;td>878&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>159&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorchord/Awesome-LLMOps" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>An awesome &amp;amp; curated list of best LLMOps tools for developers&lt;/td>
+&lt;td>Shell&lt;/td>
+&lt;td>905&lt;/td>
+&lt;td>83&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>160&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/gnn" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>986&lt;/td>
+&lt;td>136&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>161&lt;/td>
+&lt;td>&lt;a href="https://github.com/Textualize/rich" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Rich is a Python library for rich text and beautiful formatting in the terminal.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>43554&lt;/td>
+&lt;td>1569&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>162&lt;/td>
+&lt;td>&lt;a href="https://github.com/thakarprathamesh/Time-Series-Analysis" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>163&lt;/td>
+&lt;td>&lt;a href="https://github.com/theerfan/Q" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>My attempt at researching Quantum Mechanics &amp;amp; Quantum Computing when I was a junior.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>116&lt;/td>
+&lt;td>55&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>164&lt;/td>
+&lt;td>&lt;a href="https://github.com/thuml/Autoformer" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>About Code release for &amp;ldquo;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&amp;rdquo; (NeurIPS 2021), &lt;a href="https://arxiv.org/abs/2106.13008" target="_blank">https://arxiv.org/abs/2106.13008&lt;/a>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>1132&lt;/td>
+&lt;td>286&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>165&lt;/td>
+&lt;td>&lt;a href="https://github.com/trekhleb/homemade-machine-learning" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>21377&lt;/td>
+&lt;td>3912&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>166&lt;/td>
+&lt;td>&lt;a href="https://github.com/TrigonaMinima/HinglishNLP" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>40&lt;/td>
+&lt;td>41&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>167&lt;/td>
+&lt;td>&lt;a href="https://github.com/Trusted-AI/AIF360" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>2046&lt;/td>
+&lt;td>687&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>168&lt;/td>
+&lt;td>&lt;a href="https://github.com/udacity/CarND-Object-Detection-Lab" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>102&lt;/td>
+&lt;td>340&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>169&lt;/td>
+&lt;td>&lt;a href="https://github.com/unit8co/darts" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A python library for user-friendly forecasting and anomaly detection on time series.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>5968&lt;/td>
+&lt;td>673&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>170&lt;/td>
+&lt;td>&lt;a href="https://github.com/varunshenoy/GraphGPT" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️&lt;/td>
+&lt;td>JavaScript&lt;/td>
+&lt;td>3502&lt;/td>
+&lt;td>289&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>171&lt;/td>
+&lt;td>&lt;a href="https://github.com/xingyaoww/LeTI" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Official repo for paper &amp;ldquo;LeTI: Learning to Generate from Textual Interactions.&amp;rdquo;&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>50&lt;/td>
+&lt;td>6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>172&lt;/td>
+&lt;td>&lt;a href="https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>A Guide for Feature Engineering and Feature Selection, with implementations and examples in Python.&lt;/td>
+&lt;td>Jupyter Notebook&lt;/td>
+&lt;td>1118&lt;/td>
+&lt;td>371&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>173&lt;/td>
+&lt;td>&lt;a href="https://github.com/yoheinakajima/babyagi" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>15233&lt;/td>
+&lt;td>2094&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>174&lt;/td>
+&lt;td>&lt;a href="https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Resoruce to help you to prepare for your comming data science interviews&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>409&lt;/td>
+&lt;td>65&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>175&lt;/td>
+&lt;td>&lt;a href="https://github.com/zacharski/pg2dm-python" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>867&lt;/td>
+&lt;td>479&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>176&lt;/td>
+&lt;td>&lt;a href="https://github.com/zhouhaoyi/Informer2020" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>The GitHub repository for the paper &amp;ldquo;Informer&amp;rdquo; accepted by AAAI 2021.&lt;/td>
+&lt;td>Python&lt;/td>
+&lt;td>3764&lt;/td>
+&lt;td>851&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>177&lt;/td>
+&lt;td>&lt;a href="https://github.com/zinggAI/zingg" target="_blank">Link&lt;/a>&lt;/td>
+&lt;td>Scalable identity resolution, entity resolution, data mastering and deduplication using ML&lt;/td>
+&lt;td>Java&lt;/td>
+&lt;td>741&lt;/td>
+&lt;td>85&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning (RL) on</title><link>https://dasarpai.github.io/tags/reinforcement-learning-rl/</link><description>Recent content in Reinforcement Learning (RL) on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/reinforcement-learning-rl/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Reinforcement Learning Concepts: A Comprehensive Guide</title><link>https://dasarpai.github.io/dsblog/exploring-reinforcement-learning-concepts/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-reinforcement-learning-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg" alt="Exploring Reinforcement Learning Concepts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Reinforcement Learning Concepts
+&lt;div id="exploring-reinforcement-learning-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-reinforcement-learning-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Reinforcement Learning (RL) is a rich and complex field with many important concepts. Here are some high level concepts which you need to understand, and explore this field.&lt;/p>
+&lt;h2 class="relative group">Key Concepts of Reinforcement Learning (RL)
+&lt;div id="key-concepts-of-reinforcement-learning-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#key-concepts-of-reinforcement-learning-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">&lt;strong>1. Markov Decision Processes (MDPs)&lt;/strong>
+&lt;div id="1-markov-decision-processes-mdps" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-markov-decision-processes-mdps" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: The mathematical framework for RL, consisting of states, actions, transitions, and rewards.&lt;/li>
+&lt;li>&lt;strong>Key Components&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>State (S)&lt;/strong>: The current situation of the agent.&lt;/li>
+&lt;li>&lt;strong>Action (A)&lt;/strong>: Choices available to the agent.&lt;/li>
+&lt;li>&lt;strong>Transition Function (P)&lt;/strong>: Probability of moving to a new state given an action.&lt;/li>
+&lt;li>&lt;strong>Reward Function (R)&lt;/strong>: Immediate feedback for taking an action in a state.&lt;/li>
+&lt;li>&lt;strong>Discount Factor (γ)&lt;/strong>: Determines the importance of future rewards.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Extensions&lt;/strong>:
+&lt;ul>
+&lt;li>Partially Observable MDPs (POMDPs): When the agent cannot fully observe the state.&lt;/li>
+&lt;li>Continuous MDPs: For continuous state and action spaces.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>2. Policies&lt;/strong>
+&lt;div id="2-policies" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#2-policies" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: A strategy that the agent uses to decide actions based on states.&lt;/li>
+&lt;li>&lt;strong>Types&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Deterministic Policy&lt;/strong>: Maps states to specific actions.&lt;/li>
+&lt;li>&lt;strong>Stochastic Policy&lt;/strong>: Maps states to probability distributions over actions.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Optimal Policy&lt;/strong>: The policy that maximizes cumulative rewards.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>3. Value Functions&lt;/strong>
+&lt;div id="3-value-functions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#3-value-functions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>State-Value Function (V)&lt;/strong>: Expected cumulative reward from a state under a policy.&lt;/li>
+&lt;li>&lt;strong>Action-Value Function (Q)&lt;/strong>: Expected cumulative reward for taking an action in a state and following a policy.&lt;/li>
+&lt;li>&lt;strong>Bellman Equation&lt;/strong>: Recursive relationship used to compute value functions.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>4. Exploration vs. Exploitation&lt;/strong>
+&lt;div id="4-exploration-vs-exploitation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#4-exploration-vs-exploitation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Exploration&lt;/strong>: Trying new actions to discover their effects.&lt;/li>
+&lt;li>&lt;strong>Exploitation&lt;/strong>: Choosing known actions that yield high rewards.&lt;/li>
+&lt;li>&lt;strong>Balancing Mechanisms&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>ε-Greedy&lt;/strong>: Randomly explores with probability ε.&lt;/li>
+&lt;li>&lt;strong>Softmax&lt;/strong>: Selects actions based on a probability distribution.&lt;/li>
+&lt;li>&lt;strong>Upper Confidence Bound (UCB)&lt;/strong>: Balances exploration and exploitation based on uncertainty.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>5. Algorithms&lt;/strong>
+&lt;div id="5-algorithms" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#5-algorithms" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Model-Based vs. Model-Free&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Model-Based&lt;/strong>: Learns a model of the environment (transition and reward functions).&lt;/li>
+&lt;li>&lt;strong>Model-Free&lt;/strong>: Learns directly from interactions without modeling the environment.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Key Algorithms&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Q-Learning&lt;/strong>: Off-policy algorithm for learning action-value functions.&lt;/li>
+&lt;li>&lt;strong>SARSA&lt;/strong>: On-policy algorithm for learning action-value functions.&lt;/li>
+&lt;li>&lt;strong>Deep Q-Networks (DQN)&lt;/strong>: Combines Q-learning with deep neural networks.&lt;/li>
+&lt;li>&lt;strong>Policy Gradient Methods&lt;/strong>: Directly optimize the policy (e.g., REINFORCE, PPO, TRPO).&lt;/li>
+&lt;li>&lt;strong>Actor-Critic Methods&lt;/strong>: Combines value-based and policy-based approaches.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>6. Function Approximation&lt;/strong>
+&lt;div id="6-function-approximation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#6-function-approximation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Purpose&lt;/strong>: Handles large or continuous state/action spaces.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Linear Approximation&lt;/strong>: Uses linear combinations of features.&lt;/li>
+&lt;li>&lt;strong>Neural Networks&lt;/strong>: Deep learning for complex function approximation.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Challenges&lt;/strong>:
+&lt;ul>
+&lt;li>Overfitting, instability, and divergence.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>7. Temporal Difference (TD) Learning&lt;/strong>
+&lt;div id="7-temporal-difference-td-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#7-temporal-difference-td-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Combines Monte Carlo methods and dynamic programming for online learning.&lt;/li>
+&lt;li>&lt;strong>Key Concepts&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>TD Error&lt;/strong>: Difference between estimated and actual returns.&lt;/li>
+&lt;li>&lt;strong>Bootstrapping&lt;/strong>: Updating estimates based on other estimates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>8. Eligibility Traces&lt;/strong>
+&lt;div id="8-eligibility-traces" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#8-eligibility-traces" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Purpose&lt;/strong>: Improves efficiency of TD learning by considering recent states and actions.&lt;/li>
+&lt;li>&lt;strong>Example&lt;/strong>: TD(λ), where λ controls the trace decay.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>9. Multi-Agent RL (MARL)&lt;/strong>
+&lt;div id="9-multi-agent-rl-marl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#9-multi-agent-rl-marl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Extends RL to environments with multiple agents.&lt;/li>
+&lt;li>&lt;strong>Challenges&lt;/strong>:
+&lt;ul>
+&lt;li>Non-stationarity (other agents are also learning).&lt;/li>
+&lt;li>Coordination and competition.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Approaches&lt;/strong>:
+&lt;ul>
+&lt;li>Cooperative, Competitive, and Mixed settings.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>10. Transfer Learning in RL&lt;/strong>
+&lt;div id="10-transfer-learning-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#10-transfer-learning-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Applying knowledge from one task to another.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Domain Adaptation&lt;/strong>: Adjusting to new environments.&lt;/li>
+&lt;li>&lt;strong>Skill Transfer&lt;/strong>: Reusing learned policies or value functions.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>11. Safe and Ethical RL&lt;/strong>
+&lt;div id="11-safe-and-ethical-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#11-safe-and-ethical-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Safe Exploration&lt;/strong>: Avoiding harmful actions during learning.&lt;/li>
+&lt;li>&lt;strong>Ethical Constraints&lt;/strong>: Incorporating human values into reward design.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>12. Hierarchical RL (HRL)&lt;/strong>
+&lt;div id="12-hierarchical-rl-hrl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#12-hierarchical-rl-hrl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Breaks tasks into sub-tasks or sub-goals.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Options Framework&lt;/strong>: Temporal abstractions for actions.&lt;/li>
+&lt;li>&lt;strong>MAXQ&lt;/strong>: Hierarchical decomposition of value functions.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>13. Imitation Learning&lt;/strong>
+&lt;div id="13-imitation-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#13-imitation-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Learning from expert demonstrations.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Behavior Cloning&lt;/strong>: Supervised learning to mimic expert actions.&lt;/li>
+&lt;li>&lt;strong>Inverse RL&lt;/strong>: Inferring the reward function from demonstrations.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>14. Meta-Learning in RL&lt;/strong>
+&lt;div id="14-meta-learning-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#14-meta-learning-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Definition&lt;/strong>: Learning to learn, or adapting quickly to new tasks.&lt;/li>
+&lt;li>&lt;strong>Methods&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Model-Agnostic Meta-Learning (MAML)&lt;/strong>: Adapts to new tasks with few samples.&lt;/li>
+&lt;li>&lt;strong>RL²&lt;/strong>: Treats the RL algorithm itself as a learning problem.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>15. Exploration Strategies&lt;/strong>
+&lt;div id="15-exploration-strategies" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#15-exploration-strategies" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Intrinsic Motivation&lt;/strong>: Encourages exploration through curiosity or novelty.&lt;/li>
+&lt;li>&lt;strong>Count-Based Exploration&lt;/strong>: Rewards visiting rare states.&lt;/li>
+&lt;li>&lt;strong>Random Network Distillation (RND)&lt;/strong>: Uses prediction errors to drive exploration.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>16. Challenges in RL&lt;/strong>
+&lt;div id="16-challenges-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#16-challenges-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Sample Efficiency&lt;/strong>: Learning with limited interactions.&lt;/li>
+&lt;li>&lt;strong>Credit Assignment&lt;/strong>: Determining which actions led to rewards.&lt;/li>
+&lt;li>&lt;strong>Scalability&lt;/strong>: Handling high-dimensional state/action spaces.&lt;/li>
+&lt;li>&lt;strong>Stability&lt;/strong>: Avoiding divergence during training.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>17. Applications of RL&lt;/strong>
+&lt;div id="17-applications-of-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#17-applications-of-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Games&lt;/strong>: AlphaGo, Dota 2, Chess.&lt;/li>
+&lt;li>&lt;strong>Robotics&lt;/strong>: Manipulation, locomotion, autonomous driving.&lt;/li>
+&lt;li>&lt;strong>Healthcare&lt;/strong>: Personalized treatment, drug discovery.&lt;/li>
+&lt;li>&lt;strong>Finance&lt;/strong>: Portfolio optimization, trading strategies.&lt;/li>
+&lt;li>&lt;strong>Recommendation Systems&lt;/strong>: Personalized content delivery.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>18. Tools and Frameworks&lt;/strong>
+&lt;div id="18-tools-and-frameworks" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#18-tools-and-frameworks" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Libraries&lt;/strong>:
+&lt;ul>
+&lt;li>OpenAI Gym: Standardized environments for RL.&lt;/li>
+&lt;li>Stable-Baselines3: Implementations of RL algorithms.&lt;/li>
+&lt;li>Ray RLlib: Scalable RL for distributed computing.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Simulators&lt;/strong>:
+&lt;ul>
+&lt;li>MuJoCo, PyBullet, Unity ML-Agents.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>19. Theoretical Foundations&lt;/strong>
+&lt;div id="19-theoretical-foundations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#19-theoretical-foundations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Convergence Guarantees&lt;/strong>: Conditions under which RL algorithms converge.&lt;/li>
+&lt;li>&lt;strong>Regret Minimization&lt;/strong>: Balancing exploration and exploitation over time.&lt;/li>
+&lt;li>&lt;strong>Policy Improvement Theorems&lt;/strong>: Guarantees for improving policies iteratively.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="relative group">&lt;strong>20. Advanced Topics&lt;/strong>
+&lt;div id="20-advanced-topics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#20-advanced-topics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Off-Policy Learning&lt;/strong>: Learning from data generated by a different policy.&lt;/li>
+&lt;li>&lt;strong>Offline RL&lt;/strong>: Learning from pre-collected datasets without interaction.&lt;/li>
+&lt;li>&lt;strong>Multi-Task RL&lt;/strong>: Learning multiple tasks simultaneously.&lt;/li>
+&lt;li>&lt;strong>Meta-RL&lt;/strong>: Learning RL algorithms themselves.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">What are differening rewardng systems in RL?
+&lt;div id="what-are-differening-rewardng-systems-in-rl" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-differening-rewardng-systems-in-rl" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In reinforcement learning (RL), reward systems are pivotal in guiding agents to learn optimal behaviors. Here&amp;rsquo;s an organized overview of different reward systems, their characteristics, and applications:&lt;/p></description></item><item><title>Types of Machine Learning</title><link>https://dasarpai.github.io/dsblog/types-of-machine-learning/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg" alt="Types of Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Machine Learning
+&lt;div id="types-of-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.&lt;/p></description></item><item><title>Important AI Research Papers</title><link>https://dasarpai.github.io/dsblog/important-ai-research-papers/</link><pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/important-ai-research-papers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg" alt="Important AI Research Papers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Important AI Research Papers
+&lt;div id="important-ai-research-papers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#important-ai-research-papers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Content from this page is migrated to &lt;a href="https://dasarpai.com/dsblog/select-ai-papers" target="_blank">Link&lt;/a>&lt;/p></description></item><item><title>Reinforcement Learning Git Repositories</title><link>https://dasarpai.github.io/dsblog/rl-git-repo/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rl-git-repo/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg" alt="Reinforcement Learning Git Repositories" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Reinforcement Learning Git Repositories
+&lt;div id="reinforcement-learning-git-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reinforcement-learning-git-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno.&lt;/th>
+&lt;th>URL&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>OpenAI Baselines: high-quality implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>A fork of OpenAI Baselines, implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>An educational resource to help anyone learn deep reinforcement learning.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>TF-Agents is a library for Reinforcement Learning in TensorFlow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>TensorFlow Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>A platform for Applied Reinforcement Learning (Applied RL)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>An End-To-End, Lightweight and Flexible Platform for Game Research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>A fast and simple framework for building and running distributed applications.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Deep Reinforcement Learning for Keras.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>Rainbow: Combining Improvements in Deep Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>Velocity in deep-learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorforce: A TensorFlow library for applied reinforcement learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>Modular Deep Reinforcement Learning framework in PyTorch.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>A framework for reproducible reinforcement learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>Reproducible and fast DL &amp;amp; RL.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>21&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>A toolkit for developing and comparing reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>A customisable 3D platform for agent-based AI research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>23&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. — For installation instruct&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro Games in Gym&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>25&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>The DeepMind Control Suite and Package&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO – A Massively Multiagent Game Environment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>27&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>Gym @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>Lab @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>29&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo @ Microsoft&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>31&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>Control Suite @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>32&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>33&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>34&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Antonin Raffin, Ashley Hill&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>35&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Sergey Kolesnikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>36&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Ray Team&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>37&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>38&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>39&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Intel&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by community&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>41&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Wah Loon Keng, Laura Graesser&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>42&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>43&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>44&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>45&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/scalable_agent" target="_blank">https://github.com/deepmind/scalable_agent&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>46&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>47&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Matthias Plappert&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>48&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Ilya Kostrikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>49&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Kai Arulkumaran&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>50&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Jerry (?)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>51&lt;/td>
+&lt;td>&lt;a href="https://github.com/Khrylx/PyTorch-RL" target="_blank">https://github.com/Khrylx/PyTorch-RL&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>52&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>53&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>54&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>55&lt;/td>
+&lt;td>&lt;a href="https://github.com/SurrealAI/surreal" target="_blank">https://github.com/SurrealAI/surreal&lt;/a>&lt;/td>
+&lt;td>TorchX&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>56&lt;/td>
+&lt;td>&lt;a href="https://github.com/zuoxingdong/lagom" target="_blank">https://github.com/zuoxingdong/lagom&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>57&lt;/td>
+&lt;td>&lt;a href="https://github.com/dennybritz/reinforcement-learning" target="_blank">https://github.com/dennybritz/reinforcement-learning&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>58&lt;/td>
+&lt;td>&lt;a href="https://github.com/unixpickle/anyrl-py" target="_blank">https://github.com/unixpickle/anyrl-py&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>59&lt;/td>
+&lt;td>&lt;a href="https://github.com/Scitator/rl-course-experiments" target="_blank">https://github.com/Scitator/rl-course-experiments&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>&lt;a href="https://github.com/oxwhirl/pymarl" target="_blank">https://github.com/oxwhirl/pymarl&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

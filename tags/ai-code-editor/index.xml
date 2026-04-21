@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Code Editor on</title><link>https://dasarpai.github.io/tags/ai-code-editor/</link><description>Recent content in AI Code Editor on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-code-editor/index.xml" rel="self" type="application/rss+xml"/><item><title>Cursor Chat: Architecture, Data Flow &amp; Storage</title><link>https://dasarpai.github.io/dsblog/cursor-chat-architecture-data-flow-storage/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cursor-chat-architecture-data-flow-storage/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6289-cursor-chat-architecture-data-flow-storage.jpg" alt="Cursor Chat: Architecture, Data Flow &amp;amp; Storage" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cursor Chat: Architecture, Data Flow &amp;amp; Storage
+&lt;div id="cursor-chat-architecture-data-flow--storage" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cursor-chat-architecture-data-flow--storage" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This document explains how Cursor chat works end-to-end: what happens when you type a message, where data is saved, whether embeddings are used, and how the codebase index fits in.&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">1. What Happens When You Type in the Chat Window
+&lt;div id="1-what-happens-when-you-type-in-the-chat-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-what-happens-when-you-type-in-the-chat-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you send a message in Cursor’s chat (Ask, Agent, Composer, Cmd+K, etc.):&lt;/p></description></item></channel></rss>

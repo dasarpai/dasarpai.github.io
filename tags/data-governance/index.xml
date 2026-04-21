@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Governance on</title><link>https://dasarpai.github.io/tags/data-governance/</link><description>Recent content in Data Governance on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 10 Mar 2020 15:50:00 +0530</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-governance/index.xml" rel="self" type="application/rss+xml"/><item><title>Dealing with Sensitive Data</title><link>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</link><pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg" alt="XAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dealing with Sensitive Data
+&lt;div id="dealing-with-sensitive-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dealing-with-sensitive-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>One of the biggest problems for a Data Science project team is to protect the data. We know, data is the basic raw material for building any supervised or unsupervised models. We cannot make a without data. Let’s assume you are working for an eCommerce retail company like Amazon; or in the health domain with some big hospital chain or government hospital; or in the banking industry with some big bank like Bank of America, Standard Charted, SBI, or ICICI Bank. They have huge data. That data can be used to develop ML models. These models can help them to serve their customers or other stakeholders in a better and efficient way. To develop these models, data should be given to the Data Science team. When the data is moving out from the production environment to the project environment, there is no guarantee that data will not fall in the wrong hands and will not be misused during the project or post the project completion. When the data is moving within the same company, there are lesser chances of this disaster. But when the company is giving data to third parties or vendors, then there are high chances.&lt;/p></description></item></channel></rss>
