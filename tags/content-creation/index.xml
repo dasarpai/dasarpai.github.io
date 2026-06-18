@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content Creation on</title><link>https://dasarpai.github.io/tags/content-creation/</link><description>Recent content in Content Creation on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/content-creation/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating the JavaScript Ecosystem</title><link>https://dasarpai.github.io/dsblog/navigating-the-javascript-ecosystem/</link><pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-the-javascript-ecosystem/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg" alt="Navigating the JavaScript Ecosystem" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More
+&lt;div id="navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This article is trying to answer following questions.&lt;/p>
+&lt;ol>
+&lt;li>Evoluation of Javascript and Relationship with Java.&lt;/li>
+&lt;li>What are popular javascript libraries?&lt;/li>
+&lt;li>What is Node and Node.js?&lt;/li>
+&lt;li>Key Features of Node.js.&lt;/li>
+&lt;li>How are Node and Node.js Related?&lt;/li>
+&lt;li>What are the Central Repositories of Javascript Packages?&lt;/li>
+&lt;li>What is the difference between npm and npx?&lt;/li>
+&lt;li>What are important npx commands?&lt;/li>
+&lt;li>What is the &amp;rsquo;export&amp;rsquo; keyword in javascript?&lt;/li>
+&lt;li>How to Use the Exported Function?&lt;/li>
+&lt;li>What is the meaning of workspace in Yarn pacakge manager?&lt;/li>
+&lt;li>Key Features of Yarn Workspaces.&lt;/li>
+&lt;li>How to Set Up Yarn Workspaces?&lt;/li>
+&lt;li>Can I use multiple package managers in my Javascript project?&lt;/li>
+&lt;li>What are other Important Languages and their primary purpose?&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Evoluation of Javascript and Relationship with Java.
+&lt;div id="evoluation-of-javascript-and-relationship-with-java" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#evoluation-of-javascript-and-relationship-with-java" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There is no relationship between Java and JavaScript.&lt;/p></description></item><item><title>Applications of GenAI</title><link>https://dasarpai.github.io/dsblog/applications-of-genai/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/applications-of-genai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg" alt="Applications of GenAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Application of Generative AI (GenAI)
+&lt;div id="application-of-generative-ai-genai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#application-of-generative-ai-genai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Generative AI (GenAI) is transforming how we interact with technology by producing human-like text, images, audio, and even code. Leveraging advanced models, especially large language models (LLMs), GenAI offers a wide range of applications across industries and data types. Let&amp;rsquo;s explore some of the key use cases and how different sectors are benefiting from this technology.&lt;/p></description></item><item><title>DS, AI, ML Online Course, Tutorial, Videos</title><link>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg" alt="DS, AI, ML Online Course, Tutorial, Videos" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">DS, AI, ML Online Course, Tutorial, Videos
+&lt;div id="ds-ai-ml-online-course-tutorial-videos" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ds-ai-ml-online-course-tutorial-videos" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Courses
+&lt;div id="courses" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#courses" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://class.coursera.org/ml-005" target="_blank">Machine Learning – Stanford&lt;/a> by Andrew Ng in Coursera (2010-2014)&lt;/li>
+&lt;li>&lt;a href="https://work.caltech.edu/lectures.html" target="_blank">Machine Learning – Caltech&lt;/a> by Yaser Abu-Mostafa (2012-2014)&lt;/li>
+&lt;li>&lt;a href="https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml" target="_blank">Machine Learning – Carnegie Mellon&lt;/a> by Tom Mitchell (Spring 2011)&lt;/li>
+&lt;li>&lt;a href="https://class.coursera.org/neuralnets-2012-001" target="_blank">Neural Networks for Machine Learning&lt;/a> by Geoffrey Hinton in Coursera (2012)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH" target="_blank">Neural networks class&lt;/a> by Hugo Larochelle from Université de Sherbrooke (2013)&lt;/li>
+&lt;li>&lt;a href="https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start" target="_blank">Deep Learning Course&lt;/a> by CILVR lab @ NYU (2014)&lt;/li>
+&lt;li>&lt;a href="https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/" target="_blank">A.I – Berkeley&lt;/a> by Dan Klein and Pieter Abbeel (2013)&lt;/li>
+&lt;li>&lt;a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/" target="_blank">A.I – MIT&lt;/a> by Patrick Henry Winston (2010)&lt;/li>
+&lt;li>&lt;a href="https://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html" target="_blank">Vision and learning – computers and brains&lt;/a> by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)&lt;/li>
+&lt;li>&lt;a href="https://vision.stanford.edu/teaching/cs231n/syllabus.html" target="_blank">Convolutional Neural Networks for Visual Recognition – Stanford&lt;/a> by Fei-Fei Li, Andrej Karpathy (2017)&lt;/li>
+&lt;li>&lt;a href="https://cs224d.stanford.edu/" target="_blank">Deep Learning for Natural Language Processing – Stanford&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://info.usherbrooke.ca/hlarochelle/neural_networks/content.html" target="_blank">Neural Networks – usherbrooke&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/" target="_blank">Machine Learning – Oxford&lt;/a> (2014-2015)&lt;/li>
+&lt;li>&lt;a href="https://developer.nvidia.com/deep-learning-courses" target="_blank">Deep Learning – Nvidia&lt;/a> (2015)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA" target="_blank">Graduate Summer School: Deep Learning, Feature Learning&lt;/a> by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/course/deep-learning--ud730" target="_blank">Deep Learning – Udacity/Google&lt;/a> by Vincent Vanhoucke and Arpan Chakraborty (2016)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE" target="_blank">Deep Learning – UWaterloo&lt;/a> by Prof. Ali Ghodsi at University of Waterloo (2015)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=azaLcvuql_g&amp;amp;list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r" target="_blank">Statistical Machine Learning – CMU&lt;/a> by Prof. Larry Wasserman&lt;/li>
+&lt;li>&lt;a href="https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm" target="_blank">Deep Learning Course&lt;/a> by Yann LeCun (2016)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm" target="_blank">Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://uvadlc.github.io/" target="_blank">UVA Deep Learning Course&lt;/a> MSc in Artificial Intelligence for the University of Amsterdam.&lt;/li>
+&lt;li>&lt;a href="https://selfdrivingcars.mit.edu/" target="_blank">MIT 6.S094: Deep Learning for Self-Driving Cars&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://introtodeeplearning.com/" target="_blank">MIT 6.S191: Introduction to Deep Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rll.berkeley.edu/deeprlcourse/" target="_blank">Berkeley CS 294: Deep Reinforcement Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/keras-in-motion" target="_blank">Keras in Motion video course&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://course.fast.ai/" target="_blank">Practical Deep Learning For Coders&lt;/a> by Jeremy Howard – Fast.ai&lt;/li>
+&lt;li>&lt;a href="https://deeplearning.cs.cmu.edu/" target="_blank">Introduction to Deep Learning&lt;/a> by Prof. Bhiksha Raj (2017)&lt;/li>
+&lt;li>&lt;a href="https://www.deeplearning.ai/ai-for-everyone/" target="_blank">AI for Everyone&lt;/a> by Andrew Ng (2019)&lt;/li>
+&lt;li>&lt;a href="https://introtodeeplearning.com/" target="_blank">MIT Intro to Deep Learning 7 day bootcamp&lt;/a> – A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)&lt;/li>
+&lt;li>&lt;a href="https://mithi.github.io/deep-blueberry" target="_blank">Deep Blueberry: Deep Learning&lt;/a> – A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)&lt;/li>
+&lt;li>&lt;a href="https://spinningup.openai.com/" target="_blank">Spinning Up in Deep Reinforcement Learning&lt;/a> – A free deep reinforcement learning course by OpenAI (2019)&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/specializations/deep-learning" target="_blank">Deep Learning Specialization – Coursera&lt;/a> – Breaking into AI with the best course from Andrew NG.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW" target="_blank">Deep Learning – UC Berkeley STAT-157&lt;/a> by Alex Smola and Mu Li (2019)&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/machine-learning-for-mere-mortals" target="_blank">Machine Learning for Mere Mortals video course&lt;/a> by Nick Chase&lt;/li>
+&lt;li>&lt;a href="https://developers.google.com/machine-learning/crash-course/" target="_blank">Machine Learning Crash Course with TensorFlow APIs&lt;/a> -Google AI&lt;/li>
+&lt;li>&lt;a href="https://course.fast.ai/part2" target="_blank">Deep Learning from the Foundations&lt;/a> Jeremy Howard – Fast.ai&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" target="_blank">Deep Reinforcement Learning (nanodegree) – Udacity&lt;/a> a 3-6 month Udacity nanodegree, spanning multiple courses (2018)&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/grokking-deep-learning-in-motion" target="_blank">Grokking Deep Learning in Motion&lt;/a> by Beau Carnes (2018)&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/share/1000gAA0QdcV9aQng=/" target="_blank">Face Detection with Computer Vision and Deep Learning&lt;/a> by Hakan Cebeci&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/slides?ranMID=40328&amp;amp;ranEAID=SAyYsTvLiGQ&amp;amp;ranSiteID=SAyYsTvLiGQ-CmOo_hUqOR9Oj8ApcOw0Kg&amp;amp;siteID=SAyYsTvLiGQ-CmOo_hUqOR9Oj8ApcOw0Kg&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=SAyYsTvLiGQ" target="_blank">Presentation skills: Designing Presentation Slides - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?ranMID=40328&amp;amp;ranEAID=SAyYsTvLiGQ&amp;amp;ranSiteID=SAyYsTvLiGQ-heqdps0Uveezr1XmtoOPDQ&amp;amp;siteID=SAyYsTvLiGQ-heqdps0Uveezr1XmtoOPDQ&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=SAyYsTvLiGQ" target="_blank">Mathematics for Machine Learning: Multivariate Calculus - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/machine-learning/home/welcome" target="_blank">Machine Learning – Home Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?ranMID=40328&amp;amp;ranEAID=SAyYsTvLiGQ&amp;amp;ranSiteID=SAyYsTvLiGQ-P3iVNag0daUW2nModtd2GA&amp;amp;siteID=SAyYsTvLiGQ-P3iVNag0daUW2nModtd2GA&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=SAyYsTvLiGQ" target="_blank">Mathematics for Machine Learning: Multivariate Calculus - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/browse/data-science" target="_blank">Data Science Certificates - Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learning.edureka.co/mycourses" target="_blank">Edureka&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bdlabs.edureka.co:50001/cmf/services/18/status" target="_blank">Edureka-Cloudera Manager&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/" target="_blank">Udemy Courses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://onlinereikicourse.com/" target="_blank">Courses – Online Reiki Course&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.datacamp.com/courses" target="_blank">DataCamp Courses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.byjus.com/video/chapter-videos/44724" target="_blank">Byju&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229" target="_blank">udacity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://intellipaat.com/blog/what-is-apache-spark/" target="_blank">What is Spark – A Comparison Between Spark vs. Hadoop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://studio.azureml.net/Home/ViewWorkspaceCached/086ca408664942138b618398589b02ff#Workspace/Settings/Name" target="_blank">Microsoft Azure Machine Learning Studio (classic)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.apache.org/" target="_blank">Welcome to The Apache Software Foundation!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://makingindiaemployable.com/" target="_blank">Making India Employable - Vivid Vision 10 10 10&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ideone.com/" target="_blank">GpI8H5 – Online Python3 Interpreter &amp;amp; Debugging Tool – Ideone.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi" target="_blank">Google I/O 2019 – All Sessions – YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV" target="_blank">TensorFlow at Google I/O 2019 – YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bsc.hcverma.in/course/quantum" target="_blank">Quantum Mechanics - BSc Lectures by Prof. H C Verma and Team&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openpathshala.com/" target="_blank">Open Pathshala - Your Best Source to Learn Sanskrit&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.classcentral.com/" target="_blank">Class Central #1 Search Engine for Free Online Courses &amp;amp; MOOCs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.class-central.com/course/coursera-mathematics-for-machine-learning-multivariate-calculus-10452" target="_blank">Free Online Course: Mathematics for Machine Learning: Multivariate Calculus from Coursera - Class Central&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://byjus.com/" target="_blank">e Learning for Basic Science and Maths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.skillshare.com/" target="_blank">Online Classes by Skillshare - Start for Free Today&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learndigital.withgoogle.com/digitalgarage" target="_blank">Learn online marketing with free courses – Google Digital Garage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://moz.com/blog" target="_blank">Moz Blog – SEO and Inbound Marketing Blog – Moz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://onlinecourses.nptel.ac.in/m#/lesson/noc19_hs53/8/15" target="_blank">NPTEL Online Courses Mobile&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/learn/overview" target="_blank">Learn Python, Data Viz, Pandas &amp;amp; More - Tutorials - Kaggle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.superdatascience.com/training/" target="_blank">Data Science Training&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Tutorials
+&lt;div id="tutorials" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tutorials" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial" target="_blank">UFLDL Tutorial 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ufldl.stanford.edu/tutorial/supervised/LinearRegression/" target="_blank">UFLDL Tutorial 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial" target="_blank">Deep Learning for NLP (without Magic)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks" target="_blank">A Deep Learning Tutorial: From Perceptrons to Deep Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.metacademy.org/roadmaps/rgrosse/deep_learning" target="_blank">Deep Learning from the Bottom up&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deeplearning.net/tutorial/deeplearning.pdf" target="_blank">Theano Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf" target="_blank">Neural Networks for Matlab&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/" target="_blank">Using convolutional neural nets to detect facial keypoints tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials" target="_blank">Torch7 Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/josephmisiti/machine-learning-module" target="_blank">The Best Machine Learning Tutorials On The Web&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html" target="_blank">VGG Convolutional Neural Networks Practical&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nlintz/TensorFlow-Tutorials" target="_blank">TensorFlow tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/pkmital/tensorflow_tutorials" target="_blank">More TensorFlow tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/aymericdamien/TensorFlow-Examples" target="_blank">TensorFlow Python Notebooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Vict0rSch/deep_learning" target="_blank">Keras and Lasagne Deep Learning Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition" target="_blank">Classification on raw time series in TensorFlow with a LSTM RNN&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/" target="_blank">Using convolutional neural nets to detect facial keypoints tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/astorfi/TensorFlow-World" target="_blank">TensorFlow-World&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/books/deep-learning-with-python" target="_blank">Deep Learning with Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/books/grokking-deep-learning" target="_blank">Grokking Deep Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/books/deep-learning-for-search" target="_blank">Deep Learning for Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511" target="_blank">Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/yunjey/pytorch-tutorial" target="_blank">Pytorch Tutorial by Yunjey Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html" target="_blank">Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html" target="_blank">Overview and benchmark of traditional and deep learning models in text classification&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MelAbgrall/HardwareforAI" target="_blank">Hardware for AI: Understanding computer hardware &amp;amp; build your own computer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackr.io/tutorials/learn-artificial-intelligence-ai" target="_blank">Programming Community Curated Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://amitness.com/2020/02/illustrated-self-supervised-learning/" target="_blank">The Illustrated Self-Supervised Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://amitness.com/2020/02/albert-visual-summary/" target="_blank">Visual Paper Summary: ALBERT (A Lite BERT)&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Videos and Lectures
+&lt;div id="videos-and-lectures" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#videos-and-lectures" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=RIkxVci-R4k" target="_blank">How To Create A Mind&lt;/a> By Ray Kurzweil&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=n1ViNeWhC24" target="_blank">Deep Learning, Self-Taught Learning and Unsupervised Feature Learning&lt;/a> By Andrew Ng&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=vShMxxqtDDs&amp;amp;index=3&amp;amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT" target="_blank">Recent Developments in Deep Learning&lt;/a> By Geoff Hinton&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=sc-KbuZqGkI" target="_blank">The Unreasonable Effectiveness of Deep Learning&lt;/a> by Yann LeCun&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=4xsVFLnHC_0" target="_blank">Deep Learning of Representations&lt;/a> by Yoshua bengio&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=6ufPpZDmPKA" target="_blank">Principles of Hierarchical Temporal Memory&lt;/a> by Jeff Hawkins&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT" target="_blank">Machine Learning Discussion Group – Deep Learning w/ Stanford AI Lab&lt;/a> by Adam Coates&lt;/li>
+&lt;li>&lt;a href="https://vimeo.com/80821560" target="_blank">Making Sense of the World with Deep Learning&lt;/a> By Adam Coates&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=wZfVBwOO0-k" target="_blank">Demystifying Unsupervised Feature Learning&lt;/a> By Adam Coates&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=3boKlkPBckA" target="_blank">Visual Perception with Deep Learning&lt;/a> By Yann LeCun&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=AyzOUbkUf3M" target="_blank">The Next Generation of Neural Networks&lt;/a> By Geoffrey Hinton at GoogleTechTalks&lt;/li>
+&lt;li>&lt;a href="https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn" target="_blank">The wonderful and terrifying implications of computers that can learn&lt;/a> By Jeremy Howard at TEDxBrussels&lt;/li>
+&lt;li>&lt;a href="https://web.stanford.edu/class/cs294a/handouts.html" target="_blank">Unsupervised Deep Learning – Stanford&lt;/a> by Andrew Ng in Stanford (2011)&lt;/li>
+&lt;li>&lt;a href="https://web.stanford.edu/class/cs224n/handouts/" target="_blank">Natural Language Processing&lt;/a> By Chris Manning in Stanford&lt;/li>
+&lt;li>&lt;a href="https://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html" target="_blank">A beginners Guide to Deep Neural Networks&lt;/a> By Natalie Hammel and Lorraine Yurshansky&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=czLI3oLDe8M" target="_blank">Deep Learning: Intelligence from Big Data&lt;/a> by Steve Jurvetson (and panel) at VLAB in Stanford.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=FoO8qDB8gUU" target="_blank">Introduction to Artificial Neural Networks and Deep Learning&lt;/a> by Leo Isikdogan at Motorola Mobility HQ&lt;/li>
+&lt;li>&lt;a href="https://nips.cc/Conferences/2016/Schedule" target="_blank">NIPS 2016 lecture and workshop videos&lt;/a> – NIPS 2016&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=oS5fz_mHVz0&amp;amp;list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07" target="_blank">Deep Learning Crash Course&lt;/a>: a series of mini-lectures by Leo Isikdogan on YouTube (2018)&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/deep-learning-crash-course" target="_blank">Deep Learning Crash Course&lt;/a> By Oliver Zeigermann&lt;/li>
+&lt;li>&lt;a href="https://www.manning.com/livevideo/deep-learning-with-r-in-motion" target="_blank">Deep Learning with R in Motion&lt;/a>: a live video course that teaches how to apply deep learning to text and images using the powerful Keras library and its R language interface.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/f5vUg6i" target="_blank">8 Essential Tips for People starting a Career in Data Science&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fMEhi4D" target="_blank">Cheatsheet: How to become a data scientist&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fruY2AC" target="_blank">The Art of Learning Data Science&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fxReDab" target="_blank">The Periodic Table of Data Science&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fXSE-us" target="_blank">Aspiring Data Scientists! Start to learn Statistics with these 6 books&lt;/a>!&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/f8S3Ygd" target="_blank">8 Skills You Need to Be a Data Scientist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fKugicE" target="_blank">Top 10 Essential Books for the Data Enthusiast&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/fTGDkju" target="_blank">Aspiring data scientist? Master these fundamentals&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://lnkd.in/f_Zhpzf" target="_blank">How to Become a Data Scientist – On your own.&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">GRETL – Great Statistical software for Beginners
+&lt;div id="gretl--great-statistical-software-for-beginners" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gretl--great-statistical-software-for-beginners" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Simple Linear Regression &lt;a href="https://lnkd.in/ecfsV9c" target="_blank">https://lnkd.in/ecfsV9c&lt;/a>&lt;/li>
+&lt;li>Coding Dummy Variables &lt;a href="https://lnkd.in/ef7Yd7f" target="_blank">https://lnkd.in/ef7Yd7f&lt;/a>&lt;/li>
+&lt;li>Forecasting New Observations &lt;a href="https://lnkd.in/eNKbxbU" target="_blank">https://lnkd.in/eNKbxbU&lt;/a>&lt;/li>
+&lt;li>Forecasting a Large Number of Observations &lt;a href="https://lnkd.in/eHmibGs" target="_blank">https://lnkd.in/eHmibGs&lt;/a>&lt;/li>
+&lt;li>Logistic Regression &lt;a href="https://lnkd.in/eRfhQ87" target="_blank">https://lnkd.in/eRfhQ87&lt;/a>&lt;/li>
+&lt;li>Forecasting and Confusion Matrix &lt;a href="https://lnkd.in/eaqrFJr" target="_blank">https://lnkd.in/eaqrFJr&lt;/a>&lt;/li>
+&lt;li>Modeling and Forecasting Time Series Data &lt;a href="https://lnkd.in/e6fqKpF" target="_blank">https://lnkd.in/e6fqKpF&lt;/a>&lt;/li>
+&lt;li>Comparing Time Series Trend Models &lt;a href="https://lnkd.in/eKjEUAE" target="_blank">https://lnkd.in/eKjEUAE&lt;/a>&lt;/li>
+&lt;li>Khan Academy is the best online free resource to learn Math for Data Science. ( &lt;a href="https://www.khanacademy.org/math/" target="_blank">https://www.khanacademy.org/math/&lt;/a>).&lt;/li>
+&lt;li>Krista King has also done a great job in creating an exceptionally good introductory course. She is too good at designing the course. ( &lt;a href="https://www.udemy.com/user/kristaking/" target="_blank">https://www.udemy.com/user/kristaking/&lt;/a>.&lt;/li>
+&lt;li>3Blue1Brown ( &lt;a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists" target="_blank">https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists&lt;/a>).&lt;/li>
+&lt;li>Every Intro to Data Science Course on the Internet, Ranked. (&lt;a href="https://lnkd.in/fQDMiNX" target="_blank">https://lnkd.in/fQDMiNX&lt;/a> )&lt;/li>
+&lt;li>What would be useful for aspiring data scientists to know? (&lt;a href="https://lnkd.in/fmcFyN7" target="_blank">https://lnkd.in/fmcFyN7&lt;/a>)&lt;/li>
+&lt;/ol></description></item></channel></rss>

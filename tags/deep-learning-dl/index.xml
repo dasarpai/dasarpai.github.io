@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning (DL) on</title><link>https://dasarpai.github.io/tags/deep-learning-dl/</link><description>Recent content in Deep Learning (DL) on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/deep-learning-dl/index.xml" rel="self" type="application/rss+xml"/><item><title>Demystifying NVIDIA GPUs</title><link>https://dasarpai.github.io/dsblog/demystify-nvidia-gpus/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/demystify-nvidia-gpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg" alt="Demystifying NVIDIA GPUs" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Demystifying NVIDIA GPUs
+&lt;div id="demystifying-nvidia-gpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#demystifying-nvidia-gpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>NVIDIA has been in the GPU manufacturing business since 1993. They offer hundreds of different types of GPUs for various segments and purposes. For those not in the GPU infrastructure business, it can be confusing to understand even their naming conventions. In this article, I will do my best to help you understand the different types of NVIDIA GPUs and their naming conventions.&lt;/p></description></item><item><title>Understanding Contextual Embedding in Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-contextual-embedding-in-transformers/</link><pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-contextual-embedding-in-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg" alt="Understanding Contextual Embedding in Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Embedding can be confusing for many people, and contextual embedding performed by transformers can be even more perplexing. Even after gaining an understanding, many questions remain. In this article, we aim to address the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What is Embedding?&lt;/li>
+&lt;li>What is Fixed Embedding?&lt;/li>
+&lt;li>How Transformers Handle Context&lt;/li>
+&lt;li>How this token &amp;lsquo;bank&amp;rsquo; and corresponding embedding is stored in embedding database?&lt;/li>
+&lt;li>How contextural embedding is generated?&lt;/li>
+&lt;li>What will be the output size of attention formula softmax?&lt;/li>
+&lt;li>What is meaning of a LLM has context length of 2 million tokens?&lt;/li>
+&lt;li>How many attention layers we keep in transformer like gpt4?&lt;/li>
+&lt;li>What is the meaning of 96 attention layers, are they attention head count?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is Embedding?
+&lt;div id="what-is-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>An embedding is a way to represent discrete data (like words or tokens) as continuous vectors of numbers.&lt;/p></description></item><item><title>Understanding the Working of CNN</title><link>https://dasarpai.github.io/dsblog/understanding-working-of-cnn/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-working-of-cnn/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg" alt="Understanding the Working of CNN" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding the Working of CNN
+&lt;div id="understanding-the-working-of-cnn" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-the-working-of-cnn" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article, we aim to delve deeper into the working of CNNs. This article is intended for readers who have a basic understanding of CNNs and have computation-related questions. If you have any other questions about CNNs, feel free to ask in the comments.&lt;/p></description></item><item><title>Types of Large Language Models (LLM)</title><link>https://dasarpai.github.io/dsblog/types-of-llm/</link><pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6171-Types-of-LLM.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Introduction:&lt;/strong>
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The world of Generative AI (GenAI) is expanding at an astonishing rate, with new models emerging almost daily, each sporting unique names, capabilities, versions, and sizes. For AI professionals, keeping track of these models can feel like a full-time job. But for business users, IT professionals, and software developers trying to make the right choice, understanding the model’s name and what it represents can seem overwhelming. Wouldn’t it be helpful if we could decode the meaning behind these names to know if a model fits our needs and is worth the investment? In this article, we’ll break down how the names of GenAI models can reveal clues about their functionality and suitability for specific tasks, helping you make informed decisions with confidence.&lt;/p></description></item><item><title>How Much Memory Needed for LLM</title><link>https://dasarpai.github.io/dsblog/how-much-memory-needed-for-llm/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/how-much-memory-needed-for-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg" alt="How-Much-Memory-Needed-for-LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">How Much Memory Needed for LLM?
+&lt;div id="how-much-memory-needed-for-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-much-memory-needed-for-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is LLM?
+&lt;div id="what-is-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM stands for &lt;strong>Large Language Model&lt;/strong>. These are machine learning models that are trained on massive amounts of text data to understand, generate, and work with human language in a way that mimics natural language understanding. They are called &amp;ldquo;large&amp;rdquo; because of the significant number of parameters they contain, often numbering in the billions or even trillions.&lt;/p></description></item><item><title>LLM Architecture and Training</title><link>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg" alt="LLM-Architecture-and-Training" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Understanding LLM Architectures and Model Training&lt;/strong>
+&lt;div id="understanding-llm-architectures-and-model-training" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-architectures-and-model-training" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Large Language Models (LLMs) are transforming the field of artificial intelligence by enabling machines to understand and generate human language with unprecedented accuracy. This article delves into the architecture, training methods, and practical applications of LLMs. We’ll explore the core components that make these models so powerful and explain how they are trained and fine-tuned for real-world use cases.&lt;/p></description></item><item><title>Understanding LLM GAN and Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg" alt="Understanding-LLM-GAN-Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding LLM, GAN and Transformers
+&lt;div id="understanding-llm-gan-and-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-gan-and-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">LLM Layers
+&lt;div id="llm-layers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#llm-layers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:&lt;/p></description></item><item><title>Transformers Demystified A Step-by-Step Guide</title><link>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</link><pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg" alt="Transformers Demystified A Step-by-Step Guide" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transformers Demystified A Step-by-Step Guide
+&lt;div id="transformers-demystified-a-step-by-step-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-demystified-a-step-by-step-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>All modern Transformers are based on a paper &amp;ldquo;Attention is all you need&amp;rdquo;&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This was the mother paper of all the transformer architectures we see today around NLP, Multimodal, Deep Learning. It was presented by Ashish Vaswani et al from Deep Learning / Google in 2017. We will discuss following and anything whatever question/observation/idea I have.&lt;/p></description></item><item><title>Compressing Large Language Model</title><link>https://dasarpai.github.io/dsblog/compressing-llm/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/compressing-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6099-Compressing-LLM.jpg" alt="Compressing Large Language Model" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Compressing Large Language Model
+&lt;div id="compressing-large-language-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#compressing-large-language-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answers to following question then &amp;ldquo;Yes&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>What is LLM compression?&lt;/li>
+&lt;li>Why is LLM compression necessary?&lt;/li>
+&lt;li>What are the different techniques for LLM compression?&lt;/li>
+&lt;li>How does quantization work in LLM compression?&lt;/li>
+&lt;li>What is pruning, and how does it help in compressing LLMs?&lt;/li>
+&lt;li>Can you explain knowledge distillation in the context of LLMs?&lt;/li>
+&lt;li>What is low-rank factorization and its role in LLM compression?&lt;/li>
+&lt;li>How effective are weight sharing techniques in compressing LLMs?&lt;/li>
+&lt;li>What are the trade-offs involved in LLM compression?&lt;/li>
+&lt;li>How does fine-tuning work in the context of compressed LLMs?&lt;/li>
+&lt;li>What are the benefits of fine-tuning in compressed LLMs?&lt;/li>
+&lt;li>What role does hardware play in LLM compression?&lt;/li>
+&lt;li>What are the ethical considerations in LLM compression?&lt;/li>
+&lt;li>What are the future directions in LLM compression?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">1. &lt;strong>What is LLM Compression?&lt;/strong>
+&lt;div id="1-what-is-llm-compression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-what-is-llm-compression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM (Large Language Model) compression refers to a set of techniques and methodologies aimed at reducing the size of large language models while maintaining their performance as much as possible. Large language models, such as GPT, BERT, and their variants, often contain hundreds of millions to billions of parameters, making them resource-intensive to deploy and run. The sheer size of these models poses challenges in terms of storage, computation, and real-time inference, especially when deploying on devices with limited hardware resources like mobile phones or edge devices.&lt;/p></description></item><item><title>ML Model Development Framework</title><link>https://dasarpai.github.io/dsblog/ml-model-development-framework/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-development-framework/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg" alt="ML Model Development Framework" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Development Framework &amp;amp; Model Repositories
+&lt;div id="ml-model-development-framework--model-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-development-framework--model-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are hundreds of &lt;a href="https://dasarpai.github.io/dsblog/nlp-tasks">machine learning tasks&lt;/a>. To do these tasks there are &lt;a href="https://dasarpai.github.io/dsblog/Type-of-Databases">thousands of datasets&lt;/a> created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href="dsblog/ML-Model-Repository-from-Pinto0309">1&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/paperwithcode-resources">2&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/What-Are-Transformers-in-AI">3&lt;/a> and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Repository from Pinto0309
+&lt;div id="ml-model-repository-from-pinto0309" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-repository-from-pinto0309" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p></description></item><item><title>Important AI Paper List</title><link>https://dasarpai.github.io/dsblog/select-ai-papers/</link><pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/select-ai-papers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg" alt="Important AI Paper List" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Important AI Paper List
+&lt;div id="important-ai-paper-list" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#important-ai-paper-list" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduciton
+&lt;div id="introduciton" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduciton" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In almost all citations it becomes very difficult to read the title of research papers. Why? Because the contributors&amp;rsquo; information is first and most of the time, it is difficult to read the name other than native people. For example, if an Indian find a native name like &amp;ldquo;Vivek Ramaswami, Kartikeyan Karunanidhi&amp;rdquo; it is easy for them to read the name but the same name becomes difficult to read for non-Indian people, and vice-versa. Giving respect to the creator is very important but more than we need to know what have they done. I know from my experience, for almost every researcher, it becomes very difficult to track good AI research papers. For me, it is more difficult because I need to maintain this blog and I want to give references to the work across different webpages. Therefore I am creating a citation key, which includes the Last name of the first researcher + year of presenting that paper. Along with this, I am describing the title of the paper and where it was presented. If you find a particular title interesting for your work you can search that paper on &amp;ldquo;google scholar&amp;rdquo;, Mendeley, sci-hub or other places with which you are familiar and comfortable. Post that you can download and read that paper at your leisure. Hope you find this list of some use for your work.&lt;/p></description></item><item><title>Paper with Code Resources</title><link>https://dasarpai.github.io/dsblog/paperwithcode-resources/</link><pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/paperwithcode-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg" alt="Paper with Code Resources" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Paper with Code Resources
+&lt;div id="paper-with-code-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-with-code-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Trending Papers of 2021
+&lt;div id="trending-papers-of-2021" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#trending-papers-of-2021" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>ADOP: Approximate Differentiable One-Pixel Point Rendering — Rückert et al — &lt;a href="https://paperswithcode.com/paper/adop-approximate-differentiable-one-pixel" target="_blank">https://paperswithcode.com/paper/adop-approximate-differentiable-one-pixel&lt;/a>&lt;/li>
+&lt;li>The Bayesian Learning Rule —Khan et al &lt;a href="https://paperswithcode.com/paper/the-bayesian-learning-rule" target="_blank">https://paperswithcode.com/paper/the-bayesian-learning-rule&lt;/a>&lt;/li>
+&lt;li>Program Synthesis with Large Language Models — Austin et al &lt;a href="https://paperswithcode.com/paper/program-synthesis-with-large-language-models" target="_blank">https://paperswithcode.com/paper/program-synthesis-with-large-language-models&lt;/a>&lt;/li>
+&lt;li>Masked Autoencoders Are Scalable Vision Learners — He et al &lt;a href="https://paperswithcode.com/paper/masked-autoencoders-are-scalable-vision" target="_blank">https://paperswithcode.com/paper/masked-autoencoders-are-scalable-vision&lt;/a>&lt;/li>
+&lt;li>8-bit Optimizers via Block-wise Quantization — Dettmers et al &lt;a href="https://paperswithcode.com/paper/8-bit-optimizers-via-block-wise-quantization" target="_blank">https://paperswithcode.com/paper/8-bit-optimizers-via-block-wise-quantization&lt;/a>&lt;/li>
+&lt;li>Revisiting ResNets: Improved Training and Scaling Strategies — Bello et al &lt;a href="https://paperswithcode.com/paper/revisiting-resnets-improved-training-and" target="_blank">https://paperswithcode.com/paper/revisiting-resnets-improved-training-and&lt;/a>&lt;/li>
+&lt;li>Image Super-Resolution via Iterative Refinement — Saharia et al &lt;a href="https://paperswithcode.com/paper/image-super-resolution-via-iterative" target="_blank">https://paperswithcode.com/paper/image-super-resolution-via-iterative&lt;/a>&lt;/li>
+&lt;li>Perceiver IO: A General Architecture for Structured Inputs &amp;amp; Outputs — Jaegle et al &lt;a href="https://paperswithcode.com/paper/perceiver-io-a-general-architecture-for" target="_blank">https://paperswithcode.com/paper/perceiver-io-a-general-architecture-for&lt;/a>&lt;/li>
+&lt;li>Do Vision Transformers See Like Convolutional Neural Networks? — Raghu et al &lt;a href="https://paperswithcode.com/paper/do-vision-transformers-see-like-convolutional" target="_blank">https://paperswithcode.com/paper/do-vision-transformers-see-like-convolutional&lt;/a>&lt;/li>
+&lt;li>Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions — Niepert et al &lt;a href="https://paperswithcode.com/paper/implicit-mle-backpropagating-through-discrete" target="_blank">https://paperswithcode.com/paper/implicit-mle-backpropagating-through-discrete&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Trending Libaries of 2021
+&lt;div id="trending-libaries-of-2021" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#trending-libaries-of-2021" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>PyTorch Image Models — Ross Wightman — &lt;a href="https://github.com/rwightman/pytorch-image-models" target="_blank">https://github.com/rwightman/pytorch-image-models&lt;/a>&lt;/li>
+&lt;li>Transformers — Hugging Face — &lt;a href="https://github.com/huggingface/transformers" target="_blank">https://github.com/huggingface/transformers&lt;/a>&lt;/li>
+&lt;li>PyTorch-GAN — Erik Linder-Norén — &lt;a href="https://github.com/eriklindernoren/PyTorch-GAN" target="_blank">https://github.com/eriklindernoren/PyTorch-GAN&lt;/a>&lt;/li>
+&lt;li>MMDetection — OpenMMLab — &lt;a href="https://github.com/open-mmlab/mmdetection" target="_blank">https://github.com/open-mmlab/mmdetection&lt;/a>&lt;/li>
+&lt;li>Darknet — AlexeyAB — &lt;a href="https://github.com/AlexeyAB/darknet" target="_blank">https://github.com/AlexeyAB/darknet&lt;/a>&lt;/li>
+&lt;li>Vision Transformer PyTorch — lucidrains — &lt;a href="https://github.com/lucidrains/vit-pytorch" target="_blank">https://github.com/lucidrains/vit-pytorch&lt;/a>&lt;/li>
+&lt;li>InsightFace — DeepInsight — &lt;a href="https://github.com/deepinsight/insightface" target="_blank">https://github.com/deepinsight/insightface&lt;/a>&lt;/li>
+&lt;li>Detectron2 — Meta AI — &lt;a href="https://github.com/facebookresearch/detectron2" target="_blank">https://github.com/facebookresearch/detectron2&lt;/a>&lt;/li>
+&lt;li>PaddleOCR — PaddlePaddle — &lt;a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">https://github.com/PaddlePaddle/PaddleOCR&lt;/a>&lt;/li>
+&lt;li>FairSeq — Meta AI — &lt;a href="https://github.com/pytorch/fairseq" target="_blank">https://github.com/pytorch/fairseq&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Top Dataset - 2021
+&lt;div id="top-dataset---2021" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#top-dataset---2021" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>MATH — Hendrycks et al &lt;a href="https://paperswithcode.com/dataset/math" target="_blank">https://paperswithcode.com/dataset/math&lt;/a>&lt;/li>
+&lt;li>UAV-Human — Li et al &lt;a href="https://paperswithcode.com/dataset/uav-human" target="_blank">https://paperswithcode.com/dataset/uav-human&lt;/a>&lt;/li>
+&lt;li>UPFD (User Preference-aware Fake News Detection) — Dou et al &lt;a href="https://paperswithcode.com/dataset/upfd" target="_blank">https://paperswithcode.com/dataset/upfd&lt;/a>&lt;/li>
+&lt;li>OGB-LSC (OGB Large-Scale Challenge) — Hu et al &lt;a href="https://paperswithcode.com/dataset/ogb-lsc" target="_blank">https://paperswithcode.com/dataset/ogb-lsc&lt;/a>&lt;/li>
+&lt;li>CodeXGLUE —Lu et al &lt;a href="https://paperswithcode.com/dataset/codexglue" target="_blank">https://paperswithcode.com/dataset/codexglue&lt;/a>&lt;/li>
+&lt;li>AGORA — Patel et al &lt;a href="https://paperswithcode.com/dataset/agora" target="_blank">https://paperswithcode.com/dataset/agora&lt;/a>&lt;/li>
+&lt;li>BEIR (Benchmarking IR) — Thakur et al &lt;a href="https://paperswithcode.com/dataset/beir" target="_blank">https://paperswithcode.com/dataset/beir&lt;/a>&lt;/li>
+&lt;li>WikiGraphs — Wang et al &lt;a href="https://paperswithcode.com/dataset/wikigraphs" target="_blank">https://paperswithcode.com/dataset/wikigraphs&lt;/a>&lt;/li>
+&lt;li>Few-NERD — Ding et al &lt;a href="https://paperswithcode.com/dataset/few-nerd" target="_blank">https://paperswithcode.com/dataset/few-nerd&lt;/a>&lt;/li>
+&lt;li>PASS (Pictures without humAns for Self-Supervision) —Asano et al &lt;a href="https://paperswithcode.com/dataset/pass" target="_blank">https://paperswithcode.com/dataset/pass&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Papers of 2022
+&lt;div id="papers-of-2022" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#papers-of-2022" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Controllable Animation of Fluid Elements in Still Images&lt;/li>
+&lt;li>F-SfT: Shape-From-Template With A Physics-Based Deformation Model&lt;/li>
+&lt;li>TWIST: Two-Way Inter-Label Self-Training for Semi-Supervised 3D Instance Segmentation&lt;/li>
+&lt;li>Do Learned Representations Respect Causal Relationships?&lt;/li>
+&lt;li>ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic&lt;/li>
+&lt;li>3D Moments From Near-Duplicate Photos&lt;/li>
+&lt;li>Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization&lt;/li>
+&lt;li>Blind2Unblind: Self-Supervised Image Denoising With Visible Blind Spots&lt;/li>
+&lt;li>Balanced and Hierarchical Relation Learning for One-Shot Object Detection&lt;/li>
+&lt;li>NICE-SLAM: Neural Implicit Scalable Encoding for SLAM&lt;/li>
+&lt;li>Stochastic Trajectory Prediction Via Motion Indeterminacy Diffusion&lt;/li>
+&lt;li>CLRNet: Cross Layer Refinement Network for Lane Detection&lt;/li>
+&lt;li>Motion-Aware Contrastive Video Representation Learning Via Foreground-Background Merging&lt;/li>
+&lt;li>DINE: Domain Adaptation From Single and Multiple Black-Box Predictors&lt;/li>
+&lt;li>FaceFormer: Speech-Driven 3D Facial Animation With Transformers&lt;/li>
+&lt;li>Rotationally Equivariant 3D Object Detection&lt;/li>
+&lt;li>Accelerating DETR Convergence Via Semantic-Aligned Matching&lt;/li>
+&lt;li>Cloning Outfits From Real-World Images to 3D Characters for Generalizable Person Re-Identification&lt;/li>
+&lt;li>GeoNeRF: Generalizing NeRF With Geometry Priors&lt;/li>
+&lt;li>ABPN: Adaptive Blend Pyramid Network for Real-Time Local Retouching of Ultra High-Resolution Photo&lt;/li>
+&lt;li>Expanding Low-Density Latent Regions for Open-Set Object Detection&lt;/li>
+&lt;li>Uformer: A General U-Shaped Transformer for Image Restoration&lt;/li>
+&lt;li>Exploring Dual-Task Correlation for Pose Guided Person Image Generation&lt;/li>
+&lt;li>Portrait Eyeglasses and Shadow Removal By Leveraging 3D Synthetic Data&lt;/li>
+&lt;li>Modeling 3D Layout for Group Re-Identification&lt;/li>
+&lt;li>Toward Fast, Flexible, and Robust Low-Light Image Enhancement&lt;/li>
+&lt;li>Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos&lt;/li>
+&lt;li>HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network&lt;/li>
+&lt;li>Modular Action Concept Grounding in Semantic Video Prediction&lt;/li>
+&lt;li>StyleSwin: Transformer-Based GAN for High-Resolution Image Generation&lt;/li>
+&lt;li>Discrete Cosine Transform Network for Guided Depth Map Super-Resolution&lt;/li>
+&lt;li>Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing&lt;/li>
+&lt;li>TransGeo: Transformer Is All You Need for Cross-View Image Geo-Localization&lt;/li>
+&lt;li>Contrastive Boundary Learning for Point Cloud Segmentation&lt;/li>
+&lt;li>Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution&lt;/li>
+&lt;li>CVNet: Contour Vibration Network for Building Extraction&lt;/li>
+&lt;li>Swin Transformer V2: Scaling Up Capacity and Resolution&lt;/li>
+&lt;li>Projective Manifold Gradient Layer for Deep Rotation Regression&lt;/li>
+&lt;li>HCSC: Hierarchical Contrastive Selective Coding&lt;/li>
+&lt;li>TransRank: Self-Supervised Video Representation Learning Via Ranking-Based Transformation Recognition&lt;/li>
+&lt;li>DiSparse: Disentangled Sparsification for Multitask Model Compression&lt;/li>
+&lt;li>Pushing The Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make A Difference&lt;/li>
+&lt;li>Towards Efficient and Scalable Sharpness-Aware Minimization&lt;/li>
+&lt;li>OSSO: Obtaining Skeletal Shape From Outside&lt;/li>
+&lt;li>A Study on The Distribution of Social Biases in Self-Supervised Learning Visual Models&lt;/li>
+&lt;li>Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes&lt;/li>
+&lt;li>Comparing Correspondences: Video Prediction With Correspondence-Wise Losses&lt;/li>
+&lt;li>Towards Fewer Annotations: Active Learning Via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation&lt;/li>
+&lt;li>CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding&lt;/li>
+&lt;li>Few Shot Generative Model Adaption Via Relaxed Spatial Structural Alignment&lt;/li>
+&lt;li>Enhancing Adversarial Training With Second-Order Statistics of Weights&lt;/li>
+&lt;li>Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo&lt;/li>
+&lt;li>Moving Window Regression: A Novel Approach to Ordinal Regression&lt;/li>
+&lt;li>Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection&lt;/li>
+&lt;li>Robust Optimization As Data Augmentation for Large-Scale Graphs&lt;/li>
+&lt;li>Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks With Implicit Gradients&lt;/li>
+&lt;li>Improving The Transferability of Targeted Adversarial Examples Through Object-Based Diverse Input&lt;/li>
+&lt;li>ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer&lt;/li>
+&lt;li>360MonoDepth: High-Resolution 360deg Monocular Depth Estimation&lt;/li>
+&lt;li>POCO: Point Convolution for Surface Reconstruction&lt;/li>
+&lt;li>Neural Texture Extraction and Distribution for Controllable Person Image Synthesis&lt;/li>
+&lt;li>Classification-Then-Grounding: Reformulating Video Scene Graphs As Temporal Bipartite Graphs&lt;/li>
+&lt;li>DF-GAN: A Simple and Effective Baseline for Text-to-Image Synthesis&lt;/li>
+&lt;li>ZeroWaste Dataset: Towards Deformable Object Segmentation in Cluttered Scenes&lt;/li>
+&lt;li>UNIST: Unpaired Neural Implicit Shape Translation Network&lt;/li>
+&lt;li>APES: Articulated Part Extraction From Sprite Sheets&lt;/li>
+&lt;li>SPAct: Self-Supervised Privacy Preservation for Action Recognition&lt;/li>
+&lt;li>De-Rendering 3D Objects in The Wild&lt;/li>
+&lt;li>Global Sensing and Measurements Reuse for Image Compressed Sensing&lt;/li>
+&lt;li>Practical Evaluation of Adversarial Robustness Via Adaptive Auto Attack&lt;/li>
+&lt;li>Cross-View Transformers for Real-Time Map-View Semantic Segmentation&lt;/li>
+&lt;li>Controllable Dynamic Multi-Task Architectures&lt;/li>
+&lt;li>FastDOG: Fast Discrete Optimization on GPU&lt;/li>
+&lt;li>Focal and Global Knowledge Distillation for Detectors&lt;/li>
+&lt;li>Learning To Prompt for Continual Learning&lt;/li>
+&lt;li>Human Mesh Recovery From Multiple Shots&lt;/li>
+&lt;li>Convolution of Convolution: Let Kernels Spatially Collaborate&lt;/li>
+&lt;li>Make It Move: Controllable Image-to-Video Generation With Text Descriptions&lt;/li>
+&lt;li>Neural Points: Point Cloud Representation With Neural Fields for Arbitrary Upsampling&lt;/li>
+&lt;li>Video-Text Representation Learning Via Differentiable Weak Temporal Alignment&lt;/li>
+&lt;li>Bi-Directional Object-Context Prioritization Learning for Saliency Ranking&lt;/li>
+&lt;li>Vehicle Trajectory Prediction Works, But Not Everywhere&lt;/li>
+&lt;li>MonoDTR: Monocular 3D Object Detection With Depth-Aware Transformer&lt;/li>
+&lt;li>Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-Shot Learning&lt;/li>
+&lt;li>Generalized Category Discovery&lt;/li>
+&lt;li>Contour-Hugging Heatmaps for Landmark Detection&lt;/li>
+&lt;li>Voxel Field Fusion for 3D Object Detection&lt;/li>
+&lt;li>DisARM: Displacement Aware Relation Module for 3D Detection&lt;/li>
+&lt;li>MixFormer: Mixing Features Across Windows and Dimensions&lt;/li>
+&lt;li>FineDiving: A Fine-Grained Dataset for Procedure-Aware Action Quality Assessment&lt;/li>
+&lt;li>HEAT: Holistic Edge Attention Transformer for Structured Reconstruction&lt;/li>
+&lt;li>Mobile-Former: Bridging MobileNet and Transformer&lt;/li>
+&lt;li>CycleMix: A Holistic Strategy for Medical Image Segmentation From Scribble Supervision&lt;/li>
+&lt;li>VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution&lt;/li>
+&lt;li>Towards End-to-End Unified Scene Text Detection and Layout Analysis&lt;/li>
+&lt;li>AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation&lt;/li>
+&lt;li>ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior&lt;/li>
+&lt;li>End-to-End Referring Video Object Segmentation With Multimodal Transformers&lt;/li>
+&lt;li>IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo&lt;/li>
+&lt;li>Not All Points Are Equal: Learning Highly Efficient Point-Based Detectors for 3D LiDAR Point Clouds&lt;/li>
+&lt;li>Detecting Camouflaged Object in Frequency Domain&lt;/li>
+&lt;li>SelfRecon: Self Reconstruction Your Digital Avatar From Monocular Video&lt;/li>
+&lt;li>Equivariant Point Cloud Analysis Via Learning Orientations for Message Passing&lt;/li>
+&lt;li>Node Representation Learning in Graph Via Node-to-Neighbourhood Mutual Information Maximization&lt;/li>
+&lt;li>Semi-Supervised Video Semantic Segmentation With Inter-Frame Feature Reconstruction&lt;/li>
+&lt;li>Amodal Segmentation Through Out-of-Task and Out-of-Distribution Generalization With A Bayesian Model&lt;/li>
+&lt;li>How Well Do Sparse ImageNet Models Transfer?&lt;/li>
+&lt;li>REX: Reasoning-Aware and Grounded Explanation&lt;/li>
+&lt;li>Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes&lt;/li>
+&lt;li>Object-Aware Video-Language Pre-Training for Retrieval&lt;/li>
+&lt;li>MAT: Mask-Aware Transformer for Large Hole Image Inpainting&lt;/li>
+&lt;li>Align and Prompt: Video-and-Language Pre-Training With Entity Prompts&lt;/li>
+&lt;li>MSG-Transformer: Exchanging Local Spatial Information By Manipulating Messenger Tokens&lt;/li>
+&lt;li>Cross Modal Retrieval With Querybank Normalisation&lt;/li>
+&lt;li>Ray3D: Ray-Based 3D Human Pose Estimation for Monocular Absolute 3D Localization&lt;/li>
+&lt;li>ASM-Loc: Action-Aware Segment Modeling for Weakly-Supervised Temporal Action Localization&lt;/li>
+&lt;li>Scaling Up Your Kernels to 31×31: Revisiting Large Kernel Design in CNNs&lt;/li>
+&lt;li>End-to-End Multi-Person Pose Estimation With Transformers&lt;/li>
+&lt;li>REGTR: End-to-End Point Cloud Correspondences With Transformers&lt;/li>
+&lt;li>Neural 3D Scene Reconstruction With The Manhattan-World Assumption&lt;/li>
+&lt;li>V2C: Visual Voice Cloning&lt;/li>
+&lt;li>Revisiting AP Loss for Dense Object Detection: Adaptive Ranking Pair Selection&lt;/li>
+&lt;li>MAD: A Scalable Dataset for Language Grounding in Videos From Movie Audio Descriptions&lt;/li>
+&lt;li>Gait Recognition in The Wild With Dense 3D Representations and A Benchmark&lt;/li>
+&lt;li>ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation Via Online Exploration and Synthesis&lt;/li>
+&lt;li>QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection&lt;/li>
+&lt;li>IDEA-Net: Dynamic 3D Point Cloud Interpolation Via Deep Embedding Alignment&lt;/li>
+&lt;li>BEHAVE: Dataset and Method for Tracking Human Object Interactions&lt;/li>
+&lt;li>Revisiting Random Channel Pruning for Neural Network Compression&lt;/li>
+&lt;li>Generating Diverse and Natural 3D Human Motions From Text&lt;/li>
+&lt;li>E-CIR: Event-Enhanced Continuous Intensity Recovery&lt;/li>
+&lt;li>Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond&lt;/li>
+&lt;li>Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation&lt;/li>
+&lt;li>AziNorm: Exploiting The Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception&lt;/li>
+&lt;li>Weakly Supervised Rotation-Invariant Aerial Object Detection Network&lt;/li>
+&lt;li>Surface Reconstruction From Point Clouds By Learning Predictive Context Priors&lt;/li>
+&lt;li>IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes&lt;/li>
+&lt;li>DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation&lt;/li>
+&lt;li>Weakly Supervised Temporal Action Localization Via Representative Snippet Knowledge Propagation&lt;/li>
+&lt;li>E2EC: An End-to-End Contour-Based Method for High-Quality High-Speed Instance Segmentation&lt;/li>
+&lt;li>BatchFormer: Learning To Explore Sample Relationships for Robust Representation Learning&lt;/li>
+&lt;li>Self-Supervised Image-Specific Prototype Exploration for Weakly Supervised Semantic Segmentation&lt;/li>
+&lt;li>Learning Multi-View Aggregation in The Wild for Large-Scale 3D Semantic Segmentation&lt;/li>
+&lt;li>PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition&lt;/li>
+&lt;li>Clothes-Changing Person Re-Identification With RGB Modality Only&lt;/li>
+&lt;li>Robust Image Forgery Detection Over Online Social Network Shared Images&lt;/li>
+&lt;li>Representation Compensation Networks for Continual Semantic Segmentation&lt;/li>
+&lt;li>Tracking People By Predicting 3D Appearance, Location and Pose&lt;/li>
+&lt;li>Text2Mesh: Text-Driven Neural Stylization for Meshes&lt;/li>
+&lt;li>C-CAM: Causal CAM for Weakly Supervised Semantic Segmentation on Medical Image&lt;/li>
+&lt;li>Forward Compatible Few-Shot Class-Incremental Learning&lt;/li>
+&lt;li>Weakly Supervised Object Localization As Domain Adaption&lt;/li>
+&lt;li>Tencent-MVSE: A Large-Scale Benchmark Dataset for Multi-Modal Video Similarity Evaluation&lt;/li>
+&lt;li>Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching&lt;/li>
+&lt;li>Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation&lt;/li>
+&lt;li>MatteFormer: Transformer-Based Image Matting Via Prior-Tokens&lt;/li>
+&lt;li>Video Shadow Detection Via Spatio-Temporal Interpolation Consistency Training&lt;/li>
+&lt;li>Robust and Accurate Superquadric Recovery: A Probabilistic Approach&lt;/li>
+&lt;li>Grounding Answers for Visual Questions Asked By Visually Impaired People&lt;/li>
+&lt;li>Sparse Instance Activation for Real-Time Instance Segmentation&lt;/li>
+&lt;li>VisualGPT: Data-Efficient Adaptation of Pretrained Language Models for Image Captioning&lt;/li>
+&lt;li>MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation&lt;/li>
+&lt;li>Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis&lt;/li>
+&lt;li>Towards Implicit Text-Guided 3D Shape Generation&lt;/li>
+&lt;li>SoftCollage: A Differentiable Probabilistic Tree Generator for Image Collage&lt;/li>
+&lt;li>Query and Attention Augmentation for Knowledge-Based Explainable Reasoning&lt;/li>
+&lt;li>Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality&lt;/li>
+&lt;li>Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection&lt;/li>
+&lt;li>Fine-Grained Object Classification Via Self-Supervised Pose Alignment&lt;/li>
+&lt;li>Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding&lt;/li>
+&lt;li>Fine-Grained Temporal Contrastive Learning for Weakly-Supervised Temporal Action Localization&lt;/li>
+&lt;li>Relieving Long-Tailed Instance Segmentation Via Pairwise Class Balance&lt;/li>
+&lt;li>Online Convolutional Re-Parameterization&lt;/li>
+&lt;li>Mimicking The Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning&lt;/li>
+&lt;li>RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition&lt;/li>
+&lt;li>Personalized Image Aesthetics Assessment With Rich Attributes&lt;/li>
+&lt;li>Part-Based Pseudo Label Refinement for Unsupervised Person Re-Identification&lt;/li>
+&lt;li>HDNet: High-Resolution Dual-Domain Learning for Spectral Compressive Imaging&lt;/li>
+&lt;li>OW-DETR: Open-World Detection Transformer&lt;/li>
+&lt;li>Learning Deep Implicit Functions for 3D Shapes With Dynamic Code Clouds&lt;/li>
+&lt;li>Reversible Vision Transformers&lt;/li>
+&lt;li>Amodal Panoptic Segmentation&lt;/li>
+&lt;li>Correlation Verification for Image Retrieval&lt;/li>
+&lt;li>Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation&lt;/li>
+&lt;li>Self-Supervised Transformers for Unsupervised Object Discovery Using Normalized Cut&lt;/li>
+&lt;li>Exploring Structure-Aware Transformer Over Interaction Proposals for Human-Object Interaction Detection&lt;/li>
+&lt;li>Decoupled Multi-Task Learning With Cyclical Self-Regulation for Face Parsing&lt;/li>
+&lt;li>Glass: Geometric Latent Augmentation for Shape Spaces&lt;/li>
+&lt;li>DPICT: Deep Progressive Image Compression Using Trit-Planes&lt;/li>
+&lt;li>Text to Image Generation With Semantic-Spatial Aware GAN&lt;/li>
+&lt;li>Generalizable Cross-Modality Medical Image Segmentation Via Style Augmentation and Dual Normalization&lt;/li>
+&lt;li>Learning To Prompt for Open-Vocabulary Object Detection With Vision-Language Model&lt;/li>
+&lt;li>Interactive Segmentation and Visualization for Tiny Objects in Multi-Megapixel Images&lt;/li>
+&lt;li>Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture&lt;/li>
+&lt;li>Surface Representation for Point Clouds&lt;/li>
+&lt;li>Implicit Motion Handling for Video Camouflaged Object Detection&lt;/li>
+&lt;li>DeepLIIF: An Online Platform for Quantification of Clinical Pathology Slides&lt;/li>
+&lt;li>Learning With Twin Noisy Labels for Visible-Infrared Person Re-Identification&lt;/li>
+&lt;li>Optical Flow Estimation for Spiking Camera&lt;/li>
+&lt;li>GradViT: Gradient Inversion of Vision Transformers&lt;/li>
+&lt;li>Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution Via Cycle-Projected Mutual Learning&lt;/li>
+&lt;li>Joint Global and Local Hierarchical Priors for Learned Image Compression&lt;/li>
+&lt;li>Knowledge Distillation Via The Target-Aware Transformer&lt;/li>
+&lt;li>Subspace Adversarial Training&lt;/li>
+&lt;li>3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection&lt;/li>
+&lt;li>Image Segmentation Using Text and Image Prompts&lt;/li>
+&lt;li>AutoMine: An Unmanned Mine Dataset&lt;/li>
+&lt;li>Background Activation Suppression for Weakly Supervised Object Localization&lt;/li>
+&lt;li>Synthetic Generation of Face Videos With Plethysmograph Physiology&lt;/li>
+&lt;li>Hallucinated Neural Radiance Fields in The Wild&lt;/li>
+&lt;li>Global Tracking Transformers&lt;/li>
+&lt;li>Backdoor Attacks on Self-Supervised Learning&lt;/li>
+&lt;li>GMFlow: Learning Optical Flow Via Global Matching&lt;/li>
+&lt;li>Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation&lt;/li>
+&lt;li>Explore Spatio-Temporal Aggregation for Insubstantial Object Detection: Benchmark Dataset and Baseline&lt;/li>
+&lt;li>Graph-Based Spatial Transformer With Memory Replay for Multi-Future Pedestrian Trajectory Prediction&lt;/li>
+&lt;li>Scanline Homographies for Rolling-Shutter Plane Absolute Pose&lt;/li>
+&lt;li>AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-Time Image Enhancement&lt;/li>
+&lt;li>Recurrent Glimpse-Based Decoder for Detection With Transformer&lt;/li>
+&lt;li>SimMIM: A Simple Framework for Masked Image Modeling&lt;/li>
+&lt;li>Label Matching Semi-Supervised Object Detection&lt;/li>
+&lt;li>RegionCLIP: Region-Based Language-Image Pretraining&lt;/li>
+&lt;li>Video Frame Interpolation Transformer&lt;/li>
+&lt;li>BCOT: A Markerless High-Precision 3D Object Tracking Benchmark&lt;/li>
+&lt;li>Omni-DETR: Omni-Supervised Object Detection With Transformers&lt;/li>
+&lt;li>Transferable Sparse Adversarial Attack&lt;/li>
+&lt;li>CREAM: Weakly Supervised Object Localization Via Class RE-Activation Mapping&lt;/li>
+&lt;li>VALHALLA: Visual Hallucination for Machine Translation&lt;/li>
+&lt;li>HINT: Hierarchical Neuron Concept Explainer&lt;/li>
+&lt;li>Neural Face Identification in A 2D Wireframe Projection of A Manifold Object&lt;/li>
+&lt;li>Nonuniform-to-Uniform Quantization: Towards Accurate Quantization Via Generalized Straight-Through Estimation&lt;/li>
+&lt;li>An Empirical Study of End-to-End Temporal Action Detection&lt;/li>
+&lt;li>Object Localization Under Single Coarse Point Supervision&lt;/li>
+&lt;li>Unsupervised Learning of Accurate Siamese Tracking&lt;/li>
+&lt;li>Non-Parametric Depth Distribution Modelling Based Depth Inference for Multi-View Stereo&lt;/li>
+&lt;li>Equalized Focal Loss for Dense Long-Tailed Object Detection&lt;/li>
+&lt;li>DeepDPM: Deep Clustering With An Unknown Number of Clusters&lt;/li>
+&lt;li>ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-High Resolution Segmentation&lt;/li>
+&lt;li>Unsupervised Domain Adaptation for Nighttime Aerial Tracking&lt;/li>
+&lt;li>RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs&lt;/li>
+&lt;li>Mask-Guided Spectral-Wise Transformer for Efficient Hyperspectral Image Reconstruction&lt;/li>
+&lt;li>A Variational Bayesian Method for Similarity Learning in Non-Rigid Image Registration&lt;/li>
+&lt;li>Not Just Selection, But Exploration: Online Class-Incremental Continual Learning Via Dual View Consistency&lt;/li>
+&lt;li>Coupling Vision and Proprioception for Navigation of Legged Robots&lt;/li>
+&lt;li>Exploiting Rigidity Constraints for LiDAR Scene Flow Estimation&lt;/li>
+&lt;li>EMOCA: Emotion Driven Monocular Face Capture and Animation&lt;/li>
+&lt;li>Quarantine: Sparsity Can Uncover The Trojan Attack Trigger for Free&lt;/li>
+&lt;li>AlignQ: Alignment Quantization With ADMM-Based Correlation Preservation&lt;/li>
+&lt;li>Interactive Multi-Class Tiny-Object Detection&lt;/li>
+&lt;li>Learning From Pixel-Level Noisy Label: A New Perspective for Light Field Saliency Detection&lt;/li>
+&lt;li>Multi-View Depth Estimation By Fusing Single-View Depth Probability With Multi-View Geometry&lt;/li>
+&lt;li>Slimmable Domain Adaptation&lt;/li>
+&lt;li>High-Resolution Image Harmonization Via Collaborative Dual Transformations&lt;/li>
+&lt;li>MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation&lt;/li>
+&lt;li>Self-Supervised Neural Articulated Shape and Appearance Models&lt;/li>
+&lt;li>Topology Preserving Local Road Network Estimation From Single Onboard Camera Image&lt;/li>
+&lt;li>Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes&lt;/li>
+&lt;li>SwinTextSpotter: Scene Text Spotting Via Better Synergy Between Text Detection and Text Recognition&lt;/li>
+&lt;li>Deblur-NeRF: Neural Radiance Fields From Blurry Images&lt;/li>
+&lt;li>Whose Track Is It Anyway? Improving Robustness to Tracking Errors With Affinity-Based Trajectory Prediction&lt;/li>
+&lt;li>Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation&lt;/li>
+&lt;li>Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning&lt;/li>
+&lt;li>Blind Image Super-Resolution With Elaborate Degradation Modeling on Noise and Kernel&lt;/li>
+&lt;li>Faithful Extreme Rescaling Via Generative Prior Reciprocated Invertible Representations&lt;/li>
+&lt;li>Proto2Proto: Can You Recognize The Car, The Way I Do?&lt;/li>
+&lt;li>TVConv: Efficient Translation Variant Convolution for Layout-Aware Visual Processing&lt;/li>
+&lt;li>Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution&lt;/li>
+&lt;li>Habitat-Web: Learning Embodied Object-Search Strategies From Human Demonstrations at Scale&lt;/li>
+&lt;li>Simple But Effective: CLIP Embeddings for Embodied AI&lt;/li>
+&lt;li>NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition&lt;/li>
+&lt;li>Collaborative Transformers for Grounded Situation Recognition&lt;/li>
+&lt;li>CPPF: Towards Robust Category-Level 9D Pose Estimation in The Wild&lt;/li>
+&lt;li>Continual Test-Time Domain Adaptation&lt;/li>
+&lt;li>Dynamic MLP for Fine-Grained Image Classification By Leveraging Geographical and Temporal Information&lt;/li>
+&lt;li>MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-Based Visual Question Answering&lt;/li>
+&lt;li>Fair Contrastive Learning for Facial Attribute Classification&lt;/li>
+&lt;li>Directional Self-Supervised Learning for Heavy Image Augmentations&lt;/li>
+&lt;li>No-Reference Point Cloud Quality Assessment Via Domain Adaptation&lt;/li>
+&lt;li>Comprehending and Ordering Semantics for Image Captioning&lt;/li>
+&lt;li>A Large-Scale Comprehensive Dataset and Copy-Overlap Aware Evaluation Protocol for Segment-Level Video Copy Detection&lt;/li>
+&lt;li>Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification&lt;/li>
+&lt;li>HeadNeRF: A Real-Time NeRF-Based Parametric Head Model&lt;/li>
+&lt;li>Occlusion-Robust Face Alignment Using A Viewpoint-Invariant Hierarchical Network Architecture&lt;/li>
+&lt;li>IDR: Self-Supervised Image Denoising Via Iterative Data Refinement&lt;/li>
+&lt;li>MogFace: Towards A Deeper Appreciation on Face Detection&lt;/li>
+&lt;li>Learning Affinity From Attention: End-to-End Weakly-Supervised Semantic Segmentation With Transformers&lt;/li>
+&lt;li>CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation&lt;/li>
+&lt;li>FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos&lt;/li>
+&lt;li>Learning To Detect Mobile Objects From LiDAR Scans Without Labels&lt;/li>
+&lt;li>WildNet: Learning Domain Generalized Semantic Segmentation From The Wild&lt;/li>
+&lt;li>DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection&lt;/li>
+&lt;li>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation&lt;/li>
+&lt;li>Generating Diverse 3D Reconstructions From A Single Occluded Face Image&lt;/li>
+&lt;li>Stand-Alone Inter-Frame Attention in Video Models&lt;/li>
+&lt;li>Large-Scale Pre-Training for Person Re-Identification With Noisy Labels&lt;/li>
+&lt;li>Semantic Segmentation By Early Region Proxy&lt;/li>
+&lt;li>LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition&lt;/li>
+&lt;li>HVH: Learning A Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture&lt;/li>
+&lt;li>Rethinking Visual Geo-Localization for Large-Scale Applications&lt;/li>
+&lt;li>The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy&lt;/li>
+&lt;li>ViM: Out-of-Distribution With Virtual-Logit Matching&lt;/li>
+&lt;li>Class-Aware Contrastive Semi-Supervised Learning&lt;/li>
+&lt;li>Ditto: Building Digital Twins of Articulated Objects From Interaction&lt;/li>
+&lt;li>Adaptive Early-Learning Correction for Segmentation From Noisy Annotations&lt;/li>
+&lt;li>Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation&lt;/li>
+&lt;li>RSTT: Real-Time Spatial Temporal Transformer for Space-Time Video Super-Resolution&lt;/li>
+&lt;li>Partial Class Activation Attention for Semantic Segmentation&lt;/li>
+&lt;li>Multi-Scale Memory-Based Video Deblurring&lt;/li>
+&lt;li>A Scalable Combinatorial Solver for Elastic Geometrically Consistent 3D Shape Matching&lt;/li>
+&lt;li>Geometric Structure Preserving Warp for Natural Image Stitching&lt;/li>
+&lt;li>GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping&lt;/li>
+&lt;li>Conditional Prompt Learning for Vision-Language Models&lt;/li>
+&lt;li>Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification&lt;/li>
+&lt;li>Undoing The Damage of Label Shift for Cross-Domain Semantic Segmentation&lt;/li>
+&lt;li>FisherMatch: Semi-Supervised Rotation Regression Via Entropy-Based Filtering&lt;/li>
+&lt;li>Affine Medical Image Registration With Coarse-To-Fine Vision Transformer&lt;/li>
+&lt;li>A Differentiable Two-Stage Alignment Scheme for Burst Image Reconstruction With Large Shift&lt;/li>
+&lt;li>Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes&lt;/li>
+&lt;li>Restormer: Efficient Transformer for High-Resolution Image Restoration&lt;/li>
+&lt;li>IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation&lt;/li>
+&lt;li>Large Loss Matters in Weakly Supervised Multi-Label Classification&lt;/li>
+&lt;li>Neural Inertial Localization&lt;/li>
+&lt;li>GraftNet: Towards Domain Generalized Stereo Matching With A Broad-Spectrum and Task-Oriented Feature&lt;/li>
+&lt;li>VGSE: Visually-Grounded Semantic Embeddings for Zero-Shot Learning&lt;/li>
+&lt;li>Catching Both Gray and Black Swans: Open-Set Supervised Anomaly Detection&lt;/li>
+&lt;li>MLSLT: Towards Multilingual Sign Language Translation&lt;/li>
+&lt;li>Towards An End-to-End Framework for Flow-Guided Video Inpainting&lt;/li>
+&lt;li>Contrastive Test-Time Adaptation&lt;/li>
+&lt;li>MotionAug: Augmentation With Physical Correction for Human Motion Prediction&lt;/li>
+&lt;li>Modeling Indirect Illumination for Inverse Rendering&lt;/li>
+&lt;li>TransWeather: Transformer-Based Restoration of Images Degraded By Adverse Weather Conditions&lt;/li>
+&lt;li>H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection&lt;/li>
+&lt;li>P3Depth: Monocular Depth Estimation With A Piecewise Planarity Prior&lt;/li>
+&lt;li>GEN-VLKT: Simplify Association and Enhance Interaction Understanding for HOI Detection&lt;/li>
+&lt;li>Simple Multi-Dataset Detection&lt;/li>
+&lt;li>Proactive Image Manipulation Detection&lt;/li>
+&lt;li>StyTr2: Image Style Transfer With Transformers&lt;/li>
+&lt;li>Global Matching With Overlapping Attention for Optical Flow Estimation&lt;/li>
+&lt;li>Language As Queries for Referring Video Object Segmentation&lt;/li>
+&lt;li>MViTv2: Improved Multiscale Vision Transformers for Classification and Detection&lt;/li>
+&lt;li>Audio-Visual Generalised Zero-Shot Learning With Cross-Modal Attention and Language&lt;/li>
+&lt;li>Rethinking Efficient Lane Detection Via Curve Modeling&lt;/li>
+&lt;li>Self-Supervised Arbitrary-Scale Point Clouds Upsampling Via Implicit Neural Representation&lt;/li>
+&lt;li>Co-Advise: Cross Inductive Bias Distillation&lt;/li>
+&lt;li>AdaMixer: A Fast-Converging Query-Based Object Detector&lt;/li>
+&lt;li>DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification&lt;/li>
+&lt;li>BEVT: BERT Pretraining of Video Transformers&lt;/li>
+&lt;li>Deep Generalized Unfolding Networks for Image Restoration&lt;/li>
+&lt;li>VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation&lt;/li>
+&lt;li>Deep Unlearning Via Randomized Conditionally Independent Hessians&lt;/li>
+&lt;li>Revisiting Skeleton-Based Action Recognition&lt;/li>
+&lt;li>Stereo Depth From Events Cameras: Concentrate and Focus on The Future&lt;/li>
+&lt;li>A Simple Data Mixing Prior for Improving Self-Supervised Learning&lt;/li>
+&lt;li>Knowledge Distillation As Efficient Pre-Training: Faster Convergence, Higher Data-Efficiency, and Better Transferability&lt;/li>
+&lt;li>BigDL 2.0: Seamless Scaling of AI Pipelines From Laptops to Distributed Cluster&lt;/li>
+&lt;li>Attentive Fine-Grained Structured Sparsity for Image Restoration&lt;/li>
+&lt;li>Learning Fair Classifiers With Partially Annotated Group Labels&lt;/li>
+&lt;li>NightLab: A Dual-Level Architecture With Hardness Detection for Segmentation at Night&lt;/li>
+&lt;li>Constrained Few-Shot Class-Incremental Learning&lt;/li>
+&lt;li>Threshold Matters in WSSS: Manipulating The Activation for The Robust and Accurate Segmentation Model Against Thresholds&lt;/li>
+&lt;li>TransMVSNet: Global Context-Aware Multi-View Stereo Network With Transformers&lt;/li>
+&lt;li>DPGEN: Differentially Private Generative Energy-Guided Network for Natural Image Synthesis&lt;/li>
+&lt;li>The Majority Can Help The Minority: Context-Rich Minority Oversampling for Long-Tailed Classification&lt;/li>
+&lt;li>IntentVizor: Towards Generic Query Guided Interactive Video Summarization&lt;/li>
+&lt;li>Shape-Invariant 3D Adversarial Point Clouds&lt;/li>
+&lt;li>Bootstrapping ViTs: Towards Liberating Vision Transformers From Pre-Training&lt;/li>
+&lt;li>PubTables-1M: Towards Comprehensive Table Extraction From Unstructured Documents&lt;/li>
+&lt;li>Meta-Attention for ViT-Backed Continual Learning&lt;/li>
+&lt;li>DST: Dynamic Substitute Training for Data-Free Black-Box Attack&lt;/li>
+&lt;li>Unified Contrastive Learning in Image-Text-Label Space&lt;/li>
+&lt;li>Unsupervised Pre-Training for Temporal Action Localization Tasks&lt;/li>
+&lt;li>Look Outside The Room: Synthesizing A Consistent Long-Term 3D Scene Video From A Single Image&lt;/li>
+&lt;li>High-Fidelity Human Avatars From A Single RGB Camera&lt;/li>
+&lt;li>Multiview Transformers for Video Recognition&lt;/li>
+&lt;li>How Good Is Aesthetic Ability of A Fashion Model?&lt;/li>
+&lt;li>Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds&lt;/li>
+&lt;li>Sequential Voting With Relational Box Fields for Active Object Detection&lt;/li>
+&lt;li>Semantic-Aware Auto-Encoders for Self-Supervised Representation Learning&lt;/li>
+&lt;li>Consistency Learning Via Decoding Path Augmentation for Transformers in Human Object Interaction Detection&lt;/li>
+&lt;li>Consistent Explanations By Contrastive Learning&lt;/li>
+&lt;li>Hierarchical Modular Network for Video Captioning&lt;/li>
+&lt;li>Depth Estimation By Combining Binocular Stereo and Monocular Structured-Light&lt;/li>
+&lt;li>Salient-to-Broad Transition for Video Person Re-Identification&lt;/li>
+&lt;li>DeeCap: Dynamic Early Exiting for Efficient Image Captioning&lt;/li>
+&lt;li>RepMLPNet: Hierarchical Vision MLP With Re-Parameterized Locality&lt;/li>
+&lt;li>DR.VIC: Decomposition and Reasoning for Video Individual Counting&lt;/li>
+&lt;li>ARCS: Accurate Rotation and Correspondence Search&lt;/li>
+&lt;li>Learning To Anticipate Future With Dynamic Context Removal&lt;/li>
+&lt;li>GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors&lt;/li>
+&lt;li>On The Integration of Self-Attention and Convolution&lt;/li>
+&lt;li>Domain Adaptation on Point Clouds Via Geometry-Aware Implicits&lt;/li>
+&lt;li>GroupViT: Semantic Segmentation Emerges From Text Supervision&lt;/li>
+&lt;li>DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation&lt;/li>
+&lt;li>BppAttack: Stealthy and Efficient Trojan Attacks Against Deep Neural Networks Via Image Quantization and Contrastive Adversarial Learning&lt;/li>
+&lt;li>Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation&lt;/li>
+&lt;li>Towards Better Plasticity-Stability Trade-Off in Incremental Learning: A Simple Linear Connector&lt;/li>
+&lt;li>Topology-Preserving Shape Reconstruction and Registration Via Neural Diffeomorphic Flow&lt;/li>
+&lt;li>Segment and Complete: Defending Object Detectors Against Adversarial Patch Attacks With Robust Patch Detection&lt;/li>
+&lt;li>MAXIM: Multi-Axis MLP for Image Processing&lt;/li>
+&lt;li>Learning Part Segmentation Through Unsupervised Domain Adaptation From Synthetic Vehicles&lt;/li>
+&lt;li>PSTR: End-to-End One-Step Person Search With Transformers&lt;/li>
+&lt;li>NFormer: Robust Person Re-Identification With Neighbor Transformer&lt;/li>
+&lt;li>Bridging Global Context Interactions for High-Fidelity Image Completion&lt;/li>
+&lt;li>SwinBERT: End-to-End Transformers With Sparse Attention for Video Captioning&lt;/li>
+&lt;li>Not All Tokens Are Equal: Human-Centric Visual Analysis Via Token Clustering Transformer&lt;/li>
+&lt;li>Temporally Efficient Vision Transformer for Video Instance Segmentation&lt;/li>
+&lt;li>The Devil Is in The Margin: Margin-Based Label Smoothing for Network Calibration&lt;/li>
+&lt;li>NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks&lt;/li>
+&lt;li>WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation&lt;/li>
+&lt;li>Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding&lt;/li>
+&lt;li>E2(GO)MOTION: Motion Augmented Event Stream for Egocentric Action Recognition&lt;/li>
+&lt;li>OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization&lt;/li>
+&lt;li>OnePose: One-Shot Object Pose Estimation Without CAD Models&lt;/li>
+&lt;li>Rethinking Minimal Sufficient Representation in Contrastive Learning&lt;/li>
+&lt;li>Scalable Penalized Regression for Noise Detection in Learning With Noisy Labels&lt;/li>
+&lt;li>Federated Class-Incremental Learning&lt;/li>
+&lt;li>Show, Deconfound and Tell: Image Captioning With Causal Inference&lt;/li>
+&lt;li>MobRecon: Mobile-Friendly Hand Mesh Reconstruction From Monocular Image&lt;/li>
+&lt;li>Parameter-Free Online Test-Time Adaptation&lt;/li>
+&lt;li>SIGMA: Semantic-Complete Graph Matching for Domain Adaptive Object Detection&lt;/li>
+&lt;li>No Pain, Big Gain: Classify Dynamic Point Cloud Sequences With Static Models By Fitting Feature-Level Space-Time Surfaces&lt;/li>
+&lt;li>HerosNet: Hyperspectral Explicable Reconstruction and Optimal Sampling Deep Network for Snapshot Compressive Imaging&lt;/li>
+&lt;li>Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space&lt;/li>
+&lt;li>Learning To Estimate Robust 3D Human Mesh From In-the-Wild Crowded Scenes&lt;/li>
+&lt;li>Detecting Deepfakes With Self-Blended Images&lt;/li>
+&lt;li>Implicit Sample Extension for Unsupervised Person Re-Identification&lt;/li>
+&lt;li>Energy-Based Latent Aligner for Incremental Learning&lt;/li>
+&lt;li>Towards Semi-Supervised Deep Facial Expression Recognition With An Adaptive Confidence Margin&lt;/li>
+&lt;li>Group R-CNN for Weakly Semi-Supervised Object Detection With Points&lt;/li>
+&lt;li>Weakly-Supervised Action Transition Learning for Stochastic Human Motion Prediction&lt;/li>
+&lt;li>Hybrid Relation Guided Set Matching for Few-Shot Action Recognition&lt;/li>
+&lt;li>Cross-Patch Dense Contrastive Learning for Semi-Supervised Segmentation of Cellular Nuclei in Histopathologic Images&lt;/li>
+&lt;li>Generalized Binary Search Network for Highly-Efficient Multi-View Stereo&lt;/li>
+&lt;li>SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation&lt;/li>
+&lt;li>FlexIT: Towards Flexible Semantic Image Translation&lt;/li>
+&lt;li>CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow&lt;/li>
+&lt;li>BoxeR: Box-Attention for 2D and 3D Transformers&lt;/li>
+&lt;li>Neural Architecture Search With Representation Mutual Information&lt;/li>
+&lt;li>Can Neural Nets Learn The Same Model Twice? Investigating Reproducibility and Double Descent From The Decision Boundary Perspective&lt;/li>
+&lt;li>Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction&lt;/li>
+&lt;li>Multi-View Transformer for 3D Visual Grounding&lt;/li>
+&lt;li>Structured Sparse R-CNN for Direct Scene Graph Generation&lt;/li>
+&lt;li>BARC: Learning To Regress 3D Dog Shape From Images By Exploiting Breed Information&lt;/li>
+&lt;li>PCA-Based Knowledge Distillation Towards Lightweight and Content-Style Balanced Photorealistic Style Transfer Models&lt;/li>
+&lt;li>Towards Understanding Adversarial Robustness of Optical Flow Networks&lt;/li>
+&lt;li>Lifelong Graph Learning&lt;/li>
+&lt;li>Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning&lt;/li>
+&lt;li>Computing Wasserstein-p Distance Between Images With Linear Cost&lt;/li>
+&lt;li>Unsupervised Representation Learning for Binary Networks By Joint Classifier Learning&lt;/li>
+&lt;li>Large-Scale Video Panoptic Segmentation in The Wild: A Benchmark&lt;/li>
+&lt;li>GrainSpace: A Large-Scale Dataset for Fine-Grained and Domain-Adaptive Recognition of Cereal Grains&lt;/li>
+&lt;li>Learning Modal-Invariant and Temporal-Memory for Video-Based Visible-Infrared Person Re-Identification&lt;/li>
+&lt;li>MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning&lt;/li>
+&lt;li>Oriented RepPoints for Aerial Object Detection&lt;/li>
+&lt;li>Weakly Supervised Temporal Sentence Grounding With Gaussian-Based Contrastive Proposal Learning&lt;/li>
+&lt;li>Low-Resource Adaptation for Personalized Co-Speech Gesture Generation&lt;/li>
+&lt;li>Task-Specific Inconsistency Alignment for Domain Adaptive Object Detection&lt;/li>
+&lt;li>MS2DG-Net: Progressive Correspondence Learning Via Multiple Sparse Semantics Dynamic Graph&lt;/li>
+&lt;li>Learning To Listen: Modeling Non-Deterministic Dyadic Facial Motion&lt;/li>
+&lt;li>Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation From Monocular Video&lt;/li>
+&lt;li>MixFormer: End-to-End Tracking With Iterative Mixed Attention&lt;/li>
+&lt;li>Plenoxels: Radiance Fields Without Neural Networks&lt;/li>
+&lt;li>Selective-Supervised Contrastive Learning With Noisy Labels&lt;/li>
+&lt;li>SimT: Handling Open-Set Noise for Domain Adaptive Semantic Segmentation&lt;/li>
+&lt;li>Frequency-Driven Imperceptible Adversarial Attack on Semantic Similarity&lt;/li>
+&lt;li>Video Demoireing With Relation-Based Temporal Consistency&lt;/li>
+&lt;li>Industrial Style Transfer With Large-Scale Geometric Warping and Content Preservation&lt;/li>
+&lt;li>Modeling Image Composition for Complex Scene Generation&lt;/li>
+&lt;li>Decoupling Zero-Shot Semantic Segmentation&lt;/li>
+&lt;li>Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions&lt;/li>
+&lt;li>Stochastic Variance Reduced Ensemble Adversarial Attack for Boosting The Adversarial Transferability&lt;/li>
+&lt;li>IFOR: Iterative Flow Minimization for Robotic Object Rearrangement&lt;/li>
+&lt;li>Zero Experience Required: Plug &amp;amp; Play Modular Transfer Learning for Semantic Visual Navigation&lt;/li>
+&lt;li>TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation&lt;/li>
+&lt;li>The Wanderings of Odysseus in 3D Scenes&lt;/li>
+&lt;li>All-in-One Image Restoration for Unknown Corruption&lt;/li>
+&lt;li>PUMP: Pyramidal and Uniqueness Matching Priors for Unsupervised Learning of Local Descriptors&lt;/li>
+&lt;li>MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video&lt;/li>
+&lt;li>RCP: Recurrent Closest Point for Point Cloud&lt;/li>
+&lt;li>A Dual Weighting Label Assignment Scheme for Object Detection&lt;/li>
+&lt;li>Hyperbolic Vision Transformers: Combining Improvements in Metric Learning&lt;/li>
+&lt;li>Instance-Aware Dynamic Neural Network Quantization&lt;/li>
+&lt;li>Exploring Effective Data for Surrogate Training Towards Black-Box Attack&lt;/li>
+&lt;li>JRDB-Act: A Large-Scale Dataset for Spatio-Temporal Action, Social Group and Activity Detection&lt;/li>
+&lt;li>Investigating Top-k White-Box and Transferable Black-Box Attack&lt;/li>
+&lt;li>Decoupling and Recoupling Spatiotemporal Representation for RGB-D-Based Motion Recognition&lt;/li>
+&lt;li>A Self-Supervised Descriptor for Image Copy Detection&lt;/li>
+&lt;li>Negative-Aware Attention Framework for Image-Text Matching&lt;/li>
+&lt;li>An Image Patch Is A Wave: Phase-Aware Vision MLP&lt;/li>
+&lt;li>Shunted Self-Attention Via Multi-Scale Token Aggregation&lt;/li>
+&lt;li>Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression&lt;/li>
+&lt;li>Recurrent Variational Network: A Deep Learning Inverse Problem Solver Applied to The Task of Accelerated MRI Reconstruction&lt;/li>
+&lt;li>Surpassing The Human Accuracy: Detecting Gallbladder Cancer From USG Images With Curriculum Learning&lt;/li>
+&lt;li>Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond&lt;/li>
+&lt;li>TrackFormer: Multi-Object Tracking With Transformers&lt;/li>
+&lt;li>3D Shape Reconstruction From 2D Images With Disentangled Attribute Flow&lt;/li>
+&lt;li>Feature Statistics Mixing Regularization for Generative Adversarial Networks&lt;/li>
+&lt;li>OpenTAL: Towards Open Set Temporal Action Localization&lt;/li>
+&lt;li>Self-Supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection&lt;/li>
+&lt;li>Ego4D: Around The World in 3,000 Hours of Egocentric Video&lt;/li>
+&lt;li>Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis&lt;/li>
+&lt;li>Weakly Supervised Semantic Segmentation Using Out-of-Distribution Data&lt;/li>
+&lt;li>DAD-3DHeads: A Large-Scale Dense, Accurate and Diverse Dataset for 3D Head Alignment From A Single Image&lt;/li>
+&lt;li>Reconstructing Surfaces for Sparse Point Clouds With On-Surface Priors&lt;/li>
+&lt;li>VCLIMB: A Novel Video Class Incremental Learning Benchmark&lt;/li>
+&lt;li>Robust Equivariant Imaging: A Fully Unsupervised Framework for Learning To Image From Noisy and Partial Measurements&lt;/li>
+&lt;li>ST++: Make Self-Training Work Better for Semi-Supervised Semantic Segmentation&lt;/li>
+&lt;li>Interacting Attention Graph for Single Image Two-Hand Reconstruction&lt;/li>
+&lt;li>Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task&lt;/li>
+&lt;li>Cross-Image Relational Knowledge Distillation for Semantic Segmentation&lt;/li>
+&lt;li>Towards Layer-Wise Image Vectorization&lt;/li>
+&lt;li>Scenic: A JAX Library for Computer Vision Research and Beyond&lt;/li>
+&lt;li>Real-Time Object Detection for Streaming Perception&lt;/li>
+&lt;li>VisualHow: Multimodal Problem Solving&lt;/li>
+&lt;li>Spatial Commonsense Graph for Object Localisation in Partial Scenes&lt;/li>
+&lt;li>OSSGAN: Open-Set Semi-Supervised Image Generation&lt;/li>
+&lt;li>Bi-Level Alignment for Cross-Domain Crowd Counting&lt;/li>
+&lt;li>ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation&lt;/li>
+&lt;li>Efficient Multi-View Stereo By Iterative Dynamic Cost Volume&lt;/li>
+&lt;li>TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing&lt;/li>
+&lt;li>Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework&lt;/li>
+&lt;li>SGTR: End-to-End Scene Graph Generation With Transformer&lt;/li>
+&lt;li>Decoupled Knowledge Distillation&lt;/li>
+&lt;li>DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection&lt;/li>
+&lt;li>Reusing The Task-Specific Classifier As A Discriminator: Discriminator-Free Adversarial Domain Adaptation&lt;/li>
+&lt;li>Show Me What and Tell Me How: Video Synthesis Via Multimodal Conditioning&lt;/li>
+&lt;li>SIMBAR: Single Image-Based Scene Relighting for Effective Data Augmentation for Automated Driving Vision Tasks&lt;/li>
+&lt;li>Multi-Label Classification With Partial Annotations Using Class-Aware Selective Loss&lt;/li>
+&lt;li>CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings&lt;/li>
+&lt;li>IntraQ: Learning Synthetic Images With Intra-Class Heterogeneity for Zero-Shot Network Quantization&lt;/li>
+&lt;li>I M Avatar: Implicit Morphable Head Avatars From Videos&lt;/li>
+&lt;li>Weakly-Supervised Metric Learning With Cross-Module Communications for The Classification of Anterior Chamber Angle Images&lt;/li>
+&lt;li>A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-Resolution&lt;/li>
+&lt;li>Multi-Modal Dynamic Graph Transformer for Visual Grounding&lt;/li>
+&lt;li>Geometric Transformer for Fast and Robust Point Cloud Registration&lt;/li>
+&lt;li>UMT: Unified Multi-Modal Transformers for Joint Video Moment Retrieval and Highlight Detection&lt;/li>
+&lt;li>Demystifying The Neural Tangent Kernel From A Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?&lt;/li>
+&lt;li>The Devil Is in The Details: Window-Based Attention for Image Compression&lt;/li>
+&lt;li>DiLiGenT102: A Photometric Stereo Benchmark Dataset With Controlled Shape and Material Variation&lt;/li>
+&lt;li>PolyWorld: Polygonal Building Extraction With Graph Neural Networks in Satellite Images&lt;/li>
+&lt;li>Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation&lt;/li>
+&lt;li>Spatio-Temporal Relation Modeling for Few-Shot Action Recognition&lt;/li>
+&lt;li>Multi-Person Extreme Motion Prediction&lt;/li>
+&lt;li>B-DARTS: Beta-Decay Regularization for Differentiable Architecture Search&lt;/li>
+&lt;li>CMT: Convolutional Neural Networks Meet Vision Transformers&lt;/li>
+&lt;li>KNN Local Attention for Image Restoration&lt;/li>
+&lt;li>Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered By Pre-Trained Vision-Language Model&lt;/li>
+&lt;li>TransMix: Attend To Mix for Vision Transformers&lt;/li>
+&lt;li>Inertia-Guided Flow Completion and Style Fusion for Video Inpainting&lt;/li>
+&lt;li>Long-Tailed Visual Recognition Via Gaussian Clouded Logit Adjustment&lt;/li>
+&lt;li>Image Animation With Perturbed Masks&lt;/li>
+&lt;li>Domain Generalization Via Shuffled Style Assembly for Face Anti-Spoofing&lt;/li>
+&lt;li>OcclusionFusion: Occlusion-Aware Motion Estimation for Real-Time Dynamic 3D Reconstruction&lt;/li>
+&lt;li>MonoScene: Monocular 3D Semantic Scene Completion&lt;/li>
+&lt;li>AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition&lt;/li>
+&lt;li>Continuous Scene Representations for Embodied AI&lt;/li>
+&lt;li>Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds&lt;/li>
+&lt;li>Non-Probability Sampling Network for Stochastic Human Trajectory Prediction&lt;/li>
+&lt;li>ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning&lt;/li>
+&lt;li>Human-Aware Object Placement for Visual Environment Reconstruction&lt;/li>
+&lt;li>X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval&lt;/li>
+&lt;li>RAMA: A Rapid Multicut Algorithm on GPU&lt;/li>
+&lt;li>Adversarial Parametric Pose Prior&lt;/li>
+&lt;li>Mask Transfiner for High-Quality Instance Segmentation&lt;/li>
+&lt;li>It Is Okay To Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning By Contrastive Data Collection&lt;/li>
+&lt;li>DiRA: Discriminative, Restorative, and Adversarial Learning for Self-Supervised Medical Image Analysis&lt;/li>
+&lt;li>Event-Based Video Reconstruction Via Potential-Assisted Spiking Neural Network&lt;/li>
+&lt;li>YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset&lt;/li>
+&lt;li>DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation&lt;/li>
+&lt;li>Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification&lt;/li>
+&lt;li>Self-Supervised Video Transformer&lt;/li>
+&lt;li>AutoRF: Learning 3D Object Radiance Fields From Single View Observations&lt;/li>
+&lt;li>Coopernaut: End-to-End Driving With Cooperative Perception for Networked Vehicles&lt;/li>
+&lt;li>TubeR: Tubelet Transformer for Video Action Detection&lt;/li>
+&lt;li>MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection&lt;/li>
+&lt;li>Learning Non-Target Knowledge for Few-Shot Semantic Segmentation&lt;/li>
+&lt;li>UKPGAN: A General Self-Supervised Keypoint Detector&lt;/li>
+&lt;li>Raw High-Definition Radar for Multi-Task Learning&lt;/li>
+&lt;li>Coarse-To-Fine Feature Mining for Video Semantic Segmentation&lt;/li>
+&lt;li>Compressing Models With Few Samples: Mimicking Then Replacing&lt;/li>
+&lt;li>PokeBNN: A Binary Pursuit of Lightweight Accuracy&lt;/li>
+&lt;li>Zoom in and Out: A Mixed-Scale Triplet Network for Camouflaged Object Detection&lt;/li>
+&lt;li>SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images&lt;/li>
+&lt;li>EMScore: Evaluating Video Captioning Via Coarse-Grained and Fine-Grained Embedding Matching&lt;/li>
+&lt;li>PoseTriplet: Co-Evolving 3D Human Pose Estimation, Imitation, and Hallucination Under Self-Supervision&lt;/li>
+&lt;li>Group Contextualization for Video Recognition&lt;/li>
+&lt;li>Single-Domain Generalized Object Detection in Urban Scene Via Cyclic-Disentangled Self-Distillation&lt;/li>
+&lt;li>L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation&lt;/li>
+&lt;li>Self-Augmented Unpaired Image Dehazing Via Density and Depth Decomposition&lt;/li>
+&lt;li>Neural 3D Video Synthesis From Multi-View Video&lt;/li>
+&lt;li>SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation&lt;/li>
+&lt;li>Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search&lt;/li>
+&lt;li>HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening&lt;/li>
+&lt;li>Structure-Aware Flow Generation for Human Body Reshaping&lt;/li>
+&lt;li>Learning To Answer Questions in Dynamic Audio-Visual Scenarios&lt;/li>
+&lt;li>Synthetic Aperture Imaging With Events and Frames&lt;/li>
+&lt;li>MonoGround: Detecting Monocular 3D Objects From The Ground&lt;/li>
+&lt;li>Deep Visual Geo-Localization Benchmark&lt;/li>
+&lt;li>StyleGAN-V: A Continuous Video Generator With The Price, Image Quality and Perks of StyleGAN2&lt;/li>
+&lt;li>LISA: Learning Implicit Shape and Appearance of Hands&lt;/li>
+&lt;li>Iterative Deep Homography Estimation&lt;/li>
+&lt;li>Learned Queries for Efficient Local Attention&lt;/li>
+&lt;li>Colar: Effective and Efficient Online Action Detection By Consulting Exemplars&lt;/li>
+&lt;li>SoftGroup for 3D Instance Segmentation on Point Clouds&lt;/li>
+&lt;li>MVS2D: Efficient Multi-View Stereo Via Attention-Driven 2D Convolutions&lt;/li>
+&lt;li>Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation Via Semantic Knowledge Transfer and Self-Refinement&lt;/li>
+&lt;li>Deep Constrained Least Squares for Blind Image Super-Resolution&lt;/li>
+&lt;li>EDTER: Edge Detection With Transformer&lt;/li>
+&lt;li>AirObject: A Temporally Evolving Graph Embedding for Object Identification&lt;/li>
+&lt;li>From Representation to Reasoning: Towards Both Evidence and Commonsense Reasoning for Video Question-Answering&lt;/li>
+&lt;li>Semantic-Aware Domain Generalized Segmentation&lt;/li>
+&lt;li>DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion&lt;/li>
+&lt;li>UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection&lt;/li>
+&lt;li>AKB-48: A Real-World Articulated Object Knowledge Base&lt;/li>
+&lt;li>Stratified Transformer for 3D Point Cloud Segmentation&lt;/li>
+&lt;li>Aug-NeRF: Training Stronger Neural Radiance Fields With Triple-Level Physically-Grounded Augmentations&lt;/li>
+&lt;li>Semantic-Shape Adaptive Feature Modulation for Semantic Image Synthesis&lt;/li>
+&lt;li>Day-to-Night Image Synthesis for Training Nighttime Neural ISPs Literature ~Highlight: To address this problem, we propose a method that synthesizes nighttime images from daytime images.&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">References
+&lt;div id="references" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#references" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.paperdigest.org/2022/06/cvpr-2022-papers-with-code-data/" target="_blank">https://www.paperdigest.org/2022/06/cvpr-2022-papers-with-code-data/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Author&lt;/strong>&lt;br>
+Dr Hari Thapliyaal&lt;br>
+dasarpai.com&lt;br>
+linkedin.com/in/harithapliyal&lt;/p></description></item><item><title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title><link>https://dasarpai.github.io/dsblog/comprehensive-glossary-of-llm/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/comprehensive-glossary-of-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg" alt="Comprehensive Glossary of LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Comprehensive Glossary of LLM
+&lt;div id="comprehensive-glossary-of-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#comprehensive-glossary-of-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug'23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.&lt;/p></description></item><item><title>What is LLM</title><link>https://dasarpai.github.io/dsblog/what-is-llm/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6087-What-is-LLM.jpg" alt="What is LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Large Language Model
+&lt;div id="what-is-large-language-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-large-language-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM stands for &lt;strong>Large Language Model&lt;/strong>. It is a type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. This allows LLMs to learn the statistical relationships between words and phrases, and to generate text that is similar to the text that they were trained on.&lt;/p></description></item><item><title>Embedding with FastText</title><link>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg" alt="Embedding with FastText" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Embedding with FastText
+&lt;div id="embedding-with-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-with-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-is-embedding">What is Embedding?&lt;/a>&lt;br>
+&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-are-different-embedding-types">What are Different Types of Embedding&lt;/a>&lt;/p>
+&lt;h2 class="relative group">What is FastText?
+&lt;div id="what-is-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for &lt;strong>training&lt;/strong> and &lt;strong>using word embeddings&lt;/strong>.&lt;/p></description></item><item><title>What is GAN Architecture?</title><link>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</link><pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg" alt="What is GAN Architecture?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN Architecture?
+&lt;div id="what-is-gan-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. It is a type of artificial intelligence (AI) model that consists of two neural networks: a generator and a discriminator. GANs are used for generative tasks, such as creating realistic images, videos, or even audio.&lt;/p></description></item><item><title>A Guide to Model Fine Tuning with OpenAI API</title><link>https://dasarpai.github.io/dsblog/model-fine-tuning-with-openai-api/</link><pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/model-fine-tuning-with-openai-api/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg" alt="A Guide to Model Fine Tuning with OpenAI API" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Guide to Model Fine Tuning with OpenAI API
+&lt;div id="a-guide-to-model-fine-tuning-with-openai-api" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-guide-to-model-fine-tuning-with-openai-api" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Account Setup and API Key Generation
+&lt;div id="account-setup-and-api-key-generation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#account-setup-and-api-key-generation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Go to &lt;a href="https://platform.openai.com/" target="_blank">openai&lt;/a>, sign up there and create your account. After than you need to create an API using &lt;a href="https://platform.openai.com/account/api-keys" target="_blank">API Key Link&lt;/a>. You need to copy the api key and you replace the text below &amp;lt;OPENAI_API_KEY&amp;gt;. Being string the key should be within &amp;ldquo;&amp;rdquo;. Keeping security in mind it is highly recommended that you do not put the API in the code file. Keep it at some secured place and read that file to fetch the API key. OpenAI gives you USD 5 free usage. After that you need to pay. For that you need to setup your credit card details on their system. They are very fair on the charges, just keep track of your usage. If you don&amp;rsquo;t use any of their service they won&amp;rsquo;t charge anything for just having account with them. While doing any model finetuning or prediction openai tells you how much they will charge you for that particular command. My suggestion is if you are just experimenting then keep your dataset small so that you can manage your learning with USD 10-20.&lt;/p></description></item><item><title>Capabilities of AI Transformers</title><link>https://dasarpai.github.io/dsblog/capabilities-of-ai-transformers/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/capabilities-of-ai-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg" alt="Capabilities of AI Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Capabilities of AI Transformers
+&lt;div id="capabilities-of-ai-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#capabilities-of-ai-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item><item><title>God Fathers of AI</title><link>https://dasarpai.github.io/dsblog/god-fathers-of-ai/</link><pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/god-fathers-of-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg" alt="God Fathers of AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">God Fathers of AI
+&lt;div id="god-fathers-of-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#god-fathers-of-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In other fields of studies or in religion, there is only one god or only one godfather. But in the field of AI, that is not the case. There are many pioneers or Godfathers who have done significant work in this field. Recently, the resignation of Dr. Geoffrey Hinton from Google raised eyebrows in the business world and in Governments the world over. Technology is good or bad, it depends upon whose hand it is. Geoffrey raised that concern and for that, he wants better controls in place. What will happen, we need to follow the progress and raise our voices around. In this article, I am mentioning some godfathers of AI, their workplaces, and their contributions. I am sure this will inspire many young minds.&lt;/p></description></item><item><title>Types of Machine Learning</title><link>https://dasarpai.github.io/dsblog/types-of-machine-learning/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg" alt="Types of Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Machine Learning
+&lt;div id="types-of-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.&lt;/p></description></item><item><title>Cost Functions and Optimizers in Machine Learning</title><link>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg" alt="Cost-Functions-and-Optimizers-in-Machine-Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cost-Functions-and-Optimizers-in-Machine-Learning
+&lt;div id="cost-functions-and-optimizers-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cost-functions-and-optimizers-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is machine learning?
+&lt;div id="what-is-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subfield of artificial intelligence that focuses on the &lt;strong>development of algorithms and statistical models&lt;/strong> that enable computers to improve their performance on a specific task through experience.&lt;/p>
+&lt;p>In machine learning, the goal is to develop models that can &lt;strong>automatically learn patterns and relationships in data, and use that knowledge to make predictions or take actions&lt;/strong>. The models are trained on a large dataset, and the learning process involves &lt;strong>optimizing the parameters of the model to minimize the prediction error&lt;/strong>. For this purpose every algorithms uses some &lt;strong>cost function or loss function&lt;/strong>.&lt;/p></description></item><item><title>GPU for Data Science Work</title><link>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</link><pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg" alt="GPU for Data Science Work" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">GPU for Data Science Work
+&lt;div id="gpu-for-data-science-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-for-data-science-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between microprocessor (CPU) and GPU?
+&lt;div id="what-is-the-difference-between-microprocessor-cpu-and-gpu" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-microprocessor-cpu-and-gpu" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.&lt;/p></description></item><item><title>Introduction to Neural Network</title><link>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg" alt="Introduction to Neural Network" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Neural Network
+&lt;div id="introduction-to-neural-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-neural-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to a Perceptron
+&lt;div id="introduction-to-a-perceptron" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-a-perceptron" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.&lt;/p></description></item><item><title>What is GAN?</title><link>https://dasarpai.github.io/dsblog/what-is-gan/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6043-gan.jpg" alt="Partial Dependence Plots" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN?
+&lt;div id="what-is-gan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is GAN (Generative Adversarial Network)?
+&lt;div id="what-is-gan-generative-adversarial-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-generative-adversarial-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Generative adversarial networks (GANs) are besing used to generate images, videos, text, audio and music. GAN is a class of machine-learning models introduced by Ian Goodfellow and his colleagues in 2014. The GANs became popular among researchers quickly because of their property to generate new data with the same statistics as the input training set. It can be applied to images, videos, textual data, tabular data and more, proving useful for semi-supervised, fully supervised, and reinforcement learning.&lt;/p></description></item><item><title>What is Computer Vision</title><link>https://dasarpai.github.io/dsblog/what-is-computer-vision/</link><pubDate>Wed, 28 Dec 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-computer-vision/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg" alt="What is Computer Vision" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Computer vision?
+&lt;div id="what-is-computer-vision" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-computer-vision" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the digital world, scientists are working hard to create machines and robots that can interact with humans the way humans interact with each other. You cannot interact with another human being around if you are not aware of the objects and background around you. There are many ways to know the things around us. We can know them through smell; without looking anything around we can tell, here is a rose flower or samosa or sugar factory around. Without looking we can tell whether a train is coming or going, a person is going or coming, this is a song sung by Lata Mangeshkar. Without looking I can tell this is smooth or rough, hard or soft, cold or hot. In all these cases we could identify the objects and things around us without using our eyes.&lt;/p></description></item><item><title>What Are Transformers in AI</title><link>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg" alt="What-are-Transformers-in-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Are Transformers in AI
+&lt;div id="what-are-transformers-in-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-transformers-in-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Transformer Architecture
+&lt;div id="transformer-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformer-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/transformer/transformer-arch.jpg" alt="Transformer" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item><item><title>Reinforcement Learning Git Repositories</title><link>https://dasarpai.github.io/dsblog/rl-git-repo/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rl-git-repo/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg" alt="Reinforcement Learning Git Repositories" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Reinforcement Learning Git Repositories
+&lt;div id="reinforcement-learning-git-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reinforcement-learning-git-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno.&lt;/th>
+&lt;th>URL&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>OpenAI Baselines: high-quality implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>A fork of OpenAI Baselines, implementations of reinforcement learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>An educational resource to help anyone learn deep reinforcement learning.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>TF-Agents is a library for Reinforcement Learning in TensorFlow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>TensorFlow Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>A platform for Applied Reinforcement Learning (Applied RL)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>An End-To-End, Lightweight and Flexible Platform for Game Research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>A fast and simple framework for building and running distributed applications.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Deep Reinforcement Learning for Keras.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>Rainbow: Combining Improvements in Deep Reinforcement Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>Velocity in deep-learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorforce: A TensorFlow library for applied reinforcement learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>Modular Deep Reinforcement Learning framework in PyTorch.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>A framework for reproducible reinforcement learning research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>Reproducible and fast DL &amp;amp; RL.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>21&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>A toolkit for developing and comparing reinforcement learning algorithms.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>A customisable 3D platform for agent-based AI research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>23&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. — For installation instruct&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro Games in Gym&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>25&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>The DeepMind Control Suite and Package&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO – A Massively Multiagent Game Environment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>27&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/gym" target="_blank">https://github.com/openai/gym&lt;/a>&lt;/td>
+&lt;td>Gym @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/lab" target="_blank">https://github.com/deepmind/lab&lt;/a>&lt;/td>
+&lt;td>Lab @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>29&lt;/td>
+&lt;td>&lt;a href="https://github.com/Microsoft/malmo" target="_blank">https://github.com/Microsoft/malmo&lt;/a>&lt;/td>
+&lt;td>Project Malmo @ Microsoft&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/retro" target="_blank">https://github.com/openai/retro&lt;/a>&lt;/td>
+&lt;td>Retro @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>31&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/dm_control" target="_blank">https://github.com/deepmind/dm_control&lt;/a>&lt;/td>
+&lt;td>Control Suite @ DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>32&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/neural-mmo" target="_blank">https://github.com/openai/neural-mmo&lt;/a>&lt;/td>
+&lt;td>Neural MMO @ OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>33&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/baselines" target="_blank">https://github.com/openai/baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>34&lt;/td>
+&lt;td>&lt;a href="https://github.com/hill-a/stable-baselines" target="_blank">https://github.com/hill-a/stable-baselines&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Antonin Raffin, Ashley Hill&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>35&lt;/td>
+&lt;td>&lt;a href="https://github.com/catalyst-team/catalyst" target="_blank">https://github.com/catalyst-team/catalyst&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Sergey Kolesnikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>36&lt;/td>
+&lt;td>&lt;a href="https://github.com/ray-project/ray/tree/master/python/ray/rllib" target="_blank">https://github.com/ray-project/ray/tree/master/python/ray/rllib&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Ray Team&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>37&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorflow/agents" target="_blank">https://github.com/tensorflow/agents&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>38&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/Horizon" target="_blank">https://github.com/facebookresearch/Horizon&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>39&lt;/td>
+&lt;td>&lt;a href="https://github.com/NervanaSystems/coach" target="_blank">https://github.com/NervanaSystems/coach&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Intel&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40&lt;/td>
+&lt;td>&lt;a href="https://github.com/rlworkgroup/garage" target="_blank">https://github.com/rlworkgroup/garage&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by community&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>41&lt;/td>
+&lt;td>&lt;a href="https://github.com/kengz/SLM-Lab" target="_blank">https://github.com/kengz/SLM-Lab&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Wah Loon Keng, Laura Graesser&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>42&lt;/td>
+&lt;td>&lt;a href="https://github.com/google/dopamine" target="_blank">https://github.com/google/dopamine&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Google&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>43&lt;/td>
+&lt;td>&lt;a href="https://github.com/openai/spinningup" target="_blank">https://github.com/openai/spinningup&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by OpenAI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>44&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/trfl" target="_blank">https://github.com/deepmind/trfl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>45&lt;/td>
+&lt;td>&lt;a href="https://github.com/deepmind/scalable_agent" target="_blank">https://github.com/deepmind/scalable_agent&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by DeepMind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>46&lt;/td>
+&lt;td>&lt;a href="https://github.com/facebookresearch/ELF" target="_blank">https://github.com/facebookresearch/ELF&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Facebook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>47&lt;/td>
+&lt;td>&lt;a href="https://github.com/keras-rl/keras-rl" target="_blank">https://github.com/keras-rl/keras-rl&lt;/a>&lt;/td>
+&lt;td>Tensorflow Maintained by Matthias Plappert&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>48&lt;/td>
+&lt;td>&lt;a href="https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail" target="_blank">https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Ilya Kostrikov&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>49&lt;/td>
+&lt;td>&lt;a href="https://github.com/Kaixhin/Rainbow" target="_blank">https://github.com/Kaixhin/Rainbow&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Kai Arulkumaran&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>50&lt;/td>
+&lt;td>&lt;a href="https://github.com/MillionIntegrals/vel" target="_blank">https://github.com/MillionIntegrals/vel&lt;/a>&lt;/td>
+&lt;td>PyTorch Maintained by Jerry (?)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>51&lt;/td>
+&lt;td>&lt;a href="https://github.com/Khrylx/PyTorch-RL" target="_blank">https://github.com/Khrylx/PyTorch-RL&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>52&lt;/td>
+&lt;td>&lt;a href="https://github.com/tensorforce/tensorforce" target="_blank">https://github.com/tensorforce/tensorforce&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>53&lt;/td>
+&lt;td>&lt;a href="https://github.com/higgsfield/RL-Adventure" target="_blank">https://github.com/higgsfield/RL-Adventure&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>54&lt;/td>
+&lt;td>&lt;a href="https://github.com/qfettes/DeepRL-Tutorials" target="_blank">https://github.com/qfettes/DeepRL-Tutorials&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>55&lt;/td>
+&lt;td>&lt;a href="https://github.com/SurrealAI/surreal" target="_blank">https://github.com/SurrealAI/surreal&lt;/a>&lt;/td>
+&lt;td>TorchX&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>56&lt;/td>
+&lt;td>&lt;a href="https://github.com/zuoxingdong/lagom" target="_blank">https://github.com/zuoxingdong/lagom&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>57&lt;/td>
+&lt;td>&lt;a href="https://github.com/dennybritz/reinforcement-learning" target="_blank">https://github.com/dennybritz/reinforcement-learning&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>58&lt;/td>
+&lt;td>&lt;a href="https://github.com/unixpickle/anyrl-py" target="_blank">https://github.com/unixpickle/anyrl-py&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>59&lt;/td>
+&lt;td>&lt;a href="https://github.com/Scitator/rl-course-experiments" target="_blank">https://github.com/Scitator/rl-course-experiments&lt;/a>&lt;/td>
+&lt;td>Tensorflow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>&lt;a href="https://github.com/oxwhirl/pymarl" target="_blank">https://github.com/oxwhirl/pymarl&lt;/a>&lt;/td>
+&lt;td>PyTorch&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

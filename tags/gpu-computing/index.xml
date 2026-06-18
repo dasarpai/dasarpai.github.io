@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GPU Computing on</title><link>https://dasarpai.github.io/tags/gpu-computing/</link><description>Recent content in GPU Computing on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/gpu-computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Tensorflow GPU Setup on Local Machine</title><link>https://dasarpai.github.io/dsblog/tensorflow-gpu-setup-on-local-machine/</link><pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/tensorflow-gpu-setup-on-local-machine/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg" alt="Tensorflow GPU Setup on Local Machine" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Tensorflow GPU Setup on Local Machine
+&lt;div id="tensorflow-gpu-setup-on-local-machine" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tensorflow-gpu-setup-on-local-machine" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tensorflow, pytorch are deep learning libraries or packages. Tensorflow is developed by google and pytorch is developed by Meta. There are some other but these are the most popular one among Machine Learning and Deep Learning Engineers. If you are doing anything significant in NLP, computer vision, voice processing you must have used this library. But the power of the these libraries lies in parallel metrics/tensor computation. For that they use hardwardes like GPU or TPU which has thousands of core and they designed purely for metrics/tensor processing. Intially they were used for gaming purpose but with the surge of AI these machines are in high use and used for model training and inference purpose.&lt;/p></description></item><item><title>How Much Memory Needed for LLM</title><link>https://dasarpai.github.io/dsblog/how-much-memory-needed-for-llm/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/how-much-memory-needed-for-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg" alt="How-Much-Memory-Needed-for-LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">How Much Memory Needed for LLM?
+&lt;div id="how-much-memory-needed-for-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-much-memory-needed-for-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is LLM?
+&lt;div id="what-is-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM stands for &lt;strong>Large Language Model&lt;/strong>. These are machine learning models that are trained on massive amounts of text data to understand, generate, and work with human language in a way that mimics natural language understanding. They are called &amp;ldquo;large&amp;rdquo; because of the significant number of parameters they contain, often numbering in the billions or even trillions.&lt;/p></description></item><item><title>GPU for Data Science Work</title><link>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</link><pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg" alt="GPU for Data Science Work" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">GPU for Data Science Work
+&lt;div id="gpu-for-data-science-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-for-data-science-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between microprocessor (CPU) and GPU?
+&lt;div id="what-is-the-difference-between-microprocessor-cpu-and-gpu" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-microprocessor-cpu-and-gpu" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.&lt;/p></description></item></channel></rss>

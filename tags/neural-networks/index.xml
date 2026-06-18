@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neural Networks on</title><link>https://dasarpai.github.io/tags/neural-networks/</link><description>Recent content in Neural Networks on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding the Working of CNN</title><link>https://dasarpai.github.io/dsblog/understanding-working-of-cnn/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-working-of-cnn/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg" alt="Understanding the Working of CNN" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding the Working of CNN
+&lt;div id="understanding-the-working-of-cnn" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-the-working-of-cnn" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article, we aim to delve deeper into the working of CNNs. This article is intended for readers who have a basic understanding of CNNs and have computation-related questions. If you have any other questions about CNNs, feel free to ask in the comments.&lt;/p></description></item><item><title>LLM Architecture and Training</title><link>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg" alt="LLM-Architecture-and-Training" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Understanding LLM Architectures and Model Training&lt;/strong>
+&lt;div id="understanding-llm-architectures-and-model-training" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-architectures-and-model-training" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Large Language Models (LLMs) are transforming the field of artificial intelligence by enabling machines to understand and generate human language with unprecedented accuracy. This article delves into the architecture, training methods, and practical applications of LLMs. We’ll explore the core components that make these models so powerful and explain how they are trained and fine-tuned for real-world use cases.&lt;/p></description></item><item><title>Why to Finetune LLM?</title><link>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</link><pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg" alt="Why to Finetune LLM?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Finetuning, Fewshot Learning, Why and How?
+&lt;div id="finetuning-fewshot-learning-why-and-how" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#finetuning-fewshot-learning-why-and-how" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why to finetune a LLM?
+&lt;div id="why-to-finetune-a-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-to-finetune-a-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Fine-tuning a large language model (LLM) can provide several benefits, depending on your specific needs and objectives. Here are some key reasons to consider fine-tuning an LLM:&lt;/p></description></item><item><title>Understanding LLM GAN and Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-llm-gan-and-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg" alt="Understanding-LLM-GAN-Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding LLM, GAN and Transformers
+&lt;div id="understanding-llm-gan-and-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-gan-and-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">LLM Layers
+&lt;div id="llm-layers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#llm-layers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:&lt;/p></description></item><item><title>Transformers Demystified A Step-by-Step Guide</title><link>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</link><pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg" alt="Transformers Demystified A Step-by-Step Guide" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transformers Demystified A Step-by-Step Guide
+&lt;div id="transformers-demystified-a-step-by-step-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-demystified-a-step-by-step-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>All modern Transformers are based on a paper &amp;ldquo;Attention is all you need&amp;rdquo;&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This was the mother paper of all the transformer architectures we see today around NLP, Multimodal, Deep Learning. It was presented by Ashish Vaswani et al from Deep Learning / Google in 2017. We will discuss following and anything whatever question/observation/idea I have.&lt;/p></description></item><item><title>Basics of Word Embedding</title><link>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg" alt="Basics of Word Embedding" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Basics of Word Embedding
+&lt;div id="basics-of-word-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-word-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Context, target and window?
+&lt;div id="what-is-context-target-and-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-context-target-and-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li>
+&lt;li>The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li>
+&lt;li>The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li>
+&lt;/ul>
+&lt;p>Let&amp;rsquo;s take a sentence&lt;/p></description></item><item><title>Graph of Thoughts</title><link>https://dasarpai.github.io/dsblog/graph-of-thoughts/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/graph-of-thoughts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg" alt="Graph of Thoughts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Graph of Thoughts
+&lt;div id="graph-of-thoughts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#graph-of-thoughts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is a valuable resource for learning Graph of Thoughts (GoT) concepts. The YouTube video is from code_your_own_AI. I&amp;rsquo;m utilizing the comments made by @wesleychang2005 on the video, which provide an excellent summary of GoT. If you&amp;rsquo;re interested in this topic and find the summary below intriguing, I recommend watching the entire 41-minute video.&lt;/p></description></item><item><title>What is GAN Architecture?</title><link>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</link><pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg" alt="What is GAN Architecture?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN Architecture?
+&lt;div id="what-is-gan-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. It is a type of artificial intelligence (AI) model that consists of two neural networks: a generator and a discriminator. GANs are used for generative tasks, such as creating realistic images, videos, or even audio.&lt;/p></description></item><item><title>Capabilities of AI Transformers</title><link>https://dasarpai.github.io/dsblog/capabilities-of-ai-transformers/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/capabilities-of-ai-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg" alt="Capabilities of AI Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Capabilities of AI Transformers
+&lt;div id="capabilities-of-ai-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#capabilities-of-ai-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item><item><title>Types of Machine Learning</title><link>https://dasarpai.github.io/dsblog/types-of-machine-learning/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg" alt="Types of Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Machine Learning
+&lt;div id="types-of-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.&lt;/p></description></item><item><title>Cost Functions and Optimizers in Machine Learning</title><link>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg" alt="Cost-Functions-and-Optimizers-in-Machine-Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cost-Functions-and-Optimizers-in-Machine-Learning
+&lt;div id="cost-functions-and-optimizers-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cost-functions-and-optimizers-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is machine learning?
+&lt;div id="what-is-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subfield of artificial intelligence that focuses on the &lt;strong>development of algorithms and statistical models&lt;/strong> that enable computers to improve their performance on a specific task through experience.&lt;/p>
+&lt;p>In machine learning, the goal is to develop models that can &lt;strong>automatically learn patterns and relationships in data, and use that knowledge to make predictions or take actions&lt;/strong>. The models are trained on a large dataset, and the learning process involves &lt;strong>optimizing the parameters of the model to minimize the prediction error&lt;/strong>. For this purpose every algorithms uses some &lt;strong>cost function or loss function&lt;/strong>.&lt;/p></description></item><item><title>Introduction to Neural Network</title><link>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg" alt="Introduction to Neural Network" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Neural Network
+&lt;div id="introduction-to-neural-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-neural-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to a Perceptron
+&lt;div id="introduction-to-a-perceptron" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-a-perceptron" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.&lt;/p></description></item><item><title>What is GAN?</title><link>https://dasarpai.github.io/dsblog/what-is-gan/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6043-gan.jpg" alt="Partial Dependence Plots" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN?
+&lt;div id="what-is-gan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is GAN (Generative Adversarial Network)?
+&lt;div id="what-is-gan-generative-adversarial-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-generative-adversarial-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Generative adversarial networks (GANs) are besing used to generate images, videos, text, audio and music. GAN is a class of machine-learning models introduced by Ian Goodfellow and his colleagues in 2014. The GANs became popular among researchers quickly because of their property to generate new data with the same statistics as the input training set. It can be applied to images, videos, textual data, tabular data and more, proving useful for semi-supervised, fully supervised, and reinforcement learning.&lt;/p></description></item><item><title>What is Computer Vision</title><link>https://dasarpai.github.io/dsblog/what-is-computer-vision/</link><pubDate>Wed, 28 Dec 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-computer-vision/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg" alt="What is Computer Vision" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Computer vision?
+&lt;div id="what-is-computer-vision" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-computer-vision" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the digital world, scientists are working hard to create machines and robots that can interact with humans the way humans interact with each other. You cannot interact with another human being around if you are not aware of the objects and background around you. There are many ways to know the things around us. We can know them through smell; without looking anything around we can tell, here is a rose flower or samosa or sugar factory around. Without looking we can tell whether a train is coming or going, a person is going or coming, this is a song sung by Lata Mangeshkar. Without looking I can tell this is smooth or rough, hard or soft, cold or hot. In all these cases we could identify the objects and things around us without using our eyes.&lt;/p></description></item><item><title>What Are Transformers in AI</title><link>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg" alt="What-are-Transformers-in-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Are Transformers in AI
+&lt;div id="what-are-transformers-in-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-transformers-in-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Transformer Architecture
+&lt;div id="transformer-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformer-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/transformer/transformer-arch.jpg" alt="Transformer" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item><item><title>Important AI Research Papers</title><link>https://dasarpai.github.io/dsblog/important-ai-research-papers/</link><pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/important-ai-research-papers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg" alt="Important AI Research Papers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Important AI Research Papers
+&lt;div id="important-ai-research-papers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#important-ai-research-papers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Content from this page is migrated to &lt;a href="https://dasarpai.com/dsblog/select-ai-papers" target="_blank">Link&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Specific AI Tools on</title><link>https://dasarpai.github.io/tags/specific-ai-tools/</link><description>Recent content in Specific AI Tools on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/specific-ai-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>CodeReview with CodeRabbit AI - A Better Way to Automate Code Reviews</title><link>https://dasarpai.github.io/dsblog/code-review-with-coderabbit-ai/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/code-review-with-coderabbit-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg" alt="CodeReview with CodeRabbit AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">CodeReview with CodeRabbit AI
+&lt;div id="codereview-with-coderabbit-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#codereview-with-coderabbit-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Introduction: Why Developers Need CodeRabbit AI&lt;/strong>
+&lt;div id="introduction-why-developers-need-coderabbit-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-why-developers-need-coderabbit-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Imagine you’re working on a fast-paced software project with a growing codebase. Your team is constantly pushing updates, but code reviews become a bottleneck. Senior developers are overloaded, and critical bugs slip through because there&amp;rsquo;s just not enough time for thorough manual reviews. One day, a crucial bug makes it to production, causing downtime and frustrated users. If only there were a way to automate and streamline code reviews without compromising quality…&lt;/p></description></item><item><title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title><link>https://dasarpai.github.io/dsblog/integrating-ollama-and-open-webui-with-docker/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/integrating-ollama-and-open-webui-with-docker/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Integrating Ollama AI Models and Open WebUI on Docker
+&lt;div id="integrating-ollama-ai-models-and-open-webui-on-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#integrating-ollama-ai-models-and-open-webui-on-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Ollama, Opensource LLM Framework from Meta, provides a powerful way to work with large language models (LLMs) efficiently. While Open WebUI is a user-friendly interface that simplifies interaction with Ollama-hosted AI models. You can host Ollama and WebUI on your local machine. By using Docker, we can containerize these components, ensuring a seamless and reproducible setup across different environments. This guide will walk you through integrating Ollama and Open WebUI within Docker.&lt;/p></description></item></channel></rss>

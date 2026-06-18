@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Collaboration Tools on</title><link>https://dasarpai.github.io/tags/collaboration-tools/</link><description>Recent content in Collaboration Tools on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/collaboration-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring and Evaluating Integrated Development Environments (IDEs)</title><link>https://dasarpai.github.io/dsblog/exploring-and-evaluating-ides/</link><pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-and-evaluating-ides/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg" alt="Explroring IDEs" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring and Evaluating Integrated Development Environments (IDEs)
+&lt;div id="exploring-and-evaluating-integrated-development-environments-ides" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-and-evaluating-integrated-development-environments-ides" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article we will explore the history of IDEs and how they have evolved over time. Apart from this we will see how to evalute the best IDE for your needs and what are IDE in AI era.&lt;/p>
+&lt;h2 class="relative group">A Broad Timeline of IDE Development
+&lt;div id="a-broad-timeline-of-ide-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-broad-timeline-of-ide-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Efficiency (1970s–1980s)&lt;/strong>: Focus on minimalism and raw functionality for basic coding tasks.&lt;/li>
+&lt;li>&lt;strong>Enhancement (1980s–1990s)&lt;/strong>: Adding productivity tools and integration for growing complexity.&lt;/li>
+&lt;li>&lt;strong>Integration (1990s–2000s)&lt;/strong>: Combining editing, debugging, and building into a cohesive environment.&lt;/li>
+&lt;li>&lt;strong>Collaboration (2000s–2010s)&lt;/strong>: Expanding accessibility and teamwork via cloud and networks.&lt;/li>
+&lt;li>&lt;strong>Intelligence (2010s–Early 2020s)&lt;/strong>: Leveraging AI for smarter, reactive assistance.&lt;/li>
+&lt;li>&lt;strong>Agency (Mid-2020s)&lt;/strong>: Shifting to proactive, context-aware systems that act as co-developers.&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Features to Evaluate IDE
+&lt;div id="features-to-evaluate-ide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#features-to-evaluate-ide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>To compare any Integrated Development Environment (IDE) we need a structured set of features that capture both traditional IDE capabilities and the advanced AI-driven functionalities. These features span core IDE functionality, AI-specific enhancements, usability, and integration, allowing for a fair evaluation competitors like windsurf, Cursor, VS Code with Copilot, JetBrains, or others. Currently I am using windsurf heavily so this feature list is influenced by windsurf.&lt;/p></description></item><item><title>Working with GitHub from WSL and Windows Folders</title><link>https://dasarpai.github.io/dsblog/working-with-github-from-wsl-and-windows-folders/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/working-with-github-from-wsl-and-windows-folders/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg" alt="Working with GitHub from WSL and Windows Folders" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Problem Statement:
+&lt;div id="problem-statement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#problem-statement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>I have project in D:\github-blog\dasarpai-websitetest. This is also a github repo. It&amp;rsquo;s remote repo is &lt;a href="https://github.com/dasarpai/dasarpai-websitetest" target="_blank">https://github.com/dasarpai/dasarpai-websitetest&lt;/a>. I have github desktop for windows 11 installed on my machine. Sometime I push/pull files in github repo using this github desktop. I have Visual Code IDE installed on my windows 11 machine and I also visual code IDE on my machine&amp;rsquo;s wsl.&lt;/p></description></item><item><title>Exploring Github</title><link>https://dasarpai.github.io/dsblog/exploring-github/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-github/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6142-Exploring-Github.jpg" alt="Exploring Github" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Github
+&lt;div id="exploring-github" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-github" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Question: What is github package and what can I do with this?
+&lt;div id="question-what-is-github-package-and-what-can-i-do-with-this" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-what-is-github-package-and-what-can-i-do-with-this" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>GitHub Packages is a service that allows you to host and manage packages (e.g., code libraries, Docker containers) within GitHub. Here&amp;rsquo;s a breakdown of what you can do or achieve with GitHub Packages:&lt;/p></description></item></channel></rss>

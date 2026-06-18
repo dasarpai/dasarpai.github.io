@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PMBOK on</title><link>https://dasarpai.github.io/tags/pmbok/</link><description>Recent content in PMBOK on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 15 Feb 2021 18:33:40 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/pmbok/index.xml" rel="self" type="application/rss+xml"/><item><title>Input-Output List of PMBOK6</title><link>https://dasarpai.github.io/pmbok6/input-output-list-of-pmbok6/</link><pubDate>Mon, 15 Feb 2021 18:33:40 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/input-output-list-of-pmbok6/</guid><description>&lt;p>Input-output of a process can be a subsidiary plan, status (like Approved Change Request ), or project document. Below is the list of input-output name and their frequency of use in PMBOK 6th edition. The frequency of a document below shows the number of times that document is used/modified/created across different processes.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Sno&lt;/th>
+&lt;th>Input/Output Name&lt;/th>
+&lt;th>No. of Process Used&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/accepted-deliverables">Accepted Deliverables&lt;/a>&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/activity-attributes">Activity Attributes&lt;/a>&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/activity-list">Activity List&lt;/a>&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/agreements">Agreements&lt;/a>&lt;/td>
+&lt;td>12&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/approved-change-requests">Approved Change Requests&lt;/a>&lt;/td>
+&lt;td>4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/assumption-log">Assumption Log&lt;/a>&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/basis-of-estimates">Basis Of Estimates&lt;/a>&lt;/td>
+&lt;td>3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/bid-documents">Bid Documents&lt;/a>&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/business-documents">Business Documents&lt;/a>&lt;/td>
+&lt;td>6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/change-requests">Change Requests&lt;/a>&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/closed-procurements">Closed Procurements&lt;/a>&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>&lt;a href="https://dasarpai.github.io/pmbok6/communications-management-plan">Communications Management Plan&lt;/a>&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>[Cost Baseline](/pmbok6/cost-baseline&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>[Cost Estimates](/pmbok6/cost-estimates&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>[Cost Forecasts](/pmbok6/cost-forecasts&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>[Cost Management Plan](/pmbok6/cost-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>[Deliverables](/pmbok6/deliverables&lt;/td>
+&lt;td>3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>[Duration Estimates](/pmbok6/duration-estimates&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>[Enterprise Environmental Factors](/pmbok6/enterprise-environmental-factors&lt;/td>
+&lt;td>40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>[Enterprise Environmental Factors Updates](/pmbok6/enterprise-environmental-factors-updates&lt;/td>
+&lt;td>3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>21&lt;/td>
+&lt;td>[Final Product, Service, Or Result Transition](/pmbok6/final-product,-service,-or-result-transition&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22&lt;/td>
+&lt;td>[Final Report](/pmbok6/final-report&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>23&lt;/td>
+&lt;td>[Independent Cost Estimates](/pmbok6/independent-cost-estimates&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24&lt;/td>
+&lt;td>[Issue Log](/pmbok6/issue-log&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>25&lt;/td>
+&lt;td>[Lessons Learned Register](/pmbok6/lessons-learned-register&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26&lt;/td>
+&lt;td>[Make-Or-Buy Decisions](/pmbok6/make-or-buy-decisions&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>27&lt;/td>
+&lt;td>[Milestone List](/pmbok6/milestone-list&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28&lt;/td>
+&lt;td>[Organizational Process Assets](/pmbok6/organizational-process-assets&lt;/td>
+&lt;td>47&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>29&lt;/td>
+&lt;td>[Organizational Process Assets Updates](/pmbok6/organizational-process-assets-updates&lt;/td>
+&lt;td>10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>[Outputs From Other Processes](/pmbok6/outputs-from-other-processes&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>31&lt;/td>
+&lt;td>[Physical Resource Assignments](/pmbok6/physical-resource-assignments&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>32&lt;/td>
+&lt;td>[Procurement Documentation](/pmbok6/procurement-documentation&lt;/td>
+&lt;td>4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>33&lt;/td>
+&lt;td>[Procurement Documentation Updates](/pmbok6/procurement-documentation-updates&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>34&lt;/td>
+&lt;td>[Procurement Management Plan](/pmbok6/procurement-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>35&lt;/td>
+&lt;td>[Procurement Statement Of Work](/pmbok6/procurement-statement-of-work&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>36&lt;/td>
+&lt;td>[Procurement Strategy](/pmbok6/procurement-strategy&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>37&lt;/td>
+&lt;td>[Project Calendars](/pmbok6/project-calendars&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>38&lt;/td>
+&lt;td>[Project Charter](/pmbok6/project-charter&lt;/td>
+&lt;td>15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>39&lt;/td>
+&lt;td>[Project Communications](/pmbok6/project-communications&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40&lt;/td>
+&lt;td>[Project Documents](/pmbok6/project-documents&lt;/td>
+&lt;td>43&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>41&lt;/td>
+&lt;td>[Project Documents Update](/pmbok6/project-documents-update&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>42&lt;/td>
+&lt;td>[Project Documents Updates](/pmbok6/project-documents-updates&lt;/td>
+&lt;td>38&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>43&lt;/td>
+&lt;td>[Project Funding Requirements](/pmbok6/project-funding-requirements&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>44&lt;/td>
+&lt;td>[Project Management Plan](/pmbok6/project-management-plan&lt;/td>
+&lt;td>48&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>45&lt;/td>
+&lt;td>[Project Management Plan Updates](/pmbok6/project-management-plan-updates&lt;/td>
+&lt;td>26&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>46&lt;/td>
+&lt;td>[Project Schedule](/pmbok6/project-schedule&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>47&lt;/td>
+&lt;td>[Project Schedule Network Diagrams](/pmbok6/project-schedule-network-diagrams&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>48&lt;/td>
+&lt;td>[Project Scope Statement](/pmbok6/project-scope-statement&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>49&lt;/td>
+&lt;td>[Project Team Assignments](/pmbok6/project-team-assignments&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>50&lt;/td>
+&lt;td>[Quality Control Measurements](/pmbok6/quality-control-measurements&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>51&lt;/td>
+&lt;td>[Quality Management Plan](/pmbok6/quality-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>52&lt;/td>
+&lt;td>[Quality Metrics](/pmbok6/quality-metrics&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>53&lt;/td>
+&lt;td>[Quality Reports](/pmbok6/quality-reports&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>54&lt;/td>
+&lt;td>[Requirements Documentation](/pmbok6/requirements-documentation&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>55&lt;/td>
+&lt;td>[Requirements Management Plan](/pmbok6/requirements-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>56&lt;/td>
+&lt;td>[Requirements Traceability Matrix](/pmbok6/requirements-traceability-matrix&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>57&lt;/td>
+&lt;td>[Resource Breakdown Structure](/pmbok6/resource-breakdown-structure&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>58&lt;/td>
+&lt;td>[Resource Calendars](/pmbok6/resource-calendars&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>59&lt;/td>
+&lt;td>[Resource Management Plan](/pmbok6/resource-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>[Resource Requirements](/pmbok6/resource-requirements&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>61&lt;/td>
+&lt;td>[Risk Management Plan](/pmbok6/risk-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>62&lt;/td>
+&lt;td>[Risk Register](/pmbok6/risk-register&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>63&lt;/td>
+&lt;td>[Risk Report](/pmbok6/risk-report&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>64&lt;/td>
+&lt;td>[Schedule Baseline](/pmbok6/schedule-baseline&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>65&lt;/td>
+&lt;td>[Schedule Data](/pmbok6/schedule-data&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>66&lt;/td>
+&lt;td>[Schedule Forecasts](/pmbok6/schedule-forecasts&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>67&lt;/td>
+&lt;td>[Schedule Management Plan](/pmbok6/schedule-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>68&lt;/td>
+&lt;td>[Scope Baseline](/pmbok6/scope-baseline&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>69&lt;/td>
+&lt;td>[Scope Management Plan](/pmbok6/scope-management-plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>70&lt;/td>
+&lt;td>[Selected Sellers](/pmbok6/selected-sellers&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>71&lt;/td>
+&lt;td>[Seller Proposals](/pmbok6/seller-proposals&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>72&lt;/td>
+&lt;td>[Source Selection Criteria](/pmbok6/source-selection-criteria&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>73&lt;/td>
+&lt;td>[stakeholder-engagement-plan](/pmbok6/Stakeholder Engagement Plan&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>74&lt;/td>
+&lt;td>[Stakeholder Register](/pmbok6/stakeholder-register&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>75&lt;/td>
+&lt;td>[Team Charter](/pmbok6/team-charter&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>76&lt;/td>
+&lt;td>[Team Performance Assessments](/pmbok6/team-performance-assessments&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>77&lt;/td>
+&lt;td>[Test And Evaluation Documents](/pmbok6/test-and-evaluation-documents&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>78&lt;/td>
+&lt;td>[Verified Deliverables](/pmbok6/verified-deliverables&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>79&lt;/td>
+&lt;td>[Work Performance Data](/pmbok6/work-performance-data&lt;/td>
+&lt;td>11&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>80&lt;/td>
+&lt;td>[Work Performance Information](/pmbok6/work-performance-information&lt;/td>
+&lt;td>11&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>81&lt;/td>
+&lt;td>[Work Performance Reports](/pmbok6/work-performance-reports&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>PMBOK 6 Tools and Techniques</title><link>https://dasarpai.github.io/pmbok6/pmbok-6-tools-and-techniques/</link><pubDate>Mon, 15 Feb 2021 18:16:03 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6/pmbok-6-tools-and-techniques/</guid><description>&lt;h2 class="relative group">PMBOK 6 Tools and Techniques
+&lt;div id="pmbok-6-tools-and-techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pmbok-6-tools-and-techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>PMBOK 6th Edition refers to the following 65 broad techniques to manage a project. If you detail these 65 tools and techniques then you may easily end with a list of 200+ tools and techniques. For example, if you detail the “Data Analysis” tool and technique then you will have another list of &lt;a href="https://dasarpai.github.io/pmbok6/data-analysis/">27 Tools and Techniques of Data Analysis&lt;/a>.&lt;/p></description></item><item><title>PMBOK 6th Edition Process Groups</title><link>https://dasarpai.github.io/pmblog/pmbok-6th-edition-process-groups/</link><pubDate>Fri, 09 Feb 2018 10:34:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/pmbok-6th-edition-process-groups/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1033-PMBOK6.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Process Groups and Processes in PMBOK 6
+&lt;div id="process-groups-and-processes-in-pmbok-6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#process-groups-and-processes-in-pmbok-6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>PMBOK 6th Edition Process Groups and related processes&lt;/strong>. PMBOK6 has 49 processes in 5 process groups.&lt;/p>
+&lt;h4 class="relative group">&lt;strong>The Initiating Processes&lt;/strong>
+&lt;div id="the-initiating-processes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-initiating-processes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ol>
+&lt;li>[glossary slug=’develop-project-charter’]Develop Project Charter[/glossary]&lt;/li>
+&lt;li>[glossary slug=’identify-stakeholders’]Identify Stakeholders[/glossary]&lt;/li>
+&lt;/ol>
+&lt;h4 class="relative group">&lt;strong>The Planning Process&lt;/strong>es
+&lt;div id="the-planning-processes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-planning-processes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ol>
+&lt;li>[glossary slug=’develop-project-management-plan’]Develop Project Management Plan[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-scope-management’]Plan Scope Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’collect-requirements’]Collect Requirements[/glossary]&lt;/li>
+&lt;li>[glossary slug=’define-scope’]Define Scope[/glossary]&lt;/li>
+&lt;li>[glossary slug=’create-wbs’]Create WBS[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-schedule-management’]Plan Schedule Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’define-activities’]Define Activities[/glossary]&lt;/li>
+&lt;li>[glossary slug=’sequence-activities’]Sequence Activities[/glossary]&lt;/li>
+&lt;li>[glossary slug=’estimate-activity-durations’]Estimate Activity Durations[/glossary]&lt;/li>
+&lt;li>[glossary slug=’develop-schedule’]Develop Schedule[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-cost-management’]Plan Cost Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’estimate-costs’]Estimate Costs[/glossary]&lt;/li>
+&lt;li>[glossary slug=’determine-budget’]Determine Budget[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-quality-management’]Plan Quality Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-resource-management’]Plan Resource Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’estimate-activity-resources’]Estimate Activity Resources[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-communications-management’]Plan Communications Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-risk-management’]Plan Risk Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’identify-risks’]Identify Risks[/glossary]&lt;/li>
+&lt;li>[glossary slug=’perform-qualitative-risk-analysis’]Perform Qualitative Risk Analysis[/glossary]&lt;/li>
+&lt;li>[glossary slug=’perform-quantitative-risk-analysis’]Perform Quantitative Risk Analysis[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-risk-responses’]Plan Risk Responses[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-procurement-management’]Plan Procurement Management[/glossary]&lt;/li>
+&lt;li>[glossary slug=’plan-stakeholder-engagement’]Plan Stakeholder Engagement[/glossary]&lt;/li>
+&lt;/ol>
+&lt;h4 class="relative group">&lt;strong>The Executing Process&lt;/strong>es
+&lt;div id="the-executing-processes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-executing-processes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ol>
+&lt;li>[glossary slug=’direct-and-manage-project-work’]Direct and Manage Project Work[/glossary]&lt;/li>
+&lt;li>[glossary slug=’manage-project-knowledge’]Manage Project Knowledge[/glossary]&lt;/li>
+&lt;li>[glossary slug=’manage-quality’]Manage Quality[/glossary]&lt;/li>
+&lt;li>[glossary slug=’acquire-resources’]Acquire Resources[/glossary]&lt;/li>
+&lt;li>[glossary slug=’develop-team’]Develop Team[/glossary]&lt;/li>
+&lt;li>[glossary slug=’manage-team’]Manage Team[/glossary]&lt;/li>
+&lt;li>[glossary slug=’manage-communications’]Manage Communications[/glossary]&lt;/li>
+&lt;li>[glossary slug=’implement-risk-responses’]Implement Risk Responses[/glossary]&lt;/li>
+&lt;li>[glossary slug=’conduct-procurements’]Conduct Procurements[/glossary]&lt;/li>
+&lt;li>[glossary slug=’manage-stakeholder-engagement’]Manage Stakeholder Engagement[/glossary]&lt;/li>
+&lt;/ol>
+&lt;h4 class="relative group">The &lt;strong>Monitoring &amp;amp; Controlling Processes&lt;/strong>
+&lt;div id="the-monitoring--controlling-processes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-monitoring--controlling-processes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ol>
+&lt;li>[glossary slug=’monitor-and-control-project-work’]Monitor and Control Project Work[/glossary]&lt;/li>
+&lt;li>[glossary slug=’perform-integrated-change-control’]Perform Integrated Change Control[/glossary]&lt;/li>
+&lt;li>[glossary slug=’validate-scope’]Validate Scope[/glossary]&lt;/li>
+&lt;li>[glossary slug=’control-scope’]Control Scope[/glossary]&lt;/li>
+&lt;li>[glossary slug=’control-schedule’]Control Schedule[/glossary]&lt;/li>
+&lt;li>[glossary slug=’control-costs’]Control Costs[/glossary]&lt;/li>
+&lt;li>[glossary slug=’control-quality’]Control Quality[/glossary]&lt;/li>
+&lt;li>[glossary slug=’control-resources’]Control Resources[/glossary]&lt;/li>
+&lt;li>[glossary slug=’monitor-communications’]Monitor Communications[/glossary]&lt;/li>
+&lt;li>[glossary slug=’monitor-risks’]Monitor Risks[/glossary]&lt;/li>
+&lt;li>[glossary slug=’control-procurements’]Control Procurements[/glossary]&lt;/li>
+&lt;li>[glossary slug=’monitor-stakeholder-engagement’]Monitor Stakeholder Engagement[/glossary]&lt;/li>
+&lt;/ol>
+&lt;h4 class="relative group">&lt;strong>The Closing Process&lt;/strong>
+&lt;div id="the-closing-process" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-closing-process" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;ol>
+&lt;li>[glossary slug=’close-project-or-phase’]Close Project or Phase[/glossary]&lt;/li>
+&lt;/ol></description></item><item><title>What is Project Management?</title><link>https://dasarpai.github.io/pmblog/what-is-project-management/</link><pubDate>Thu, 29 Dec 2016 12:38:04 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/what-is-project-management/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1025-pmbok.png" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Project Management with PMBOK
+&lt;div id="project-management-with-pmbok" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#project-management-with-pmbok" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Project?
+&lt;div id="what-is-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Without going into the PMBOK definition of a Project let us understand with an extremely simple example. “Go to Chennai and meet a family friend in the city and come back to Delhi by evening flight”. This idea you are discussing with your spouse one month before you need to execute this project. Before &lt;strong>this idea&lt;/strong> convert into a project you need to have support and funding for this. After support, funding, and approval this will turn into a project.&lt;/p></description></item><item><title>PMBOK 5 Processes</title><link>https://dasarpai.github.io/pmblog/pmbok-5-processes/</link><pubDate>Sun, 09 Feb 2014 08:07:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/pmbok-5-processes/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1010-PMBOK5.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">PMBOK 5 Processes &amp;amp; Process Groups
+&lt;div id="pmbok-5-processes--process-groups" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#pmbok-5-processes--process-groups" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Project Management Body of Knowledge 5th Edition has 47 processes, across 10 knowledge areas and 5 process groups. How these 47 processes are distributed across different knowledge areas and process groups can be visualized from the table below.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>[glossary slug=’initiating’]Initiating[/glossary]&lt;/th>
+&lt;th>[glossary slug=’planning’]Planning[/glossary]&lt;/th>
+&lt;th>[glossary slug=’executing’]Executing[/glossary]&lt;/th>
+&lt;th>[glossary slug=’monitoring-and-controlling’]Monitoring &amp;amp; Controlling[/glossary]&lt;/th>
+&lt;th>[glossary slug=’closing’]Closing[/glossary]&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>[glossary slug=’project-integration-management’]Project Integration Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’develop-project-charter’]Develop Project Chater [/glossary]&lt;/td>
+&lt;td>[glossary slug=’develop-project-management-plan’]Development Project Management Plan[/glossary]&lt;/td>
+&lt;td>[glossary slug=’direct-and-manage-project-work’]Direct and Manage Project Execution [/glossary]&lt;/td>
+&lt;td>[glossary slug=’monitor-and-control-project-work’]Monitor &amp;amp; Control Project Work [/glossary]&lt;/td>
+&lt;td>[glossary slug=’close-project-or-phase’]Close Project or Phase [/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’perform-integrated-change-control’]Perform Integrated Change Control[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-scope-management’]Project Scope Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-scope-management’]Plan Scope Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’validate-scope’]Validate Scope[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’collect-requirements’]Collect Requirements[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’control-scope’]Control Scope[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’define-scope’]Define Scope[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’create-wbs’]Create WBS[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-time-management’]Project Time Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-schedule-management’]Plan Schedule Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’control-schedule’]Control Schedule[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’define-activities’]Define Activities[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’sequence-activities’]Sequence Activities[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’estimate-activity-resources’]Estimate Activity Resources[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’estimate-activity-durations’]Estimate Activity Durations [/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’develop-schedule’]Develop Schedule[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-cost-management’]Project Cost Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-cost-management’]Plan Cost Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’control-cost’]Control Cost[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’estimate-cost’]Estimate Cost[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’determine-budget’]Determine Budget[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-quality-management’]Project Quality Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-quality-management’]Plan Quality Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’perform-quality-assurance’]Perform Quality Assurance[/glossary]&lt;/td>
+&lt;td>[glossary slug=’control-quality’]Control Quality[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-human-resource-management’]Project Human Resource Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-human-resource-management’]Plan Human Resource Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’acquire-project-team’]Acquire Project Team[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’develop-project-team’]Develop Project Team[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’manage-project-team’]Manage Project Team[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-communication-management’]Project Communication Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-communications-management’]Plan Communication Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’manage-communications’]Manage Communications[/glossary]&lt;/td>
+&lt;td>[glossary slug=’control-communications’]Control Communications[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-risk-management’]Project risk Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-risk-management’]Plan Risk Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’control-risks’]Control Risk[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’identify-risks’]Identify Risks[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’perform-qualitative-risk-analysis’]Perform Qualitative Risk Analysis[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’perform-quantitative-risk-analysis’]Perform Quantitative Risk Analysis[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-risk-response’]Plan Risk Response[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-procurement-management’]Project Procurement Management[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>[glossary slug=’plan-procurement-management’]Plan Procurement Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’conduct-procurements’]Conduct Procurements[/glossary]&lt;/td>
+&lt;td>[glossary slug=’control-procurements’]Control Procurements[/glossary]&lt;/td>
+&lt;td>[glossary slug=’close-procurements’]Close Procurements [/glossary]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[glossary slug=’project-stakeholders-management’]Project Stakeholders Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’identify-stakeholders’] Identify Stakeholders[/glossary]&lt;/td>
+&lt;td>[glossary slug=’plan-stakeholder-management’]Plan Stakeholder Management[/glossary]&lt;/td>
+&lt;td>[glossary slug=’manage-stakeholder-engagement’]Manage Stakeholder Engagement[/glossary]&lt;/td>
+&lt;td>[glossary slug=’control-stakeholder-engagement’]Control Stakeholder Engagement[/glossary]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>24&lt;/td>
+&lt;td>8&lt;/td>
+&lt;td>11&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>This Summary Process Table is based on PMBOK 5th Edition. PMBOK (Project Management Body of Knowledge) is PMI’s one of the International project management standard.&lt;/p></description></item><item><title>PMBOK Knowledge Areas</title><link>https://dasarpai.github.io/pmblog/pmbok-knowledge-areas/</link><pubDate>Thu, 22 Aug 2013 09:19:48 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/pmbok-knowledge-areas/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1004-PMBOK-KA-min.jpg" alt="PMBOK Knowledge Areas" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Who uses PMBOK?
+&lt;div id="who-uses-pmbok" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#who-uses-pmbok" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>PMBOK&lt;/strong>® (Project Management Body of Knowledge) guide book is an &lt;strong>ANSI standard&lt;/strong> and used as a project management guiding standard in most parts of the world. There are 1,036,367 active PMP certified individuals and 314 chartered chapters across 214 countries and territories worldwide. PMBOK is the bible of these project managers spread across the globe. This is an industry-agnostic, tool-agnostic project management guide. An individual project manager may face challenges in implementing practices described in this book because of his experience or environment but there is no doubt that the standard is the best and it meets the need of the industry as of today. For every 3-4 years, PMI does RDS (role delineation study) and based on the study initiate changes to revise PMOBOK and PMP exam.&lt;/p></description></item></channel></rss>

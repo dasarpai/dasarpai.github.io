@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Text Processing on</title><link>https://dasarpai.github.io/tags/text-processing/</link><description>Recent content in Text Processing on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/text-processing/index.xml" rel="self" type="application/rss+xml"/><item><title>What is Unicode and how does it works?</title><link>https://dasarpai.github.io/dsblog/what-is-unicode-and-how-does-it-works/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-unicode-and-how-does-it-works/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg" alt="What is Unicode and how does it works?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Unicode and how does it works?
+&lt;div id="what-is-unicode-and-how-does-it-works" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-unicode-and-how-does-it-works" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Unicode: A Universal Character Set
+&lt;div id="what-is-unicode-a-universal-character-set" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-unicode-a-universal-character-set" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Unicode&lt;/strong> is a standard that assigns a unique number to every character, no matter the platform, program, or language. It&amp;rsquo;s like a global dictionary for characters.&lt;/p></description></item><item><title>Empowering Language with AI NLP Capabilities</title><link>https://dasarpai.github.io/dsblog/empowering-language-with-ainlp-capabilities/</link><pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/empowering-language-with-ainlp-capabilities/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg" alt="Empowering-Language-with-AI-NLP-Capabilities" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Empowering-Language-with-AI-NLP-Capabilities
+&lt;div id="empowering-language-with-ai-nlp-capabilities" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#empowering-language-with-ai-nlp-capabilities" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When envisioning artificial intelligence (AI), the initial images that often come to mind are humanoid robots. However, this perception oversimplifies the vast realm of AI, which is fundamentally distinct from natural intelligence—the inherent cognitive capacity found in living organisms shaped by Mother Nature. Life, in all its forms, from microscopic bacteria to complex human beings, possesses an innate intelligence derived from hydrocarbon-based living cells.&lt;/p></description></item><item><title>Basics of Word Embedding</title><link>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg" alt="Basics of Word Embedding" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Basics of Word Embedding
+&lt;div id="basics-of-word-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-word-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Context, target and window?
+&lt;div id="what-is-context-target-and-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-context-target-and-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li>
+&lt;li>The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li>
+&lt;li>The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li>
+&lt;/ul>
+&lt;p>Let&amp;rsquo;s take a sentence&lt;/p></description></item><item><title>Embedding with FastText</title><link>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg" alt="Embedding with FastText" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Embedding with FastText
+&lt;div id="embedding-with-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-with-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-is-embedding">What is Embedding?&lt;/a>&lt;br>
+&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-are-different-embedding-types">What are Different Types of Embedding&lt;/a>&lt;/p>
+&lt;h2 class="relative group">What is FastText?
+&lt;div id="what-is-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for &lt;strong>training&lt;/strong> and &lt;strong>using word embeddings&lt;/strong>.&lt;/p></description></item></channel></rss>

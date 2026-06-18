@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Signal Processing on</title><link>https://dasarpai.github.io/tags/signal-processing/</link><description>Recent content in Signal Processing on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml"/><item><title>Frequencies in Time and Space: Understanding Nyquist Theorem &amp; its Applications</title><link>https://dasarpai.github.io/dsblog/frequencies-in-time-and-space/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/frequencies-in-time-and-space/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Applications of Nyquists theorem
+&lt;div id="applications-of-nyquists-theorem" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#applications-of-nyquists-theorem" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Can &lt;strong>the Nyquist-Shannon sampling theorem applies to light signals&lt;/strong>
+&lt;div id="can-the-nyquist-shannon-sampling-theorem-applies-to-light-signals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#can-the-nyquist-shannon-sampling-theorem-applies-to-light-signals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">🌈 First: What Kind of &amp;ldquo;Light&amp;rdquo; Are We Talking About?
+&lt;div id="-first-what-kind-of-light-are-we-talking-about" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#-first-what-kind-of-light-are-we-talking-about" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>When we say &lt;strong>light&lt;/strong>, we could mean a few different things depending on the context:&lt;/p></description></item><item><title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title><link>https://dasarpai.github.io/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link><pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Story of Nyquist, Shannon, and the Science of Sampling
+&lt;div id="the-story-of-nyquist-shannon-and-the-science-of-sampling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-story-of-nyquist-shannon-and-the-science-of-sampling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In the early days of the 20th century, the world was just beginning to hum with the sounds of electric voices. Telephones crackled across cities, Morse code blinked from station to station, and engineers at &lt;strong>Bell Telephone Laboratories&lt;/strong> worked tirelessly to harness the invisible — the flow of information through wires.&lt;/p></description></item><item><title>Audio Video Processing Concepts</title><link>https://dasarpai.github.io/dsblog/audio-video-processing-concepts/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/audio-video-processing-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg" alt="Audio Video Processing Concepts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Foundational Concepts of Audio and Video Processing
+&lt;div id="foundational-concepts-of-audio-and-video-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#foundational-concepts-of-audio-and-video-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Whether you are multimedia professional or deep learning Engineer, if you are dealing with audio and video processing, you will need to understand the core concepts of audio and video processing. My this guide is focussed on some of the key concepts of Audio Video processing.&lt;/p></description></item><item><title>Understanding Electronics Chips</title><link>https://dasarpai.github.io/dsblog/understanding-electronics-chips/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-electronics-chips/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6254-understanding-electronics-chips.jpg" alt="Understanding Electronics Chips" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Electronics Chips
+&lt;div id="understanding-electronics-chips" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-electronics-chips" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">How 0, 1 is represented in digital system?
+&lt;div id="how-0-1-is-represented-in-digital-system" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-0-1-is-represented-in-digital-system" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In digital computing, the value 1 is often represented by a higher voltage level, and 0 is represented by a lower voltage level. For example:&lt;/p>
+&lt;p>1: Typically represented by a voltage near the maximum supply voltage (e.g., 5V, 3.3V, or another system-defined &amp;ldquo;high&amp;rdquo; level).&lt;/p></description></item></channel></rss>

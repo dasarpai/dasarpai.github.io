@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning Techniques on</title><link>https://dasarpai.github.io/tags/machine-learning-techniques/</link><description>Recent content in Machine Learning Techniques on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/machine-learning-techniques/index.xml" rel="self" type="application/rss+xml"/><item><title>Transfer Learning Key AI Techniques Explained</title><link>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg" alt="Transfer Learning Key AI Techniques Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transfer Learning Key AI Techniques Explained
+&lt;div id="transfer-learning-key-ai-techniques-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transfer-learning-key-ai-techniques-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article we will understand some important concepts used within machine learning.&lt;/p>
+&lt;ul>
+&lt;li>What is in-context Learning?&lt;/li>
+&lt;li>What is Prompt-Engineering?&lt;/li>
+&lt;li>What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li>
+&lt;li>What is Zero-shot learning?&lt;/li>
+&lt;li>How Zero-shot learning is different from In-context Learning?&lt;/li>
+&lt;li>What is Meta-Learning?&lt;/li>
+&lt;li>What is Few-shot learning?&lt;/li>
+&lt;li>Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li>
+&lt;li>What is transfer learning?&lt;/li>
+&lt;li>How do we do transfer learning from existing model?&lt;/li>
+&lt;li>What is finetuning?&lt;/li>
+&lt;li>Which layers to update, what weight to update during finetuning?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Prompt Engineering, In Context Learning and Zero-shot Learning
+&lt;div id="prompt-engineering-in-context-learning-and-zero-shot-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#prompt-engineering-in-context-learning-and-zero-shot-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">What is in-context Learning?
+&lt;div id="what-is-in-context-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-in-context-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p></description></item><item><title>Machine Learning Key Concepts</title><link>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg" alt="Exploring Docker and VS Code Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Key Concepts
+&lt;div id="machine-learning-key-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-key-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking for the answer to any of the following questions, then the answer is &amp;lsquo;Yes.&amp;rsquo;&lt;/p></description></item><item><title>Domain Knowledge in Machine Learning</title><link>https://dasarpai.github.io/dsblog/domain-knowledge-in-machine-learning/</link><pubDate>Sat, 15 Oct 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/domain-knowledge-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg" alt="Domain Knowledge in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Domain Knowledge in Machine Learning
+&lt;div id="domain-knowledge-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#domain-knowledge-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Let’s say the domain is a restaurant kitchen. A dataset with 3 variables. Two predictors and one predicted. Predictor variables are flour in kilograms and water in liters. A predicted variable is the number of roti/ bread. You know the model will be something like this.&lt;/p></description></item><item><title>EDA &amp; Feature Engineering 101</title><link>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</link><pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6008-EDA101.jpg" alt="EDA &amp;amp; Feature Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is EDA?
+&lt;div id="what-is-eda" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-eda" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What kind of data is this? (file format, volume of data, number of columns, metadata data of image/video/audio or some feedback in English or other languages, or tabular data, etc)&lt;/li>
+&lt;li>How complex is this data? (How many files are there? primary key? how these files are connected to each other? is nested data in some files? is some field having nested data, etc.)&lt;/li>
+&lt;li>Is this data sufficient for meeting our ultimate goal, i.e. Model building?&lt;/li>
+&lt;li>Is there any missing data? Data needed but not given by the business or not available at all or costly to get that data etc.&lt;/li>
+&lt;li>Are there any missing values? In the given dataset do we have complete information or some values are missing for some records or some columns?&lt;/li>
+&lt;li>What are different independent and dependent fields?&lt;/li>
+&lt;li>Is there any relationship between different independent variables of the dataset? If yes then how strong is that relationship?&lt;/li>
+&lt;li>Are observations independent or tightly coupled like we see in time-series data?&lt;/li>
+&lt;/ul>
+&lt;p>In the data scient project lifecycle, EDA is not a sequential, one-time, isolated process. Till the time data is not ready for modeling we keep doing EDA and cleaning the data. So, EDA is followed by a list of decisions taken to clean the dataset, and finally, data cleaning steps are implemented. If the dataset is not in the good shape after the first iteration of EDA we continue EDA in the next cycle. In this article, I am not referring to EDA as just visualizing and understanding the dataset but all the steps required till the dataset is not ready for modeling.&lt;/p></description></item></channel></rss>

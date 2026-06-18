@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neural Network Architectures on</title><link>https://dasarpai.github.io/tags/neural-network-architectures/</link><description>Recent content in Neural Network Architectures on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/neural-network-architectures/index.xml" rel="self" type="application/rss+xml"/><item><title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title><link>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg" alt="BitNet b1.58-2B4T" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.12285" target="_blank">Archive Paper Link&lt;/a>&lt;/p>
+&lt;h1 class="relative group">BitNet b1.58-2B4T: The Future of Efficient AI Processing
+&lt;div id="bitnet-b158-2b4t-the-future-of-efficient-ai-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bitnet-b158-2b4t-the-future-of-efficient-ai-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">A History of 1 bit Transformer Model
+&lt;div id="a-history-of-1-bit-transformer-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-history-of-1-bit-transformer-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A paper &amp;ldquo;The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits&amp;rdquo; was published by Stanford University, ETH Zürich, and EPFL. It was published on October 2023 (published on arXiv on October 17, 2023). &lt;a href="https://arxiv.org/pdf/2310.11453" target="_blank">Standord Paper Link&lt;/a>. The core Concept of 1.58 bits per parameter, was introduced here. This demonstrated that LLMs could be effectively trained and operated with extremely low-bit representation while maintaining competitive performance&lt;/p></description></item></channel></rss>

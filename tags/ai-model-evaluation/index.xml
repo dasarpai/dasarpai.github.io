@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Model Evaluation on</title><link>https://dasarpai.github.io/tags/ai-model-evaluation/</link><description>Recent content in AI Model Evaluation on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-model-evaluation/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Benchmarks for 2025</title><link>https://dasarpai.github.io/dsblog/ai-benchmarks-2025/</link><pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-benchmarks-2025/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg" alt="AI Benchmark for 2025" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Benchmarks for 2025
+&lt;div id="ai-benchmarks-for-2025" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-benchmarks-for-2025" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A term &lt;strong>&amp;ldquo;AI benchmark&amp;rdquo;&lt;/strong> is thrown around a lot and can be confusing because it’s used in slightly different ways depending on the context. In this artcile we will try to understand what are the different meaning of this term and what are the latest AI benchmarks.&lt;/p></description></item><item><title>Overview of AI Benchmark Explorer Tool</title><link>https://dasarpai.github.io/dsblog/aibenchmark-explorer/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/aibenchmark-explorer/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg" alt="AI Benchmark Explorer" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Overview of AI Benchmark Explorer Tool&lt;/strong>
+&lt;div id="overview-of-ai-benchmark-explorer-tool" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#overview-of-ai-benchmark-explorer-tool" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>AI professionals, including Change Drivers, Managers, and Scientists, often face challenges despite clearly understanding the problems they aim to solve. Key issues include:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Identifying Appropriate Datasets&lt;/strong>: Determining which datasets are best suited for a specific problem can be difficult.&lt;/li>
+&lt;li>&lt;strong>Selecting Evaluation Metrics&lt;/strong>: Choosing the right metrics to assess the performance of a solution is crucial for accurate evaluation.&lt;/li>
+&lt;li>&lt;strong>Benchmarking Against Existing Models&lt;/strong>: Understanding the performance metrics of existing models for the same problem helps in setting realistic expectations.&lt;/li>
+&lt;li>&lt;strong>Exploring Tried Architectures&lt;/strong>: Reviewing architectures that others have implemented for similar problems can provide valuable insights.&lt;/li>
+&lt;li>&lt;strong>Assessing Problem Novelty&lt;/strong>: Determining whether the problem has already been solved or requires novel approaches is essential for resource allocation.&lt;/li>
+&lt;li>&lt;strong>Sourcing Solutions&lt;/strong>: Deciding between utilizing open-source solutions or opting for proprietary alternatives impacts cost and flexibility.&lt;/li>
+&lt;/ul>
+&lt;p>Addressing these challenges is vital for the successful development and implementation of AI solutions.&lt;/p></description></item><item><title>A Comprehensive Guide to Evaluate Generative Models</title><link>https://dasarpai.github.io/dsblog/guide-to-evaluate-generative-models/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/guide-to-evaluate-generative-models/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg" alt="Generative Models" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Comprehensive Guide to Evaluate Generative Models
+&lt;div id="a-comprehensive-guide-to-evaluate-generative-models" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-comprehensive-guide-to-evaluate-generative-models" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the rapidly evolving landscape of artificial intelligence, generative models have emerged as powerful tools capable of creating lifelike images, coherent text narratives, and even realistic audio. From large language models (LLMs) like GPT, Gemini, and Claude to image generators like Stable Diffusion, these systems are reshaping creativity, communication, and problem-solving. However, their potential is only as good as our ability to evaluate them effectively.&lt;/p></description></item><item><title>Machine Learning Key Concepts</title><link>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg" alt="Exploring Docker and VS Code Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Key Concepts
+&lt;div id="machine-learning-key-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-key-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking for the answer to any of the following questions, then the answer is &amp;lsquo;Yes.&amp;rsquo;&lt;/p></description></item><item><title>NLP BenchMarks</title><link>https://dasarpai.github.io/dsblog/nlp-benchmarks1/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/nlp-benchmarks1/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6120-NLP-BenchMarks.jpg" alt="NLP-BenchMarks" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">NLP BenchMarks
+&lt;div id="nlp-benchmarks" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#nlp-benchmarks" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Language Model?
+&lt;div id="what-is-language-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-language-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>language model&lt;/strong> is a computational model that understands and generates human language. It learns the patterns and structure of a language by analyzing large amounts of text data, allowing it to predict the next word in a sequence or generate coherent text. Language models are used in applications like text generation, translation, speech recognition, chatbots, and sentiment analysis.&lt;/p></description></item><item><title>Machine Learning Metrics</title><link>https://dasarpai.github.io/dsblog/machine-learning-metrics/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-metrics/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg" alt="Comprehensive Glossary of LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Metrics
+&lt;div id="machine-learning-metrics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-metrics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Machine Learning projects whether classical machine learning, deep learning, computer vision, speech processing, NLP, or any other ML project we keep building different models with different datasets. But how to know that for a particular problem model X is the best one? For that, we need to evaluate these models against certain metrics. What metrics we pick, depends upon the problem statement, data imbalance, type of data, etc. In this article, we will explore an exhaustive list of ML Metrics.&lt;/p></description></item><item><title>Linear Regression Interview Questions</title><link>https://dasarpai.github.io/dsblog/linear-regression-interview-questions/</link><pubDate>Sat, 07 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/linear-regression-interview-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg" alt="Prompt Engineering for GPT4" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Linear Regression Interview Questions and Answers
+&lt;div id="linear-regression-interview-questions-and-answers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#linear-regression-interview-questions-and-answers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>In this question-answer article, I will try that the start of every answer from example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.&lt;/p>&lt;/blockquote>
+&lt;h2 class="relative group">Question 1: What is linear regression? What is the difference between simple linear regression and multiple linear regression?
+&lt;div id="question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Linear regression is a statistical method used to model the linear relationship between a dependent variable and one or more independent variables. It is used to predict the value of the dependent variable based on the values of the independent variables.&lt;/p></description></item><item><title>Machine Learning Tasks and Model Evaluation</title><link>https://dasarpai.github.io/dsblog/ml-tasks-and-model-evaluation/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-tasks-and-model-evaluation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg" alt="Deep Learning Tasks and Models" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Tasks and Model Evaluation
+&lt;div id="machine-learning-tasks-and-model-evaluation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-tasks-and-model-evaluation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subject where we study how to create &amp;amp; evaluate machine learning models. To create these models, we need different types of data. We build models which can help us do various kinds of tasks. There are hundreds of model building techniques and researchers keep adding new techniques, and architectures as when need arises. But, the question is how do you evaluate these models which are output of the model trainings? To evaluate the performance of a model on structured data, or classification/regression/clustering models, we require one kind of metrics. But this becomes complicated when we are dealing with voice, text and audio data. How do you evaluate ten models which are responsible for translation, or locating an object in the image, transcribing voice into text, captioning an image? To solve this problem, standard databases are created and everyone needs to demonstrate the performance of their model, architecture, or approach against that dataset. But, even if you have a baseline dataset, how will you evaluate various NLP or deep learning tasks? For that GLUE, SuperGLUE benchmarks are created.&lt;/p></description></item></channel></rss>

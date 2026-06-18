@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on</title><link>https://dasarpai.github.io/categories/hugo/</link><description>Recent content in Hugo on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Step-by-Step Guide to Creating a Hugo Website</title><link>https://dasarpai.github.io/dsblog/step-by-step-guide-creating-hugo-website/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/step-by-step-guide-creating-hugo-website/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6275-step-by-step-guide-creating-hugo-website.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Building a Website from Any Hugo Template
+&lt;div id="building-a-website-from-any-hugo-template" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-a-website-from-any-hugo-template" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Creating a website with Hugo can be simple — but using themes like &lt;strong>Docsy&lt;/strong>, &lt;strong>Blowfish&lt;/strong>, or &lt;strong>PaperMod&lt;/strong> often adds complexity due to things like modular configuration, asset pipelines, and Tailwind or PostCSS integrations. This article walks you through everything you need to get started using any Hugo theme, with &lt;strong>Docsy&lt;/strong> as the working example.&lt;/p></description></item></channel></rss>

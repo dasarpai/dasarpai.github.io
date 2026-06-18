@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web Services on</title><link>https://dasarpai.github.io/tags/web-services/</link><description>Recent content in Web Services on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/web-services/index.xml" rel="self" type="application/rss+xml"/><item><title>REST API</title><link>https://dasarpai.github.io/dsblog/rest-api/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rest-api/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6121-REST-API.jpg" alt="REST-API" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">REST API
+&lt;div id="rest-api" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#rest-api" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>An API (Application Programming Interface) is a set of rules and protocols that allows one software application to interact with another. It defines the methods and data formats that applications can use to communicate with each other, enabling them to request and exchange information.&lt;/p>
+&lt;p>Here are some key aspects of an API:&lt;/p></description></item><item><title>Python APIs for Data</title><link>https://dasarpai.github.io/dsblog/python-apis-for-data/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-apis-for-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg" alt="Python APIs for Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python APIs for Data
+&lt;div id="python-apis-for-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-apis-for-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://www.bing.com/" target="_blank">Bing&lt;/a> Bing is a search engine that brings together the best of search and people in your social networks to help you spend less time searching and more time doing.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.bing.com/dev/en-us/dev-center" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/pybing/" target="_blank">Python wrapper for the Bing search API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="http://www.bitly.com/" target="_blank">Bitly&lt;/a> URL shortening and bookmarking service&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://dev.bitly.com/get_started.html" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/python-bitly/" target="_blank">Python wrapper around the bit.ly API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://blogger.com/" target="_blank">Blogger&lt;/a> Blog-publishing service&lt;/p></description></item></channel></rss>

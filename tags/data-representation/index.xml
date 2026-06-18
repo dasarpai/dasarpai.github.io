@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Representation on</title><link>https://dasarpai.github.io/tags/data-representation/</link><description>Recent content in Data Representation on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-representation/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics of Word Embedding</title><link>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg" alt="Basics of Word Embedding" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Basics of Word Embedding
+&lt;div id="basics-of-word-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-word-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Context, target and window?
+&lt;div id="what-is-context-target-and-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-context-target-and-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li>
+&lt;li>The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li>
+&lt;li>The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li>
+&lt;/ul>
+&lt;p>Let&amp;rsquo;s take a sentence&lt;/p></description></item></channel></rss>

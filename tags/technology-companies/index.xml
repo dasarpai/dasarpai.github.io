@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology Companies on</title><link>https://dasarpai.github.io/tags/technology-companies/</link><description>Recent content in Technology Companies on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/technology-companies/index.xml" rel="self" type="application/rss+xml"/><item><title>Serverless LLM Deployment Platform</title><link>https://dasarpai.github.io/dsblog/serverless-llm-deployment/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/serverless-llm-deployment/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg" alt="Serverless-LLM-Deployment" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Serverless LLM Deployment Platform
+&lt;div id="serverless-llm-deployment-platform" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#serverless-llm-deployment-platform" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Microsoft&amp;rsquo;s Serverless LLM Deployment Platform&lt;/strong>
+&lt;div id="microsoft" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#microsoft" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">&lt;strong>Azure OpenAI Service&lt;/strong>
+&lt;div id="azure-openai-service" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#azure-openai-service" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>&lt;strong>Azure OpenAI Service&lt;/strong> is Microsoft&amp;rsquo;s answer to serverless LLM deployment. It provides access to powerful language models, including OpenAI&amp;rsquo;s GPT-4, GPT-3.5, Codex, and DALL-E, within the Azure ecosystem. It simplifies the process of integrating and deploying LLMs in a serverless manner.&lt;/p></description></item><item><title>Exploring Ollama &amp; LM Studio</title><link>https://dasarpai.github.io/dsblog/exploring-ollama/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-ollama/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6143-Exploring-Ollama.jpg" alt="Exploring Ollama &amp;amp; LM Studio" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Ollama &amp;amp; LM Studio
+&lt;div id="exploring-ollama--lm-studio" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-ollama--lm-studio" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answers to the following questions, then this article is for you:&lt;/p>
+&lt;ul>
+&lt;li>Question: What is Ollama? Is it like Docker?&lt;/li>
+&lt;li>Question: How is Ollama different from Docker?&lt;/li>
+&lt;li>Question: How to install ollama on my machine?&lt;/li>
+&lt;li>Question: How to create customized LLM Model (docker like image)?&lt;/li>
+&lt;li>Question: What are the LLM available on ollama?&lt;/li>
+&lt;li>Question: Can we integrate these hundreds with different UI like ChatGPT?&lt;/li>
+&lt;li>Question: If I want to use all these Ollama models via Jupyter Notebook then what to do?&lt;/li>
+&lt;li>Question: Does Ollama have plugins like github copilot? Can I use those from my visual code?&lt;/li>
+&lt;li>Question: What kind of software are LM Studio or Ollama?&lt;/li>
+&lt;li>Question: What is LM Studio and how different it is from Ollama?&lt;/li>
+&lt;li>Question: What are different formats to save model, specifically LLMs?&lt;/li>
+&lt;li>Question: What is gguf model extention?&lt;/li>
+&lt;li>Question: If I have finetuned my models using clouds like aws sagemaker, vertexai, azure and kept there then can I use them inside my ollama and LM Studio?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Question: What is Ollama? Is it like Docker?
+&lt;div id="question-what-is-ollama-is-it-like-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-what-is-ollama-is-it-like-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Ollama is a platform designed to make running and interacting with large language models (LLMs) easier. It abstracts away the complexities of managing LLM models, GPU resources, and related configurations by offering a simple CLI interface. With Ollama, you can run, manage, and deploy LLMs locally or in various cloud environments without having to worry about the intricate details of setting up environments, downloading models, or configuring them.&lt;/p></description></item></channel></rss>

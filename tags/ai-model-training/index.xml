@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Model Training on</title><link>https://dasarpai.github.io/tags/ai-model-training/</link><description>Recent content in AI Model Training on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-model-training/index.xml" rel="self" type="application/rss+xml"/><item><title>LLM Architecture and Training</title><link>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg" alt="LLM-Architecture-and-Training" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Understanding LLM Architectures and Model Training&lt;/strong>
+&lt;div id="understanding-llm-architectures-and-model-training" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-architectures-and-model-training" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Large Language Models (LLMs) are transforming the field of artificial intelligence by enabling machines to understand and generate human language with unprecedented accuracy. This article delves into the architecture, training methods, and practical applications of LLMs. We’ll explore the core components that make these models so powerful and explain how they are trained and fine-tuned for real-world use cases.&lt;/p></description></item><item><title>Why to Finetune LLM?</title><link>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</link><pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/why-to-finetune-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg" alt="Why to Finetune LLM?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Finetuning, Fewshot Learning, Why and How?
+&lt;div id="finetuning-fewshot-learning-why-and-how" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#finetuning-fewshot-learning-why-and-how" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why to finetune a LLM?
+&lt;div id="why-to-finetune-a-llm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-to-finetune-a-llm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Fine-tuning a large language model (LLM) can provide several benefits, depending on your specific needs and objectives. Here are some key reasons to consider fine-tuning an LLM:&lt;/p></description></item><item><title>Stanford Alpaca</title><link>https://dasarpai.github.io/dsblog/stanford-alpaca/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/stanford-alpaca/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg" alt="Stanford-Alpaca" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Stanford Alpaca
+&lt;div id="stanford-alpaca" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#stanford-alpaca" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/tatsu-lab/stanford_alpaca" target="_blank">Stanford Alpaca Github Report&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Stanford Alpaca is An &amp;ldquo;Instruction-following&amp;rdquo; LLaMA Model&lt;/li>
+&lt;li>This is the repo aims to build and share an instruction-following LLaMA model. The repo contains:
+&lt;ul>
+&lt;li>The 52K &lt;a href="https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/alpaca_data.json" target="_blank">instruction-following data&lt;/a> used for fine-tuning the model.&lt;/li>
+&lt;li>The code for generating the data.&lt;/li>
+&lt;li>The code for fine-tuning the model.&lt;/li>
+&lt;li>The code for recovering Alpaca-7B weights from our released weight diff.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Overview
+&lt;div id="overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The current &amp;ldquo;Alpaca 7B model&amp;rdquo; is fine-tuned from a &amp;ldquo;7B LLaMA&amp;rdquo; model on 52K instruction-following data generated by the techniques in the Self-Instruct paper.&lt;/li>
+&lt;li>Alpaca 7B model behaves similarly to the text-davinci-003 model on the Self-Instruct instruction-following evaluation suite.&lt;/li>
+&lt;li>Alpaca is still under development, and there are many limitations that have to be addressed.&lt;/li>
+&lt;li>Alphaca is not yet fine-tuned to be safe and harmless.&lt;/li>
+&lt;li>Initial release contains the data generation procedure, dataset, and training recipe.&lt;/li>
+&lt;li>Model weights can be released if the creators of LLaMA gives permission.&lt;/li>
+&lt;li>Live demo to help readers better understand the capabilities and limits of Alpaca is available.&lt;/li>
+&lt;li>Based on followin papers:
+&lt;ul>
+&lt;li>LLaMA: Open and Efficient Foundation Language Models. &lt;a href="https://arxiv.org/abs/2302.13971v1" target="_blank">Hugo2023&lt;/a>&lt;/li>
+&lt;li>Self-Instruct: Aligning Language Model with Self Generated Instructions. &lt;a href="https://arxiv.org/abs/2212.10560" target="_blank">Yizhong2022&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Data Release
+&lt;ul>
+&lt;li>alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model. This JSON file is a list of dictionaries, each dictionary contains the following fields: Instruction, input, output (text-davinci-003 geneated answer).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Highlevel Activities of the Alpaca Project
+&lt;div id="highlevel-activities-of-the-alpaca-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#highlevel-activities-of-the-alpaca-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Highlevel Actitivies done by Stanford Alpaca team and Project Output&lt;/p></description></item><item><title>Cost Functions and Optimizers in Machine Learning</title><link>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg" alt="Cost-Functions-and-Optimizers-in-Machine-Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cost-Functions-and-Optimizers-in-Machine-Learning
+&lt;div id="cost-functions-and-optimizers-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cost-functions-and-optimizers-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is machine learning?
+&lt;div id="what-is-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subfield of artificial intelligence that focuses on the &lt;strong>development of algorithms and statistical models&lt;/strong> that enable computers to improve their performance on a specific task through experience.&lt;/p>
+&lt;p>In machine learning, the goal is to develop models that can &lt;strong>automatically learn patterns and relationships in data, and use that knowledge to make predictions or take actions&lt;/strong>. The models are trained on a large dataset, and the learning process involves &lt;strong>optimizing the parameters of the model to minimize the prediction error&lt;/strong>. For this purpose every algorithms uses some &lt;strong>cost function or loss function&lt;/strong>.&lt;/p></description></item><item><title>Introduction to Neural Network</title><link>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg" alt="Introduction to Neural Network" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Neural Network
+&lt;div id="introduction-to-neural-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-neural-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to a Perceptron
+&lt;div id="introduction-to-a-perceptron" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-a-perceptron" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Static Site Generator on</title><link>https://dasarpai.github.io/tags/static-site-generator/</link><description>Recent content in Static Site Generator on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Hugo Framework - Part 2: Advanced Implementations</title><link>https://dasarpai.github.io/dsblog/exploring-hugo-framework-part2/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-hugo-framework-part2/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6272-exploring-hugo-framework-part2.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Hugo Framework - Part 2
+&lt;div id="exploring-hugo-framework---part-2" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-hugo-framework---part-2" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you&amp;rsquo;re looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is &lt;a href="https://dasarpai.github.io/dsblog/exploring-go-hugo-framework-part1">here&lt;/a>. Together, they will give you a solid understanding of the entire ecosystem. Even if you&amp;rsquo;re new to website development, you&amp;rsquo;ll gain clarity on how the various components work. At the very least, you&amp;rsquo;ll come away with a valuable set of questions to ask AI during your own implementation.&lt;/p></description></item><item><title>Exploring go Hugo Framework for SSG</title><link>https://dasarpai.github.io/dsblog/exploring-go-hugo-framework-part1/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-go-hugo-framework-part1/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6270-exploring-go-hugo-framework-part1.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring go Hugo Framework for SSG (Part 1)
+&lt;div id="exploring-go-hugo-framework-for-ssg-part-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-go-hugo-framework-for-ssg-part-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Hugo is a fast and flexible open-source static site generator written in Go, designed to help developers build modern websites quickly without relying on databases or heavy server-side frameworks. It uses simple Markdown files for content, supports powerful templating and theming systems, and can generate entire websites in milliseconds. With features like built-in live reload, content organization, internationalization, and Hugo Modules for reusable components, it&amp;rsquo;s ideal for blogs, documentation sites, portfolios, and even complex multi-language websites. Hugo integrates easily with platforms like GitHub Pages and Netlify, making it a popular choice for developers seeking performance, simplicity, and portability in their web projects.&lt;/p></description></item></channel></rss>

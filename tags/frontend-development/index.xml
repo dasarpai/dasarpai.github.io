@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frontend Development on</title><link>https://dasarpai.github.io/tags/frontend-development/</link><description>Recent content in Frontend Development on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/frontend-development/index.xml" rel="self" type="application/rss+xml"/><item><title>High-Level View of HTML CSS JavaScript</title><link>https://dasarpai.github.io/dsblog/high-level-view-of-html-css-javascript/</link><pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/high-level-view-of-html-css-javascript/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6281-high-level-view-of-html-css-javascript.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">High-Level View of HTML CSS JavaScript
+&lt;div id="high-level-view-of-html-css-javascript" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#high-level-view-of-html-css-javascript" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>HTML, CSS, and JavaScript are the three core pillars that form the foundation of every website or web application. Think of them as the vital systems—structure, style, and behavior—that breathe life into the digital body we call a webpage. Over the years, these technologies have evolved dramatically, expanding the possibilities for what can be built on the web.&lt;/p></description></item><item><title>Exploring Reactjs Library</title><link>https://dasarpai.github.io/dsblog/exploring-reactjs-library/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-reactjs-library/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6241-Exploring-Reactjs-Library.jpg" alt="React Logo" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Why this another article around React?
+&lt;div id="why-this-another-article-around-react" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-this-another-article-around-react" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There is no dearth of React tutorial and guide on the internet then why this article?&lt;/p>
+&lt;p>The learning process can be quite diverse, and people come from different backgrounds and experiences. Some may prefer a more structured approach, while others may enjoy exploring concepts through Q&amp;amp;A formats. This article aims to provide a concise introduction to React.js, also known as React, by exploring the most common questions people have about this popular JavaScript library. Whether you&amp;rsquo;re a beginner looking to learn the basics or an experienced developer wanting to know more about React, this article should provide you with a solid foundation.&lt;/p></description></item><item><title>Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding</title><link>https://dasarpai.github.io/dsblog/exploring-possibilities-with-css/</link><pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-possibilities-with-css/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg" alt="Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Advance CSS Coding
+&lt;div id="exploring-advance-css-coding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-advance-css-coding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>HTML give the structure to any website, it is like bone strucutre of the body. But the CSS makes it colorful, give some life imitation ability and make it beautiful, it is like flesh and skin on the bone which makes body alive and beautiful. This tutorial should give you a solid foundation in advanced CSS techniques. Keep practicing, with AI driven coding tools you need not memorize the syntext but you should understand what is possible so that you can imagine how you can use it for you project.&lt;/p></description></item><item><title>Navigating Python Ecosystem</title><link>https://dasarpai.github.io/dsblog/navigating-python-ecosystem/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-python-ecosystem/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg" alt="Navigating Python Ecosystem" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating Python Ecosystem
+&lt;div id="navigating-python-ecosystem" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-python-ecosystem" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">1. &lt;strong>History of Python Development&lt;/strong>
+&lt;div id="1-history-of-python-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-history-of-python-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Python was created by &lt;strong>Guido van Rossum&lt;/strong> and was first released in 1991. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code compared to other languages like C++ or Java. Significant milestones in Python’s development include:&lt;/p></description></item><item><title>Processors for HTML CSS JS Code</title><link>https://dasarpai.github.io/dsblog/processors-for-html-css-js-code/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/processors-for-html-css-js-code/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg" alt="Processors for HTML CSS JS Code" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Processors for HTML, CSS, and JS Code
+&lt;div id="processors-for-html-css-and-js-code" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#processors-for-html-css-and-js-code" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are HTML Processors?
+&lt;div id="what-are-html-processors" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-html-processors" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>HTML processors (or preprocessors) extend HTML functionality by adding new features like templating, reusable components, loops, conditionals, and more. They simplify development by generating standard HTML with enhanced capabilities. Below are some of the most popular HTML processors and what they do:&lt;/p></description></item><item><title>Understanding HTML Templating with Python, Ruby, and PHP</title><link>https://dasarpai.github.io/dsblog/understanding-html-templating-with-python-ruby-php/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-html-templating-with-python-ruby-php/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg" alt="Understanding HTML Templating with Python, Ruby, and PHP" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding HTML Templating with Python, Ruby, and PHP
+&lt;div id="understanding-html-templating-with-python-ruby-and-php" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-html-templating-with-python-ruby-and-php" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is HTML Templating?
+&lt;div id="what-is-html-templating" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-html-templating" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This concept is widely used across different frameworks and languages to build dynamic, server-rendered web applications.&lt;/p>
+&lt;p>The concept of mixing a programming or scripting language with HTML is commonly referred to as &lt;strong>&amp;ldquo;Server-Side Templating&amp;rdquo;&lt;/strong> or &lt;strong>&amp;ldquo;Embedding Server-Side Code in HTML&amp;rdquo;&lt;/strong>. This approach allows dynamic generation of web pages by combining HTML (for structure and presentation) with server-side logic (like PHP, Python, Ruby, etc.) to create dynamic content.&lt;/p></description></item></channel></rss>

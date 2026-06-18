@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ruby on</title><link>https://dasarpai.github.io/tags/ruby/</link><description>Recent content in Ruby on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding HTML Templating with Python, Ruby, and PHP</title><link>https://dasarpai.github.io/dsblog/understanding-html-templating-with-python-ruby-php/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-html-templating-with-python-ruby-php/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg" alt="Understanding HTML Templating with Python, Ruby, and PHP" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding HTML Templating with Python, Ruby, and PHP
+&lt;div id="understanding-html-templating-with-python-ruby-and-php" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-html-templating-with-python-ruby-and-php" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is HTML Templating?
+&lt;div id="what-is-html-templating" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-html-templating" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This concept is widely used across different frameworks and languages to build dynamic, server-rendered web applications.&lt;/p>
+&lt;p>The concept of mixing a programming or scripting language with HTML is commonly referred to as &lt;strong>&amp;ldquo;Server-Side Templating&amp;rdquo;&lt;/strong> or &lt;strong>&amp;ldquo;Embedding Server-Side Code in HTML&amp;rdquo;&lt;/strong>. This approach allows dynamic generation of web pages by combining HTML (for structure and presentation) with server-side logic (like PHP, Python, Ruby, etc.) to create dynamic content.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>File Management on</title><link>https://dasarpai.github.io/tags/file-management/</link><description>Recent content in File Management on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/file-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Decoding Windows User Folder</title><link>https://dasarpai.github.io/dsblog/decoding-windows-user-folder/</link><pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/decoding-windows-user-folder/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg" alt="Decoding-Windows-User-Folder" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Decoding Windows User Folder
+&lt;div id="decoding-windows-user-folder" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#decoding-windows-user-folder" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">My machine c:\users folder has 3 users Detault, harip, public. What is the purpose of these 3 users?
+&lt;div id="my-machine-cusers-folder-has-3-users-detault-harip-public-what-is-the-purpose-of-these-3-users" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#my-machine-cusers-folder-has-3-users-detault-harip-public-what-is-the-purpose-of-these-3-users" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The &lt;code>C:\Users&lt;/code> folder on a Windows machine contains subfolders for each user profile on the system. Here&amp;rsquo;s an explanation of the purpose of the three users you mentioned: &lt;code>Default&lt;/code>, &lt;code>hari&lt;/code>, and &lt;code>Public&lt;/code>.&lt;/p></description></item><item><title>Folder Structure for ML Project</title><link>https://dasarpai.github.io/dsblog/folder-structure-for-ml-project/</link><pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/folder-structure-for-ml-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg" alt="Configuration Management" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Directory Structure for ML Project&lt;/strong> is critical for any serious data science project. What we learn from a technology college and institution is useful in a real-world business, but the problem is that environment is completely different, and it takes proper guidance to adapt to a real business environment. Many times traveling on this path is full of frustration without any proper guidance. Sometimes guidance is there, but it is like blind is leading blind. One has already navigated a lot with struggle, so she/he is trying to guide a new person. Data-science education is not any different from this. From universities and institutions, we learn many concepts, algorithms, art, and science of developing models, etc. but when our customer or management tells us a problem with a simplistic dataset then we don’t know how to proceed. Although there are many templates and frameworks to approach, yet there is no simple cookie-cutter solution for all kinds of problems. Depending upon project duration, resources (human + machine + software), client, and his/her need, the technology available at hand we can choose different approaches.&lt;/p></description></item></channel></rss>

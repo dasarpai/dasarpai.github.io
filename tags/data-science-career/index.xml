@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Science Career on</title><link>https://dasarpai.github.io/tags/data-science-career/</link><description>Recent content in Data Science Career on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 08 Jan 2023 15:50:00 +0530</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-science-career/index.xml" rel="self" type="application/rss+xml"/><item><title>Timeseries Interview Questions</title><link>https://dasarpai.github.io/dsblog/timeseries-interview-questions/</link><pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/timeseries-interview-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg" alt="Timeseries Interview Questions" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Timeseries Interview Questions
+&lt;div id="timeseries-interview-questions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#timeseries-interview-questions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the characterstics of time series data?
+&lt;div id="what-are-the-characterstics-of-time-series-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-characterstics-of-time-series-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Time series data is a series of data points collected over time. Some characteristics of time series data include:&lt;/p>
+&lt;ul>
+&lt;li>Time dependence: Time series data is typically collected at regular time intervals, and the values of the time series are often dependent on the time at which they were collected.&lt;/li>
+&lt;li>Equal duration gap between samples/ records&lt;/li>
+&lt;li>No missing record in between&lt;/li>
+&lt;li>Trend: Many time series exhibit a long-term trend, either upward or downward. This trend may be influenced by a variety of factors such as economic conditions, population growth, or technological changes.&lt;/li>
+&lt;li>Seasonality: Many time series exhibit regular fluctuations due to seasonal factors such as weather, holidays, or other events. For example, retail sales may be higher in the months leading up to Christmas due to holiday shopping.&lt;/li>
+&lt;li>Cyclicity: Time series may exhibit cyclical pattern. Like sales is highest in month start, body temprature is high at 6am, traffic is least on weekends etc.&lt;/li>
+&lt;li>Noise: Time series data may also be affected by random noise or error, which can make it difficult to accurately forecast future values.&lt;/li>
+&lt;li>Autocorrelation: Time series data may exhibit autocorrelation, which is the phenomenon of a value at a particular time being correlated with values at nearby times. This can make it challenging to model the time series, as the value at a given time may depend on the values at nearby times.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">Example of time series data
+&lt;div id="example-of-time-series-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#example-of-time-series-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Sales (y)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020-01-01&lt;/td>
+&lt;td>1000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-02-01&lt;/td>
+&lt;td>1100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-03-01&lt;/td>
+&lt;td>1200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-04-01&lt;/td>
+&lt;td>1100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-05-01&lt;/td>
+&lt;td>1000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-06-01&lt;/td>
+&lt;td>900&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-07-01&lt;/td>
+&lt;td>1200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-08-01&lt;/td>
+&lt;td>1400&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-09-01&lt;/td>
+&lt;td>1300&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-10-01&lt;/td>
+&lt;td>1500&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>This first column can be date or date or datetime. Interval between two rows must be equal. The unit of date or time or datetime may be milliosecond, or second, or minute, or hour, or day, week, month, quarter, year or dacade. This should be continuous without any gap.&lt;/p></description></item><item><title>Statistics Interview Question for Data Scientist</title><link>https://dasarpai.github.io/dsblog/statistics-interview-question-for-data-scientist/</link><pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/statistics-interview-question-for-data-scientist/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg" alt="Statistics Interview Question for Data Scientist" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Statistics Interview Question for Data Scientist
+&lt;div id="statistics-interview-question-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#statistics-interview-question-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>In this question-answer blog, I will try to answer that every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.&lt;/p></description></item><item><title>Data Science Interview Question Answers</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg" alt="Data Science Interview Question Answers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Data Science Interview Question Answers
+&lt;div id="data-science-interview-question-answers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-science-interview-question-answers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python &amp;amp; Statistics. These questions are related to technology, architectures and solving business problem. &lt;a href="https://drive.google.com/drive/folders/1O9DcVhE5r0lBPpZd8bFjaA0FqPv94Vbm?usp=sharing" target="_blank">This gdrive link&lt;/a> has 51 pdf files which contains the questions and answers.&lt;/p></description></item></channel></rss>

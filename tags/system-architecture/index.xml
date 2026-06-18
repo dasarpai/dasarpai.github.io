@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>System Architecture on</title><link>https://dasarpai.github.io/tags/system-architecture/</link><description>Recent content in System Architecture on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/system-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux OS Directories</title><link>https://dasarpai.github.io/dsblog/linux-os-directories/</link><pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/linux-os-directories/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6055-Linux-OS-Directories.jpg" alt="Linux OS Directories" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Linux OS Directories
+&lt;div id="linux-os-directories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#linux-os-directories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Linux OS Folders and the purpose.&lt;/strong>&lt;/p>
+&lt;h2 class="relative group">Introduction:
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Linux is a widely used operating system that is known for its flexibility and versatility. One of the unique features of Linux is its file system hierarchy, which is organized into a many directories that serve specific purposes. Folder structure of Unix OS and all distributions of Linux is same. Each directory has its own set of files and subdirectories that are used to manage various aspects of the operating system and data folders.&lt;/p></description></item></channel></rss>

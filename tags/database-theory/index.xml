@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Database Theory on</title><link>https://dasarpai.github.io/tags/database-theory/</link><description>Recent content in Database Theory on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/database-theory/index.xml" rel="self" type="application/rss+xml"/><item><title>SQL and Relational Algebra</title><link>https://dasarpai.github.io/dsblog/relational-algebra/</link><pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/relational-algebra/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6084-Relational-Algebra.jpg" alt="Relational Algebra" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">SQL and Relational Algebra
+&lt;div id="sql-and-relational-algebra" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sql-and-relational-algebra" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Relational algebra (RA) is considered as a procedural query language where the user tells the system to carry out a set of operations to obtain the desired results. i.e. The user tells what data should be retrieved from the database and how to retrieve it.&lt;/p>
+&lt;p>Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL, SQLite SQL, DB2 SQL, MariaDB SQL, FireBird SQL, PSQL, ANSI SQL commands in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.&lt;/p></description></item></channel></rss>

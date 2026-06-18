@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning Resources on</title><link>https://dasarpai.github.io/tags/machine-learning-resources/</link><description>Recent content in Machine Learning Resources on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/machine-learning-resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Science Cheatsheets</title><link>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg" alt="Data Science Cheatsheets" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Data Science Cheatsheets
+&lt;div id="data-science-cheatsheets" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#data-science-cheatsheets" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>All these cheat sheets are kept at &lt;a href="https://drive.google.com/drive/folders/1dCHf52OYqbB17rXzJODYiBnM8JNneb2_?usp=sharing" target="_blank">my google drive link&lt;/a>. 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.&lt;/p>
+&lt;h2 class="relative group">List of Cheatsheets
+&lt;div id="list-of-cheatsheets" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#list-of-cheatsheets" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>21 Types of SQL joins-CHEATSHEET.pdf&lt;/li>
+&lt;li>5W1H-DataScience-CHEATSHEET.jpg&lt;/li>
+&lt;li>Acceptance Criteria Checklist.pdf&lt;/li>
+&lt;li>Activation Functions-CHEATSHEET.jpg&lt;/li>
+&lt;li>Advanced R-CHEATSHEET.pdf&lt;/li>
+&lt;li>AI4All-CHEATSHEET.pdf&lt;/li>
+&lt;li>AI-Cheatsheet+NN+ML+DL+BD.pdf&lt;/li>
+&lt;li>AIML_Fundamental-CHEATSHEET.jpg&lt;/li>
+&lt;li>AIML-CHEATSHEET.pdf&lt;/li>
+&lt;li>AI-ML-DS Cheatsheets .pdf&lt;/li>
+&lt;li>AI-NeuralNetworks.pdf&lt;/li>
+&lt;li>All in One Mathematics Cheatsheet.pdf&lt;/li>
+&lt;li>An Introduction to Convolutional Neural Networks-CHEATSHEET.pdf&lt;/li>
+&lt;li>Artificial Intelligence _ Super VIP Cheatsheet.pdf&lt;/li>
+&lt;li>Azure-CHEATSHEET.pdf&lt;/li>
+&lt;li>Beginners Python-CHEATSHEET.pdf&lt;/li>
+&lt;li>Behavioral Interview-CHEATSHEET.pdf&lt;/li>
+&lt;li>Best_Machine_Learning_Algorithms-CHEATSHEET.jpg&lt;/li>
+&lt;li>BI versus DS-CHEATSHEET.jpg&lt;/li>
+&lt;li>Bias-Variance-Tradeoff-Cheatsheet.pdf&lt;/li>
+&lt;li>Big Data Hadoop+Mapreduce-CHEATSHEET.pdf&lt;/li>
+&lt;li>Big Data-Hadoop-CHEATSHEET.pdf&lt;/li>
+&lt;li>Bigdata-Hadoop-hdfs-commands-CHEATSHEET.pdf&lt;/li>
+&lt;li>Bigdata-Hortonworks SQLtoHive-CHEATSHEET.pdf&lt;/li>
+&lt;li>Bigdata-Pig-CHEATSHEET.pdf&lt;/li>
+&lt;li>BrainMapping-CHEATSHEET.jpg&lt;/li>
+&lt;li>Calculus Cheat Sheet.pdf&lt;/li>
+&lt;li>CalculusA_All-CHEATSHEET.pdf&lt;/li>
+&lt;li>CalculusB_All-CHEATSHEET.pdf&lt;/li>
+&lt;li>Chart-Suggestion-CHEATSHEET.pdf&lt;/li>
+&lt;li>Cloud Comparison AWS AZURE GCP-CHEATSHEET.pdf&lt;/li>
+&lt;li>Cloud Computing Cheatsheet .pdf&lt;/li>
+&lt;li>Combined Cheat Sheets of ML+DL Probability and LLMs-Cheatsheet.pdf&lt;/li>
+&lt;li>Complete Collection of Data Science Cheatsheets.pdf&lt;/li>
+&lt;li>Comprehensive Python -CHEATSHEET.pdf&lt;/li>
+&lt;li>Computing Neural Network Gradients-CHEATSHEET.pdf&lt;/li>
+&lt;li>CS229 - Machine Learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>Dask-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Engineering _ Analytics Use Case Architecture on AWS-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Engineering Cookbook-GUIDE.pdf&lt;/li>
+&lt;li>Data Science -CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Science -Data Prep with SQL -Quick Reference-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Science Regular Python Expressions-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Science with Python Workflow-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Visualization with ggplot2-CHEATSHEET.jpg&lt;/li>
+&lt;li>Data VisualizationA-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data Wrangling with Pandas-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data_engineering_infographic-CHEATSHEET.pdf&lt;/li>
+&lt;li>Data_Wrangling_with_dplyr_and_tidyr-RStudio-CHEATSHEET.jpg&lt;/li>
+&lt;li>DataScience1-CHEATSHEET.jpg&lt;/li>
+&lt;li>DataScience2-CHEATSHEET.jpg&lt;/li>
+&lt;li>DataScience3-CHEATSHEET.jpg&lt;/li>
+&lt;li>DataScience4-CHEATSHEET.jpg&lt;/li>
+&lt;li>DataScience-Cheatsheet.pdf&lt;/li>
+&lt;li>Deep Learning Course Notes-Coursera-CHEATSHEET.pdf&lt;/li>
+&lt;li>Deep Learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>Deep_Learning_Cheat_Sheet-Hacker Noon-CHEATSHEET.pdf&lt;/li>
+&lt;li>Deeplearning-Definitions-CHEATSHEET.png&lt;/li>
+&lt;li>Docker-Cheatsheet-2016.pdf&lt;/li>
+&lt;li>Docker-The Ultimate CHEATSHEET.pdf&lt;/li>
+&lt;li>Ensemble Learning-CHEATSHEET.jpg&lt;/li>
+&lt;li>Financial Formulas-CHEATSHEET.pdf&lt;/li>
+&lt;li>ggplot2&amp;ndash;CHEATSHEET.jpg&lt;/li>
+&lt;li>GitA-CHEATSHEET.png&lt;/li>
+&lt;li>Git-atlassian-CHEATSHEET.pdf&lt;/li>
+&lt;li>GitB-CHEATSHEET.pdf&lt;/li>
+&lt;li>GitC-CHEATSHEET.pdf&lt;/li>
+&lt;li>Google-Data Engineering CheatSheet.pdf&lt;/li>
+&lt;li>Google-Data-Engineering-Cheatsheets.pdf&lt;/li>
+&lt;li>Graph4NLP-CHEATSHEET.jpg&lt;/li>
+&lt;li>Graphics-Principles-CHEATSHEET.pdf&lt;/li>
+&lt;li>Great Python Cheatsheet by Dummies-CHEATSHEET.pdf&lt;/li>
+&lt;li>Handling Data Imbalance-CHEATSHEET.jpg&lt;/li>
+&lt;li>Keras-CHEATSHEET.jpg&lt;/li>
+&lt;li>Liner_Algebra-in-4Pages-CHEATSHEET.pdf&lt;/li>
+&lt;li>LinkedIn-CHEATSHEET.pdf&lt;/li>
+&lt;li>LinkedInGuide-Ultimate-Cheatsheet.pdf&lt;/li>
+&lt;li>Machine learning algorithms with Python _ R code examples-CHEATSHEET.pdf&lt;/li>
+&lt;li>Machine Learning Algorithms-CHEATSHEET.jpg&lt;/li>
+&lt;li>Machine Learning Algorithms-CHEATSHEET.pdf&lt;/li>
+&lt;li>Machine Learning Best Practices-CHEATSHEET.pdf&lt;/li>
+&lt;li>Machine Learning Interview-CHEATSHEET.pdf&lt;/li>
+&lt;li>Machine Learning_Data Science Interview Cheatsheets-InterviewQ.pdf&lt;/li>
+&lt;li>Machine Learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>Machine-Learnign-Cheatsheet.pdf&lt;/li>
+&lt;li>Machine-Learning1-CHEATSHEET.pdf&lt;/li>
+&lt;li>Machine-Learning-Algorithm&amp;ndash;CHEATSHEET.svg&lt;/li>
+&lt;li>Machine-learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>Matplotlib-CHEATSHEET.png&lt;/li>
+&lt;li>Merlion timeseries library-CHEATSHEET.pdf&lt;/li>
+&lt;li>Metrics and more-CHEATSHEET.pdf&lt;/li>
+&lt;li>Microservices-Cheatsheet.pdf&lt;/li>
+&lt;li>Microsoft-Machine-Learning-Algorithm&amp;ndash;CHEATSHEET.pdf&lt;/li>
+&lt;li>Microsoft-Office-Cheatsheets.pdf&lt;/li>
+&lt;li>ML Algorithm Learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>ML dataset-CHEATSHEET.pdf&lt;/li>
+&lt;li>ML-Algorithms-CHEATSHEET.pdf&lt;/li>
+&lt;li>MySql-CHEATSHEET.pdf&lt;/li>
+&lt;li>Nested Queries And Aggregation-CHEATSHEET.pdf&lt;/li>
+&lt;li>Neural Network Architecture Types-CHEATSHEET.png&lt;/li>
+&lt;li>Neural networks-CHEATSHEET.png&lt;/li>
+&lt;li>Neural_Network_Cells-CHEATSHEET.png&lt;/li>
+&lt;li>Neural_Network_Graphs-CHEATSHEET.png&lt;/li>
+&lt;li>Neural_Networks_Zoo-CHEATSHEET.png&lt;/li>
+&lt;li>NeuralNetwork-CHEATSHEET.png&lt;/li>
+&lt;li>NLP-CHEATSHEET.pdf&lt;/li>
+&lt;li>Numpy&lt;em>Python&lt;/em>-CHEATSHEET.pdf&lt;/li>
+&lt;li>NumpyA-CHEATSHEET.png&lt;/li>
+&lt;li>NumpyB-CHEATSHEET.pdf&lt;/li>
+&lt;li>NumpyC-CHEATSHEET.pdf&lt;/li>
+&lt;li>Open CV-CHEATSHEET.pdf&lt;/li>
+&lt;li>Pandas Data analysis-CHEATSHEET.pdf&lt;/li>
+&lt;li>Pandas Python-CHEATSHEET.pdf&lt;/li>
+&lt;li>Pandas_Cheatsheet-Pandas Basics-CHEATSHEET.pdf&lt;/li>
+&lt;li>Pandas1-CHEATSHEET.jpg&lt;/li>
+&lt;li>Pandas2-CHEATSHEET.jpg&lt;/li>
+&lt;li>Pandas-Basics-CHEATSHEET.png&lt;/li>
+&lt;li>Pandas-CHEATSHEET.pdf&lt;/li>
+&lt;li>PandasOne-CHEATSHEET.pdf&lt;/li>
+&lt;li>Postman Cheatsheet .pdf&lt;/li>
+&lt;li>Probability-CHEATSHEET.pdf&lt;/li>
+&lt;li>Pros Cons of commonly used machine learning algorithms-CHEATSHEET.pdf&lt;/li>
+&lt;li>PySpark Quick Reference Guide.pdf&lt;/li>
+&lt;li>PySpark-RDD-CHEATSHEET.png&lt;/li>
+&lt;li>PySpark-SQL-CHEATSHEET.png&lt;/li>
+&lt;li>Python BasicsA-CHEATSHEET.pdf&lt;/li>
+&lt;li>Python BasicsB-CHEATSHEET.pdf&lt;/li>
+&lt;li>Python Security Best Practices-CHEATSHEET.pdf&lt;/li>
+&lt;li>Python_CheatSheet-by-WebsiteSetup.pdf&lt;/li>
+&lt;li>Python_Matplotlib-CHEATSHEET.pdf&lt;/li>
+&lt;li>Python_SciPy_Linear_Algebra-CHEATSHEET.pdf&lt;/li>
+&lt;li>Python3A-CHEATSHEET.png&lt;/li>
+&lt;li>Python3B-CHEATSHEET.png&lt;/li>
+&lt;li>Python3C-CHEATSHEET.pdf&lt;/li>
+&lt;li>PythonA-CHEATSHEET.pdf&lt;/li>
+&lt;li>PythonB-CHEATSHEET.pdf&lt;/li>
+&lt;li>PythonC-CHEATSHEET.pdf&lt;/li>
+&lt;li>Python-CheatSheet.pdf&lt;/li>
+&lt;li>PythonD-CHEATSHEET.pdf&lt;/li>
+&lt;li>PythonD-CHEATSHEET.png&lt;/li>
+&lt;li>Python-for-DS-All-CHEATSHEET.pdf&lt;/li>
+&lt;li>Pytorch-CHEATSHEET.pdf&lt;/li>
+&lt;li>Quantitative Aptitude-CHEATSHEET.pdf&lt;/li>
+&lt;li>Query-Optimization-Techniques-SQL-CHEATSHEET.pdf&lt;/li>
+&lt;li>R programming cheatsheet.pdf&lt;/li>
+&lt;li>R Programming-CHEATSHEET.pdf&lt;/li>
+&lt;li>Reading and Writing Data with Pandas-CHEATSHEET.pdf&lt;/li>
+&lt;li>Regression-CHEATSHEET.pdf&lt;/li>
+&lt;li>Rest API Cheatsheet.pdf&lt;/li>
+&lt;li>Risk Assessment Example-CheatSheet.pdf&lt;/li>
+&lt;li>Roadmap of mathematics for Deep Learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>Scikit_Learn_Python-CHEATSHEET.pdf&lt;/li>
+&lt;li>Scikit_Learn-CHEATSHEET.png&lt;/li>
+&lt;li>Scikit-Learn1-CHEATSHEET.pdf&lt;/li>
+&lt;li>Seaborn-CHEATSHEET.png&lt;/li>
+&lt;li>Sklearn-Algo-CHEATSHEET.png&lt;/li>
+&lt;li>SQL &amp;amp; NoSQL-Cheatsheet.pdf&lt;/li>
+&lt;li>SQL API with Python-CHEATSHEET.pdf&lt;/li>
+&lt;li>SQL for MLI FAM-CHEATSHEET.pdf&lt;/li>
+&lt;li>SQL Window Functions.pdf&lt;/li>
+&lt;li>SQL-CHEATSHEET.jpg&lt;/li>
+&lt;li>Statistics Test Decision-CHEATSHEET.png&lt;/li>
+&lt;li>Statistics1-CHEATSHEET.pdf&lt;/li>
+&lt;li>Statistics2-CHEATSHEET.pdf&lt;/li>
+&lt;li>Statistics-A-Cheatsheet.pdf&lt;/li>
+&lt;li>Statistics-Cheatsheet.pdf&lt;/li>
+&lt;li>Statistics-Harvard-CHEATSHEET.pdf&lt;/li>
+&lt;li>Super VIP ML , DL , AI-CHEATSHEET.pdf&lt;/li>
+&lt;li>Super-VIP-Deep-learning-CHEATSHEET.pdf&lt;/li>
+&lt;li>Tableau-CHEATSHEET.pdf&lt;/li>
+&lt;li>The Super Duper NLP Repo-CHEATSHEET.pdf&lt;/li>
+&lt;li>Theoretical Computer Science-CHEATSHEET.pdf&lt;/li>
+&lt;li>Top 56 Job Interview Questions.pdf&lt;/li>
+&lt;li>Top Data Science Interview Question.pdf&lt;/li>
+&lt;li>Top Data Science Libraries-CHEATSHEET.pdf&lt;/li>
+&lt;li>Top Machine Learning Models Guides.pdf&lt;/li>
+&lt;li>Top Prediction Algorithms-CHEATSHEET.jpg&lt;/li>
+&lt;li>Ultimate Guide to AI, Data Science _ Machine Learning-LINKS.pdf&lt;/li>
+&lt;li>VIP Cheatsheet-Recurrent Neural Networks-CHEATSHEET.pdf&lt;/li>
+&lt;li>VIS-Know your data with ggplot2-NOTEBOOK.pdf&lt;/li>
+&lt;li>Visualizing-Percentages-20-Ways-InfoNewt.pdf&lt;/li>
+&lt;/ol></description></item></channel></rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source AI on</title><link>https://dasarpai.github.io/tags/open-source-ai/</link><description>Recent content in Open Source AI on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/open-source-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Reasoning Models in AI Marketplace, Feb 25</title><link>https://dasarpai.github.io/dsblog/exploring-reasoning-models/</link><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-reasoning-models/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Reasoning Models in AI Marketplace - Feb'2025
+&lt;div id="exploring-reasoning-models-in-ai-marketplace---feb2025" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-reasoning-models-in-ai-marketplace---feb2025" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>What Makes a Model a &amp;ldquo;Reasoning Model&amp;rdquo;?&lt;/strong>
+&lt;div id="what-makes-a-model-a" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-makes-a-model-a" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The term &amp;ldquo;reasoning model&amp;rdquo; is not strictly defined but generally refers to models that &lt;strong>explicitly demonstrate structured problem-solving abilities&lt;/strong>, such as:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Logical inference&lt;/strong> (deductive/inductive reasoning)&lt;/li>
+&lt;li>&lt;strong>Multi-step problem-solving&lt;/strong> (e.g., math, coding, puzzles)&lt;/li>
+&lt;li>&lt;strong>Common-sense reasoning&lt;/strong> (understanding implicit context)&lt;/li>
+&lt;li>&lt;strong>Causal reasoning&lt;/strong> (connecting causes and effects).&lt;/li>
+&lt;/ul>
+&lt;p>Modern models achieve this through architectural innovations (e.g., chain-of-thought prompting, sparse attention) and training on datasets enriched with reasoning tasks (e.g., math problems, logic puzzles).&lt;/p></description></item><item><title>Stanford Alpaca</title><link>https://dasarpai.github.io/dsblog/stanford-alpaca/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/stanford-alpaca/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg" alt="Stanford-Alpaca" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Stanford Alpaca
+&lt;div id="stanford-alpaca" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#stanford-alpaca" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/tatsu-lab/stanford_alpaca" target="_blank">Stanford Alpaca Github Report&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Stanford Alpaca is An &amp;ldquo;Instruction-following&amp;rdquo; LLaMA Model&lt;/li>
+&lt;li>This is the repo aims to build and share an instruction-following LLaMA model. The repo contains:
+&lt;ul>
+&lt;li>The 52K &lt;a href="https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/alpaca_data.json" target="_blank">instruction-following data&lt;/a> used for fine-tuning the model.&lt;/li>
+&lt;li>The code for generating the data.&lt;/li>
+&lt;li>The code for fine-tuning the model.&lt;/li>
+&lt;li>The code for recovering Alpaca-7B weights from our released weight diff.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Overview
+&lt;div id="overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The current &amp;ldquo;Alpaca 7B model&amp;rdquo; is fine-tuned from a &amp;ldquo;7B LLaMA&amp;rdquo; model on 52K instruction-following data generated by the techniques in the Self-Instruct paper.&lt;/li>
+&lt;li>Alpaca 7B model behaves similarly to the text-davinci-003 model on the Self-Instruct instruction-following evaluation suite.&lt;/li>
+&lt;li>Alpaca is still under development, and there are many limitations that have to be addressed.&lt;/li>
+&lt;li>Alphaca is not yet fine-tuned to be safe and harmless.&lt;/li>
+&lt;li>Initial release contains the data generation procedure, dataset, and training recipe.&lt;/li>
+&lt;li>Model weights can be released if the creators of LLaMA gives permission.&lt;/li>
+&lt;li>Live demo to help readers better understand the capabilities and limits of Alpaca is available.&lt;/li>
+&lt;li>Based on followin papers:
+&lt;ul>
+&lt;li>LLaMA: Open and Efficient Foundation Language Models. &lt;a href="https://arxiv.org/abs/2302.13971v1" target="_blank">Hugo2023&lt;/a>&lt;/li>
+&lt;li>Self-Instruct: Aligning Language Model with Self Generated Instructions. &lt;a href="https://arxiv.org/abs/2212.10560" target="_blank">Yizhong2022&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Data Release
+&lt;ul>
+&lt;li>alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model. This JSON file is a list of dictionaries, each dictionary contains the following fields: Instruction, input, output (text-davinci-003 geneated answer).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Highlevel Activities of the Alpaca Project
+&lt;div id="highlevel-activities-of-the-alpaca-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#highlevel-activities-of-the-alpaca-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Highlevel Actitivies done by Stanford Alpaca team and Project Output&lt;/p></description></item></channel></rss>

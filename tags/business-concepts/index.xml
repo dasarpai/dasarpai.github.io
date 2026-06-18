@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business Concepts on</title><link>https://dasarpai.github.io/tags/business-concepts/</link><description>Recent content in Business Concepts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/business-concepts/index.xml" rel="self" type="application/rss+xml"/><item><title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title><link>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg" alt="BitNet b1.58-2B4T" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.12285" target="_blank">Archive Paper Link&lt;/a>&lt;/p>
+&lt;h1 class="relative group">BitNet b1.58-2B4T: The Future of Efficient AI Processing
+&lt;div id="bitnet-b158-2b4t-the-future-of-efficient-ai-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bitnet-b158-2b4t-the-future-of-efficient-ai-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">A History of 1 bit Transformer Model
+&lt;div id="a-history-of-1-bit-transformer-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-history-of-1-bit-transformer-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A paper &amp;ldquo;The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits&amp;rdquo; was published by Stanford University, ETH Zürich, and EPFL. It was published on October 2023 (published on arXiv on October 17, 2023). &lt;a href="https://arxiv.org/pdf/2310.11453" target="_blank">Standord Paper Link&lt;/a>. The core Concept of 1.58 bits per parameter, was introduced here. This demonstrated that LLMs could be effectively trained and operated with extremely low-bit representation while maintaining competitive performance&lt;/p></description></item><item><title>AI Usecases in Cybersecurity</title><link>https://dasarpai.github.io/dsblog/ai-usecases-in-cybersecurity/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-usecases-in-cybersecurity/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg" alt="AI-Usecases-in-Cybersecurity" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Usecases in Cybersecurity
+&lt;div id="ai-usecases-in-cybersecurity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-usecases-in-cybersecurity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h1 class="relative group">AI in Cyber Security, Ethics Related Challenges and Usecases
+&lt;div id="ai-in-cyber-security-ethics-related-challenges-and-usecases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-in-cyber-security-ethics-related-challenges-and-usecases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">AI Usecases in Cyber Security
+&lt;div id="ai-usecases-in-cyber-security" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-usecases-in-cyber-security" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Threat Detection and Response
+AI can enhance the detection and response to cybersecurity threats by:&lt;/p></description></item><item><title>Application of AI in BFSI</title><link>https://dasarpai.github.io/dsblog/application-of-ai-in-bfsi/</link><pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/application-of-ai-in-bfsi/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg" alt="Application-of-AI-in-BFSI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Application of AI in Banking, Finance, Security and Insurance (BFSI)
+&lt;div id="application-of-ai-in-banking-finance-security-and-insurance-bfsi" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#application-of-ai-in-banking-finance-security-and-insurance-bfsi" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The banking, financial services, and insurance (BFSI) sector has been at the forefront of adopting cutting-edge technology to streamline operations, improve customer experience, and reduce costs. Machine learning (ML) has been one of the most promising technologies in this regard, offering numerous opportunities to automate manual processes, make accurate predictions, and provide real-time insights. ML algorithms can be used to analyze vast amounts of customer and transactional data, providing insights into customer behavior, fraud detection, and more. The implementation of ML in BFSI has been helping organizations to drive operational efficiency, reduce costs, and stay ahead of the competition.&lt;/p></description></item><item><title>AI Use Cases in Food Processing</title><link>https://dasarpai.github.io/dsblog/ai-use-cases-in-food-processing/</link><pubDate>Sun, 22 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-use-cases-in-food-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg" alt="&amp;ldquo;AI Use Cases in Food Processing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI Use Cases in Food Processing
+&lt;div id="ai-use-cases-in-food-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-use-cases-in-food-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The food processing industry is a vital sector in the global economy, responsible for providing safe and nutritious food to millions of people around the world. Artificial intelligence (AI) is being increasingly used in the food processing industry to improve efficiency, reduce costs, and enhance the quality and safety of food products. From automated sorting and grading of fruits and vegetables to intelligent vending machines, AI is being used in a wide range of applications across the food processing industry.&lt;/p></description></item></channel></rss>

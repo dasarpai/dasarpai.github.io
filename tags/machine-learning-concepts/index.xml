@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning Concepts on</title><link>https://dasarpai.github.io/tags/machine-learning-concepts/</link><description>Recent content in Machine Learning Concepts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/machine-learning-concepts/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Tokenization and Embedding in NLP</title><link>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</link><pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg" alt="Exploring Tokenization and Embedding in NLP" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Tokenization and Embedding in NLP
+&lt;div id="exploring-tokenization-and-embedding-in-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-tokenization-and-embedding-in-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.&lt;/p>
+&lt;ol>
+&lt;li>What is tokenization?&lt;/li>
+&lt;li>What are different Tokenzation schemes?&lt;/li>
+&lt;li>What is OOV (Out-of-Vocabulary) in Tokenization?&lt;/li>
+&lt;li>If a word does not exist in embedding model&amp;rsquo;s vocabulary, then how tokenization and embedding is done?&lt;/li>
+&lt;li>What is criteria of splitting a word?&lt;/li>
+&lt;li>What is Subword Tokenization?&lt;/li>
+&lt;li>How FastText Tokenization works?&lt;/li>
+&lt;li>What is role of [CLS] token?&lt;/li>
+&lt;li>What is WordPiece and how it works?&lt;/li>
+&lt;li>What is BPE (Byte Pair Encoding), and how it works?&lt;/li>
+&lt;li>What is SentencePiece and how it works?&lt;/li>
+&lt;li>For Indian languages what tokenization schemes is the best?&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">What is tokenization?
+&lt;div id="what-is-tokenization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-tokenization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tokenization is the process of breaking text into smaller units (tokens), such as words, subwords, or characters, for NLP tasks.&lt;/p></description></item><item><title>Understanding Contextual Embedding in Transformers</title><link>https://dasarpai.github.io/dsblog/understanding-contextual-embedding-in-transformers/</link><pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-contextual-embedding-in-transformers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg" alt="Understanding Contextual Embedding in Transformers" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Embedding can be confusing for many people, and contextual embedding performed by transformers can be even more perplexing. Even after gaining an understanding, many questions remain. In this article, we aim to address the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What is Embedding?&lt;/li>
+&lt;li>What is Fixed Embedding?&lt;/li>
+&lt;li>How Transformers Handle Context&lt;/li>
+&lt;li>How this token &amp;lsquo;bank&amp;rsquo; and corresponding embedding is stored in embedding database?&lt;/li>
+&lt;li>How contextural embedding is generated?&lt;/li>
+&lt;li>What will be the output size of attention formula softmax?&lt;/li>
+&lt;li>What is meaning of a LLM has context length of 2 million tokens?&lt;/li>
+&lt;li>How many attention layers we keep in transformer like gpt4?&lt;/li>
+&lt;li>What is the meaning of 96 attention layers, are they attention head count?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is Embedding?
+&lt;div id="what-is-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>An embedding is a way to represent discrete data (like words or tokens) as continuous vectors of numbers.&lt;/p></description></item><item><title>Exploring Dense Embedding Models in AI</title><link>https://dasarpai.github.io/dsblog/exploring-dense-embedding-models-in-ai/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-dense-embedding-models-in-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg" alt="Exploring Dense Embedding Models in AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is dense embedding in AI?
+&lt;div id="what-is-dense-embedding-in-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-dense-embedding-in-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dense embeddings are critical in many AI applications, particularly in deep learning, where they help reduce data complexity and enhance the model’s ability to generalize from patterns in data.&lt;/p>
+&lt;p>In artificial intelligence (AI), &lt;strong>dense embedding&lt;/strong> refers to a method of representing data (like words, sentences, images, or other inputs) as dense vectors in a continuous, lower-dimensional (lessor number of dimensions) space. These vectors, known as &lt;strong>embeddings&lt;/strong>, encode semantic information, enabling AI models to work with data in a more meaningful way.&lt;/p></description></item><item><title>What is Pinecone</title><link>https://dasarpai.github.io/dsblog/what-is-pinecone/</link><pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-pinecone/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6097-What-is-Pinecone.jpg" alt="What is Pinecone" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is pinecone?
+&lt;div id="what-is-pinecone" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-pinecone" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Pinecone is a managed vector database that provides vector search (or “similarity search”) for developers with a straightforward API and usage-based pricing. It’s free to try. &lt;a href="https://www.pinecone.io/learn/vector-search-basics/" target="_blank">Introduction to Vector Search for Developers&lt;/a>.&lt;/p>
+&lt;h2 class="relative group">What is a &lt;a href="https://www.pinecone.io/learn/vector-database/" target="_blank">Vector Database&lt;/a>?
+&lt;div id="what-is-a-vector-database" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-a-vector-database" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Your must have heard about relational database, graph database, object datbase. But this article is about Vector Database.&lt;/p></description></item><item><title>Generalized AI Model for Prediction</title><link>https://dasarpai.github.io/dsblog/generalized-ai-model-for-prediction/</link><pubDate>Fri, 17 Sep 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/generalized-ai-model-for-prediction/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg" alt="Generalized AI Model for Prediction" />
+&lt;/figure>
+&lt;/p>
+&lt;p>Can we really Develop AI solutions that can predict human behavior? If you are not a technical person then don’t get overwhelmed by the next paragraph, you can read further, and it will make sense to you.&lt;/p>
+&lt;p>We know the basic equation, y = mx + c. This comes from algebra and trigonometry. Here, y is the predicted value, and x is the input. The x can be a simple scalar value or a vector. Similarly, m is the coefficient in this equation, and it can be a simple scalar value or a vector. If m or x is a vector, then it can hold multiple values. The value of m corresponding to x is also called slope in trigonometry. If a plane is 2 dimensional, then you have one m and one x. But if a plane is complex, and it has, let us say, 10 dimensions then it has 9 m and 9 x. 10th dimensions is predicted by these 9 m and 9 x, using the earlier formula. How that multiplication happens is easy for those who know vector and matrix multiplication, but for others, it is really complicated. So, you can leave it for the time being.&lt;/p></description></item></channel></rss>

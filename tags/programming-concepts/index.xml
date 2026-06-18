@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming Concepts on</title><link>https://dasarpai.github.io/tags/programming-concepts/</link><description>Recent content in Programming Concepts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/programming-concepts/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Callbacks</title><link>https://dasarpai.github.io/dsblog/understanding-callbacks/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-callbacks/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6208-Understanding-Callbacks.jpg" alt="Understanding Callbacks" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Callbacks
+&lt;div id="understanding-callbacks" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-callbacks" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In the software solution design sometime people find callback confusing and this article is about helping developers and architects understanding this. We will discuss what is callback? What is the use of this? How it workds?&lt;/p>
+&lt;h2 class="relative group">Context Setting for Understanding Callbacks
+&lt;div id="context-setting-for-understanding-callbacks" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#context-setting-for-understanding-callbacks" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Assume you want to create a travel website. It has a feature of book ticket. For this you need to create frontend (UI page). But you don&amp;rsquo;t want to create ticket for any unauthorized person and you don&amp;rsquo;t want to implement the authentication and authorization on your website.&lt;/p></description></item><item><title>Python Code Snippnet from Colab</title><link>https://dasarpai.github.io/dsblog/python-code-snippnet-from-colab/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-code-snippnet-from-colab/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg" alt="Python Code Snippnet from Colab" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python Code Snippnet from Colab
+&lt;div id="python-code-snippnet-from-colab" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-code-snippnet-from-colab" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is snippet?
+&lt;div id="what-is-snippet" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-snippet" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>snippet&lt;/strong> is a small, reusable piece of code designed to perform a specific task or solve a particular problem. It’s often just a few lines long and is meant to be quickly inserted into a larger program to save time or avoid re-writing commonly used functions.&lt;/p></description></item></channel></rss>

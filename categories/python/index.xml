@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on</title><link>https://dasarpai.github.io/categories/python/</link><description>Recent content in Python on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding `async`, `await`, and Concurrency in Python</title><link>https://dasarpai.github.io/dsblog/understanding-async-await-and-concurrency/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-async-await-and-concurrency/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6282-Understanding-async-await-and-Concurrency.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding &lt;code>async&lt;/code>, &lt;code>await&lt;/code>, and Concurrency
+&lt;div id="understanding-async-await-and-concurrency" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-async-await-and-concurrency" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Understanding &lt;code>async&lt;/code>, &lt;code>await&lt;/code>, and Concurrency in Python — A Simple Tutorial&lt;/p>
+&lt;p>If you’re learning Python and find terms like &lt;code>async&lt;/code>, &lt;code>await&lt;/code>, and &lt;code>concurrent tasks&lt;/code> confusing — you’re not alone! This tutorial explains how to write Python code that runs &lt;strong>multiple tasks simultaneously&lt;/strong>, such as reading data from the internet, analyzing logs, and fetching records from a remote server.&lt;/p></description></item><item><title>Navigating Python Ecosystem</title><link>https://dasarpai.github.io/dsblog/navigating-python-ecosystem/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-python-ecosystem/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg" alt="Navigating Python Ecosystem" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating Python Ecosystem
+&lt;div id="navigating-python-ecosystem" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-python-ecosystem" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">1. &lt;strong>History of Python Development&lt;/strong>
+&lt;div id="1-history-of-python-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-history-of-python-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Python was created by &lt;strong>Guido van Rossum&lt;/strong> and was first released in 1991. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code compared to other languages like C++ or Java. Significant milestones in Python’s development include:&lt;/p></description></item><item><title>Exploring Python Package Manager</title><link>https://dasarpai.github.io/dsblog/exploring-python-package-manager/</link><pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-python-package-manager/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg" alt="Exploring Python Package Managers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Python Package Managers
+&lt;div id="exploring-python-package-managers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-python-package-managers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Package Manager?
+&lt;div id="what-is-package-manager" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-package-manager" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>package manager&lt;/strong> is a tool that automates the process of installing, upgrading, configuring, and removing software packages (libraries, frameworks, tools, etc.). It helps manage dependencies between packages and ensures that the correct versions are installed.&lt;/p></description></item><item><title>Python Code Snippnet from Colab</title><link>https://dasarpai.github.io/dsblog/python-code-snippnet-from-colab/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-code-snippnet-from-colab/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg" alt="Python Code Snippnet from Colab" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python Code Snippnet from Colab
+&lt;div id="python-code-snippnet-from-colab" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-code-snippnet-from-colab" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is snippet?
+&lt;div id="what-is-snippet" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-snippet" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>snippet&lt;/strong> is a small, reusable piece of code designed to perform a specific task or solve a particular problem. It’s often just a few lines long and is meant to be quickly inserted into a larger program to save time or avoid re-writing commonly used functions.&lt;/p></description></item><item><title>Python Project Folders and Files</title><link>https://dasarpai.github.io/dsblog/python-project-folders-and-files/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-project-folders-and-files/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg" alt="Python Project Folders and Files" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Python Project Folder Structures: Essential Directories Explained
+&lt;div id="understanding-python-project-folder-structures-essential-directories-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-python-project-folder-structures-essential-directories-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Python projects, certain folders and files serve specific purposes to help with organizing code, managing dependencies, setting up environments, and handling version control. These important directories and files are often seen in most well-structured Python projects. Here are some of the most common ones:&lt;/p></description></item><item><title>Decoding pip install operations</title><link>https://dasarpai.github.io/dsblog/decoding-pip-install-operations/</link><pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/decoding-pip-install-operations/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg" alt="Decoding-pip-install-operations" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Decoding pip install operations
+&lt;div id="decoding-pip-install-operations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#decoding-pip-install-operations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Your draft provides useful insights into using &lt;code>pip&lt;/code> for Python package management. Here&amp;rsquo;s a refined version of your article with improved structure, grammar, and clarity:&lt;/p>
+&lt;hr>
+&lt;h3 class="relative group">Managing Python Environments and Packages with &lt;code>pip&lt;/code>
+&lt;div id="managing-python-environments-and-packages-with-pip" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#managing-python-environments-and-packages-with-pip" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In today&amp;rsquo;s technology landscape, where we deal with numerous programming languages, diverse hardware (CPU, GPU, TPU, etc.), various operating systems, and an extensive open-source community, building software from scratch can be quite challenging. Even when leveraging existing packages or solutions, there are still numerous challenges to consider, including security, safety, and privacy concerns.&lt;/p></description></item><item><title>Python APIs for Data</title><link>https://dasarpai.github.io/dsblog/python-apis-for-data/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-apis-for-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg" alt="Python APIs for Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python APIs for Data
+&lt;div id="python-apis-for-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-apis-for-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://www.bing.com/" target="_blank">Bing&lt;/a> Bing is a search engine that brings together the best of search and people in your social networks to help you spend less time searching and more time doing.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.bing.com/dev/en-us/dev-center" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/pybing/" target="_blank">Python wrapper for the Bing search API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="http://www.bitly.com/" target="_blank">Bitly&lt;/a> URL shortening and bookmarking service&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://dev.bitly.com/get_started.html" target="_blank">Api Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.google.com/p/python-bitly/" target="_blank">Python wrapper around the bit.ly API&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://blogger.com/" target="_blank">Blogger&lt;/a> Blog-publishing service&lt;/p></description></item><item><title>Python Decorator Function</title><link>https://dasarpai.github.io/dsblog/python-decorator-function/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-decorator-function/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg" alt="Python Decorator Function" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python Decorator Function
+&lt;div id="python-decorator-function" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-decorator-function" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Decorator Function in Python
+&lt;div id="what-is-decorator-function-in-python" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-decorator-function-in-python" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Python, a decorator is a special type of function that allows you to modify or extend the behavior of other functions or methods. Decorators provide a convenient way to add functionality to functions without modifying their code directly. They are commonly used for tasks such as logging, authorization, caching, and more.&lt;/p></description></item><item><title>Python Naming Convention</title><link>https://dasarpai.github.io/dsblog/python-naming-convention/</link><pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-naming-convention/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg" alt="Python Naming Convention" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Python Naming Convention
+&lt;div id="python-naming-convention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-naming-convention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;ul>
+&lt;li>UPPERCASE / UPPER_CASE_WITH_UNDERSCORES =&amp;gt; module-level constants&lt;/li>
+&lt;li>lowercase / lower_case_with_underscores =&amp;gt; for variable and function name.&lt;/li>
+&lt;li>CapitalizedWords (or CapWords, or CamelCase – so named because of the bumpy look of its letters [4]). This is also sometimes known as StudlyCaps. =&amp;gt; CamelCase =&amp;gt; Class
+&lt;ul>
+&lt;li>Note: When using acronyms in CapWords, capitalize all the letters of the acronym. Thus HTTPServerError is better than HttpServerError.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>mixedCase (differs from CapitalizedWords by initial lowercase character!)&lt;/li>
+&lt;li>Capitalized_Words_With_Underscores (ugly!)&lt;/li>
+&lt;li>_single_leading_underscore: weak “internal use” indicator. E.g. from M import * does not import objects whose names start with an underscore.&lt;/li>
+&lt;li>single&lt;em>trailing_underscore&lt;/em>: used by convention to avoid conflicts with Python keyword, e.g.
+tkinter.Toplevel(master, class_=&amp;lsquo;ClassName&amp;rsquo;)&lt;/li>
+&lt;li>__double_leading_underscore: when naming a class attribute, invokes name mangling (inside class FooBar, &lt;strong>boo becomes _FooBar&lt;/strong>boo; see below).&lt;/li>
+&lt;li>__double_leading_and_trailing_underscore**: “magic” objects or attributes that live in user-controlled namespaces. E.g. __init**, __import** or __file**. Never invent such names; only use them as documented.&lt;/li>
+&lt;li>Never use the characters ‘l’ (lowercase letter el), ‘O’ (uppercase letter oh), or ‘I’ (uppercase letter eye) as single character variable names.&lt;/li>
+&lt;/ul>
+&lt;h1 class="relative group">Programming Recommendations
+&lt;div id="programming-recommendations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#programming-recommendations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Use &amp;ldquo;is not&amp;rdquo; operator
+&lt;div id="use-is-not-operator" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#use-is-not-operator" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">foo&lt;/span> &lt;span class="ow">is&lt;/span> &lt;span class="ow">not&lt;/span> &lt;span class="kc">None&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="ow">not&lt;/span> &lt;span class="n">foo&lt;/span> &lt;span class="ow">is&lt;/span> &lt;span class="kc">None&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Always use a def statement
+&lt;div id="always-use-a-def-statement" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#always-use-a-def-statement" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">f&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span> &lt;span class="k">return&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">x&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">f&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">lambda&lt;/span> &lt;span class="n">x&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="n">x&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">all try/except clauses
+&lt;div id="all-tryexcept-clauses" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-tryexcept-clauses" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">try&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">value&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">collection&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">except&lt;/span> &lt;span class="ne">KeyError&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">key_not_found&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">handle_value&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">value&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">try&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># Too broad!&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">handle_value&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">collection&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">])&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">except&lt;/span> &lt;span class="ne">KeyError&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># Will also catch KeyError raised by handle_value()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">key_not_found&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">key&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Context managers should be invoked through separate functions or methods
+&lt;div id="context-managers-should-be-invoked-through-separate-functions-or-methods" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#context-managers-should-be-invoked-through-separate-functions-or-methods" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">with&lt;/span> &lt;span class="n">conn&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">begin_transaction&lt;/span>&lt;span class="p">():&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">do_stuff_in_transaction&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">conn&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">with&lt;/span> &lt;span class="n">conn&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">do_stuff_in_transaction&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">conn&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Be consistent in return statements
+&lt;div id="be-consistent-in-return-statements" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#be-consistent-in-return-statements" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">foo&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;gt;=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="kc">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">bar&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="kc">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Wrong:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">foo&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;gt;=&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">bar&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">math&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sqrt&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">startswith, endswith
+&lt;div id="startswith-endswith" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#startswith-endswith" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Use &amp;lsquo;&amp;rsquo;.startswith() and &amp;lsquo;&amp;rsquo;.endswith() instead of string slicing to check for prefixes or suffixes.&lt;/li>
+&lt;li>Correct:
+if foo.startswith(&amp;lsquo;bar&amp;rsquo;):&lt;/li>
+&lt;li>Wrong:
+if foo[:3] == &amp;lsquo;bar&amp;rsquo;:&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Object type comparisons
+&lt;div id="object-type-comparisons" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#object-type-comparisons" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct:
+if isinstance(obj, int):&lt;/li>
+&lt;li>Wrong:
+if type(obj) is type(1):&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Sequences, (strings, lists, tuples)
+&lt;div id="sequences-strings-lists-tuples" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sequences-strings-lists-tuples" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>-For sequences, (strings, lists, tuples), use the fact that empty sequences are false:&lt;/p></description></item><item><title>Python Software Development and Distribution</title><link>https://dasarpai.github.io/dsblog/python-software-development-and-distribution/</link><pubDate>Thu, 30 Sep 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-software-development-and-distribution/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg" alt="Software Distribution" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Software Distribution
+&lt;div id="software-distribution" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#software-distribution" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>We don’t develop any good and valuable piece of software from scratch. We use pieces of code written by others. This piece of code can be a service running on another machine or software written but kept in a repository. This service may be created by some other company, individual, our company, our team, or ourselves. So any software has two components, one, which is created by us, and we are responsible for the maintenance of that. Another component is a piece of software that is created by someone else, and we are not responsible for the maintenance of that.&lt;/p></description></item><item><title>Best Resources to Learn Python</title><link>https://dasarpai.github.io/dsblog/best-resources-to-learn-python/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/best-resources-to-learn-python/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg" alt="Best Resources to Learn Python" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Best Resources to Learn Python
+&lt;div id="best-resources-to-learn-python" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-resources-to-learn-python" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Best Python Resources
+&lt;div id="best-python-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-python-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://anandology.com/python-practice-book/index.html" target="_blank">Python Practice Book — Python Practice Book&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://inventwithpython.com/pygame/chapters/" target="_blank">Making Games with Python &amp;amp; Pygame&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pythonprogramming.net/" target="_blank">Python Programming Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/github/jmportilla/" target="_blank">Jupyter Notebook Viewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/" target="_blank">nbviewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Final%20Capstone%20Project%20Ideas.ipynb" target="_blank">Jupyter Notebook Viewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Projects-Solutions/Solution%20Links.md" target="_blank">Complete-Python-Bootcamp/Solution Links.md at master&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python-guide.org/intro/learning/" target="_blank">Learning Python – The Hitchhiker’s Guide to Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/3/library/index.html" target="_blank">The Python Standard Library – Python 3.7.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/complete-python-bootcamp/learn/v4/t/lecture/9523126?start=0" target="_blank">Complete Python Bootcamp: Go from zero to hero in Python 3 - Udemy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pymbook.readthedocs.io/en/latest/" target="_blank">Welcome to Python for you and me&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://interactivepython.org/runestone/static/pythonds/index.html" target="_blank">Problem Solving with Algorithms and Data Structures using Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codingbat.com/python" target="_blank">CodingBat Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.python.org/moin/GuiProgramming" target="_blank">GuiProgramming – Python Wiki&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/" target="_blank">The 10 most popular coding challenge websites for 2017&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.learnpython.org/" target="_blank">Learn Python – Free Interactive Python Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.python.org/" target="_blank">Welcome to Python.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/3/library/functions.html#dir" target="_blank">Built-in Functions — Python 3.7.3 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.learnpython.org/en/Hello,_World!" target="_blank">Hello, World! – Learn Python – Free Interactive Python Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/3/tutorial/" target="_blank">The Python Tutorial — Python 3.7.3 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/" target="_blank">Quick Guide to Boosting Algorithms in Machine Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/" target="_blank">Analytics Community - Analytics Discussions - Big Data Discussion&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://data-flair.training/blogs/python-tutorials-home/" target="_blank">Learn Python – Python Tutorials – DataFlair&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Best Numpy Resources
+&lt;div id="best-numpy-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-numpy-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists" target="_blank">arrays – What are the advantages of NumPy over regular Python lists? – Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast" target="_blank">python – Why are NumPy arrays so fast? – Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.scipy.org/doc/" target="_blank">Numpy and Scipy Documentation – Numpy and Scipy documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.numpy.org/" target="_blank">NumPy – NumPy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.scipy.org/doc/numpy/" target="_blank">Overview – NumPy v1.16 Manual&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Best Pandas Resources
+&lt;div id="best-pandas-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#best-pandas-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://pandas.pydata.org/" target="_blank">pandas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/reference/frame.html" target="_blank">DataFrame – pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html" target="_blank">Merge, join, and concatenate — pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/reference/series.html#plotting" target="_blank">Series – pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stattrek.com/online-calculator/binomial.aspx" target="_blank">Binomial Probability Calculator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/reference/series.html#indexing-iteration" target="_blank">Series – pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blogs.baruch.cuny.edu/cis3100/?p=56" target="_blank">Reshaping in Pandas – Pivot, Pivot-Table, Stack and Unstack explained with Pictures – Python / C++&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://etav.github.io/python/count_basic_freq_plot.html" target="_blank">Counting and Basic Frequency Plots – Python&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Python Visualization Resources
+&lt;div id="python-visualization-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#python-visualization-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://seaborn.pydata.org/api.html" target="_blank">Seaborn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rougier/matplotlib-tutorial" target="_blank">rougier/matplotlib-tutorial: Matplotlib tutorial for beginner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/a-step-by-step-guide-for-creating-advanced-python-data-visualizations-with-seaborn-matplotlib-1579d6a1a7d0" target="_blank">A step-by-step guide for creating advanced Python data visualizations with Seaborn / Matplotlib&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/users/pyplot_tutorial.html" target="_blank">Pyplot tutorial — Matplotlib 2.0.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/" target="_blank">Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL &amp;amp; Big Data&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Other Resources
+&lt;div id="other-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#other-resources" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://datahack.analyticsvidhya.com/contest/all/" target="_blank">Contests - Analytics Vidhya&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#loading-the-20-newsgroups-dataset" target="_blank">Working With Text Data — scikit-learn 0.20.3 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.w3schools.com/python/python_regex.asp" target="_blank">Python RegEx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.guru99.com/python-regular-expressions-complete-tutorial.html" target="_blank">Python Regex: re.match(), re.search(), re.findall() with Example&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/FakeNewsDetection/FakeBuster" target="_blank">FakeNewsDetection/FakeBuster: Fake News Detection with Machine Learning&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Websites to learn Python
+&lt;div id="websites-to-learn-python" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#websites-to-learn-python" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://interactivepython.org/" target="_blank">https://interactivepython.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://inventwithpython.com/" target="_blank">https://inventwithpython.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://numpy.org/" target="_blank">https://numpy.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/" target="_blank">https://pandas.pydata.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://analyticsvidhya.com/" target="_blank">https://analyticsvidhya.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://anandology.com/" target="_blank">https://anandology.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blogs.baruch.cuny.edu/" target="_blank">https://blogs.baruch.cuny.edu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codingbat.com/" target="_blank">https://codingbat.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://data-flair.training/" target="_blank">https://data-flair.training&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datahack.analyticsvidhya.com/" target="_blank">https://datahack.analyticsvidhya.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/" target="_blank">https://docs.python.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python-guide.org/" target="_blank">https://docs.python-guide.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.scipy.org/" target="_blank">https://docs.scipy.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://etav.github.io/" target="_blank">https://etav.github.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://freecodecamp.org/" target="_blank">https://freecodecamp.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/" target="_blank">https://github.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://guru99.com/" target="_blank">https://guru99.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learnpython.org/" target="_blank">https://learnpython.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learnpythonthehardway.org/" target="_blank">https://learnpythonthehardway.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/" target="_blank">https://matplotlib.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/" target="_blank">https://nbviewer.jupyter.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/" target="_blank">https://pandas.pydata.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pymbook.readthedocs.io/" target="_blank">https://pymbook.readthedocs.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://python.org/" target="_blank">https://python.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pythonprogramming.net/" target="_blank">https://pythonprogramming.net&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scikit-learn.org/" target="_blank">https://scikit-learn.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seaborn.pydata.org/" target="_blank">https://seaborn.pydata.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/" target="_blank">https://stackoverflow.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stattrek.com/" target="_blank">https://stattrek.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/" target="_blank">https://towardsdatascience.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://udemy.com/" target="_blank">https://udemy.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://w3schools.com/" target="_blank">https://w3schools.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.python.org/" target="_blank">https://wiki.python.org&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>

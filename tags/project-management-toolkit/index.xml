@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Management Toolkit on</title><link>https://dasarpai.github.io/tags/project-management-toolkit/</link><description>Recent content in Project Management Toolkit on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 01 Jun 2017 17:03:25 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/project-management-toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Professional 2016 Reporting</title><link>https://dasarpai.github.io/pmblog/project-professional-2016-reporting/</link><pubDate>Thu, 01 Jun 2017 17:03:25 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/project-professional-2016-reporting/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1032-project-online-2016-reporting.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;p>Microsoft Project Online also known as Project Online is an excellent planning tool. It has very powerful inbuilt reporting and analytics templates. These templates can be customized by users based on their needs.&lt;/p>
+&lt;iframe allowfullscreen="" frameborder="0" height="356" loading="lazy" marginheight="0" marginwidth="0" scrolling="no" src="https://www.slideshare.net/slideshow/embed_code/key/bnu8vSZdO6X81r" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" title="Project Professional 2016 - Reports" width="700"> &lt;/iframe>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://www.slideshare.net/HariThapliyal/project-professional-2016-reports-242470584" alt="Project Professional 2016 – Reports" />
+&lt;/figure>
+from
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://www.slideshare.net/HariThapliyal" alt="Hari Thapliyal" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Power BI Reporting for Project Online</title><link>https://dasarpai.github.io/pmblog/power-bi-reporting-for-project-online/</link><pubDate>Thu, 01 Jun 2017 13:42:39 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/power-bi-reporting-for-project-online/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1031-powerBI-projectOnline.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;p>PowerBI is a powerful tool for data analytics. This Business Intelligence tool is developed by Microsoft. This application was originally conceived by Thierry D’Hers and Amir Netz of the SQL Server Reporting Services Team at Microsoft. It was originally designed by Ron George in the summer of 2010 and named &lt;strong>Project Crescent&lt;/strong>. Project Crescent was initially available for public download on July 11, 2011, bundled with SQL Server Codename &lt;strong>Denali&lt;/strong>. Later renamed to &lt;strong>Power BI&lt;/strong> it was then unveiled by Microsoft in September 2013 as P&lt;strong>ower BI for Office 365&lt;/strong>. The first release of Power BI was based on the &lt;a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">Microsoft Excel&lt;/a> based add-ins: Power Query, &lt;a href="https://en.wikipedia.org/wiki/Power_Pivot" target="_blank">Power Pivot&lt;/a> and Power View. With time, Microsoft also added many additional features like Question and Answers, enterprise-level data connectivity, and security options via Power BI Gateways. Power BI was first released to the public on July 24, 2015.&lt;/p></description></item><item><title>Understanding Balanced Score Card</title><link>https://dasarpai.github.io/pmblog/understanding-balanced-score-card/</link><pubDate>Sat, 08 Apr 2017 11:14:08 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/understanding-balanced-score-card/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1028-Balance-Scorecard-min.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Balanced Score Card
+&lt;div id="balanced-score-card" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#balanced-score-card" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between Dimension and Measures?
+&lt;div id="what-is-the-difference-between-dimension-and-measures" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-dimension-and-measures" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In business intelligence (BI) there are two terms, Dimension, and Measures. Dimension is something which can be used for filtering, grouping purpose like department name, employee name, location, severity, priority, etc. The measure is something on which you can perform mathematical and statistical operations like average, sum, minimum, max, etc. Like salary, delay, time to solve a problem, number of tickets, travel expenses, fees, revenue, etc.&lt;/p></description></item><item><title>Enterprise Project Server 2016</title><link>https://dasarpai.github.io/pmblog/enterprise-project-server-2016/</link><pubDate>Thu, 11 Aug 2016 13:42:13 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/enterprise-project-server-2016/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1014-MicrosoftProject-Security.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Enterprise Project Server 2016
+&lt;div id="enterprise-project-server-2016" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#enterprise-project-server-2016" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This post I am using to share useful links and videos about &lt;strong>Enterprise Project Server 2016&lt;/strong>&lt;/p>
+&lt;h2 class="relative group">Links for Security Settings
+&lt;div id="links-for-security-settings" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#links-for-security-settings" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>These 4 videos are very good and important to understand the overall security permissions system in Project Server.&lt;/p></description></item></channel></rss>

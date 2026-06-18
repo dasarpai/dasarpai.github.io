@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prompt Engineering on</title><link>https://dasarpai.github.io/tags/prompt-engineering/</link><description>Recent content in Prompt Engineering on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/prompt-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Unlocking the Power of Prompts: A Comprehensive Guide to Prompt Engineering</title><link>https://dasarpai.github.io/dsblog/unlocking-the-power-of-prompts/</link><pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/unlocking-the-power-of-prompts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg" alt="Unlocking the Power of Prompts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Unlocking the Power of Prompts
+&lt;div id="unlocking-the-power-of-prompts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#unlocking-the-power-of-prompts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>What can you do with Art of Prompting and powerful AI Models? You can use prompts to accomplish almost any task that requires human intelligence. However, prompting is just one part of the process—you also need a powerful model to execute these prompts effectively.&lt;/p></description></item><item><title>Transfer Learning Key AI Techniques Explained</title><link>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/transfer-learning-key-ai-techniques-explained/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg" alt="Transfer Learning Key AI Techniques Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Transfer Learning Key AI Techniques Explained
+&lt;div id="transfer-learning-key-ai-techniques-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transfer-learning-key-ai-techniques-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article we will understand some important concepts used within machine learning.&lt;/p>
+&lt;ul>
+&lt;li>What is in-context Learning?&lt;/li>
+&lt;li>What is Prompt-Engineering?&lt;/li>
+&lt;li>What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li>
+&lt;li>What is Zero-shot learning?&lt;/li>
+&lt;li>How Zero-shot learning is different from In-context Learning?&lt;/li>
+&lt;li>What is Meta-Learning?&lt;/li>
+&lt;li>What is Few-shot learning?&lt;/li>
+&lt;li>Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li>
+&lt;li>What is transfer learning?&lt;/li>
+&lt;li>How do we do transfer learning from existing model?&lt;/li>
+&lt;li>What is finetuning?&lt;/li>
+&lt;li>Which layers to update, what weight to update during finetuning?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Prompt Engineering, In Context Learning and Zero-shot Learning
+&lt;div id="prompt-engineering-in-context-learning-and-zero-shot-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#prompt-engineering-in-context-learning-and-zero-shot-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">What is in-context Learning?
+&lt;div id="what-is-in-context-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-in-context-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p></description></item><item><title>Graph of Thoughts</title><link>https://dasarpai.github.io/dsblog/graph-of-thoughts/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/graph-of-thoughts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg" alt="Graph of Thoughts" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Graph of Thoughts
+&lt;div id="graph-of-thoughts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#graph-of-thoughts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is a valuable resource for learning Graph of Thoughts (GoT) concepts. The YouTube video is from code_your_own_AI. I&amp;rsquo;m utilizing the comments made by @wesleychang2005 on the video, which provide an excellent summary of GoT. If you&amp;rsquo;re interested in this topic and find the summary below intriguing, I recommend watching the entire 41-minute video.&lt;/p></description></item><item><title>Introduction to Prompt Engineering</title><link>https://dasarpai.github.io/dsblog/introduction-to-prompt-engineering/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-prompt-engineering/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg" alt="Introduction to Prompt Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Prompt Best Engineering
+&lt;div id="introduction-to-prompt-best-engineering" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-prompt-best-engineering" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Prompts can contain questions, instructions, contextual information, examples, and partial input for the model to complete or continue. After the model receives a prompt, depending on the type of model being used, it can generate text, embeddings, code, images, videos, music, and more. Below are &lt;strong>14 examples of good prompts&lt;/strong>.&lt;/p></description></item></channel></rss>

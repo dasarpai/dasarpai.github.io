@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Model Deployment on</title><link>https://dasarpai.github.io/tags/ai-model-deployment/</link><description>Recent content in AI Model Deployment on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-model-deployment/index.xml" rel="self" type="application/rss+xml"/><item><title>A Deep Dive into AI Model Marketplaces for Business Managers</title><link>https://dasarpai.github.io/dsblog/a-deep-dive-into-ai-model-marketplaces-for-business-managers/</link><pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/a-deep-dive-into-ai-model-marketplaces-for-business-managers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg" alt="AI Model Marketplaces" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Deep Dive into AI Model Marketplaces for Business Managers
+&lt;div id="a-deep-dive-into-ai-model-marketplaces-for-business-managers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-deep-dive-into-ai-model-marketplaces-for-business-managers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Introduction&lt;/strong>
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Artificial Intelligence (AI) is transforming industries, from customer service automation to data-driven decision-making. However, with hundreds of AI models available—ranging from OpenAI’s GPT-4 to Meta’s Llama 3—business leaders face a critical challenge: &lt;strong>Where should they source their AI models?&lt;/strong>&lt;/p></description></item><item><title>Exploring Reasoning Models in AI Marketplace, Feb 25</title><link>https://dasarpai.github.io/dsblog/exploring-reasoning-models/</link><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-reasoning-models/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Reasoning Models in AI Marketplace - Feb'2025
+&lt;div id="exploring-reasoning-models-in-ai-marketplace---feb2025" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-reasoning-models-in-ai-marketplace---feb2025" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>What Makes a Model a &amp;ldquo;Reasoning Model&amp;rdquo;?&lt;/strong>
+&lt;div id="what-makes-a-model-a" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-makes-a-model-a" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The term &amp;ldquo;reasoning model&amp;rdquo; is not strictly defined but generally refers to models that &lt;strong>explicitly demonstrate structured problem-solving abilities&lt;/strong>, such as:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Logical inference&lt;/strong> (deductive/inductive reasoning)&lt;/li>
+&lt;li>&lt;strong>Multi-step problem-solving&lt;/strong> (e.g., math, coding, puzzles)&lt;/li>
+&lt;li>&lt;strong>Common-sense reasoning&lt;/strong> (understanding implicit context)&lt;/li>
+&lt;li>&lt;strong>Causal reasoning&lt;/strong> (connecting causes and effects).&lt;/li>
+&lt;/ul>
+&lt;p>Modern models achieve this through architectural innovations (e.g., chain-of-thought prompting, sparse attention) and training on datasets enriched with reasoning tasks (e.g., math problems, logic puzzles).&lt;/p></description></item><item><title>Exploring DeepSeek R1: The AI That Thinks Like a Human</title><link>https://dasarpai.github.io/dsblog/exploring-deepseek-r1/</link><pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-deepseek-r1/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring DeepSeek R1: The AI That Thinks Like a Human
+&lt;div id="exploring-deepseek-r1-the-ai-that-thinks-like-a-human" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-deepseek-r1-the-ai-that-thinks-like-a-human" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Artificial Intelligence (AI) has come a long way, but few models have captured the imagination of researchers, developers, and businesses like &lt;strong>DeepSeek R1&lt;/strong>. Developed by &lt;strong>DeepSeek&lt;/strong>, a cutting-edge AI research organization, DeepSeek R1 is not just another AI model—it’s a reasoning engine designed to tackle complex tasks with human-like precision. Whether it’s solving intricate math problems, writing code, or analyzing data, DeepSeek R1 is reasoning in every step. In this article, we’ll explore into what makes DeepSeek R1 special, how it works, and why it’s a game-changer for industries and individuals alike.&lt;/p></description></item><item><title>Integrating Ollama AI Models and Open WebUI with Docker: A Step-by-Step Guide</title><link>https://dasarpai.github.io/dsblog/integrating-ollama-and-open-webui-with-docker/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/integrating-ollama-and-open-webui-with-docker/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Integrating Ollama AI Models and Open WebUI on Docker
+&lt;div id="integrating-ollama-ai-models-and-open-webui-on-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#integrating-ollama-ai-models-and-open-webui-on-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Ollama, Opensource LLM Framework from Meta, provides a powerful way to work with large language models (LLMs) efficiently. While Open WebUI is a user-friendly interface that simplifies interaction with Ollama-hosted AI models. You can host Ollama and WebUI on your local machine. By using Docker, we can containerize these components, ensuring a seamless and reproducible setup across different environments. This guide will walk you through integrating Ollama and Open WebUI within Docker.&lt;/p></description></item><item><title>Navigating the LLM Infrastructure Landscape</title><link>https://dasarpai.github.io/dsblog/navigating-llm-infrastructure-landscape/</link><pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/navigating-llm-infrastructure-landscape/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6181-llm-infrastructure.jpg" alt="Navigating the LLM Infrastructure Landscape" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Navigating the LLM Infrastructure Landscape: From Cloud Giants to Specialized Providers
+&lt;div id="navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#navigating-the-llm-infrastructure-landscape-from-cloud-giants-to-specialized-providers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>1. Introduction&lt;/strong>
+&lt;div id="1-introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The rapid advancement of Large Language Models (LLMs) has revolutionized a wide range of industries, from customer support to content creation and beyond. As LLMs like GPT-4, T5, and BERT become integral to AI-driven applications, the need for specialized infrastructure to support their deployment, training, and scaling has grown significantly. Traditional cloud services, while effective for general-purpose computing, often fall short in addressing the unique challenges posed by these models, such as handling vast amounts of data, providing low-latency responses, and managing the immense computational load. As a result, businesses and developers are increasingly turning to platforms specifically optimized for LLMs.&lt;/p></description></item><item><title>MLOps Tools</title><link>https://dasarpai.github.io/dsblog/mlops-tools/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/mlops-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6137-MLOps-Tools.jpg" alt="MLOps-Tools" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">MLOps Tools
+&lt;div id="mlops-tools" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#mlops-tools" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>MLOps (Machine Learning Operations) is a set of practices and tools designed to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from both DevOps (Development Operations) and machine learning to ensure that ML models are deployed efficiently, managed effectively, and maintained reliably throughout their lifecycle.&lt;/p></description></item><item><title>Open Source vs Closed Source AI</title><link>https://dasarpai.github.io/dsblog/open-source-vs-closed-source-ai/</link><pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/open-source-vs-closed-source-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg" alt="Open-Source-vs-Closed-Source-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Open Source AI vs Closed Source AI
+&lt;div id="open-source-ai-vs-closed-source-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#open-source-ai-vs-closed-source-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Major players in the AI industry, such as Google, Microsoft, IBM, Salesforce, etc each have their own proprietary models and infrastructure to host these models. They offer AI services that companies use to develop AI products for either their end customers or internal use. Training or developing AI models requires expensive hardware and highly skilled personnel, making it a costly process. However, the deployment and inference stages are even more expensive, as they involve ongoing costs for hardware and monitoring.&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Repository from Pinto0309
+&lt;div id="ml-model-repository-from-pinto0309" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-repository-from-pinto0309" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p></description></item><item><title>Introduction to ML Model Deployment</title><link>https://dasarpai.github.io/dsblog/introduction-to-ml-model-deployment/</link><pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-ml-model-deployment/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg" alt="Introduction to AI Model Deployement" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to AI Model deployment
+&lt;div id="introduction-to-ai-model-deployment" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-ai-model-deployment" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Big Players
+&lt;div id="big-players" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#big-players" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Amazon
+&lt;ul>
+&lt;li>Amazon has many products and one of their product is &lt;strong>AWS Cloud&lt;/strong>. Under this product they sell IT infrastructure (storage, memory, network, VM, webhosting etc.)&lt;/li>
+&lt;li>&lt;strong>Amazon SageMaker&lt;/strong> is Cloud based Machine Learning Platform, and this is one of the product under AWS Cloud.&lt;/li>
+&lt;li>Amazon SageMaker can be used to train AI model, host AI model, monitor the model and hosts many other services which any Data Science project need from data gathering to model serving.&lt;/li>
+&lt;li>AWS is oldest cloud service provider in the market.&lt;/li>
+&lt;li>AWS Sagemaker was launched in Nov'17.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Google
+&lt;ul>
+&lt;li>Google has hundreds of products like gmail, youtube, google drive etc. One of their product is called &lt;strong>Google Cloud&lt;/strong>. Under this product they sell IT infrastrcture like Amazon sells under AWS.&lt;/li>
+&lt;li>&lt;strong>VertexAI&lt;/strong> is Cloud based Machine Learning platform of Google. VertexAI is part of Google Cloud.&lt;/li>
+&lt;li>VertexAI can be used to train AI Model,host AI model, monitor the model etc.&lt;/li>
+&lt;li>VertexAI was launched in Jun'21&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Microsoft
+&lt;ul>
+&lt;li>Like Amazon&amp;rsquo;s cloud platform which is called AWS Cloud, Microsoft&amp;rsquo;s cloud plateform is called &lt;strong>Azure&lt;/strong>.&lt;/li>
+&lt;li>Microsoft&amp;rsquo;s AI product is called &lt;strong>Azure Machine Learning&lt;/strong>.&lt;/li>
+&lt;li>Today (Jul'23) Azure Machine Learning has has most of the capabilites than any other player&amp;rsquo;s AI product.&lt;/li>
+&lt;li>Azure Machine Learning was launched Feb'14&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is GenAI?
+&lt;div id="what-is-genai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-genai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are many kinds of AI models like classifier models, regressor models, clustering models, reinforcement models, etc. An AI model which has the ability to generate text, images, video, and music is called GenAI. They all take inspiration from the human brain, therefore they all have neural network (NN) architecture. There are dozens (if not hundreds) types of NN architecture that can be used to create different kinds of AI models. The type of NN architecture depends upon the data which is used for developing the model and the problem which we want to solve using AI model. Researchers in universities or big corporations like Google, Facebook, Amazon, and Microsoft keep developing new architecture, and using these architectures they develop the foundational models. Once foundational models are developed, they release a research paper. In this, they inform the world what architecture they used, what data they used, what parameters (weights &amp;amp; biases) the model has learned, what are the results of their product and compare that with other existing models. They can develop these foundational models with one set of hyperparameters, and they can release these foundational models of different sizes (it depends upon the number of parameters used). AI product builders pick up these foundational models and fine-tune these based on the exact business problem in their hands. Which foundational model do they choose, it also depends upon the size of the model, the kind of data it has used to create those foundational models, and what was the performance of the model on a similar task which the product developer want to solve.&lt;/p></description></item></channel></rss>

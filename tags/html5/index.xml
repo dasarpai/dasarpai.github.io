@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HTML5 on</title><link>https://dasarpai.github.io/tags/html5/</link><description>Recent content in HTML5 on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/html5/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring HTML Containers - Part 1: Introduction to HTML Containers</title><link>https://dasarpai.github.io/dsblog/html-containers-part1/</link><pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/html-containers-part1/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6276-html-containers-part1.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring HTML Containers - Part 1: Introduction to HTML Containers
+&lt;div id="exploring-html-containers---part-1-introduction-to-html-containers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-html-containers---part-1-introduction-to-html-containers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are different containers in HTML?
+&lt;div id="what-are-different-containers-in-html" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-different-containers-in-html" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In HTML and CSS, a &lt;strong>&amp;ldquo;container&amp;rdquo; tag&lt;/strong> isn’t a special keyword — it’s a &lt;strong>general term&lt;/strong> used to describe any element that wraps or groups other elements. They don&amp;rsquo;t of any size of their own, but the size of all the elements put inside the container is their size.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strategic Management on</title><link>https://dasarpai.github.io/tags/strategic-management/</link><description>Recent content in Strategic Management on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 08 Apr 2017 11:14:08 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/strategic-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Balanced Score Card</title><link>https://dasarpai.github.io/pmblog/understanding-balanced-score-card/</link><pubDate>Sat, 08 Apr 2017 11:14:08 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/understanding-balanced-score-card/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1028-Balance-Scorecard-min.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Balanced Score Card
+&lt;div id="balanced-score-card" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#balanced-score-card" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between Dimension and Measures?
+&lt;div id="what-is-the-difference-between-dimension-and-measures" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-dimension-and-measures" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In business intelligence (BI) there are two terms, Dimension, and Measures. Dimension is something which can be used for filtering, grouping purpose like department name, employee name, location, severity, priority, etc. The measure is something on which you can perform mathematical and statistical operations like average, sum, minimum, max, etc. Like salary, delay, time to solve a problem, number of tickets, travel expenses, fees, revenue, etc.&lt;/p></description></item></channel></rss>

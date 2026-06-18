@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Research Resources on</title><link>https://dasarpai.github.io/tags/ai-research-resources/</link><description>Recent content in AI Research Resources on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-research-resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Overview of AI Benchmark Explorer Tool</title><link>https://dasarpai.github.io/dsblog/aibenchmark-explorer/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/aibenchmark-explorer/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg" alt="AI Benchmark Explorer" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Overview of AI Benchmark Explorer Tool&lt;/strong>
+&lt;div id="overview-of-ai-benchmark-explorer-tool" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#overview-of-ai-benchmark-explorer-tool" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>AI professionals, including Change Drivers, Managers, and Scientists, often face challenges despite clearly understanding the problems they aim to solve. Key issues include:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Identifying Appropriate Datasets&lt;/strong>: Determining which datasets are best suited for a specific problem can be difficult.&lt;/li>
+&lt;li>&lt;strong>Selecting Evaluation Metrics&lt;/strong>: Choosing the right metrics to assess the performance of a solution is crucial for accurate evaluation.&lt;/li>
+&lt;li>&lt;strong>Benchmarking Against Existing Models&lt;/strong>: Understanding the performance metrics of existing models for the same problem helps in setting realistic expectations.&lt;/li>
+&lt;li>&lt;strong>Exploring Tried Architectures&lt;/strong>: Reviewing architectures that others have implemented for similar problems can provide valuable insights.&lt;/li>
+&lt;li>&lt;strong>Assessing Problem Novelty&lt;/strong>: Determining whether the problem has already been solved or requires novel approaches is essential for resource allocation.&lt;/li>
+&lt;li>&lt;strong>Sourcing Solutions&lt;/strong>: Deciding between utilizing open-source solutions or opting for proprietary alternatives impacts cost and flexibility.&lt;/li>
+&lt;/ul>
+&lt;p>Addressing these challenges is vital for the successful development and implementation of AI solutions.&lt;/p></description></item></channel></rss>

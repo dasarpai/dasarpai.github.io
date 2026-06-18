@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Model Architecture on</title><link>https://dasarpai.github.io/tags/ai-model-architecture/</link><description>Recent content in AI Model Architecture on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-model-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>Variations of Language Model in Huggingface</title><link>https://dasarpai.github.io/dsblog/variations-of-language-model-in-huggingface/</link><pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/variations-of-language-model-in-huggingface/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg" alt="Variations-of-LanguageModel" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Variations of Language Model in Huggingface
+&lt;div id="variations-of-language-model-in-huggingface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#variations-of-language-model-in-huggingface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What the Model variable in Huggingface?
+&lt;div id="what-the-model-variable-in-huggingface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-the-model-variable-in-huggingface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?&lt;/p></description></item><item><title>Compressing Large Language Model</title><link>https://dasarpai.github.io/dsblog/compressing-llm/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/compressing-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6099-Compressing-LLM.jpg" alt="Compressing Large Language Model" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Compressing Large Language Model
+&lt;div id="compressing-large-language-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#compressing-large-language-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answers to following question then &amp;ldquo;Yes&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>What is LLM compression?&lt;/li>
+&lt;li>Why is LLM compression necessary?&lt;/li>
+&lt;li>What are the different techniques for LLM compression?&lt;/li>
+&lt;li>How does quantization work in LLM compression?&lt;/li>
+&lt;li>What is pruning, and how does it help in compressing LLMs?&lt;/li>
+&lt;li>Can you explain knowledge distillation in the context of LLMs?&lt;/li>
+&lt;li>What is low-rank factorization and its role in LLM compression?&lt;/li>
+&lt;li>How effective are weight sharing techniques in compressing LLMs?&lt;/li>
+&lt;li>What are the trade-offs involved in LLM compression?&lt;/li>
+&lt;li>How does fine-tuning work in the context of compressed LLMs?&lt;/li>
+&lt;li>What are the benefits of fine-tuning in compressed LLMs?&lt;/li>
+&lt;li>What role does hardware play in LLM compression?&lt;/li>
+&lt;li>What are the ethical considerations in LLM compression?&lt;/li>
+&lt;li>What are the future directions in LLM compression?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">1. &lt;strong>What is LLM Compression?&lt;/strong>
+&lt;div id="1-what-is-llm-compression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-what-is-llm-compression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM (Large Language Model) compression refers to a set of techniques and methodologies aimed at reducing the size of large language models while maintaining their performance as much as possible. Large language models, such as GPT, BERT, and their variants, often contain hundreds of millions to billions of parameters, making them resource-intensive to deploy and run. The sheer size of these models poses challenges in terms of storage, computation, and real-time inference, especially when deploying on devices with limited hardware resources like mobile phones or edge devices.&lt;/p></description></item><item><title>ML Model Development Framework</title><link>https://dasarpai.github.io/dsblog/ml-model-development-framework/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-development-framework/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg" alt="ML Model Development Framework" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Development Framework &amp;amp; Model Repositories
+&lt;div id="ml-model-development-framework--model-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-development-framework--model-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are hundreds of &lt;a href="https://dasarpai.github.io/dsblog/nlp-tasks">machine learning tasks&lt;/a>. To do these tasks there are &lt;a href="https://dasarpai.github.io/dsblog/Type-of-Databases">thousands of datasets&lt;/a> created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href="dsblog/ML-Model-Repository-from-Pinto0309">1&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/paperwithcode-resources">2&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/What-Are-Transformers-in-AI">3&lt;/a> and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p></description></item><item><title>Introduction to Neural Network</title><link>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg" alt="Introduction to Neural Network" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Neural Network
+&lt;div id="introduction-to-neural-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-neural-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to a Perceptron
+&lt;div id="introduction-to-a-perceptron" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-a-perceptron" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.&lt;/p></description></item><item><title>What Are Transformers in AI</title><link>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-are-transformers-in-ai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg" alt="What-are-Transformers-in-AI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Are Transformers in AI
+&lt;div id="what-are-transformers-in-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-transformers-in-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Transformer Architecture
+&lt;div id="transformer-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformer-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/transformer/transformer-arch.jpg" alt="Transformer" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item></channel></rss>

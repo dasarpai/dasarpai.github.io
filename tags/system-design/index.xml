@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>System Design on</title><link>https://dasarpai.github.io/tags/system-design/</link><description>Recent content in System Design on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/system-design/index.xml" rel="self" type="application/rss+xml"/><item><title>Selecting Database for Project</title><link>https://dasarpai.github.io/dsblog/selecting-database-for-project/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/selecting-database-for-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg" alt="Selecting Database for Project" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Essential Database Selection Criteria for Modern Applications
+&lt;div id="essential-database-selection-criteria-for-modern-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#essential-database-selection-criteria-for-modern-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answer for these questions then &amp;ldquo;Yes&amp;rdquo;.&lt;/p>
+&lt;ul>
+&lt;li>What parameters should you consider to choose a database for your project?&lt;/li>
+&lt;li>What are different data formats for bigdata?&lt;/li>
+&lt;li>What is the difference between OCR and Parquet data formats?&lt;/li>
+&lt;li>What is CAP Theorem?&lt;/li>
+&lt;li>What is the difference between Sharding and Partitioning&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What parameters should you consider to choose a database for your project?
+&lt;div id="what-parameters-should-you-consider-to-choose-a-database-for-your-project" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-parameters-should-you-consider-to-choose-a-database-for-your-project" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you are developing an application which need to store the data or you need to pull data from some format for your project work that time you need to take care of many parameters. Sometimes it looks there is an ovbious choice to go for a certain type of database for some specific work but most of the time it is challenging. What are those aspects of a database which you need to take care of?&lt;/p></description></item></channel></rss>

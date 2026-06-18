@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Engineering on</title><link>https://dasarpai.github.io/tags/software-engineering/</link><description>Recent content in Software Engineering on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>The Complete Ecosystem of Software Development</title><link>https://dasarpai.github.io/dsblog/the-complete-ecosystem-of-software-development/</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/the-complete-ecosystem-of-software-development/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg" alt="The Complete Ecosystem of Software Development" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Complete Ecosystem of Software Development
+&lt;div id="the-complete-ecosystem-of-software-development" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-complete-ecosystem-of-software-development" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Software processes are a fascinating area because they encapsulate not just the technical aspects but also the collaborative, creative, and even philosophical dimensions of how we build and deliver software. The discussion touches on everything from the foundational coding practices to advanced topics like sustainability, emerging technologies, and human dynamics within development teams. The list of processes, subprocesses, and tools makes sense for those who have been in the software development and maintenance business for quite some time. Even with decades of experience, you will find this list interesting to read, showing how far we have come from the early 80&amp;rsquo;s or 90&amp;rsquo;s software development.&lt;/p></description></item><item><title>ML Model Development Framework</title><link>https://dasarpai.github.io/dsblog/ml-model-development-framework/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-development-framework/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg" alt="ML Model Development Framework" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Development Framework &amp;amp; Model Repositories
+&lt;div id="ml-model-development-framework--model-repositories" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-development-framework--model-repositories" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>There are hundreds of &lt;a href="https://dasarpai.github.io/dsblog/nlp-tasks">machine learning tasks&lt;/a>. To do these tasks there are &lt;a href="https://dasarpai.github.io/dsblog/Type-of-Databases">thousands of datasets&lt;/a> created by individuals, governments, and corporations. We need to develop AI models using these datasets. There are thousands of models &lt;a href="dsblog/ML-Model-Repository-from-Pinto0309">1&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/paperwithcode-resources">2&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/What-Are-Transformers-in-AI">3&lt;/a> and many model development frameworks. It is practically mind-blowing to track this whole body of work and understand all this work in its entirety. But if you dive deeper into the following frameworks you will get a fair idea about the overall direction of the work. These frameworks are used to maintain pre-trained model repositories and download pre-trained models. You can develop your own finetuned model using those pre-trained models.&lt;/p></description></item></channel></rss>

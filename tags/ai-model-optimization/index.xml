@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Model Optimization on</title><link>https://dasarpai.github.io/tags/ai-model-optimization/</link><description>Recent content in AI Model Optimization on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-model-optimization/index.xml" rel="self" type="application/rss+xml"/><item><title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title><link>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg" alt="BitNet b1.58-2B4T" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.12285" target="_blank">Archive Paper Link&lt;/a>&lt;/p>
+&lt;h1 class="relative group">BitNet b1.58-2B4T: The Future of Efficient AI Processing
+&lt;div id="bitnet-b158-2b4t-the-future-of-efficient-ai-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bitnet-b158-2b4t-the-future-of-efficient-ai-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">A History of 1 bit Transformer Model
+&lt;div id="a-history-of-1-bit-transformer-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-history-of-1-bit-transformer-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A paper &amp;ldquo;The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits&amp;rdquo; was published by Stanford University, ETH Zürich, and EPFL. It was published on October 2023 (published on arXiv on October 17, 2023). &lt;a href="https://arxiv.org/pdf/2310.11453" target="_blank">Standord Paper Link&lt;/a>. The core Concept of 1.58 bits per parameter, was introduced here. This demonstrated that LLMs could be effectively trained and operated with extremely low-bit representation while maintaining competitive performance&lt;/p></description></item><item><title>Exploring GGUF and Other Model Formats</title><link>https://dasarpai.github.io/dsblog/exploring-gguf-and-other-model-formats/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-gguf-and-other-model-formats/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6180-exploring-gguf.jpg" alt="Understanding GGUF and Other Model Formats in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Understanding GGUF and Other Model Formats in Machine Learning&lt;/strong>
+&lt;div id="understanding-gguf-and-other-model-formats-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-gguf-and-other-model-formats-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>As machine learning models continue to grow in complexity, the need for efficient, flexible, and versatile model formats becomes more pronounced. While formats like ONNX, TensorFlow’s SavedModel, and PyTorch’s native format have been around for some time, newer formats like GGUF are gaining attention for their unique benefits. This article explores these formats, their use cases, and how they support various aspects of machine learning, including deployment, compatibility, and optimization.&lt;/p></description></item><item><title>Machine Learning Key Concepts</title><link>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg" alt="Exploring Docker and VS Code Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Key Concepts
+&lt;div id="machine-learning-key-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-key-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking for the answer to any of the following questions, then the answer is &amp;lsquo;Yes.&amp;rsquo;&lt;/p></description></item><item><title>Compressing Large Language Model</title><link>https://dasarpai.github.io/dsblog/compressing-llm/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/compressing-llm/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6099-Compressing-LLM.jpg" alt="Compressing Large Language Model" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Compressing Large Language Model
+&lt;div id="compressing-large-language-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#compressing-large-language-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answers to following question then &amp;ldquo;Yes&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>What is LLM compression?&lt;/li>
+&lt;li>Why is LLM compression necessary?&lt;/li>
+&lt;li>What are the different techniques for LLM compression?&lt;/li>
+&lt;li>How does quantization work in LLM compression?&lt;/li>
+&lt;li>What is pruning, and how does it help in compressing LLMs?&lt;/li>
+&lt;li>Can you explain knowledge distillation in the context of LLMs?&lt;/li>
+&lt;li>What is low-rank factorization and its role in LLM compression?&lt;/li>
+&lt;li>How effective are weight sharing techniques in compressing LLMs?&lt;/li>
+&lt;li>What are the trade-offs involved in LLM compression?&lt;/li>
+&lt;li>How does fine-tuning work in the context of compressed LLMs?&lt;/li>
+&lt;li>What are the benefits of fine-tuning in compressed LLMs?&lt;/li>
+&lt;li>What role does hardware play in LLM compression?&lt;/li>
+&lt;li>What are the ethical considerations in LLM compression?&lt;/li>
+&lt;li>What are the future directions in LLM compression?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">1. &lt;strong>What is LLM Compression?&lt;/strong>
+&lt;div id="1-what-is-llm-compression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-what-is-llm-compression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>LLM (Large Language Model) compression refers to a set of techniques and methodologies aimed at reducing the size of large language models while maintaining their performance as much as possible. Large language models, such as GPT, BERT, and their variants, often contain hundreds of millions to billions of parameters, making them resource-intensive to deploy and run. The sheer size of these models poses challenges in terms of storage, computation, and real-time inference, especially when deploying on devices with limited hardware resources like mobile phones or edge devices.&lt;/p></description></item><item><title>Model Tuning with VertexAI</title><link>https://dasarpai.github.io/dsblog/model-tuning-with-vertexai/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/model-tuning-with-vertexai/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg" alt="Model Tuning with VertexAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Tuning Large Language Model with VertexAI
+&lt;div id="tuning-large-language-model-with-vertexai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tuning-large-language-model-with-vertexai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why Model Tuning?
+&lt;div id="why-model-tuning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-model-tuning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tuning is required when you want the model to learn something niche or specific that deviates from general language patterns.&lt;/p>
+&lt;h2 class="relative group">Goal of Tuning
+&lt;div id="goal-of-tuning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#goal-of-tuning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Classification
+&lt;div id="classification" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#classification" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>prompt: &amp;ldquo;Classify the following text into one of the following classes: [business, entertainment].&amp;rdquo;&lt;/p></description></item><item><title>Cost Functions and Optimizers in Machine Learning</title><link>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg" alt="Cost-Functions-and-Optimizers-in-Machine-Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cost-Functions-and-Optimizers-in-Machine-Learning
+&lt;div id="cost-functions-and-optimizers-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cost-functions-and-optimizers-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is machine learning?
+&lt;div id="what-is-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subfield of artificial intelligence that focuses on the &lt;strong>development of algorithms and statistical models&lt;/strong> that enable computers to improve their performance on a specific task through experience.&lt;/p>
+&lt;p>In machine learning, the goal is to develop models that can &lt;strong>automatically learn patterns and relationships in data, and use that knowledge to make predictions or take actions&lt;/strong>. The models are trained on a large dataset, and the learning process involves &lt;strong>optimizing the parameters of the model to minimize the prediction error&lt;/strong>. For this purpose every algorithms uses some &lt;strong>cost function or loss function&lt;/strong>.&lt;/p></description></item></channel></rss>

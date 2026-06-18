@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Platforms on</title><link>https://dasarpai.github.io/tags/ai-platforms/</link><description>Recent content in AI Platforms on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-platforms/index.xml" rel="self" type="application/rss+xml"/><item><title>A Deep Dive into AI Model Marketplaces for Business Managers</title><link>https://dasarpai.github.io/dsblog/a-deep-dive-into-ai-model-marketplaces-for-business-managers/</link><pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/a-deep-dive-into-ai-model-marketplaces-for-business-managers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg" alt="AI Model Marketplaces" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Deep Dive into AI Model Marketplaces for Business Managers
+&lt;div id="a-deep-dive-into-ai-model-marketplaces-for-business-managers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-deep-dive-into-ai-model-marketplaces-for-business-managers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Introduction&lt;/strong>
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Artificial Intelligence (AI) is transforming industries, from customer service automation to data-driven decision-making. However, with hundreds of AI models available—ranging from OpenAI’s GPT-4 to Meta’s Llama 3—business leaders face a critical challenge: &lt;strong>Where should they source their AI models?&lt;/strong>&lt;/p></description></item><item><title>Exploring the Local Location of Ollama Models on WSL2</title><link>https://dasarpai.github.io/dsblog/exploring-ollama-models-location-on-wsl2/</link><pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-ollama-models-location-on-wsl2/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg" alt="Exploring the Location of Ollama Models on Local Machine" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring the Location of Ollama Models on Local Machine
+&lt;div id="exploring-the-location-of-ollama-models-on-local-machine" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-the-location-of-ollama-models-on-local-machine" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Objective
+&lt;div id="objective" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#objective" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Many times you may have a question like, I have installed ollama in wsl and download some ollama models. Ollama list shows me those models. I want to know where they are stored. Why it is needed? Because you want to use that location as volume in your docker container. And you don&amp;rsquo;t want to download the model everytime you start the container neither you want to have duplicate copy of the same model on your machine or network.&lt;/p></description></item><item><title>Automated Machine Learning</title><link>https://dasarpai.github.io/dsblog/automl-tools/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/automl-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6150-AutoML-Tools.jpg" alt="What is AutoML" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Automated Machine Learning
+&lt;div id="automated-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#automated-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is article is for you, if you know&lt;/p>
+&lt;ul>
+&lt;li>About Machine learning, ML models building&lt;/li>
+&lt;li>That machines are capable of building these models themselves.&lt;/li>
+&lt;/ul>
+&lt;p>But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p></description></item><item><title>Exploring Ollama &amp; LM Studio</title><link>https://dasarpai.github.io/dsblog/exploring-ollama/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-ollama/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6143-Exploring-Ollama.jpg" alt="Exploring Ollama &amp;amp; LM Studio" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Ollama &amp;amp; LM Studio
+&lt;div id="exploring-ollama--lm-studio" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-ollama--lm-studio" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answers to the following questions, then this article is for you:&lt;/p>
+&lt;ul>
+&lt;li>Question: What is Ollama? Is it like Docker?&lt;/li>
+&lt;li>Question: How is Ollama different from Docker?&lt;/li>
+&lt;li>Question: How to install ollama on my machine?&lt;/li>
+&lt;li>Question: How to create customized LLM Model (docker like image)?&lt;/li>
+&lt;li>Question: What are the LLM available on ollama?&lt;/li>
+&lt;li>Question: Can we integrate these hundreds with different UI like ChatGPT?&lt;/li>
+&lt;li>Question: If I want to use all these Ollama models via Jupyter Notebook then what to do?&lt;/li>
+&lt;li>Question: Does Ollama have plugins like github copilot? Can I use those from my visual code?&lt;/li>
+&lt;li>Question: What kind of software are LM Studio or Ollama?&lt;/li>
+&lt;li>Question: What is LM Studio and how different it is from Ollama?&lt;/li>
+&lt;li>Question: What are different formats to save model, specifically LLMs?&lt;/li>
+&lt;li>Question: What is gguf model extention?&lt;/li>
+&lt;li>Question: If I have finetuned my models using clouds like aws sagemaker, vertexai, azure and kept there then can I use them inside my ollama and LM Studio?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Question: What is Ollama? Is it like Docker?
+&lt;div id="question-what-is-ollama-is-it-like-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-what-is-ollama-is-it-like-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Ollama is a platform designed to make running and interacting with large language models (LLMs) easier. It abstracts away the complexities of managing LLM models, GPU resources, and related configurations by offering a simple CLI interface. With Ollama, you can run, manage, and deploy LLMs locally or in various cloud environments without having to worry about the intricate details of setting up environments, downloading models, or configuring them.&lt;/p></description></item><item><title>Variations of Language Model in Huggingface</title><link>https://dasarpai.github.io/dsblog/variations-of-language-model-in-huggingface/</link><pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/variations-of-language-model-in-huggingface/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg" alt="Variations-of-LanguageModel" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Variations of Language Model in Huggingface
+&lt;div id="variations-of-language-model-in-huggingface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#variations-of-language-model-in-huggingface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What the Model variable in Huggingface?
+&lt;div id="what-the-model-variable-in-huggingface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-the-model-variable-in-huggingface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Repository from Pinto0309
+&lt;div id="ml-model-repository-from-pinto0309" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-repository-from-pinto0309" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p></description></item></channel></rss>

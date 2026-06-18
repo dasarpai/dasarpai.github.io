@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hindi Terms on</title><link>https://dasarpai.github.io/tags/hindi-terms/</link><description>Recent content in Hindi Terms on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 19 Feb 2021 11:28:49 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/hindi-terms/index.xml" rel="self" type="application/rss+xml"/><item><title>हितधारक सहभागिता निगरानी</title><link>https://dasarpai.github.io/pmbok6hi/monitor-stakeholder-engagement-hi/</link><pubDate>Fri, 19 Feb 2021 11:28:49 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/monitor-stakeholder-engagement-hi/</guid><description>&lt;h2 class="relative group">हितधारक सहभागिता निगरानी (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-data-hi">कार्य प्रदर्शन आंकडे&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Data">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पलिया&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/decision-making-hi">निर्णय लेना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Decision-Making">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-skills-hi">संचार कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोक व्यवहार एवं लोशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठके&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-information-hi">कार्य प्रदर्शन ओका&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Information">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>हितधारक सहभागिता प्रबंधन</title><link>https://dasarpai.github.io/pmbok6hi/manage-stakeholder-engagement-hi/</link><pubDate>Fri, 19 Feb 2021 11:25:43 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/manage-stakeholder-engagement-hi/</guid><description>&lt;h2 class="relative group">हितधारक सहभागिता प्रबंधन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org/" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-skills-hi">निरीक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">संचार कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/ground-rules-hi">लोक व्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Ground-Rules">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">मूलभूत नियम&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>हितधारक सहभागिता नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-stakeholder-engagement-hi/</link><pubDate>Fri, 19 Feb 2021 11:23:04 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-stakeholder-engagement-hi/</guid><description>&lt;h2 class="relative group">हितधारक सहभागिता नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%AD%E0%A4%97%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org/" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/agreements-hi">अनुबंध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Agreements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकडे विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/decision-making-hi">निर्णय लेना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Decision-Making">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/stakeholder-engagement-plan-hi">हितधारक सहभागिता योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Stakeholder-Engagement-Plan">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>हितधारकों की पहचान</title><link>https://dasarpai.github.io/pmbok6hi/identify-stakeholders-hi/</link><pubDate>Fri, 19 Feb 2021 11:18:29 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/identify-stakeholders-hi/</guid><description>&lt;h2 class="relative group">हितधारकों की पहचान (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%95-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B9%E0%A4%A4%E0%A4%A7%E0%A4%B0%E0%A4%95-%E0%A4%95-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org/" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/business-documents-hi">व्यापारिक दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Business-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/agreements-hi">अनुबंध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Agreements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/stakeholder-register-hi">हितधारक पंजिका&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Stakeholder-Register">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>आपूर्ति नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/control-procurements-hi/</link><pubDate>Fri, 19 Feb 2021 11:15:40 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/control-procurements-hi/</guid><description>&lt;h2 class="relative group">आपूर्ति नियंत्रण (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/agreements-hi">अनुबंध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Agreements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/procurement-documentation-hi">आपूर्ति दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Procurement-Documentation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/approved-change-requests-hi">अनुमोदित परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Approved-Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-data-hi">कार्य प्रदर्शन आंकड़े&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Data">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/claims-administration-hi">दावा प्रशासन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Claims-Administration">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/inspection-hi">निरीक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Inspection">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/audits-hi">अंकेक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Audits">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/closed-procurements-hi">आपूर्ति समापन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Closed-Procurements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-information-hi">कार्य प्रदर्शन सूचना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Information">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/procurement-documentation-updates-hi">आपूर्ति दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Procurement-Documentation-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-updates-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>आपूर्ति संचालन</title><link>https://dasarpai.github.io/pmbok6hi/conduct-procurements-hi/</link><pubDate>Fri, 19 Feb 2021 11:05:40 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/conduct-procurements-hi/</guid><description>&lt;h2 class="relative group">आपूर्ति संचालन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%B8%E0%A4%9A%E0%A4%B2%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%B8%E0%A4%9A%E0%A4%B2%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/procurement-documentation-hi">आपूर्ति दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Procurement-Documentation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/seller-proposals-hi">विक्रेता के प्रस्ताव&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Seller-Proposals">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/advertising-hi">विज्ञापन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Advertising">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/bidder-conferences-hi">बोलीदाता सम्मेलन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Bidder-Conferences">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/selected-sellers-hi">चयनित विक्रेता&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Selected-Sellers">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/agreements-hi">अनुबंध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Agreements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-updates-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>आपूर्ति प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-procurement-management-hi/</link><pubDate>Fri, 19 Feb 2021 11:02:26 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-procurement-management-hi/</guid><description>&lt;h2 class="relative group">आपूर्ति प्रबंध नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%86%E0%A4%AA%E0%A4%B0%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/business-documents-hi">व्यापारिक दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Business-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/source-selection-analysis-hi">स्त्रोत चयन मानदंड&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Source-Selection-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/procurement-management-plan-hi">आपूर्ति प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Procurement-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/-organizational-process-assets-updates-hi"> संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/-Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/procurement-strategy-hi">आपूर्ति रणनीति&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Procurement-Strategy">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/bid-documents-hi">बोली दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Bid-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/procurement-statement-of-work-hi">आपूर्ति कार्य का विवरणपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Procurement-Statement-Of-Work">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/source-selection-criteria-hi">स्त्रोत चयन मानदंड&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Source-Selection-Criteria">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/make-or-buy-decisions-hi">निर्माण या खरीदने का निर्णय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Make-Or-Buy-Decisions">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/independent-cost-estimates-hi">स्वतंत्र लागत आकलन &lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Independent-Cost-Estimates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>जोखिम निगरानी</title><link>https://dasarpai.github.io/pmbok6hi/monitor-risks-hi/</link><pubDate>Fri, 19 Feb 2021 08:59:22 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/monitor-risks-hi/</guid><description>&lt;h2 class="relative group">जोखिम निगरानी (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-data-hi">कार्य प्रदर्शन आंकड़े&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Data">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-reports-hi">कार्य प्रदर्शन प्रतिवेदन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Reports">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/audits-hi">अंकेक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Audits">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-information-hi">कार्य प्रदर्शन सूचना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Information">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-updates-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>जोखिम प्रत्युत्तर क्रियान्वयन</title><link>https://dasarpai.github.io/pmbok6hi/implement-risk-responses-hi/</link><pubDate>Fri, 19 Feb 2021 08:55:46 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/implement-risk-responses-hi/</guid><description>&lt;h2 class="relative group">जोखिम प्रत्युत्तर क्रियान्वयन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%A4%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%A8%E0%A4%B5%E0%A4%AF%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%A4%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%A8%E0%A4%B5%E0%A4%AF%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-information-system-hi">परियोजना प्रबंध सूचना प्रणाली&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Information-System">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Plan Risk Responses - Hindi</title><link>https://dasarpai.github.io/pmbok6hi/plan-risk-responses-hi/</link><pubDate>Fri, 19 Feb 2021 08:50:14 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-risk-responses-hi/</guid><description>&lt;h2 class="relative group">जोखिम प्रत्युत्तर नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%A4%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%B0-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%A4%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%B0-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/strategies-for-threats-hi">आशंकाओं के लिए रणनीतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Strategies-For-Threats">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/strategies-for-opportunities-hi">अवसरों के लिए रणनीतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Strategies-For-Opportunities">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/contingent-response-strategies-hi">आकस्मिक प्रत्युत्तर रणनीतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Contingent-Response-Strategies">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/strategies-for-overall-project-risk-hi">संपूर्ण परियोजना जोखिमों के लिए रणनीतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Strategies-For-Overall-Project-Risk">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/decision-making-hi">निर्णय लेना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Decision-Making">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>मात्रात्मक जोखिम विश्लेषण</title><link>https://dasarpai.github.io/pmbok6hi/perform-quantitative-risk-analysis-hi/</link><pubDate>Fri, 19 Feb 2021 08:41:07 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/perform-quantitative-risk-analysis-hi/</guid><description>&lt;h2 class="relative group">मात्रात्मक जोखिम विश्लेषण (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%AE%E0%A4%A4%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%95-%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%B5%E0%A4%B6%E0%A4%B2%E0%A4%B7%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AE%E0%A4%A4%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A4%95-%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%B5%E0%A4%B6%E0%A4%B2%E0%A4%B7%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/representations-of-uncertainty-hi">अनिश्चितता का निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Representations-Of-Uncertainty">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>गुणवत्तात्मक जोखिम विश्लेषण</title><link>https://dasarpai.github.io/pmbok6hi/perform-qualitative-risk-analysis-hi/</link><pubDate>Fri, 19 Feb 2021 08:35:04 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/perform-qualitative-risk-analysis-hi/</guid><description>&lt;h2 class="relative group">गुणवत्तात्मक जोखिम विश्लेषण (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4%E0%A4%A4%E0%A4%AE%E0%A4%95-%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%B5%E0%A4%B6%E0%A4%B2%E0%A4%B7%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4%E0%A4%A4%E0%A4%AE%E0%A4%95-%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%B5%E0%A4%B6%E0%A4%B2%E0%A4%B7%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/risk-categorization-hi">जोखिम वर्गीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Risk-Categorization">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">संचार&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>जोखिमों की पहचान</title><link>https://dasarpai.github.io/pmbok6hi/identify-risks-hi/</link><pubDate>Fri, 19 Feb 2021 08:33:23 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/identify-risks-hi/</guid><description>&lt;h2 class="relative group">जोखिमों की पहचान (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%95-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%95-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/project-management-plan-hi" alt="परियोजना प्रबंध योजना" />
+&lt;/figure>
+=&amp;gt;
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/project-management-plan" alt="English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/project-documents-hi" alt="परियोजना दस्तावेज" />
+&lt;/figure>
+=&amp;gt;
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/project-documents" alt="English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/agreements-hi" alt="अनुबंध" />
+&lt;/figure>
+=&amp;gt;
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6/agreements" alt="English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/procurement-documentation-hi" alt="आपूर्ति दस्तावेज" />
+&lt;/figure>
+=&amp;gt;
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/procurement-documentation" alt="English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/enterprise-environmental-factors-hi" alt="प्रतिष्ठान परिवेश के कारक" />
+&lt;/figure>
+=&amp;gt;
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/enterprise-environmental-factors" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/organizational-process-assets-hi" alt="संगठनात्मक प्रक्रिया परिसम्पत्तियां" />
+&lt;/figure>
+=&amp;gt;
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/organizational-process-assets" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/expert-judgement-hi" alt="विशेषज्ञ की राय" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/expert-judgement" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/data-gathering-hi" alt="आंकड़े एकत्रीकरण" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/data-gathering" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/data-analysis-hi" alt="आंकड़े विश्लेषण" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/data-analysis" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/interpersonal-and-team-skills-hi" alt="लोकव्यवहार एवं दल कौशल" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/interpersonal-and-team-skills" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/prompt-lists-hi" alt="प्रॉम्प्ट लिस्ट" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/prompt-lists" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/meetings-hi" alt="बैठकें" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/meetings" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/risk-register-hi" alt="जोखिम पंजिका" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/risk-register" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/risk-report-hi" alt="जोखिम प्रतिवेदन" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/risk-report" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;li>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6hi/pmbok6hi/project-documents-updates-hi" alt="परियोजना दस्तावेज अद्यतन" />
+&lt;/figure>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/pmbok6/project-documents-updates" alt="~English" />
+&lt;/figure>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>&lt;a href="https://dasarpai.github.io/pmbok6hi/pmbok6hi/process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>जोखिम प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-risk-management-hi/</link><pubDate>Fri, 19 Feb 2021 08:30:16 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-risk-management-hi/</guid><description>&lt;h2 class="relative group">जोखिम प्रबंध नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%9C%E0%A4%96%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/risk-management-plan-hi">जोखिम प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Risk-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>संचार निगरानी</title><link>https://dasarpai.github.io/pmbok6hi/monitor-communications-hi/</link><pubDate>Fri, 19 Feb 2021 08:25:25 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/monitor-communications-hi/</guid><description>&lt;h2 class="relative group">संचार निगरानी (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">व्यापार दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-data-hi">कार्य प्रदर्शन आंकड़े&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Data">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-information-system-hi">परियोजना प्रबंधन सूचना प्रणाली&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Information-System">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-information-hi">कार्य प्रदर्शन सूचना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Information">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना आयतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>संचार प्रबंधन</title><link>https://dasarpai.github.io/pmbok6hi/manage-communications-hi/</link><pubDate>Fri, 19 Feb 2021 08:23:49 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/manage-communications-hi/</guid><description>&lt;h2 class="relative group">संचार प्रबंधन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-reports-hi">कार्य प्रदर्शन प्रतिवेदन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Reports">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-technology-hi">संचार प्रौद्योगिकी&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Technology">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-methods-hi">संचार मॉडेल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Methods">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-skills-hi">संचार कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-information-system-hi">परियोजना प्रबंधन सूचना प्रणाली&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Information-System">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-reporting-hi">परियोजना रिपोर्टिंग&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Reporting">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोक व्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-communications-hi">परियोजना संचार&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Communications">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-updates-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>संचार प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-communications-management-hi/</link><pubDate>Fri, 19 Feb 2021 08:19:25 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-communications-management-hi/</guid><description>&lt;h2 class="relative group">संचार प्रबंध नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B8%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-requirements-analysis-hi">संचार आवश्यकता विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Requirements-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-technology-hi">संचार प्रौद्योगिकी&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Technology">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-models-hi">संचार मॉडेल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Models">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-methods-hi">संचार पद्धतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Methods">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communications-management-plan-hi">संचार प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communications-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>संसाधन नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/control-resources-hi/</link><pubDate>Fri, 19 Feb 2021 06:56:06 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/control-resources-hi/</guid><description>&lt;h2 class="relative group">संसाधन नियंत्रण (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-data-hi">कार्य प्रदर्शन आंकड़े&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Data">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/agreements-hi">अनुबंध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Agreements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/problem-solving-hi">समस्या समाधान&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Problem-Solving">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-information-system-hi">परियोजना प्रबंध सूचना प्रणाली&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Information-System">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-information-hi">कार्य प्रदर्शन सूचना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Information">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>दल प्रबंधन</title><link>https://dasarpai.github.io/pmbok6hi/manage-team-hi/</link><pubDate>Fri, 19 Feb 2021 06:50:59 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/manage-team-hi/</guid><description>&lt;h2 class="relative group">दल प्रबंधन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%A6%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%A6%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-reports-hi">कार्य प्रदर्शन प्रतिवेदन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Reports">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/team-performance-assessments-hi">दल कार्यप्रदर्शन मूल्यांकन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Team-Performance-Assessments">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-information-system-hi">परियोजना प्रबंधन सूचना प्रणाली&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Information-System">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-updates-hi">प्रतिष्ठान परिवेश के कारक अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>दल विकास</title><link>https://dasarpai.github.io/pmbok6hi/develop-team-hi/</link><pubDate>Fri, 19 Feb 2021 06:48:51 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/develop-team-hi/</guid><description>&lt;h2 class="relative group">दल विकास (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%A6%E0%A4%B2-%E0%A4%B5%E0%A4%95%E0%A4%B8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%A6%E0%A4%B2-%E0%A4%B5%E0%A4%95%E0%A4%B8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/colocation-hi">सहस्थान&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Colocation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/virtual-teams-hi">आभासी दल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Virtual-Teams">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/communication-technology-hi">संचार प्रौद्योगिकी&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Communication-Technology">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/recognition-and-rewards-hi">सम्मान एवं पुरस्कार&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Recognition-And-Rewards">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/training-hi">प्रशिक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Training">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/individual-and-team-assessments-hi">व्यक्ति एवं दल नियुक्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Individual-And-Team-Assessments">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/team-performance-assessments-hi">दल कार्यप्रदर्शन मूल्यांकन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Team-Performance-Assessments">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-updates-hi">प्रतिष्ठान परिवेश के कारक अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-updates-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>संसाधन अधिग्रहण</title><link>https://dasarpai.github.io/pmbok6hi/acquire-resources-hi/</link><pubDate>Fri, 19 Feb 2021 06:45:26 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/acquire-resources-hi/</guid><description>&lt;h2 class="relative group">संसाधन अधिग्रहण (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%97%E0%A4%B0%E0%A4%B9%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%97%E0%A4%B0%E0%A4%B9%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">व्यापार दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/decision-making-hi">निर्णय लेना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Decision-Making">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/interpersonal-and-team-skills-hi">लोकव्यवहार एवं दल कौशल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Interpersonal-And-Team-Skills">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/pre-assignment-hi">पूर्व नियुक्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Pre-Assignment">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/virtual-teams-hi">आभासी दल&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Virtual-Teams">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/physical-resource-assignments-hi">भौतिक संसाधन नियुक्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Physical-Resource-Assignments">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-team-assignments-hi">परियोजना दल नियुक्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Team-Assignments">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/resource-calendars-hi">संसाधन कैलेंडर&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Resource-Calendars">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-updates-hi">प्रतिष्ठान परिवेश के कारक अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-updates-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>गतिविधि संसाधन आकलन</title><link>https://dasarpai.github.io/pmbok6hi/estimate-activity-resources-hi/</link><pubDate>Fri, 19 Feb 2021 06:32:54 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/estimate-activity-resources-hi/</guid><description>&lt;h2 class="relative group">गतिविधि संसाधन आकलन
+&lt;div id="%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%86%E0%A4%95%E0%A4%B2%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%86%E0%A4%95%E0%A4%B2%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>चिन्हित गतिविधियों को करने के लिए आवश्यक संसाधनों के प्रकार और संख्या का अनुमान लगाना। आप सोच रहे होंगे कि इस प्रक्रिया की तुलना में अनुक्रम गतिविधियों की प्रक्रिया पहले क्यों है। हमारे अनुभव से, हम जानते हैं कि गतिविधि का अनुक्रम आवश्यक संसाधनों के प्रकार और संख्या को प्रभावित करता है। यदि दो गतिविधियां A &amp;amp; B, जो समान प्रकार की हैं और एक संसाधन द्वारा पूरी की जा सकती हैं, तो समानांतर रूप से की जानी चाहिए, तो आपको दो संसाधनों की आवश्यकता होगी अन्यथा परियोजना पर केवल एक संसाधन लेने से हमें समय पर काम पूरा करने में मदद मिल सकती है। यह संसाधन आकलन पर गतिविधि अनुक्रम निर्धारित करने का प्रभाव है।&lt;/p></description></item><item><title>संसाधन प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-resource-management-hi/</link><pubDate>Fri, 19 Feb 2021 06:26:36 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-resource-management-hi/</guid><description>&lt;h2 class="relative group">संसाधन प्रबंध नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B8%E0%A4%B8%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-theory-hi">संगठनात्मक सिद्धांत&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Theory">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/resource-management-plan-hi">संसाधन प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Resource-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/team-charter-hi">दल अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Team-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>लागत नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/control-costs-hi/</link><pubDate>Fri, 19 Feb 2021 06:23:56 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/control-costs-hi/</guid><description>&lt;h2 class="relative group">लागत नियंत्रण (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Inputs&lt;/strong>
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/project-funding-requirements">Project Funding Requirements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/to-complete-performance-index">To-Complete Performance Index&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>Outputs&lt;/strong>
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/cost-forecasts">Cost Forecasts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>बजट निर्धारण</title><link>https://dasarpai.github.io/pmbok6hi/determine-budget-hi/</link><pubDate>Fri, 19 Feb 2021 06:22:19 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/determine-budget-hi/</guid><description>&lt;h2 class="relative group">बजट निर्धारण
+&lt;div id="%E0%A4%AC%E0%A4%9C%E0%A4%9F-%E0%A4%A8%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AC%E0%A4%9C%E0%A4%9F-%E0%A4%A8%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This the process we roll-up the activity cost estimates to milestone level. At this stage, we know how much money is required to achieve which milestone, in the project lifecycle when that money will be required? How the money will be realized (the source)? Budget negotiation for funding requirements against funding available happens in the process. After all the negotiations are done successfully project cost is baselines in this process. After the cost/budget has been negotiated, approved and baseline it cannot be changed without approval from the change control board (CCD).&lt;/p></description></item><item><title>लागत आकलन</title><link>https://dasarpai.github.io/pmbok6hi/estimate-costs-hi/</link><pubDate>Fri, 19 Feb 2021 06:17:55 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/estimate-costs-hi/</guid><description>&lt;h2 class="relative group">लागत आकलन
+&lt;div id="%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%86%E0%A4%95%E0%A4%B2%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%86%E0%A4%95%E0%A4%B2%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is the second process of the cost management knowledge area. The process of developing an approximation of the monetary resources needed to complete the project activities. Following activities should be done as a part of this process.&lt;/p>
+&lt;ul>
+&lt;li>The cost of every activity is estimated by adding the cost of all the resources of an activity.&lt;/li>
+&lt;li>Based on the organization policy calculate the cost of overhead, indirect cost, labor cost, material cost, services cost, etc.&lt;/li>
+&lt;li>Document the assumptions, which are the basis of the estimation.&lt;/li>
+&lt;li>Estimate the contingency reserve for the project, each milestone, phase.&lt;/li>
+&lt;/ul>
+&lt;p>We know from our experience that the money which we pay for using resources on our project are paid at a different time sometimes in advance of using resources, other times after using resources, and other times it may be prorated basis. This is another important thing we should keep in mind when we are estimating the resource cost. Although this is part of the next process, Determine Budget, but until we put the resource cost at the right place on the project timeline it will be a wrong approximation when we sum-up the cost for budgeting purposes.&lt;/p></description></item><item><title>लागत प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-cost-management-hi/</link><pubDate>Fri, 19 Feb 2021 06:06:50 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-cost-management-hi/</guid><description>&lt;h2 class="relative group">लागत प्रबंध नियोजन
+&lt;div id="%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>“लागत प्रबंध नियोजन” लागत प्रबंधन ज्ञान क्षेत्र की पहली प्रक्रिया है। यह प्रक्रिया निम्नलिखित प्रश्नों के उत्तर का दस्तावेजित बनाती है।&lt;/p>
+&lt;ul>
+&lt;li>नियोजित गतिविधियों का आकलन कैसे किया जाएगा?&lt;/li>
+&lt;li>बजट कैसे तैयार किया जाएगा?&lt;/li>
+&lt;li>लागत के विभिन्न प्रकार क्या हैं जो लागत बेसलाइन का हिस्सा होना चाहिए?&lt;/li>
+&lt;li>लागत सहिष्णुता सीमा क्या होगी?&lt;/li>
+&lt;li>जोखिमों के प्रबंधन के लिए बजट का निर्धारण कैसे करें। लागत अनुमान का दायरा, क्या हमें संपूर्ण परियोजना की लागत या परियोजना के एक हिस्से का अनुमान लगाना चाहिए?&lt;/li>
+&lt;li>“आकलन” के लिए आवश्यक उपकरण, तकनीक, टेम्पलेट, संदर्भ आकलन स्रोत क्या हैं?&lt;/li>
+&lt;li>परियोजना की लागत के प्रदर्शन की रिपोर्ट करने के लिए मीट्रिक क्या हैं लागत (प्रक्रिया, प्रणाली, उपकरण, लोग, प्रशिक्षण आदि) की निगरानी और नियंत्रण कैसे करें?&lt;/li>
+&lt;li>ग्राहक को बिलिंग के लिए या विक्रेता भागीदारों को भुगतान करने के लिए वित्त विभाग द्वारा आवंटित लेखा कोड का निर्धारण&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">लागत प्रबंध नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B2%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p></description></item><item><title>गुणवत्ता नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/control-quality-hi/</link><pubDate>Thu, 18 Feb 2021 18:10:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/control-quality-hi/</guid><description>&lt;h2 class="relative group">गुणवत्ता नियंत्रण (Process Summary)
+&lt;div id="%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-process-summary" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3-process-summary" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/approved-change-requests-hi">अनुमोदित परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Approved-Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/deliverables-hi">प्रदेय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Deliverables">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-data-hi">कार्य प्रदर्शन आंकड़े&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Data">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/inspection-hi">निरीक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Inspection">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/testing/product-evaluations-hi">परीक्षणउत्पाद मूल्यांकन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Testing/Product-Evaluations">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/quality-control-measurements-hi">गुणवत्ता नियंत्रण माप&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Quality-Control-Measurements">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/verified-deliverables-hi">सत्यापित प्रदेय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Verified-Deliverables">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/work-performance-information-hi">कार्य प्रदर्शन सूचना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Work-Performance-Information">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>गुणवत्ता प्रबंधन</title><link>https://dasarpai.github.io/pmbok6hi/manage-quality-hi/</link><pubDate>Thu, 18 Feb 2021 18:06:29 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/manage-quality-hi/</guid><description>&lt;h2 class="relative group">गुणवत्ता प्रबंधन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/decision-making-hi">निर्णय लेना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Decision-Making">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/audits-hi">अंकेक्षण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Audits">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/design-for-x-hi">X के लिए डिजाइन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Design-For-X">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/problem-solving-hi">समस्या समाधान&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Problem-Solving">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/quality-improvement-methods-hi">गुणवत्ता सुधार पद्धतियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Quality-Improvement-Methods">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/quality-reports-hi">गुणवत्ता प्रतिवेदन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Quality-Reports">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/test-and-evaluation-documents-hi">परीक्षण और मूल्यांकन दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Test-And-Evaluation-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/change-requests-hi">परिवर्तन अनुरोध&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Change-Requests">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-updates-hi">परियोजना दस्तावेज अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>गुणवत्ता प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-quality-management-hi/</link><pubDate>Thu, 18 Feb 2021 18:03:13 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-quality-management-hi/</guid><description>&lt;h2 class="relative group">गुणवत्ता प्रबंध नियोजन (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards" target="_blank">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org" target="_blank">PMI&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Inputs
+&lt;div id="inputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#inputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-charter-hi">परियोजना अधिकारपत्र&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Charter">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-hi">परियोजना प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-documents-hi">परियोजना दस्तावेज&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Documents">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/enterprise-environmental-factors-hi">प्रतिष्ठान परिवेश के कारक&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Enterprise-Environmental-Factors">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/organizational-process-assets-hi">संगठनात्मक प्रक्रिया परिसम्पत्तियां&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Organizational-Process-Assets">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Tools &amp;amp; Techniques
+&lt;div id="tools--techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tools--techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/expert-judgement-hi">विशेषज्ञ की राय&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Expert-Judgement">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-gathering-hi">आंकड़े एकत्रीकरण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Gathering">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-analysis-hi">आंकड़े विश्लेषण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Analysis">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/decision-making-hi">निर्णय लेना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Decision-Making">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/data-representation-hi">आंकड़े निरुपण&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Data-Representation">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/test-and-inspection-planning-hi">परीक्षण और निरीक्षण नियोजन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Test-And-Inspection-Planning">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/meetings-hi">बैठकें&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Meetings">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Outputs
+&lt;div id="outputs" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#outputs" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/quality-management-plan-hi">गुणवत्ता प्रबंध योजना&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Quality-Management-Plan">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/quality-metrics-hi">गुणवत्ता मेट्रिक्स&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Quality-Metrics">~English&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/pmbok6hi/project-management-plan-updates-hi">परियोजना प्रबंध योजना अद्यतन&lt;/a> &lt;a href="https://dasarpai.github.io/pmbok6/Project-Management-Plan-Updates">~English&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>शेड्यूल नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/control-schedule-hi/</link><pubDate>Thu, 18 Feb 2021 17:43:46 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/control-schedule-hi/</guid><description>&lt;h2 class="relative group">शेड्यूल नियंत्रण
+&lt;div id="%E0%A4%B6%E0%A4%A1%E0%A4%AF%E0%A4%B2-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B6%E0%A4%A1%E0%A4%AF%E0%A4%B2-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Once the deliverables and schedule have been promised to the stakeholders. The project team should be committed to complete the planned activities as per the schedule. Monitor the actual time taken to complete the activities, measure the schedule variation if any, compare the variation against the allowed limit, analyze the reasons for variation. Prepare a detailed corrective action plan so that whatever possible time can be recovered. Prepare a detailed preventive action plan so that in the future you can avoid certain activities that cause delays. If there is a variation that is causing an overall delay in the deliverables or milestones or phase, then forecast the schedule which is doable.&lt;/p></description></item><item><title>शेड्यूल विकास</title><link>https://dasarpai.github.io/pmbok6hi/develop-schedule-hi/</link><pubDate>Thu, 18 Feb 2021 17:24:09 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/develop-schedule-hi/</guid><description>&lt;h2 class="relative group">शेड्यूल विकास
+&lt;div id="%E0%A4%B6%E0%A4%A1%E0%A4%AF%E0%A4%B2-%E0%A4%B5%E0%A4%95%E0%A4%B8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B6%E0%A4%A1%E0%A4%AF%E0%A4%B2-%E0%A4%B5%E0%A4%95%E0%A4%B8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Develop Schedule is the last planning process of time management knowledge area. So it is the final stage of schedule development. The only purpose of this process is to make a project schedule that is doable and acceptable to all the relevant stakeholders. Thus schedule baseline is the output of this process.&lt;br>
+But you will notice that by this time in earlier 5 processes of time management namely Plan Schedule Management, Define Activities, Sequence Activities, Estimate Activity Resources, Estimate Activity Duration we have not done anything to optimize the overall project schedule. In today’s business environment time is the most critical and scarce resource so we should perform certain activities using some scheduling tools to analyze the robustness of the schedule, to optimize the resource, to optimize the cost, and to optimize the time.&lt;/p></description></item><item><title>गतिविधि अवधि आकलन</title><link>https://dasarpai.github.io/pmbok6hi/estimate-activity-durations-hi/</link><pubDate>Thu, 18 Feb 2021 17:19:53 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/estimate-activity-durations-hi/</guid><description>&lt;h2 class="relative group">गतिविधि अवधि आकलन
+&lt;div id="%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%85%E0%A4%B5%E0%A4%A7-%E0%A4%86%E0%A4%95%E0%A4%B2%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%85%E0%A4%B5%E0%A4%A7-%E0%A4%86%E0%A4%95%E0%A4%B2%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Estimating the time required (in hours, days, or weeks). It is suggested that you estimate duration in productive hours. If you are estimating in days or weeks then you should not include non-productive hours, weekly offs, availability of more people to complete the work earlier. For example, to fix a door in the building with the estimated resources (man, material, equipment) you estimated duration as 4 hours. Now for example, if 4 people are required to complete the work then human efforts is 16 hours. It is not 2 days! Nor 1 hour with 16 people! Nor 6 days because work starts on 1-Jan-16 and the first day only 2 hours’ work happens then 4 days off because of any reason (a person will not be available, company off, lead time to complete the work, etc) and remaining 2 hours’ work will be done on 6-Jan-16. So this estimation is neither effort, nor schedule, nor time/resource optimization. This is just about how much duration is required to complete the work with the estimated resources.&lt;/p></description></item><item><title>गतिविधि अनुक्रमण</title><link>https://dasarpai.github.io/pmbok6hi/sequence-activities-hi/</link><pubDate>Thu, 18 Feb 2021 17:14:25 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/sequence-activities-hi/</guid><description>&lt;h2 class="relative group">गतिविधि अनुक्रमण
+&lt;div id="%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%85%E0%A4%A8%E0%A4%95%E0%A4%B0%E0%A4%AE%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%85%E0%A4%A8%E0%A4%95%E0%A4%B0%E0%A4%AE%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>After listing all the activities and identifying &lt;a href="https://dasarpai.github.io/pmbok6/activity-attributes">Activity Attributes&lt;/a> we should sequence the activities based on their attributes and make a dependency diagram of project activities. This is called project schedule network diagram. This is one of the cores of the project’s success. If you do not put dependencies correctly or define dependencies based on assumptions or out of ignorance, then project schedule adherence will be a great difficulty. Mark those activities where the sequence can be altered i.e. &lt;a href="https://dasarpai.github.io/pmbok6/soft-dependency">soft dependency&lt;/a>. This information will help you for optimizing resources, negotiating a scheduled timeline, altering the critical path of the project. Therefore, pay high attention and take the help of the experts for determining the dependency, lead or lag time of the activities.&lt;/p></description></item><item><title>गतिविधि निर्धारण</title><link>https://dasarpai.github.io/pmbok6hi/define-activities-hi/</link><pubDate>Thu, 18 Feb 2021 17:11:29 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/define-activities-hi/</guid><description>&lt;h2 class="relative group">गतिविधि निर्धारण
+&lt;div id="%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%A8%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%97%E0%A4%A4%E0%A4%B5%E0%A4%A7-%E0%A4%A8%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you know what needs to be delivered and the customer agrees about the problem and proposed solution then you should make a detailed execution plan. The first step in this journey of making a detailed execution plan is to list the activities and define the activities which need to be done to produce those deliverables. Thus the purpose of this process is to know what work needs to be done by the team and partners. This process also does the listing of all project milestones and attributes of the activities.&lt;/p></description></item><item><title>शेड्यूल प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-schedule-management-hi/</link><pubDate>Thu, 18 Feb 2021 17:06:49 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-schedule-management-hi/</guid><description>&lt;h2 class="relative group">शेड्यूल प्रबंध नियोजन
+&lt;div id="%E0%A4%B6%E0%A4%A1%E0%A4%AF%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%B6%E0%A4%A1%E0%A4%AF%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Plan schedule management is the first process of the Time Management Knowledge Area. In this process, you need to prepare a plan which will help you in preparing and managing the schedule. The output of this process is schedule management plan. The schedule management plan describes how, who, when, tools, metrics of schedule planning, tracking, and controlling throughout the project life-cycle. What should be the accepted tolerance limit of the schedule variance for any deliverable, phase, or complete project is also defined in this document called schedule management plan.&lt;/p></description></item><item><title>कार्यक्षेत्र अभिपुष्टि</title><link>https://dasarpai.github.io/pmbok6hi/validate-scope-hi/</link><pubDate>Thu, 18 Feb 2021 17:02:38 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/validate-scope-hi/</guid><description>&lt;h2 class="relative group">कार्यक्षेत्र अभिपुष्टि
+&lt;div id="%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%85%E0%A4%AD%E0%A4%AA%E0%A4%B7%E0%A4%9F" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%85%E0%A4%AD%E0%A4%AA%E0%A4%B7%E0%A4%9F" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Validate Scope process comes in picture when project’s output is shown to the customer or end-user. In this process, a customer validates the requirement against the baseline and his/her need. Sometimes even if the feature displayed to the customer is part of the scope baseline but that does not meet the need of the customer then s/he can request for a change. If everything is fine and fits the need of the customer then s/he can signoff that piece of work. PMBOK does not encourage a one-time big demo for the customer or one big bank sign-off from a customer but based on the complexity of the project keep the customer engaged, schedule, and show demo many times in project lifecycle. As and when some small deliverable is ready it is important to take feedback from the customer and incorporate the change if suggested by the customer. Keep in mind that any change has to managed through Perform Integrated Change Control process&lt;/p></description></item><item><title>कार्यक्षेत्र नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/control-scope-hi/</link><pubDate>Thu, 18 Feb 2021 16:55:45 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/control-scope-hi/</guid><description>&lt;h2 class="relative group">कार्यक्षेत्र नियंत्रण
+&lt;div id="%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Control scope is a monitoring and controlling process. In any project especially large, complex, long duration, distributed team project it is possible that changes will go out of control. If the project management team is not able to manage and control the changes then no matter how good your project resources are you will never be able to complete the project successfully. This process is about managing and controlling all the scope and requirement changes. PMBOK’s focus is to emphasize that commit your deliverables and deliver whatever has been committed. It does not encourage project managers to deliver anything more or less than committed. &lt;strong>Anything which is not committed if you are trying to deliver it is called gold-plating.&lt;/strong> Anything which is committed and you do not deliver it is called over-committed or under delivery. Project managers must know how many &lt;a href="https://dasarpai.github.io/pmbok6/change-request">change request&lt;/a> were rejected and why, how many change requests were accepted, and why? What are the requirements stability and delivery status of the project? This process helps you in achieving all this.&lt;/p></description></item><item><title>WBS रचना</title><link>https://dasarpai.github.io/pmbok6hi/create-wbs-hi/</link><pubDate>Thu, 18 Feb 2021 13:28:39 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/create-wbs-hi/</guid><description>&lt;h2 class="relative group">WBS रचना
+&lt;div id="wbs-%E0%A4%B0%E0%A4%9A%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#wbs-%E0%A4%B0%E0%A4%9A%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A WBS (Work Breakdown Structure) is an extremely important document of any project. This document helps customers, management, and project manager in knowing the overall progress of the project. In the absence of WBS, it is not possible to report the project progress like how much work has been done, how much money or time spent for what work, which component or part of the project has more quality issues. Create WBS process defines the WBS of the project, prepares a WBS dictionary that has the unambiguous definition of each WBS element. This is the process where you should baseline your project scope. A WBS is a hierarchical representation of the deliverables. There are many ways to structure a WBS. If you keep milestones at level one of the WBS hierarchy then it is called milestone-driven WBS, similarly, component-driven WBS, phase-driven WBS can be created. What WBS is best suited for your project? It all depends upon your tracking and reporting needs and project organization structures.&lt;/p></description></item><item><title>कार्यक्षेत्र निर्धारण</title><link>https://dasarpai.github.io/pmbok6hi/define-scope-hi/</link><pubDate>Thu, 18 Feb 2021 13:12:28 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/define-scope-hi/</guid><description>&lt;h2 class="relative group">Define Scope
+&lt;div id="define-scope" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#define-scope" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">कार्यक्षेत्र निर्धारण
+&lt;div id="%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%A8%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%A8%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>इस प्रक्रिया में, तकनीकी टीम समाधान के दृष्टिकोण से आवश्यकताओं का विश्लेषण करती है। उन्हें डिलिवरेबल्स, स्वीकृति मानदंड, समाधान, डिजाइन और अंतिम प्रणाली की वास्तुकला की स्पष्ट और स्पष्ट सूची के साथ आने की जरूरत होती है। इस प्रक्रिया में तकनीकी टीम और ग्राहक के साथ समाधान पर यह चर्चा करना कि क्या संभव है क्या संभव नहीं है, किया जाता है। कार्यक्षेत्र दायरे से बाहर क्या है इस प्रक्रिया में स्पष्ट रूप से चिह्नित किया गया है और बहुत सारे दस्तावेज यहां उत्पन्न होते हैं। सामूहिक रूप से इन सभी दस्तावेजों को प्रोजेक्ट स्कोप स्टेटमेंट कहा जाता है। यदि समाधान वास्तव में जटिल है या परियोजना बड़ी है तो यह परियोजना के जीवन-चक्र में एक बार की प्रक्रिया नहीं हो सकती है। प्रोजेक्ट स्कोप स्टेटमेंट तैयार करने के लिए प्रत्येक चरण में कई चरण या कई पुनरावृत्तियाँ हो सकती हैं।&lt;/p></description></item><item><title>कार्यक्षेत्र प्रबंध नियोजन</title><link>https://dasarpai.github.io/pmbok6hi/plan-scope-management-hi/</link><pubDate>Thu, 18 Feb 2021 11:49:19 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/plan-scope-management-hi/</guid><description>&lt;h2 class="relative group">कार्यक्षेत्र प्रबंध नियोजन
+&lt;div id="%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%95%E0%A4%B0%E0%A4%AF%E0%A4%95%E0%A4%B7%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%A8%E0%A4%AF%E0%A4%9C%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Plan scope management is the first process of the Scope Management Knowledge Area. In this process, you need to prepare a plan which will help you managing scope and requirements. The output of this process are scope management plan &amp;amp; requirement management plan. Scope management plan describes how, who, when, tool, metrics of scope planning, and scope control. Requirement management plan describes how, who, when, tool, metrics of requirement management, and tracking requirements throughout project life-cycle.&lt;/p></description></item><item><title>आवश्यकताएं एकत्रीकरण</title><link>https://dasarpai.github.io/pmbok6hi/collect-requirements-hi/</link><pubDate>Thu, 18 Feb 2021 11:39:13 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/collect-requirements-hi/</guid><description>&lt;h2 class="relative group">Collect Requirements
+&lt;div id="collect-requirements" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#collect-requirements" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">आवश्यकताएं एकत्रीकरण
+&lt;div id="%E0%A4%86%E0%A4%B5%E0%A4%B6%E0%A4%AF%E0%A4%95%E0%A4%A4%E0%A4%8F-%E0%A4%8F%E0%A4%95%E0%A4%A4%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%86%E0%A4%B5%E0%A4%B6%E0%A4%AF%E0%A4%95%E0%A4%A4%E0%A4%8F-%E0%A4%8F%E0%A4%95%E0%A4%A4%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In this process assigned person(s) needs to collect requirements from the stakeholders. All functional, non-functional, technical, system, quality requirements are collected and documented. All those documents where requirements are documented are collectively called &lt;a href="">requirement documentation&lt;/a>. Depending on the availability of the stakeholders, technical nature of the project, clarity of scope and requirements, various techniques are used by the team for requirement collection and elicitation.&lt;/p></description></item><item><title>परियोजना या चरण का समापन</title><link>https://dasarpai.github.io/pmbok6hi/close-project-or-phase-hi/</link><pubDate>Thu, 18 Feb 2021 11:34:47 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/close-project-or-phase-hi/</guid><description>&lt;h2 class="relative group">परियोजना या चरण का समापन
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AF-%E0%A4%9A%E0%A4%B0%E0%A4%A3-%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A4%AA%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AF-%E0%A4%9A%E0%A4%B0%E0%A4%A3-%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A4%AA%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Close Project or Phase
+&lt;div id="close-project-or-phase" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#close-project-or-phase" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Close Project or Phase
+&lt;div id="close-project-or-phase-1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#close-project-or-phase-1" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is the process of finalizing all activities across all the project management process groups to formally complete the project or phase&lt;/p></description></item><item><title>परिवर्तनों का एकीकृत नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/perform-integrated-change-control-hi/</link><pubDate>Thu, 18 Feb 2021 11:28:55 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/perform-integrated-change-control-hi/</guid><description>&lt;h2 class="relative group">Perform Integrated Change Control
+&lt;div id="perform-integrated-change-control" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#perform-integrated-change-control" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">परिवर्तनों का एकीकृत नियंत्रण
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%A8-%E0%A4%95-%E0%A4%8F%E0%A4%95%E0%A4%95%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%B5%E0%A4%B0%E0%A4%A4%E0%A4%A8-%E0%A4%95-%E0%A4%8F%E0%A4%95%E0%A4%95%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A project exists to address the change. Project Management is influenced heavily by change management. It is almost impossible to complete a project successfully without taking a change request. But if you do not control the changes in a systematic way, then you will never to able to complete the project successfully. So at the heart of project management lies an art and science of managing and negotiating changes. PMBOK centralizes all the change requests through this process. Make as simple or as complicated your change request process as is the need of the project but there is only one channel through which any change can be handled and that is this process called “Perform Integrated Change Control’. Define your change management processes clearly, communicate and educate all the stakeholders and especially the project team that how we handle changes to the approved work.&lt;/p></description></item><item><title>परियोजना कार्य की निगरानी एवं नियंत्रण</title><link>https://dasarpai.github.io/pmbok6hi/monitor-and-control-project-work-hi/</link><pubDate>Thu, 18 Feb 2021 10:47:03 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/monitor-and-control-project-work-hi/</guid><description>&lt;h2 class="relative group">Monitor and Control Project Work
+&lt;div id="monitor-and-control-project-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#monitor-and-control-project-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">परियोजना कार्य की निगरानी एवं नियंत्रण
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%95-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%8F%E0%A4%B5-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%95-%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%A8-%E0%A4%8F%E0%A4%B5-%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%B0%E0%A4%A3" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>प्रबंधक हो या ग्राहक या आप, आपको यह कैसे पता चलेगा कि परियोजना स्वीकृत योजना के अनुसार चल रही है? इसका एकमात्र तरीका योजना की प्रगति की निगरानी करना है। परियोजना निगरानी की योजना कहां है? परियोजना प्रबंधन योजना के अन्दर! परियोजना प्रबंधन योजना में परियोजना निष्पादन, परियोजना निगरानी और नियंत्रण, और परियोजना बंद करने की योजना भी शामिल होती हैे। इसलिए आपको प्रोजेक्ट कार्य की प्रदर्शन रिपोर्ट तैयार करने की आवश्यकता है, एकत्र किए गए डेटा का विश्लेषण करें, और आधार योजना से भिन्नता होने पर विचार विमर्श के बाद निर्णय लें। यह निर्णय एक परिवर्तन अनुरोध होता है। एक परिवर्तन अनुरोध मरम्मत या निवारक कार्रवाई या सुधारात्मक कार्रवाई करने में से कुछ भी हो कर सकता है।&lt;/p></description></item><item><title>परियोजना ज्ञान प्रबंधन</title><link>https://dasarpai.github.io/pmbok6hi/manage-project-knowledge-hi/</link><pubDate>Thu, 18 Feb 2021 07:20:48 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/manage-project-knowledge-hi/</guid><description>&lt;h2 class="relative group">परियोजना ज्ञान प्रबंधन
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%9C%E0%A4%9E%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%9C%E0%A4%9E%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>हम जानते हैं कि संगठनों के OPA (संगठनात्मक प्रक्रिया आस्तियों) में अनमोल ज्ञान है लेकिन समस्या यह है कि उस ज्ञान का उपयोग कैसे किया जाए जो कुछ सर्वरों में छुपा हुआ है? ‘परियोजना ज्ञान प्रबंधन’ प्रक्रिया उस ज्ञान को सक्षम बनाती है ताकि यह प्रोजेक्ट टीम के लिए आसानी से सक्षम हो सके। आपने देखा होगा कि कोई व्यक्ति किसी महान प्रयास के साथ कुछ दस्तावेज़ / टेम्प्लेट / गाइड बनाता है, यह उम्मीद करता है कि अन्य लोग इसका उपयोग कर पाएंगे या मैं भविष्य में इसका पुन: उपयोग कर पाऊंगा, लेकिन जब हमें / हमारी टीम को उस दस्तावेज़ की आवश्यकता होती है, तो हम इसे ढूढंने में, इसे बनाने की तुलना से अधिक समय लगा देते हैं। या तो हम संगठन में दूसरों द्वारा बनाए गए ज्ञान का उपयोग करना चाहते हैं या हम अपने स्वयं के ज्ञान के आधार तक पहुंचना चाहते हैं, हमें एक ऐसी प्रणाली की आवश्यकता है जहां ज्ञान प्रदाता, निर्माता के साथ जुड़ना आसान हो। यह मानव की प्राकृतिक भाषा में सुलभ होना चाहिए न कि मेटाडेटा कीवर्ड के आधार पर।&lt;/p></description></item><item><title>परियोजना कार्य का निर्देशन एवं प्रबंधन</title><link>https://dasarpai.github.io/pmbok6hi/direct-and-manage-project-work-hi/</link><pubDate>Thu, 18 Feb 2021 07:10:40 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/direct-and-manage-project-work-hi/</guid><description>&lt;h2 class="relative group">Direct and Manage Project Work
+&lt;div id="direct-and-manage-project-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#direct-and-manage-project-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">परियोजना कार्य का निर्देशन एवं प्रबंधन
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%95-%E0%A4%A8%E0%A4%B0%E0%A4%A6%E0%A4%B6%E0%A4%A8-%E0%A4%8F%E0%A4%B5-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%95-%E0%A4%A8%E0%A4%B0%E0%A4%A6%E0%A4%B6%E0%A4%A8-%E0%A4%8F%E0%A4%B5-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7%E0%A4%A8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The process of leading and performing the Work defined in the project management plan and implementing approved change requests to achieve the project’s objectives.&lt;/p>
+&lt;p>Following activities need to be performed under this process.&lt;/p></description></item><item><title>परियोजना प्रबंध योजना विकास</title><link>https://dasarpai.github.io/pmbok6hi/develop-project-management-plan-hi/</link><pubDate>Wed, 17 Feb 2021 19:28:58 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/develop-project-management-plan-hi/</guid><description>&lt;p>&lt;a href="https://dasarpai.github.io/pmbok6hi/assets/images/pmlogy/PMBOK-Process-DPMP.png">&lt;/a>&lt;/p>
+&lt;h2 class="relative group">परियोजना प्रबंध योजना विकास
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%B5%E0%A4%95%E0%A4%B8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%B5%E0%A4%95%E0%A4%B8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The process of defining, preparing, and coordinating all subsidiary plans and integrating them into a comprehensive project management plan.&lt;/p>
+&lt;p>A project Management Plan includes&lt;/p>
+&lt;ul>
+&lt;li>Plans (Subsidiary) from 9 Knowledge Area (Requirements management plan, Process improvement plan, Change management plan, Configuration management plan, etc)&lt;/li>
+&lt;li>All Baselines (Scope baseline, Schedule baseline, Cost baseline)&lt;/li>
+&lt;li>Tailored Process with detail (Project management processes applicable to the project)&lt;/li>
+&lt;li>Project Life cycle and project phases&lt;/li>
+&lt;li>How integrity of project baselines will be maintained&lt;/li>
+&lt;li>Project Areas where Reviews/ Audits need to be done and their frequency&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">परियोजना प्रबंध योजना विकास (प्रक्रिया सारांश)
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%B5%E0%A4%95%E0%A4%B8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%AA%E0%A4%B0%E0%A4%AC%E0%A4%A7-%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%B5%E0%A4%95%E0%A4%B8-%E0%A4%AA%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%B6" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This table is based on PMBOK 6th Edition of PMI&lt;/p></description></item><item><title>परियोजना अधिकारपत्र विकास</title><link>https://dasarpai.github.io/pmbok6hi/develop-project-charter-hi/</link><pubDate>Wed, 17 Feb 2021 09:03:18 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmbok6hi/develop-project-charter-hi/</guid><description>&lt;p>&lt;a href="https://dasarpai.github.io/assets/images/pmlogy/PMBOK-Process-DPC.png">&lt;/a>&lt;/p>
+&lt;h2 class="relative group">परियोजना अधिकारपत्र विकास
+&lt;div id="%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%95%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%B0-%E0%A4%B5%E0%A4%95%E0%A4%B8" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E0%A4%AA%E0%A4%B0%E0%A4%AF%E0%A4%9C%E0%A4%A8-%E0%A4%85%E0%A4%A7%E0%A4%95%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%B0-%E0%A4%B5%E0%A4%95%E0%A4%B8" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>प्रोजेक्ट प्रायोजक द्वारा प्रोजेक्ट चार्टर प्रक्रिया का विकास किया जाता है। यह प्रक्रिया किसी भी परियोजना को शुरू करने की पहली प्रक्रिया है। इस प्रक्रिया का प्राथमिक आउटपुट प्रोजेक्ट चार्टर है। इस दस्तावेज़ के माध्यम से, परियोजना प्रायोजक औपचारिक रूप से एक परियोजना प्रबंधक को परियोजना या परियोजना चरण की सफलता के लिए संगठनात्मक संसाधनों को लागू करने के लिए अधिकृत करता है, जो कि परियोजना चार्टर का दायरा है। यदि प्रोजेक्ट चार्टर गायब है, तो प्रोजेक्ट मैनेजर के पास संगठन संसाधनों का उपयोग करने के लिए कोई जनादेश नहीं है, न ही वह जानता है कि मुसीबत के मामले में उसे कहां जाना चाहिए और उसे पैसा प्राप्त करने के लिए कहां जाना चाहिए।&lt;/p></description></item></channel></rss>

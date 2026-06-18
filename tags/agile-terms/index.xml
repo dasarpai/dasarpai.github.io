@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agile Terms on</title><link>https://dasarpai.github.io/tags/agile-terms/</link><description>Recent content in Agile Terms on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 15 Feb 2021 06:52:12 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/agile-terms/index.xml" rel="self" type="application/rss+xml"/><item><title>What is a Technical Spike?</title><link>https://dasarpai.github.io/pmblog/what-is-a-technical-spike/</link><pubDate>Mon, 15 Feb 2021 06:52:12 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/what-is-a-technical-spike/</guid><description>&lt;h2 class="relative group">What is a Technical Spike?
+&lt;div id="what-is-a-technical-spike" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-a-technical-spike" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Estimation is the center of agile planning or sprint planning. But you cannot estimate a user story till the time you know what the work is. Sometimes to understand a user story we need to do some research or exploration. For this, the team needs to put extra effort to understand the business requirement and its technical feasibility. The time allocated for this kind of research may vary from 1-2 days. This activity, when you are trying to understand the user story so that you can estimate it, is called a technical spike. The objective of the technical spike is not to solve the problem or deliver the user story. The output of a technical spike is a through-away prototype. If work done during technical spike should be used for development purpose then this kind of technical spike is called &lt;a href="Tracer-Bullet">Tracer Bullet&lt;/a>.&lt;/p></description></item><item><title>User Story</title><link>https://dasarpai.github.io/pmblog/user-story/</link><pubDate>Mon, 15 Feb 2021 02:33:30 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/pmblog/user-story/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/pmblog/1036-UserStory.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is a user story?
+&lt;div id="what-is-a-user-story" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-a-user-story" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you are managing a project using agile methodology that time you do not have access to the complete requirements of users. In fact, this is one of the reasons you chose to manage a project using Agile methodology. Therefore, it does not make sense to spend time and try to understand the complete system requirement, document and baseline those to start your project execution. That is never going to happen. In this scenario, how do we understand the requirements?&lt;/p></description></item></channel></rss>

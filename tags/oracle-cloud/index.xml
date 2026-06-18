@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oracle Cloud on</title><link>https://dasarpai.github.io/tags/oracle-cloud/</link><description>Recent content in Oracle Cloud on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/oracle-cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction to Container Registry</title><link>https://dasarpai.github.io/dsblog/introduction-to-container-registry/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-container-registry/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg" alt="Introduction to Container Registry" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Container Registry
+&lt;div id="introduction-to-container-registry" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-container-registry" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Container Registry?
+&lt;div id="what-is-container-registry" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-container-registry" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A container registry is a central store or service where container images are stored, managed and distributed. Container images are packaged applications that include the code, dependencies, libraries and configuration to run in any environment that supports containerization, like Docker or Kubernetes.&lt;/p></description></item><item><title>AI/ML with Oracle Cloud</title><link>https://dasarpai.github.io/dsblog/ai-ml-with-oracle-cloud/</link><pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-with-oracle-cloud/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg" alt="AI/ML with Oracle Cloud" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI/ML with Oracle Cloud
+&lt;div id="aiml-with-oracle-cloud" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#aiml-with-oracle-cloud" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;a href="https://docs.oracle.com/en-us/iaas/Content/services.htm" target="_blank">Oracle Infrastructure Services&lt;/a>
+&lt;div id="oracle-infrastructure-services" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#oracle-infrastructure-services" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Register for &lt;a href="https://www.oracle.com/cloud/free/?source=:ow:o:h:po:OHPPanel1nav0625&amp;amp;intcmp=:ow:o:h:po:OHPPanel1nav0625" target="_blank">Oracle Cloud Free Tier&lt;/a>&lt;/p>
+&lt;h2 class="relative group">Oracle AI Main services
+&lt;div id="oracle-ai-main-services" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#oracle-ai-main-services" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://cloud.oracle.com/digital-assistant/oda-instances?region=ap-mumbai-1" target="_blank">Digital Assistant&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/document-understanding/using/home.htm" target="_blank">Document Understanding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/language/using/pretrain-models.htm#lang-detect" target="_blank">Language&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/vision/using/pretrained-model-using-image.htm" target="_blank">Vision&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/speech/home.htm" target="_blank">Speech&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/Streaming/home.htm" target="_blank">Stream&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/process-automation/oci-process-automation/overview-oci-process-automation.html" target="_blank">Cloud Infra Automation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;a href="https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm" target="_blank">Generative AI&lt;/a>
+&lt;div id="generative-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#generative-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Generative AI is a fully managed Oracle Cloud Infrastructure service that provides a set of state-of-the-art, customizable large language models (LLMs) that cover a wide range of use cases, including chat, text generation, summarization, and creating text embeddings.&lt;/p></description></item></channel></rss>
