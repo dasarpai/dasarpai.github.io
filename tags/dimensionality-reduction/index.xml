@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dimensionality Reduction on dasarpAI</title><link>https://dasarpai.github.io/tags/dimensionality-reduction/</link><description>Recent content in Dimensionality Reduction on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/dimensionality-reduction/index.xml" rel="self" type="application/rss+xml"/><item><title>From Eigenvalues to Singular Value Decomposition — How a Matrix Reveals Its Natural Directions, Strengths, and Hidden Simplicity</title><link>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6308-from-eigenvalues-to-singular-value-decomposition.jpg" alt="From Eigenvalues to Singular Value Decomposition" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">From Eigenvalues to Singular Value Decomposition
+&lt;div id="from-eigenvalues-to-singular-value-decomposition" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#from-eigenvalues-to-singular-value-decomposition" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">How a matrix reveals its natural directions, strengths, and hidden simplicity
+&lt;div id="how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Suppose we are given a matrix:&lt;/p>
+\[
+M=
+\begin{bmatrix}
+4&amp;0\\
+3&amp;-5
+\end{bmatrix}.
+\]&lt;p>At first sight, it is only a rectangular arrangement of four numbers. But the matrix is not merely storing numbers. It represents a &lt;strong>linear transformation&lt;/strong>: it accepts a vector and produces another vector.&lt;/p></description></item><item><title>Machine Learning Key Concepts</title><link>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-key-concepts/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg" alt="Exploring Docker and VS Code Integration" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Key Concepts
+&lt;div id="machine-learning-key-concepts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-key-concepts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking for the answer to any of the following questions, then the answer is &amp;lsquo;Yes.&amp;rsquo;&lt;/p></description></item><item><title>Dimensionality Reduction and Visualization</title><link>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg" alt="Dimensionality-Reduction-and-Visualization" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dimensionality Reduction and Visualization
+&lt;div id="dimensionality-reduction-and-visualization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dimensionality-reduction-and-visualization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the popular methods of dimensionality reduction?
+&lt;div id="what-are-the-popular-methods-of-dimensionality-reduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-popular-methods-of-dimensionality-reduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dimensionality reduction is a crucial step in data preprocessing, particularly when dealing with high-dimensional datasets. It helps in reducing the number of features while retaining the essential information, improving computational efficiency, and facilitating data visualization. Here are some popular methods of dimensionality reduction:&lt;/p></description></item></channel></rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Applied Mathematics on dasarpAI</title><link>https://dasarpai.github.io/tags/applied-mathematics/</link><description>Recent content in Applied Mathematics on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/applied-mathematics/index.xml" rel="self" type="application/rss+xml"/><item><title>From Eigenvalues to Singular Value Decomposition — How a Matrix Reveals Its Natural Directions, Strengths, and Hidden Simplicity</title><link>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6308-from-eigenvalues-to-singular-value-decomposition.jpg" alt="From Eigenvalues to Singular Value Decomposition" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">From Eigenvalues to Singular Value Decomposition
+&lt;div id="from-eigenvalues-to-singular-value-decomposition" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#from-eigenvalues-to-singular-value-decomposition" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">How a matrix reveals its natural directions, strengths, and hidden simplicity
+&lt;div id="how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Suppose we are given a matrix:&lt;/p>
+\[
+M=
+\begin{bmatrix}
+4&amp;0\\
+3&amp;-5
+\end{bmatrix}.
+\]&lt;p>At first sight, it is only a rectangular arrangement of four numbers. But the matrix is not merely storing numbers. It represents a &lt;strong>linear transformation&lt;/strong>: it accepts a vector and produces another vector.&lt;/p></description></item><item><title>One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing</title><link>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6307-understanding-every-kind-of-product-linear-algebra-quantum-computing.jpg" alt="One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing
+&lt;div id="one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>One of the first surprises students encounter while learning linear algebra, machine learning, or quantum computing is that the word &lt;strong>product&lt;/strong> does not always mean the same thing.&lt;/p></description></item><item><title>Real-Life Applications of Mathematics</title><link>https://dasarpai.github.io/dsblog/real-life-applications-of-maths/</link><pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/real-life-applications-of-maths/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg" alt="Real-Life Applications of Mathematics" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Real-Life Applications of Mathematics&lt;/strong>
+&lt;div id="real-life-applications-of-mathematics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#real-life-applications-of-mathematics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Welcome to the fascinating world of mathematics! Math isn&amp;rsquo;t just about solving equations in a classroom—it is deeply woven into the fabric of our daily lives. From predicting natural disasters to optimizing business strategies, mathematics helps us make sense of the world.&lt;/p>
+&lt;p>In this thread, we’ll explore 16 key areas of mathematics and their surprising real-world applications. And mind it all this tip of iceberg. This article is specially for those who who studied maths in school and college and today they are completely in the different field and they find it difficult to understand the usecases of maths except counting numbers and money calculations. :)&lt;/p></description></item></channel></rss>

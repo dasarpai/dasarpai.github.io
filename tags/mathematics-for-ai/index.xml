@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mathematics for AI on dasarpAI</title><link>https://dasarpai.github.io/tags/mathematics-for-ai/</link><description>Recent content in Mathematics for AI on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/mathematics-for-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>From Eigenvalues to Singular Value Decomposition — How a Matrix Reveals Its Natural Directions, Strengths, and Hidden Simplicity</title><link>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6308-from-eigenvalues-to-singular-value-decomposition.jpg" alt="From Eigenvalues to Singular Value Decomposition" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">From Eigenvalues to Singular Value Decomposition
+&lt;div id="from-eigenvalues-to-singular-value-decomposition" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#from-eigenvalues-to-singular-value-decomposition" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">How a matrix reveals its natural directions, strengths, and hidden simplicity
+&lt;div id="how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Suppose we are given a matrix:&lt;/p>
+\[
+M=
+\begin{bmatrix}
+4&amp;0\\
+3&amp;-5
+\end{bmatrix}.
+\]&lt;p>At first sight, it is only a rectangular arrangement of four numbers. But the matrix is not merely storing numbers. It represents a &lt;strong>linear transformation&lt;/strong>: it accepts a vector and produces another vector.&lt;/p></description></item><item><title>One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing</title><link>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6307-understanding-every-kind-of-product-linear-algebra-quantum-computing.jpg" alt="One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing
+&lt;div id="one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>One of the first surprises students encounter while learning linear algebra, machine learning, or quantum computing is that the word &lt;strong>product&lt;/strong> does not always mean the same thing.&lt;/p></description></item><item><title>Distances in Machine Learning</title><link>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</link><pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg" alt="Distances in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Distances in Machine Learning
+&lt;div id="distances-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#distances-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Every sample, record, word, sentence, object, image etc in the Machine learning language is called vector. If we want to measure the similarity or dissimilarity between two data points then we need distance function.&lt;/p>
+&lt;p>Distance metrics play a crucial role in various machine learning algorithms, including clustering, classification, and anomaly detection. Different distance measures capture different types of relationships between data points.&lt;/p></description></item></channel></rss>
