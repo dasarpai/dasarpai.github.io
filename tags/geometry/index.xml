@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Geometry on dasarpAI</title><link>https://dasarpai.github.io/tags/geometry/</link><description>Recent content in Geometry on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/geometry/index.xml" rel="self" type="application/rss+xml"/><item><title>Trigonometric Identities as Operations on Ratios</title><link>https://dasarpai.github.io/dsblog/trigonometric-identities-as-operations-on-ratios/</link><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/trigonometric-identities-as-operations-on-ratios/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6322-trigonometric-identities-as-operations-on-ratios.jpg" alt="Trigonometric Identities as Operations on Ratios" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Trigonometric Identities as Operations on Ratios
+&lt;div id="trigonometric-identities-as-operations-on-ratios" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#trigonometric-identities-as-operations-on-ratios" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Identities are operations on ratios — not strings to memorize
+&lt;div id="identities-are-operations-on-ratios--not-strings-to-memorize" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#identities-are-operations-on-ratios--not-strings-to-memorize" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 21 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Trigonometry is the study of &lt;strong>ratios of a triangle&amp;rsquo;s sides&lt;/strong>. Every textbook “identity” is an &lt;strong>operation&lt;/strong> on those ratios — square, add, subtract, flip, compose, take a square root. The formula is the measurement of that meaning, not a string to memorize.&lt;/p>
+&lt;p>This handbook is the sequel to &lt;a href="https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram">Six Trigonometric Functions — One Diagram&lt;/a>, which draws \(\cos\theta\), \(\sin\theta\), \(\tan\theta\), \(\cot\theta\), \(\sec\theta\), and \(\csc\theta\) as six colored segments on one unit circle. For radius, radian, and the rest of the circle vocabulary, see &lt;a href="https://dasarpai.github.io/dsblog/anatomy-of-a-circle">Anatomy of a Circle&lt;/a>.&lt;/p>
+&lt;p>Here each family is one operation: what it means, a figure, the boxed formulas, and a one-line closer.&lt;/p>
+&lt;h2 class="relative group">1. Ratios, then operations
+&lt;div id="1-ratios" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-ratios" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>On the unit circle of that article, the radius is \(1\), so each segment &lt;strong>equals&lt;/strong> its function value — not merely “proportional to” it.&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Orange&lt;/strong> \(OW\) on the \(x\)-axis is \(\cos\theta\).&lt;/li>
+&lt;li>&lt;strong>Green&lt;/strong> \(WP\) up to \(P\) is \(\sin\theta\).&lt;/li>
+&lt;li>&lt;strong>Purple&lt;/strong> \(VT\) on the vertical tangent \(x=1\) is \(\tan\theta\).&lt;/li>
+&lt;li>&lt;strong>Cyan dashed&lt;/strong> ray \(OT\) is \(\sec\theta\).&lt;/li>
+&lt;li>&lt;strong>Pink&lt;/strong> \(RC\) on the horizontal tangent \(y=1\) is \(\cot\theta\).&lt;/li>
+&lt;li>&lt;strong>Magenta solid&lt;/strong> ray \(OC\) is \(\csc\theta\).&lt;/li>
+&lt;/ol>
+&lt;p>Point \(P=(\cos\theta,\sin\theta)\) is where the angle ray meets the circle. Reciprocal pairs multiply to \(1\) because they sit on similar triangles, not because someone flipped a symbol. The rest of this article asks: &lt;strong>what can you do to those lengths?&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Operation&lt;/th>
+&lt;th>Meaning&lt;/th>
+&lt;th>Family&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Square + add&lt;/td>
+&lt;td>Two legs make hypotenuse 1&lt;/td>
+&lt;td>&lt;a href="#2-pythagorean">§2&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Reflect&lt;/td>
+&lt;td>Height flips sign&lt;/td>
+&lt;td>&lt;a href="#3-odd-even">§3&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Swap legs&lt;/td>
+&lt;td>Complement&lt;/td>
+&lt;td>&lt;a href="#4-cofunctions">§4&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Add a full turn&lt;/td>
+&lt;td>Same point \(P\)&lt;/td>
+&lt;td>&lt;a href="#5-period">§5&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Compose two angles&lt;/td>
+&lt;td>Mix the two pairs&lt;/td>
+&lt;td>&lt;a href="#6-angle-addition">§6&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Square + subtract&lt;/td>
+&lt;td>Double the angle&lt;/td>
+&lt;td>&lt;a href="#7-double-angle">§7&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Square root&lt;/td>
+&lt;td>Half the angle&lt;/td>
+&lt;td>&lt;a href="#8-half-angle">§8&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Multiply heights&lt;/td>
+&lt;td>Sum of two waves&lt;/td>
+&lt;td>&lt;a href="#9-product-to-sum">§9&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Scale + add&lt;/td>
+&lt;td>One shifted wave&lt;/td>
+&lt;td>&lt;a href="#10-harmonic">§10&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Anatomy of a Circle — Radius, Arc, Sector, Radian, π, and Every Part in Between</title><link>https://dasarpai.github.io/dsblog/anatomy-of-a-circle/</link><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/anatomy-of-a-circle/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/circle/dsp6316-circle-anatomy-overview.png" alt="Anatomy of a Circle" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Anatomy of a Circle
+&lt;div id="anatomy-of-a-circle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#anatomy-of-a-circle" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Every named part, formula, and diagram — strictly in two dimensions
+&lt;div id="every-named-part-formula-and-diagram--strictly-in-two-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#every-named-part-formula-and-diagram--strictly-in-two-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 16 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>A circle looks simple: all points the same distance from a center. Yet the vocabulary around it is rich — &lt;strong>radius&lt;/strong>, &lt;strong>chord&lt;/strong>, &lt;strong>arc&lt;/strong>, &lt;strong>sector&lt;/strong>, &lt;strong>segment&lt;/strong>, &lt;strong>radian&lt;/strong>, &lt;strong>π&lt;/strong>, and more. Each name marks a different geometric object or measurement, and each has its own formula.&lt;/p>
+&lt;p>This article is a &lt;strong>2D reference guide&lt;/strong>. For every concept you get a short definition, the standard formula, and a labeled diagram. We stay in the plane throughout. When you need the &lt;strong>six trigonometric functions as line lengths&lt;/strong> on the unit circle, see &lt;a href="https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram">Six Trigonometric Functions — One Diagram&lt;/a>. When you want to &lt;strong>rotate or extrude&lt;/strong> a circle into a sphere or cylinder, see &lt;a href="https://dasarpai.github.io/dsblog/conic-sections-and-their-3d-shapes">Conic Sections and Their 3D Shapes&lt;/a>.&lt;/p>
+&lt;p>The hero figure above labels the parts that share one construction; later sections zoom in on measurements and formulas.&lt;/p></description></item><item><title>Six Trigonometric Functions — One Diagram</title><link>https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6315-trigonometric-variables-unit-circle-diagram.jpg" alt="Six Trigonometric Functions — One Diagram" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Six Trigonometric Functions — One Diagram
+&lt;div id="six-trigonometric-functions--one-diagram" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#six-trigonometric-functions--one-diagram" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">All six trig values as lengths on one unit-circle picture
+&lt;div id="all-six-trig-values-as-lengths-on-one-unit-circle-picture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-six-trig-values-as-lengths-on-one-unit-circle-picture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 15 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Most textbooks introduce \(\sin\theta\), \(\cos\theta\), and \(\tan\theta\) on the unit circle, then treat \(\cot\theta\), \(\sec\theta\), and \(\csc\theta\) as afterthoughts — “just take the reciprocal.” That works algebraically, but it hides the geometry.&lt;/p>
+&lt;p>This article follows &lt;strong>one diagram&lt;/strong>: a full unit circle, one angle \(\theta\), one ray from the origin, and &lt;strong>six colored segments&lt;/strong> that &lt;em>are&lt;/em> the six trigonometric values when the radius is \(1\). The construction is &lt;strong>standard mathematics&lt;/strong> — similar-triangle geometry on the unit circle with tangent lines at \(x=1\) and \(y=1\). What is less common is drawing &lt;strong>all six segments together&lt;/strong> in one figure; each piece is classical, the synthesis is for teaching.&lt;/p>
+&lt;p>The figure uses \(\theta = 30^\circ\) on purpose (&lt;a href="#11-why-we-draw-theta--30circ-not-45circ">§11&lt;/a>). At that angle every segment has a different length, \(T\) and \(C\) are different points, and the dashed secant ray \(OT\) is visibly shorter than the solid cosecant ray \(OC\).&lt;/p>
+&lt;p>Reciprocal pairs (\(\cos/\sec\), \(\sin/\csc\), \(\tan/\cot\)) are &lt;strong>not&lt;/strong> mirror images on the diagram — see &lt;a href="#8-reciprocal-versus-inverse-do-not-mix-them-up">§8&lt;/a> and &lt;a href="#9-why-reciprocal-lengths-multiply-to-1">§9&lt;/a>.&lt;/p></description></item><item><title>Conic Sections and Their 3D Shapes — Circles, Ellipses, Parabolas, and Hyperbolas in Two and Three Dimensions</title><link>https://dasarpai.github.io/dsblog/conic-sections-and-their-3d-shapes/</link><pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/conic-sections-and-their-3d-shapes/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6312-conic-sections-and-3d-shapes.jpg" alt="Conic Sections and Their 3D Shapes" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Conic Sections and Their 3D Shapes
+&lt;div id="conic-sections-and-their-3d-shapes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#conic-sections-and-their-3d-shapes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Circles, ellipses, parabolas, and hyperbolas in two and three dimensions
+&lt;div id="circles-ellipses-parabolas-and-hyperbolas-in-two-and-three-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#circles-ellipses-parabolas-and-hyperbolas-in-two-and-three-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 12 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>A circle is not an isolated shape. It is the simplest member of a family: rotate it around an axis and you get a &lt;strong>sphere&lt;/strong>; slide the same cross-section along a straight line and you get a &lt;strong>cylinder&lt;/strong>. The same pattern repeats for &lt;strong>ellipses&lt;/strong>, &lt;strong>parabolas&lt;/strong>, and &lt;strong>hyperbolas&lt;/strong> — each 2D curve has a natural 3D &lt;strong>surface of revolution&lt;/strong> and a natural &lt;strong>cylindrical extrusion&lt;/strong>.&lt;/p>
+&lt;p>This article is a shape-and-formula guide. For each family you get:&lt;/p>
+&lt;ul>
+&lt;li>the standard equation in the plane,&lt;/li>
+&lt;li>the 3D surface you obtain by rotation,&lt;/li>
+&lt;li>the 3D surface you obtain by extrusion along the \(z\)-axis,&lt;/li>
+&lt;li>&lt;strong>everyday names&lt;/strong> so you can connect the formula to objects you already know,&lt;/li>
+&lt;li>a labeled illustration to fix the picture in memory.&lt;/li>
+&lt;/ul>
+&lt;p>We work in Cartesian coordinates \((x,y)\) in the plane and \((x,y,z)\) in space. Parameters \(a,b,c,p,r>0\) unless noted otherwise.&lt;/p></description></item></channel></rss>

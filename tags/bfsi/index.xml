@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BFSI on dasarpAI</title><link>https://dasarpai.github.io/tags/bfsi/</link><description>Recent content in BFSI on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/bfsi/index.xml" rel="self" type="application/rss+xml"/><item><title>The Language of Reconciliation</title><link>https://dasarpai.github.io/finblog/language-of-reconciliation/</link><pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/language-of-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8506-The-Language-of-Reconciliation.jpg" alt="The Language of Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 3 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>A payment analyst reports, “The transaction did not match.”&lt;/p>
+&lt;p>The engineer checks the system and replies, “It matched on the payment ID, but the amount comparison failed.”&lt;/p>
+&lt;p>The control owner adds, “The difference is within tolerance, so there should be no exception.”&lt;/p>
+&lt;p>All three people are discussing one payment, but they are using “match” to mean different things. The analyst means the overall reconciliation failed. The engineer means the system linked two records. The control owner means the linked values satisfy an approved condition.&lt;/p></description></item><item><title>The Universal Architecture Behind Every Reconciliation System</title><link>https://dasarpai.github.io/finblog/universal-architecture-behind-every-reconciliation-system/</link><pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/universal-architecture-behind-every-reconciliation-system/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8505-The-Universal-Architecture-Behind-Every-Reconciliation-System.jpg" alt="The Universal Architecture Behind Every Reconciliation System" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 2 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>At the start of a business day, an operations analyst opens a reconciliation dashboard. Yesterday&amp;rsquo;s internal payment file contains 48,012 records. The processor file contains 48,009. A green status beside both files says “loaded,” while three transactions appear in an exception queue.&lt;/p>
+&lt;p>It is tempting to conclude that the system compared two files and found three missing payments. That conclusion is premature.&lt;/p></description></item><item><title>Why Financial Systems Need Reconciliation</title><link>https://dasarpai.github.io/finblog/why-financial-systems-need-reconciliation/</link><pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/why-financial-systems-need-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8504-Why-Financial-Systems-Need-Reconciliation.jpg" alt="Why Financial Systems Need Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 1 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>At 5:30 p.m., a payment operations team receives two end-of-day files. The merchant platform says a customer paid USD 125. The payment processor says it accepted the transaction. The bank statement does not yet show the expected settlement, while the accounting ledger already includes a receivable for the merchant.&lt;/p>
+&lt;p>Which record is true?&lt;/p></description></item></channel></rss>

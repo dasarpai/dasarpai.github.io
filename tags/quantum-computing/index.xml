@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Computing on dasarpAI</title><link>https://dasarpai.github.io/tags/quantum-computing/</link><description>Recent content in Quantum Computing on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is Error in Quantum Computing?</title><link>https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/</link><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6324-what-is-error-in-quantum-computing.jpg" alt="What Is Error in Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Is Error in Quantum Computing?
+&lt;div id="what-is-error-in-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-error-in-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why qubits fail, what that failure means, and how we protect computation
+&lt;div id="why-qubits-fail-what-that-failure-means-and-how-we-protect-computation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-qubits-fail-what-that-failure-means-and-how-we-protect-computation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 23 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>In &lt;a href="https://dasarpai.github.io/dsblog/quantum-computing-careers">Quantum Computing Careers&lt;/a> the stack has a layer that is easy to treat as a slogan: &lt;strong>error correction&lt;/strong>. This article is the concept behind that layer.&lt;/p>
+&lt;p>The question is not &amp;ldquo;do quantum computers make mistakes?&amp;rdquo; Every computer does. The useful questions are:&lt;/p>
+&lt;blockquote>
+&lt;p>What, exactly, is being spoiled? Why does it spoil so easily? And what can we do about it without destroying the computation we were trying to run?&lt;/p>&lt;/blockquote></description></item><item><title>Quantum Computing Careers: Where Should a Software Professional Enter — Hardware, Systems, Algorithms, or Applications?</title><link>https://dasarpai.github.io/dsblog/quantum-computing-careers/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/quantum-computing-careers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6323-quantum-computing-careers.jpg" alt="Quantum Computing Careers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Quantum Computing Careers: Where Should a Software Professional Enter — Hardware, Systems, Algorithms, or Applications?
+&lt;div id="quantum-computing-careers-where-should-a-software-professional-enter--hardware-systems-algorithms-or-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quantum-computing-careers-where-should-a-software-professional-enter--hardware-systems-algorithms-or-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">The useful question is not &amp;ldquo;Should I learn Qiskit?&amp;rdquo; It is &amp;ldquo;Where does my existing experience become hard to copy?&amp;rdquo;
+&lt;div id="the-useful-question-is-not-should-i-learn-qiskit-it-is-where-does-my-existing-experience-become-hard-to-copy" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-useful-question-is-not-should-i-learn-qiskit-it-is-where-does-my-existing-experience-become-hard-to-copy" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 22 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>When people think about a career in quantum computing, the first question is often:&lt;/p>
+&lt;blockquote>
+&lt;p>Should I learn quantum programming?&lt;/p>&lt;/blockquote>
+&lt;p>That may not be the best question.&lt;/p>
+&lt;p>A better question is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>At which layer of the quantum-computing stack should I position myself?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>And a still better career question is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>After 5, 15, or 25 years already spent in technology, where in the quantum stack can I add new knowledge so that my existing experience becomes an advantage a newcomer cannot quickly match?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>This distinction matters.&lt;/p>
+&lt;p>A software engineer with five years of experience, an architect with fifteen, and a technology professional with twenty-five should &lt;strong>not follow the same quantum-career roadmap&lt;/strong>.&lt;/p></description></item><item><title>Before the Equations: A Mental Map of Quantum Mechanics Vocabulary</title><link>https://dasarpai.github.io/dsblog/mental-map-of-quantum-mechanics-vocabulary/</link><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/mental-map-of-quantum-mechanics-vocabulary/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6321-mental-map-of-quantum-mechanics-vocabulary.jpg" alt="Before the Equations: A Mental Map of Quantum Mechanics Vocabulary" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Before the Equations: A Mental Map of Quantum Mechanics Vocabulary
+&lt;div id="before-the-equations-a-mental-map-of-quantum-mechanics-vocabulary" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#before-the-equations-a-mental-map-of-quantum-mechanics-vocabulary" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">How physical systems, mathematical states, and laboratory measurements fit together
+&lt;div id="how-physical-systems-mathematical-states-and-laboratory-measurements-fit-together" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-physical-systems-mathematical-states-and-laboratory-measurements-fit-together" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 20 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>When people begin learning quantum mechanics or quantum computing, one of the first difficulties is not necessarily the mathematics.&lt;/p>
+&lt;p>It is the vocabulary.&lt;/p>
+&lt;p>Very quickly we encounter words such as:&lt;/p>
+&lt;ul>
+&lt;li>quantum system&lt;/li>
+&lt;li>quantum state&lt;/li>
+&lt;li>wavefunction&lt;/li>
+&lt;li>basis&lt;/li>
+&lt;li>observable&lt;/li>
+&lt;li>operator&lt;/li>
+&lt;li>eigenstate&lt;/li>
+&lt;li>eigenvalue&lt;/li>
+&lt;li>probability amplitude&lt;/li>
+&lt;li>measurement&lt;/li>
+&lt;li>detector&lt;/li>
+&lt;li>measured value&lt;/li>
+&lt;li>Hamiltonian&lt;/li>
+&lt;li>density matrix&lt;/li>
+&lt;/ul>
+&lt;p>Each word may be individually defined in a textbook.&lt;/p>
+&lt;p>Yet the beginner is often left with a more fundamental question:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How are all these things related?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>Is an operator a measuring instrument?&lt;/p>
+&lt;p>Is the wavefunction the particle?&lt;/p>
+&lt;p>Is an observable a property?&lt;/p>
+&lt;p>Does applying an operator mean performing a measurement?&lt;/p>
+&lt;p>What exactly comes out of a measurement?&lt;/p>
+&lt;p>Where does probability enter?&lt;/p>
+&lt;p>These questions matter because without a mental picture of the overall structure, quantum mechanics can look like a collection of strange symbols.&lt;/p>
+&lt;p>The purpose of this article is to build that picture first.&lt;/p>
+&lt;p>We will keep three layers separate:&lt;/p>
+&lt;ol>
+&lt;li>the &lt;strong>physical system&lt;/strong>&lt;/li>
+&lt;li>the &lt;strong>mathematical description&lt;/strong>&lt;/li>
+&lt;li>the &lt;strong>laboratory result&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>And we will later place the same vocabulary on a timeline:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">PREPARATION → EVOLUTION → MEASUREMENT → OUTCOME
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once those two maps are in place, much of the terminology becomes systematic.&lt;/p></description></item><item><title>Quantum Hardware Is Not a Smaller or Stranger Classical Computer</title><link>https://dasarpai.github.io/dsblog/quantum-hardware-is-not-a-smaller-or-stranger-classical-computer/</link><pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/quantum-hardware-is-not-a-smaller-or-stranger-classical-computer/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6319-quantum-hardware-ground-up-guide-for-engineers.jpg" alt="Quantum Hardware Is Not a Smaller or Stranger Classical Computer" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Quantum Hardware Is Not a Smaller or Stranger Classical Computer
+&lt;div id="quantum-hardware-is-not-a-smaller-or-stranger-classical-computer" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quantum-hardware-is-not-a-smaller-or-stranger-classical-computer" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">A ground-up guide for engineers coming from classical computing
+&lt;div id="a-ground-up-guide-for-engineers-coming-from-classical-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-ground-up-guide-for-engineers-coming-from-classical-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 19 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>When engineers first encounter quantum computing, the default mental model looks like this:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">Classical computer → replace bits with qubits
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">→ replace gates → Quantum computer
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>That picture helps you learn algorithms. As a description of &lt;strong>hardware&lt;/strong>, it is seriously incomplete.&lt;/p>
+&lt;p>A quantum computer is not a classical computer with unusual transistors. The principles for storing, transforming, protecting, connecting, and measuring information can be fundamentally different. Worse: there is currently &lt;strong>no single equivalent of the transistor&lt;/strong> that all quantum computers share.&lt;/p>
+&lt;p>Superconducting, trapped-ion, and photonic systems may all implement an &lt;code>H&lt;/code> gate — but physically, those three &lt;code>H&lt;/code> gates can be completely different machines.&lt;/p>
+&lt;p>To understand quantum hardware, start before transistors:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>What does it mean for information to have a physical implementation?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>This article walks through that question step by step. No prior quantum mechanics assumed — only familiarity with how classical computers work.&lt;/p></description></item><item><title>The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained</title><link>https://dasarpai.github.io/dsblog/grammar-of-mathematics-operators-functions-relations-symbols/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/grammar-of-mathematics-operators-functions-relations-symbols/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6314-grammar-of-mathematics-operators-functions-relations-symbols.jpg" alt="The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained
+&lt;div id="the-grammar-of-mathematics-operators-functions-relations-and-symbols-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-grammar-of-mathematics-operators-functions-relations-and-symbols-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 14 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Mathematics often becomes difficult not because the ideas are difficult, but because the &lt;strong>language used to express those ideas is unfamiliar&lt;/strong>. A beginner may look at an expression such as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">sin(x) + 3 = y
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>and see only a collection of strange symbols.&lt;/p>
+&lt;p>But each part has a specific role.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">sin -&amp;gt; function
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">x -&amp;gt; variable / argument
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">+ -&amp;gt; operator
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3 -&amp;gt; constant value
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">= -&amp;gt; relation
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">y -&amp;gt; variable
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">( ) -&amp;gt; function notation / grouping
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once we learn to identify these roles, mathematical expressions become much easier to read. The same skill scales from elementary arithmetic through calculus, linear algebra, and quantum computing — context tells us which role each symbol plays.&lt;/p></description></item><item><title>Building a 20-Qubit Quantum System Using Photons</title><link>https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons/</link><pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6313-building-a-20-qubit-quantum-system-using-photons.jpg" alt="Building a 20-Qubit Quantum System Using Photons" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Building a 20-Qubit Quantum System Using Photons
+&lt;div id="building-a-20-qubit-quantum-system-using-photons" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-a-20-qubit-quantum-system-using-photons" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 13 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Quantum computing often becomes difficult to understand because we start directly with symbols such as:&lt;/p>
+&lt;p>&lt;code>|0&amp;gt;&lt;/code>, &lt;code>|1&amp;gt;&lt;/code>, superposition, entanglement, Hilbert space, and quantum gates.&lt;/p>
+&lt;p>A simpler approach is to start with the &lt;strong>physical system&lt;/strong> — the actual hardware — and only then attach the math.&lt;/p>
+&lt;p>Let us assume that we want to build a &lt;strong>20-qubit quantum system using photons&lt;/strong>.&lt;/p>
+&lt;p>The central idea is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>One photon can be used as one qubit if we choose one two-state property of that photon to represent &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code>.&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>For this article, we will use the polarization of a photon.&lt;/p>
+&lt;h2 class="relative group">If you write software
+&lt;div id="if-you-write-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#if-you-write-software" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you already think in &lt;strong>bits&lt;/strong>, &lt;strong>registers&lt;/strong>, and &lt;strong>logic gates&lt;/strong>, here is the mapping this article uses:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Classical computing&lt;/th>
+&lt;th>Photonic qubits (this article)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>One bit: &lt;code>0&lt;/code> or &lt;code>1&lt;/code>&lt;/td>
+&lt;td>One qubit: two basis states labeled &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20-bit register: one of 2^20 bit strings&lt;/td>
+&lt;td>20-qubit register: one &lt;strong>joint&lt;/strong> state in a 2^20-dimensional vector space&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AND / OR / NOT gates&lt;/td>
+&lt;td>Unitary transforms implemented with wave plates, beam splitters, and phase shifters&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Read register → get 20 bits&lt;/td>
+&lt;td>Measure 20 qubits → get &lt;strong>one&lt;/strong> 20-bit outcome per experimental run&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>The goal is not to memorize optics. It is to see &lt;strong>where the symbols in a quantum circuit come from physically&lt;/strong> — so notation like &lt;code>|0&amp;gt;&lt;/code>, &lt;code>|+&amp;gt;&lt;/code>, tensor products, and entanglement map to hardware you could, in principle, build in a lab.&lt;/p>
+&lt;p>Throughout, &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code> are &lt;strong>Dirac ket&lt;/strong> labels (basis state names), not ASCII angle brackets around integers.&lt;/p></description></item><item><title>Finding Delhi–Mumbai Routes Under 1,200 km with Grover's Algorithm</title><link>https://dasarpai.github.io/dsblog/grover-delhi-mumbai-route-search/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/grover-delhi-mumbai-route-search/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6311-grover-delhi-mumbai-route-search.jpg" alt="Finding Delhi–Mumbai Routes Under 1,200 km with Grover&amp;rsquo;s Algorithm" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Finding Delhi–Mumbai Routes Under 1,200 km with Grover&amp;rsquo;s Algorithm
+&lt;div id="finding-delhimumbai-routes-under-1200-km-with-grovers-algorithm" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#finding-delhimumbai-routes-under-1200-km-with-grovers-algorithm" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 11 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Suppose we have 10,000 possible routes from Delhi to Mumbai. We want to find every route whose total length is less than 1,200 km.&lt;/p>
+&lt;p>It is tempting to say:&lt;/p></description></item><item><title>One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing</title><link>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6307-understanding-every-kind-of-product-linear-algebra-quantum-computing.jpg" alt="One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing
+&lt;div id="one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 8 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong> Parts 1–7 explored foundations, measurement, philosophy, and fields; from here the series adds the mathematical vocabulary used in quantum computing.&lt;/p></description></item><item><title>Quantum Measurement, Randomness, and Everyday Technology</title><link>https://dasarpai.github.io/dsblog/quantum-measurement-randomness-and-technology/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/quantum-measurement-randomness-and-technology/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6305-quantum-measurement-randomness-and-technology.jpg" alt="Quantum Measurement, Randomness, and Everyday Technology" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Quantum Measurement, Randomness, and Everyday Technology
+&lt;div id="quantum-measurement-randomness-and-everyday-technology" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quantum-measurement-randomness-and-everyday-technology" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is Part 2 of &lt;strong>Learning Quantum Physics&lt;/strong>. In &lt;a href="https://dasarpai.github.io/dsblog/quantum-physics-with-deeper-questions">Part 1&lt;/a> I worked through foundations, wavefunctions, electrons, and photons in a long ChatGPT Q&amp;amp;A. Two topics from that session deserved their own treatment: whether collapse is genuinely random, and how quantum physics powers ordinary technology.&lt;/p></description></item><item><title>Summary - Technology Trends Outlook 2025 by McKinsey</title><link>https://dasarpai.github.io/booksummary/summary-technology-trends-outlook-2025-mckinsey/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/booksummary/summary-technology-trends-outlook-2025-mckinsey/</guid><description>&lt;h1 class="relative group">Summary - Technology Trends Outlook 2025 by McKinsey
+&lt;div id="summary---technology-trends-outlook-2025-by-mckinsey" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#summary---technology-trends-outlook-2025-by-mckinsey" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This article is based on the &lt;strong>McKinsey &amp;amp; Company Technology Trends Outlook 2025&lt;/strong>, a comprehensive report detailing 13 frontier technology trends expected to shape business and innovation in 2025. It covers advancements, adoption levels, investment trends, and challenges across various sectors. Below, I’ve highlighted the &lt;strong>top 10 news points&lt;/strong> derived from this report, focusing on key insights and developments for 2025, as requested. Since the report is the sole reference, all points are drawn directly from its content.&lt;/p></description></item><item><title>Quantum Physics and Vedanta: Bridging Science and Philosophy</title><link>https://dasarpai.github.io/dsblog/quantum-physics-and-vedanta/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/quantum-physics-and-vedanta/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6257-quantum-physics-and-vedanta.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Quantum Physics and Vedanta Satsanga with AI
+&lt;div id="quantum-physics-and-vedanta-satsanga-with-ai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quantum-physics-and-vedanta-satsanga-with-ai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Being a Vedantin and a person with a scientific temperament, I seek meaningful Satsang. Today, I thought—why not have one with AI? What follows is the outcome of our conversation. Please note that many of the answers given by the AI have been modified by me according to my understanding and interpretation of Vedanta. Enjoy this conversation! If you have an interest in Vedanta or Quantum Physics, you will find it fascinating. In fact, many quantum physics concepts—such as superposition, measurement, entanglement, and more—may become crystal clear.&lt;/p></description></item></channel></rss>

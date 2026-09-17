@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Science on dasarpAI</title><link>https://dasarpai.github.io/categories/data-science/</link><description>Recent content in Data Science on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Occam's Razor: Why the Simplest Explanation Often Wins</title><link>https://dasarpai.github.io/dsblog/occams-razor/</link><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/occams-razor/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6302-occams-razor.jpg" alt="Occam&amp;rsquo;s Razor: Why the Simplest Explanation Often Wins" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Occam&amp;rsquo;s Razor: Why the Simplest Explanation Often Wins
+&lt;div id="occams-razor-why-the-simplest-explanation-often-wins" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#occams-razor-why-the-simplest-explanation-often-wins" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;em>Prefer fewer assumptions until the evidence demands more&lt;/em>&lt;/p>
+&lt;p>Imagine that you wake up one morning and discover that your garden is wet.&lt;/p>
+&lt;p>What happened?&lt;/p>
+&lt;p>Several explanations are possible:&lt;/p>
+&lt;ul>
+&lt;li>It rained during the night.&lt;/li>
+&lt;li>Someone watered the garden.&lt;/li>
+&lt;li>A water pipe leaked.&lt;/li>
+&lt;li>A helicopter carrying water accidentally flew over your house and spilled its load.&lt;/li>
+&lt;/ul>
+&lt;p>All of these explanations are theoretically possible. Yet most people would first assume that it rained or that someone watered the garden.&lt;/p>
+&lt;p>Why? Because our minds naturally prefer explanations that require fewer assumptions.&lt;/p>
+&lt;p>This simple but powerful idea is known as &lt;strong>Occam&amp;rsquo;s Razor&lt;/strong>. More than seven hundred years after William of Ockham articulated it, the principle still shapes philosophy, science, engineering, medicine, data science, and everyday decision-making.&lt;/p></description></item><item><title>100 Websites You Only Need on the Internet</title><link>https://dasarpai.github.io/dsblog/100-websites-you-only-need/</link><pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/100-websites-you-only-need/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr6300-100-Websites-You-Only-Need.jpg" alt="100 Websites You Only Need on the Internet" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Overview of AI Benchmark Explorer Tool</title><link>https://dasarpai.github.io/dsblog/aibenchmark-explorer/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/aibenchmark-explorer/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg" alt="AI Benchmark Explorer" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Exploring GraphDB and Neo4j - A Guide to Graph Databases</title><link>https://dasarpai.github.io/dsblog/exploring-graphdb-and-neo4j/</link><pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-graphdb-and-neo4j/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg" alt="Exploring GraphDB and Neo4j" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">RDBMS vs. Neo4j (Cypher) Command Comparison
+&lt;div id="rdbms-vs-neo4j-cypher-command-comparison" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#rdbms-vs-neo4j-cypher-command-comparison" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Are GraphDB faster than RDBMS?
+&lt;div id="are-graphdb-faster-than-rdbms" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#are-graphdb-faster-than-rdbms" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Graph databases (GraphDBs) can be &lt;strong>faster&lt;/strong> than relational databases (RDBMS) in scenarios that involve &lt;strong>complex relationships and deep traversals&lt;/strong>, but they are not always universally faster. It depends on the &lt;strong>query type, data structure, and use case&lt;/strong>.&lt;/p></description></item><item><title>AI Resources: Ultimate Collection of Cutting-Edge Tools for AI Enthusiasts</title><link>https://dasarpai.github.io/dsblog/ai-resources/</link><pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-resources/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6224-AI-Resources.jpg" alt="AI Resources" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Bookmark Blog Articles from Browser</title><link>https://dasarpai.github.io/dsblog/mybookmark-blog-articles/</link><pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/mybookmark-blog-articles/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg" alt="" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Exploring Tokenization and Embedding in NLP</title><link>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</link><pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg" alt="Exploring Tokenization and Embedding in NLP" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Tokenization and Embedding in NLP
+&lt;div id="exploring-tokenization-and-embedding-in-nlp" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-tokenization-and-embedding-in-nlp" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.&lt;/p>
+&lt;ol>
+&lt;li>What is tokenization?&lt;/li>
+&lt;li>What are different Tokenzation schemes?&lt;/li>
+&lt;li>What is OOV (Out-of-Vocabulary) in Tokenization?&lt;/li>
+&lt;li>If a word does not exist in embedding model&amp;rsquo;s vocabulary, then how tokenization and embedding is done?&lt;/li>
+&lt;li>What is criteria of splitting a word?&lt;/li>
+&lt;li>What is Subword Tokenization?&lt;/li>
+&lt;li>How FastText Tokenization works?&lt;/li>
+&lt;li>What is role of [CLS] token?&lt;/li>
+&lt;li>What is WordPiece and how it works?&lt;/li>
+&lt;li>What is BPE (Byte Pair Encoding), and how it works?&lt;/li>
+&lt;li>What is SentencePiece and how it works?&lt;/li>
+&lt;li>For Indian languages what tokenization schemes is the best?&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">What is tokenization?
+&lt;div id="what-is-tokenization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-tokenization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tokenization is the process of breaking text into smaller units (tokens), such as words, subwords, or characters, for NLP tasks.&lt;/p></description></item><item><title>Adapting AI Models to the Latest Information: Methods and Approaches</title><link>https://dasarpai.github.io/dsblog/adapting-ai-models-to-the-latest-information/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/adapting-ai-models-to-the-latest-information/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Adapting AI Models to the Latest Information: Methods and Approaches
+&lt;div id="adapting-ai-models-to-the-latest-information-methods-and-approaches" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#adapting-ai-models-to-the-latest-information-methods-and-approaches" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Artificial Intelligence offers numerous advantages over traditional search engines like Google or Bing, but it also has a notable limitation: its knowledge is often frozen in the past. Unless a model is retrained or updated with newly available data, it cannot respond effectively to current business, political, social, or scientific developments.&lt;/p></description></item><item><title>Exploring Synthetic Data Generation Capabilities</title><link>https://dasarpai.github.io/dsblog/exploring-synthetic-data-generation-capabilities/</link><pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-synthetic-data-generation-capabilities/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg" alt="Exploring Synthetic Data Generation Capabilities" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Synthetic Data Generation Capabilities
+&lt;div id="exploring-synthetic-data-generation-capabilities" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-synthetic-data-generation-capabilities" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Are you looking answers to these questions?&lt;/p>
+&lt;ul>
+&lt;li>What is Synthetic Data?&lt;/li>
+&lt;li>What is data anonymization?&lt;/li>
+&lt;li>What are different techniques for generating Anonymized Data?&lt;/li>
+&lt;li>Why is anonymizing not sufficient to address PII data issues?&lt;/li>
+&lt;li>When there is lots of data available around then why do we need synthetic data?&lt;/li>
+&lt;li>What are the challenges in synthetic data generation?&lt;/li>
+&lt;li>What are the tools for Synthetic Data Generator for Marketing&lt;/li>
+&lt;li>What are the tools for Graph Synthetic Data generation?&lt;/li>
+&lt;li>List of popular synthetic data generation tools for different industries&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">What is Synthetic Data?
+&lt;div id="what-is-synthetic-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-synthetic-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Synthetic data&lt;/strong> is artificially generated data that mimics the characteristics and statistical properties of real-world data but is not derived directly from real-world events or observations. It is created using algorithms, simulations, or models to represent patterns, structures, and relationships found in actual datasets. Synthetic data can take various forms, such as text, images, audio, or structured tabular data, depending on the context. It is used across various industries to train AI models, simulate environments, and conduct research.&lt;/p></description></item><item><title>Exploring Apache Hive</title><link>https://dasarpai.github.io/dsblog/exploring-apache-hive/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-apache-hive/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg" alt="Exploring Apache Hive" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Apache Hive: Capabilities and Scalability for Big Data Processing
+&lt;div id="exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-apache-hive-capabilities-and-scalability-for-big-data-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Hive?
+&lt;div id="what-is-hive" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-hive" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. It provides a platform for processing large datasets stored in Hadoop Distributed File System (HDFS) and other data storage systems that integrate with Hadoop. Hive simplifies querying and managing big data with a familiar SQL-like syntax (HiveQL). Below are the key capabilities of Hive:&lt;/p></description></item><item><title>What is Unicode and how does it works?</title><link>https://dasarpai.github.io/dsblog/what-is-unicode-and-how-does-it-works/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-unicode-and-how-does-it-works/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg" alt="What is Unicode and how does it works?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is Unicode and how does it works?
+&lt;div id="what-is-unicode-and-how-does-it-works" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-unicode-and-how-does-it-works" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Unicode: A Universal Character Set
+&lt;div id="what-is-unicode-a-universal-character-set" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-unicode-a-universal-character-set" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Unicode&lt;/strong> is a standard that assigns a unique number to every character, no matter the platform, program, or language. It&amp;rsquo;s like a global dictionary for characters.&lt;/p></description></item><item><title>Dimensionality Reduction and Visualization</title><link>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg" alt="Dimensionality-Reduction-and-Visualization" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dimensionality Reduction and Visualization
+&lt;div id="dimensionality-reduction-and-visualization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dimensionality-reduction-and-visualization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the popular methods of dimensionality reduction?
+&lt;div id="what-are-the-popular-methods-of-dimensionality-reduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-popular-methods-of-dimensionality-reduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dimensionality reduction is a crucial step in data preprocessing, particularly when dealing with high-dimensional datasets. It helps in reducing the number of features while retaining the essential information, improving computational efficiency, and facilitating data visualization. Here are some popular methods of dimensionality reduction:&lt;/p></description></item><item><title>Manamath Nath - Ramayana Corpus</title><link>https://dasarpai.github.io/dsblog/manamath-nath-ramayana-corpus/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/manamath-nath-ramayana-corpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg" alt="Manmath Nath - Ramayana Corpus" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Manmath Nath - Ramayana Corpus
+&lt;div id="manmath-nath---ramayana-corpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#manmath-nath---ramayana-corpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-corpus-intro">Corpus Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-text-license">Corpus License&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-1">Bala Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-2">Ayodhya Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-3">Aranyaka Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-4">Kishkinddha Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-5">Sunder Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-6">Lanka Kanda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/ramayan/manmathnath-ramayana-7">Utter Kanda&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>KM Ganguli Mahabharat Corpus</title><link>https://dasarpai.github.io/dsblog/km-ganguli-mahabharat-corpus/</link><pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/km-ganguli-mahabharat-corpus/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg" alt="KM Ganguli Mahabharat Corpus" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">KM Ganguli Mahabharat Corpus
+&lt;div id="km-ganguli-mahabharat-corpus" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#km-ganguli-mahabharat-corpus" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-01">Adi Parva (The Book of the Beginning)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-02">Sabha Parva (The Book of the Assembly Hall)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-03">Vana Parva or Aranyaka-Parva (The Book of the Forest)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-04">Virata Parva (The Book of Virata)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-05">Udyoga Parva (The Book of the Effort)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-06">Bhishma Parva (The Book of Bhishma)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-07">Drona Parva (The Book of Drona)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-08">Karna Parva (The Book of Karna)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-09">Shalya Parva (The Book of Shalya)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-10">Sauptika Parva (The Book of the Sleeping Warriors)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-11">Stri Parva (The Book of the Women)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-12">Shanti Parva (The Book of Peace)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-13">Anushasana Parva (The Book of the Instructions)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-14">Ashvamedhika Parva (The Book of the Horse Sacrifice)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-15">Ashramavasika Parva (The Book of the Hermitage)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-16">Mausala Parva (The Book of the Clubs)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-17">Mahaprasthanika Parva (The Book of the Great Journey)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/mahabharat/mb-kmganguli-mahabharat-18">Svargarohana Parva (The Book of the Ascent to Heaven)&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Basics of Word Embedding</title><link>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg" alt="Basics of Word Embedding" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Basics of Word Embedding
+&lt;div id="basics-of-word-embedding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-word-embedding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is Context, target and window?
+&lt;div id="what-is-context-target-and-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-context-target-and-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li>
+&lt;li>The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li>
+&lt;li>The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li>
+&lt;/ul>
+&lt;p>Let&amp;rsquo;s take a sentence&lt;/p></description></item><item><title>What is Pinecone</title><link>https://dasarpai.github.io/dsblog/what-is-pinecone/</link><pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-pinecone/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6097-What-is-Pinecone.jpg" alt="What is Pinecone" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is pinecone?
+&lt;div id="what-is-pinecone" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-pinecone" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Pinecone is a managed vector database that provides vector search (or “similarity search”) for developers with a straightforward API and usage-based pricing. It’s free to try. &lt;a href="https://www.pinecone.io/learn/vector-search-basics/" target="_blank">Introduction to Vector Search for Developers&lt;/a>.&lt;/p>
+&lt;h2 class="relative group">What is a &lt;a href="https://www.pinecone.io/learn/vector-database/" target="_blank">Vector Database&lt;/a>?
+&lt;div id="what-is-a-vector-database" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-a-vector-database" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Your must have heard about relational database, graph database, object datbase. But this article is about Vector Database.&lt;/p></description></item><item><title>Important AI Paper List</title><link>https://dasarpai.github.io/dsblog/select-ai-papers/</link><pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/select-ai-papers/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg" alt="Important AI Paper List" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Embedding with FastText</title><link>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/embedding-with-fasttext/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg" alt="Embedding with FastText" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Embedding with FastText
+&lt;div id="embedding-with-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-with-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-is-embedding">What is Embedding?&lt;/a>&lt;br>
+&lt;a href="https://dasarpai.github.io/dsblog/what-is-nlp#what-are-different-embedding-types">What are Different Types of Embedding&lt;/a>&lt;/p>
+&lt;h2 class="relative group">What is FastText?
+&lt;div id="what-is-fasttext" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-fasttext" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for &lt;strong>training&lt;/strong> and &lt;strong>using word embeddings&lt;/strong>.&lt;/p></description></item><item><title>All Resources to Learn Data Science</title><link>https://dasarpai.github.io/dsblog/all-resources-to-learn-data-science/</link><pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/all-resources-to-learn-data-science/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg" alt="All Resources to Learn Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">All Resources to Learn Data Science
+&lt;div id="all-resources-to-learn-data-science" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-resources-to-learn-data-science" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Welcome to the AI ML Resources category page, where you&amp;rsquo;ll find a wealth of knowledge on various topics related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Mathematics and statistics required to learn Data Science. Each of the pages mentioned below brings together a wide range of articles, tutorials, and guides that delve into the fascinating world of AI and ML. Whether you&amp;rsquo;re a beginner seeking foundational knowledge or an experienced practitioner looking to expand your skills, these resources offer valuable insights and practical guidance. You need to go through these links one at time. As a master page you can book mark this page.&lt;/p></description></item><item><title>The Interconnectedness of Life and Data</title><link>https://dasarpai.github.io/dsblog/file-formats-in-machine-learning/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/file-formats-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg" alt="The Interconnectedness of Life and Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Interconnectedness of Life and Data
+&lt;div id="the-interconnectedness-of-life-and-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-interconnectedness-of-life-and-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>While reading below keep your mind open. If you can keep your religious or even scientific information aside it would help you understand my thoughts. For many of you these may be hard ideas to digest, therefore reading multiple times and thinking over again and again will help.&lt;/p></description></item><item><title>GPU for Data Science Work</title><link>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</link><pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg" alt="GPU for Data Science Work" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">GPU for Data Science Work
+&lt;div id="gpu-for-data-science-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-for-data-science-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between microprocessor (CPU) and GPU?
+&lt;div id="what-is-the-difference-between-microprocessor-cpu-and-gpu" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-microprocessor-cpu-and-gpu" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.&lt;/p></description></item><item><title>Timeseries Interview Questions</title><link>https://dasarpai.github.io/dsblog/timeseries-interview-questions/</link><pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/timeseries-interview-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg" alt="Timeseries Interview Questions" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Timeseries Interview Questions
+&lt;div id="timeseries-interview-questions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#timeseries-interview-questions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the characterstics of time series data?
+&lt;div id="what-are-the-characterstics-of-time-series-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-characterstics-of-time-series-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Time series data is a series of data points collected over time. Some characteristics of time series data include:&lt;/p>
+&lt;ul>
+&lt;li>Time dependence: Time series data is typically collected at regular time intervals, and the values of the time series are often dependent on the time at which they were collected.&lt;/li>
+&lt;li>Equal duration gap between samples/ records&lt;/li>
+&lt;li>No missing record in between&lt;/li>
+&lt;li>Trend: Many time series exhibit a long-term trend, either upward or downward. This trend may be influenced by a variety of factors such as economic conditions, population growth, or technological changes.&lt;/li>
+&lt;li>Seasonality: Many time series exhibit regular fluctuations due to seasonal factors such as weather, holidays, or other events. For example, retail sales may be higher in the months leading up to Christmas due to holiday shopping.&lt;/li>
+&lt;li>Cyclicity: Time series may exhibit cyclical pattern. Like sales is highest in month start, body temprature is high at 6am, traffic is least on weekends etc.&lt;/li>
+&lt;li>Noise: Time series data may also be affected by random noise or error, which can make it difficult to accurately forecast future values.&lt;/li>
+&lt;li>Autocorrelation: Time series data may exhibit autocorrelation, which is the phenomenon of a value at a particular time being correlated with values at nearby times. This can make it challenging to model the time series, as the value at a given time may depend on the values at nearby times.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">Example of time series data
+&lt;div id="example-of-time-series-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#example-of-time-series-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Sales (y)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020-01-01&lt;/td>
+&lt;td>1000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-02-01&lt;/td>
+&lt;td>1100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-03-01&lt;/td>
+&lt;td>1200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-04-01&lt;/td>
+&lt;td>1100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-05-01&lt;/td>
+&lt;td>1000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-06-01&lt;/td>
+&lt;td>900&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-07-01&lt;/td>
+&lt;td>1200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-08-01&lt;/td>
+&lt;td>1400&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-09-01&lt;/td>
+&lt;td>1300&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-10-01&lt;/td>
+&lt;td>1500&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>This first column can be date or date or datetime. Interval between two rows must be equal. The unit of date or time or datetime may be milliosecond, or second, or minute, or hour, or day, week, month, quarter, year or dacade. This should be continuous without any gap.&lt;/p></description></item><item><title>Statistics Interview Question for Data Scientist</title><link>https://dasarpai.github.io/dsblog/statistics-interview-question-for-data-scientist/</link><pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/statistics-interview-question-for-data-scientist/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg" alt="Statistics Interview Question for Data Scientist" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Statistics Interview Question for Data Scientist
+&lt;div id="statistics-interview-question-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#statistics-interview-question-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>In this question-answer blog, I will try to answer that every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.&lt;/p></description></item><item><title>Book Review - Data Science in Marketing Analysis</title><link>https://dasarpai.github.io/dsblog/bookreview-data-science-for-marketing-analytics/</link><pubDate>Wed, 26 Oct 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bookreview-data-science-for-marketing-analytics/</guid><description>&lt;p>&lt;a href="https://dasarpai.github.io/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg">Book Review - Data Science in Marketing Analysis&lt;/a>&lt;/p>
+&lt;h1 class="relative group">BOOK REVIEW
+&lt;div id="book-review" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#book-review" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">TITLE OF THE BOOK: Data Science in Marketing Analysis
+&lt;div id="title-of-the-book-data-science-in-marketing-analysis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#title-of-the-book-data-science-in-marketing-analysis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">AUTHOR: Mirza Rahim Baig, Gururajan Govindan, and Vishwesh Ravi Shrimali
+&lt;div id="author-mirza-rahim-baig-gururajan-govindan-and-vishwesh-ravi-shrimali" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#author-mirza-rahim-baig-gururajan-govindan-and-vishwesh-ravi-shrimali" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">PUBLISHER: Packt Publishing
+&lt;div id="publisher-packt-publishing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#publisher-packt-publishing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">YEAR: 2021
+&lt;div id="year-2021" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#year-2021" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Reviewer: Hari Thapliyal, AI Educationist &amp;amp; Consultant, Founder, dasarpAI
+&lt;div id="reviewer-hari-thapliyal-ai-educationist--consultant-founder-dasarpai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reviewer-hari-thapliyal-ai-educationist--consultant-founder-dasarpai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">INTRODUCTION
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Before writing this book, three authors of this books has written 3 books separately. Mirza Rahim Baig has authored “The Deep Learning Workshop”, Gururajan Govindan authored “The Data Analysis Workshop” and Vishwesh Ravi Shrimali has written a book “The Computer Vision Workshop”. The individual’s experience of writing book on Data Science has made this book easy understandable and lucid book. I am doing this review on the second edition of this book. The first edition was published in 2019 and the second edition is published in 2021. This book contains 637 pages, and it looks heavy on your table but most the content is code example and screenshots of graphs and data tables. This is normal for any good programming book, which wants their reader to understand what code was written and how the output looks like. This book is written in simple English. In the book, authors trying to explain how to work with python, pandas, seaborn and other important python libraries. This book goes beyond the title of this book. It is not only about marketing analysis but also how to develop model using scikit-learn and other machine learning libraries. Copyright of this book is with Packt Publishing.&lt;/p></description></item><item><title>Data Science/AI Projects Project Ideas</title><link>https://dasarpai.github.io/dsblog/ds-ai-projects-project-ideas/</link><pubDate>Thu, 06 Oct 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-projects-project-ideas/</guid><description>&lt;p>&lt;a href="https://dasarpai.github.io/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg">AI Projects Project Ideas&lt;/a>&lt;/p>
+&lt;h2 class="relative group">AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas
+&lt;div id="ai-data-science-machine-learning-deep-learning-nlp-project-ideas" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-data-science-machine-learning-deep-learning-nlp-project-ideas" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Project Name/Idea&lt;/th>
+&lt;th>Type of Project&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>IPL 2022 Analysis using Python&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Uber Trips Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Waiter Tips Analysis &amp;amp; Prediction&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Time Series Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stock Market Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Movie Rating Analysis for Beginners&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Unemployment Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Water Quality Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Google Search Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WhatsApp Chats Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Smartwatch Data Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Instagram Reach Analysis and Prediction&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Smartwatch Data Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Covid-19 Vaccine Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Financial Budget Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Worldwide Billionaires Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Best Streaming Service Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Virat Kohli Performance Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Covid-19 Spread and Impacts Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data Science Project on Birth Rate Analysis&lt;/td>
+&lt;td>Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Twitter Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Real-time Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Squid Game Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hotel Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tinder Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tiktok Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pfizer Vaccine Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WhatsApp Chats Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Omicron Variant Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Flipkart Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Google Play Store Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Amazon Alexa Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Amazon Product Reviews Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ukraine vs Russia Twitter Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Adding Labels to a Dataset for Sentiment Analysis&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Classification Model Evaluation&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>MNIST Digits Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Classification with Neural Networks&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>News Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Iris Flower Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Comparison of Classification Algorithms&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Insurance Prediction&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spam Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sarcasm Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hate Speech Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Hate Speech Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Fake News Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Spam Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Real-time Gender Detection System&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Social Media Ads Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fake News Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gender Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mobile Price Classification&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Password Strength Checker with Machine Learning&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spam Comments Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Online Payments Fraud Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Breast Cancer Survival Prediction&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stress Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Language Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Language Detection&lt;/td>
+&lt;td>Classification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Clustering Music Genres with Machine Learning&lt;/td>
+&lt;td>Clustering&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AlexNet Neural Network Architecture&lt;/td>
+&lt;td>CV&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Count Objects in Image&lt;/td>
+&lt;td>CV-Object Detection&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-End Machine Learning Model&lt;/td>
+&lt;td>ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>End-to-end Machine Learning Project&lt;/td>
+&lt;td>ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complete Process of NLP with Python&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Interactive Language Translator&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Create a Chatbot with Python&lt;/td>
+&lt;td>NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Text Summarization&lt;/td>
+&lt;td>NLP-IE&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Keyword Extraction&lt;/td>
+&lt;td>NLP-IE&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Netflix Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Restaurant Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Book Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Instagram Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Article Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Amazon Recommendation System&lt;/td>
+&lt;td>Recommendation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>House Rent Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Website Traffic Forecasting&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Online Food Order Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Student Marks Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Netflix Stock Price Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Health Insurance Premium Prediction&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Car Price Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Video Game Sales Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Student Grades Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Click-Through Rate Prediction Model&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data Science Project on Area and Population&lt;/td>
+&lt;td>Regression&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Apple Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tesla Stock Price Prediction Model&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data Science Project on Time Series&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Social Media Followers Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dogecoin Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sales Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Currency Exchange Rate Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Automatic Time Series Forecasting&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Future Sales Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Time Series Forecasting with ARIMA&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cryptocurrency Price Prediction for the next 30 days&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Covid-19 Deaths Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stock Price Prediction with LSTM Neural Network&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Future Sales Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Product Demand Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Electricity Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cryptocurrency Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tata Motors Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of Orders Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Microsoft Stock Price Prediction&lt;/td>
+&lt;td>Time Series&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Data Science, AI, ML, eBooks, PDF Books</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-books/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-books/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg" alt="DS, AI, ML, Books Available" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Data Science Cheatsheets</title><link>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg" alt="Data Science Cheatsheets" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Github Repos for Data Science</title><link>https://dasarpai.github.io/dsblog/github-repos-for-datascience/</link><pubDate>Thu, 22 Jul 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/github-repos-for-datascience/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg" alt="Github Repos for Data Science" />
+&lt;/figure>
+&lt;/p></description></item><item><title>AI ML Resources from My Diary</title><link>https://dasarpai.github.io/dsblog/ai-ml-resources-from-my-diary/</link><pubDate>Wed, 21 Jul 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-resources-from-my-diary/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg" alt="AI ML Resources from My Diary" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Basic Statistics for Data Science</title><link>https://dasarpai.github.io/dsblog/basic-statistics-for-data-science/</link><pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basic-statistics-for-data-science/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg" alt="Basic Statistics for Data Science" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Data Scientists and AI, ML Researchers</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-researchers/</link><pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-researchers/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg" alt="Data Scientists and AI, ML Researchers" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Thousands of Machine Learning Datasets</title><link>https://dasarpai.github.io/dsblog/datasets/</link><pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/datasets/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr115-Datasets.jpg" alt="Datasets" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Machine Learning Tasks and Model Evaluation</title><link>https://dasarpai.github.io/dsblog/ml-tasks-and-model-evaluation/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-tasks-and-model-evaluation/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg" alt="Deep Learning Tasks and Models" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Machine Learning Framework, Library, Tools</title><link>https://dasarpai.github.io/dsblog/ml-frameworks-libraries-tools/</link><pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-frameworks-libraries-tools/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg" alt="Machine Learning Framework, Library, Tools" />
+&lt;/figure>
+&lt;/p></description></item><item><title>AI, ML, DL Blogs Sites</title><link>https://dasarpai.github.io/dsblog/ai-ml-blogs/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-blogs/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg" alt="AI, ML, DL Blogs Sites" />
+&lt;/figure>
+&lt;/p></description></item><item><title>My Daily Tools</title><link>https://dasarpai.github.io/dsblog/my-daily-tools/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/my-daily-tools/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr112-My-Daily-Tools.jpg" alt="My Daily Tools" />
+&lt;/figure>
+&lt;/p></description></item><item><title>My Favorite Chrome Extensions</title><link>https://dasarpai.github.io/dsblog/myfab-chrome-extensions/</link><pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/myfab-chrome-extensions/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg" alt="My Favorite Chrome Extensions" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Best Resources to Learn Python</title><link>https://dasarpai.github.io/dsblog/best-resources-to-learn-python/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/best-resources-to-learn-python/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg" alt="Best Resources to Learn Python" />
+&lt;/figure>
+&lt;/p></description></item><item><title>AI, ML, Deep Learning, NLP Conferences &amp; Journals</title><link>https://dasarpai.github.io/dsblog/ai-ml-dl-nlp-conferences/</link><pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-ml-dl-nlp-conferences/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg" alt="AI, ML, Deep Learning, NLP Conferences &amp;amp; Journals" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Best YouTube Channels to Learn Data Science</title><link>https://dasarpai.github.io/dsblog/best-youtube-channels-for-ds/</link><pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/best-youtube-channels-for-ds/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg" alt="Best YouTube Channels to Learn Data Science" />
+&lt;/figure>
+&lt;/p></description></item><item><title>High School Maths for Data Science</title><link>https://dasarpai.github.io/dsblog/high-school-maths-for-ds/</link><pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/high-school-maths-for-ds/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg" alt="High School Maths for Data Science" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Important AI Research Papers</title><link>https://dasarpai.github.io/dsblog/important-ai-research-papers/</link><pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/important-ai-research-papers/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg" alt="Important AI Research Papers" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Mathematics for Data Scientist</title><link>https://dasarpai.github.io/dsblog/maths-for-ds/</link><pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/maths-for-ds/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg" alt="Mathematics for Data Scientist" />
+&lt;/figure>
+&lt;/p></description></item><item><title>EDA &amp; Feature Engineering 101</title><link>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</link><pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6008-EDA101.jpg" alt="EDA &amp;amp; Feature Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is EDA?
+&lt;div id="what-is-eda" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-eda" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What kind of data is this? (file format, volume of data, number of columns, metadata data of image/video/audio or some feedback in English or other languages, or tabular data, etc)&lt;/li>
+&lt;li>How complex is this data? (How many files are there? primary key? how these files are connected to each other? is nested data in some files? is some field having nested data, etc.)&lt;/li>
+&lt;li>Is this data sufficient for meeting our ultimate goal, i.e. Model building?&lt;/li>
+&lt;li>Is there any missing data? Data needed but not given by the business or not available at all or costly to get that data etc.&lt;/li>
+&lt;li>Are there any missing values? In the given dataset do we have complete information or some values are missing for some records or some columns?&lt;/li>
+&lt;li>What are different independent and dependent fields?&lt;/li>
+&lt;li>Is there any relationship between different independent variables of the dataset? If yes then how strong is that relationship?&lt;/li>
+&lt;li>Are observations independent or tightly coupled like we see in time-series data?&lt;/li>
+&lt;/ul>
+&lt;p>In the data scient project lifecycle, EDA is not a sequential, one-time, isolated process. Till the time data is not ready for modeling we keep doing EDA and cleaning the data. So, EDA is followed by a list of decisions taken to clean the dataset, and finally, data cleaning steps are implemented. If the dataset is not in the good shape after the first iteration of EDA we continue EDA in the next cycle. In this article, I am not referring to EDA as just visualizing and understanding the dataset but all the steps required till the dataset is not ready for modeling.&lt;/p></description></item><item><title>Data Science Interview Question Answers</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-interview-resources/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg" alt="Data Science Interview Question Answers" />
+&lt;/figure>
+&lt;/p></description></item><item><title>DS, AI, ML Online Course, Tutorial, Videos</title><link>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg" alt="DS, AI, ML Online Course, Tutorial, Videos" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Reinforcement Learning Git Repositories</title><link>https://dasarpai.github.io/dsblog/rl-git-repo/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/rl-git-repo/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg" alt="Reinforcement Learning Git Repositories" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Dealing with Sensitive Data</title><link>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</link><pubDate>Tue, 10 Mar 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dealing-with-sensitive-data/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg" alt="XAI" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dealing with Sensitive Data
+&lt;div id="dealing-with-sensitive-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dealing-with-sensitive-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>One of the biggest problems for a Data Science project team is to protect the data. We know, data is the basic raw material for building any supervised or unsupervised models. We cannot make a without data. Let’s assume you are working for an eCommerce retail company like Amazon; or in the health domain with some big hospital chain or government hospital; or in the banking industry with some big bank like Bank of America, Standard Charted, SBI, or ICICI Bank. They have huge data. That data can be used to develop ML models. These models can help them to serve their customers or other stakeholders in a better and efficient way. To develop these models, data should be given to the Data Science team. When the data is moving out from the production environment to the project environment, there is no guarantee that data will not fall in the wrong hands and will not be misused during the project or post the project completion. When the data is moving within the same company, there are lesser chances of this disaster. But when the company is giving data to third parties or vendors, then there are high chances.&lt;/p></description></item></channel></rss>

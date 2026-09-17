@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mathematics on dasarpAI</title><link>https://dasarpai.github.io/categories/mathematics/</link><description>Recent content in Mathematics on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/mathematics/index.xml" rel="self" type="application/rss+xml"/><item><title>Trigonometric Identities as Operations on Ratios</title><link>https://dasarpai.github.io/dsblog/trigonometric-identities-as-operations-on-ratios/</link><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/trigonometric-identities-as-operations-on-ratios/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6322-trigonometric-identities-as-operations-on-ratios.jpg" alt="Trigonometric Identities as Operations on Ratios" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Trigonometric Identities as Operations on Ratios
+&lt;div id="trigonometric-identities-as-operations-on-ratios" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#trigonometric-identities-as-operations-on-ratios" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Identities are operations on ratios — not strings to memorize
+&lt;div id="identities-are-operations-on-ratios--not-strings-to-memorize" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#identities-are-operations-on-ratios--not-strings-to-memorize" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 21 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Trigonometry is the study of &lt;strong>ratios of a triangle&amp;rsquo;s sides&lt;/strong>. Every textbook “identity” is an &lt;strong>operation&lt;/strong> on those ratios — square, add, subtract, flip, compose, take a square root. The formula is the measurement of that meaning, not a string to memorize.&lt;/p>
+&lt;p>This handbook is the sequel to &lt;a href="https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram">Six Trigonometric Functions — One Diagram&lt;/a>, which draws \(\cos\theta\), \(\sin\theta\), \(\tan\theta\), \(\cot\theta\), \(\sec\theta\), and \(\csc\theta\) as six colored segments on one unit circle. For radius, radian, and the rest of the circle vocabulary, see &lt;a href="https://dasarpai.github.io/dsblog/anatomy-of-a-circle">Anatomy of a Circle&lt;/a>.&lt;/p>
+&lt;p>Here each family is one operation: what it means, a figure, the boxed formulas, and a one-line closer.&lt;/p>
+&lt;h2 class="relative group">1. Ratios, then operations
+&lt;div id="1-ratios" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-ratios" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>On the unit circle of that article, the radius is \(1\), so each segment &lt;strong>equals&lt;/strong> its function value — not merely “proportional to” it.&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Orange&lt;/strong> \(OW\) on the \(x\)-axis is \(\cos\theta\).&lt;/li>
+&lt;li>&lt;strong>Green&lt;/strong> \(WP\) up to \(P\) is \(\sin\theta\).&lt;/li>
+&lt;li>&lt;strong>Purple&lt;/strong> \(VT\) on the vertical tangent \(x=1\) is \(\tan\theta\).&lt;/li>
+&lt;li>&lt;strong>Cyan dashed&lt;/strong> ray \(OT\) is \(\sec\theta\).&lt;/li>
+&lt;li>&lt;strong>Pink&lt;/strong> \(RC\) on the horizontal tangent \(y=1\) is \(\cot\theta\).&lt;/li>
+&lt;li>&lt;strong>Magenta solid&lt;/strong> ray \(OC\) is \(\csc\theta\).&lt;/li>
+&lt;/ol>
+&lt;p>Point \(P=(\cos\theta,\sin\theta)\) is where the angle ray meets the circle. Reciprocal pairs multiply to \(1\) because they sit on similar triangles, not because someone flipped a symbol. The rest of this article asks: &lt;strong>what can you do to those lengths?&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Operation&lt;/th>
+&lt;th>Meaning&lt;/th>
+&lt;th>Family&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Square + add&lt;/td>
+&lt;td>Two legs make hypotenuse 1&lt;/td>
+&lt;td>&lt;a href="#2-pythagorean">§2&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Reflect&lt;/td>
+&lt;td>Height flips sign&lt;/td>
+&lt;td>&lt;a href="#3-odd-even">§3&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Swap legs&lt;/td>
+&lt;td>Complement&lt;/td>
+&lt;td>&lt;a href="#4-cofunctions">§4&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Add a full turn&lt;/td>
+&lt;td>Same point \(P\)&lt;/td>
+&lt;td>&lt;a href="#5-period">§5&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Compose two angles&lt;/td>
+&lt;td>Mix the two pairs&lt;/td>
+&lt;td>&lt;a href="#6-angle-addition">§6&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Square + subtract&lt;/td>
+&lt;td>Double the angle&lt;/td>
+&lt;td>&lt;a href="#7-double-angle">§7&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Square root&lt;/td>
+&lt;td>Half the angle&lt;/td>
+&lt;td>&lt;a href="#8-half-angle">§8&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Multiply heights&lt;/td>
+&lt;td>Sum of two waves&lt;/td>
+&lt;td>&lt;a href="#9-product-to-sum">§9&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Scale + add&lt;/td>
+&lt;td>One shifted wave&lt;/td>
+&lt;td>&lt;a href="#10-harmonic">§10&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Anatomy of a Circle — Radius, Arc, Sector, Radian, π, and Every Part in Between</title><link>https://dasarpai.github.io/dsblog/anatomy-of-a-circle/</link><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/anatomy-of-a-circle/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/circle/dsp6316-circle-anatomy-overview.png" alt="Anatomy of a Circle" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Anatomy of a Circle
+&lt;div id="anatomy-of-a-circle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#anatomy-of-a-circle" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Every named part, formula, and diagram — strictly in two dimensions
+&lt;div id="every-named-part-formula-and-diagram--strictly-in-two-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#every-named-part-formula-and-diagram--strictly-in-two-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 16 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>A circle looks simple: all points the same distance from a center. Yet the vocabulary around it is rich — &lt;strong>radius&lt;/strong>, &lt;strong>chord&lt;/strong>, &lt;strong>arc&lt;/strong>, &lt;strong>sector&lt;/strong>, &lt;strong>segment&lt;/strong>, &lt;strong>radian&lt;/strong>, &lt;strong>π&lt;/strong>, and more. Each name marks a different geometric object or measurement, and each has its own formula.&lt;/p>
+&lt;p>This article is a &lt;strong>2D reference guide&lt;/strong>. For every concept you get a short definition, the standard formula, and a labeled diagram. We stay in the plane throughout. When you need the &lt;strong>six trigonometric functions as line lengths&lt;/strong> on the unit circle, see &lt;a href="https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram">Six Trigonometric Functions — One Diagram&lt;/a>. When you want to &lt;strong>rotate or extrude&lt;/strong> a circle into a sphere or cylinder, see &lt;a href="https://dasarpai.github.io/dsblog/conic-sections-and-their-3d-shapes">Conic Sections and Their 3D Shapes&lt;/a>.&lt;/p>
+&lt;p>The hero figure above labels the parts that share one construction; later sections zoom in on measurements and formulas.&lt;/p></description></item><item><title>Six Trigonometric Functions — One Diagram</title><link>https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/six-trigonometric-functions-one-diagram/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6315-trigonometric-variables-unit-circle-diagram.jpg" alt="Six Trigonometric Functions — One Diagram" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Six Trigonometric Functions — One Diagram
+&lt;div id="six-trigonometric-functions--one-diagram" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#six-trigonometric-functions--one-diagram" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">All six trig values as lengths on one unit-circle picture
+&lt;div id="all-six-trig-values-as-lengths-on-one-unit-circle-picture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-six-trig-values-as-lengths-on-one-unit-circle-picture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 15 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Most textbooks introduce \(\sin\theta\), \(\cos\theta\), and \(\tan\theta\) on the unit circle, then treat \(\cot\theta\), \(\sec\theta\), and \(\csc\theta\) as afterthoughts — “just take the reciprocal.” That works algebraically, but it hides the geometry.&lt;/p>
+&lt;p>This article follows &lt;strong>one diagram&lt;/strong>: a full unit circle, one angle \(\theta\), one ray from the origin, and &lt;strong>six colored segments&lt;/strong> that &lt;em>are&lt;/em> the six trigonometric values when the radius is \(1\). The construction is &lt;strong>standard mathematics&lt;/strong> — similar-triangle geometry on the unit circle with tangent lines at \(x=1\) and \(y=1\). What is less common is drawing &lt;strong>all six segments together&lt;/strong> in one figure; each piece is classical, the synthesis is for teaching.&lt;/p>
+&lt;p>The figure uses \(\theta = 30^\circ\) on purpose (&lt;a href="#11-why-we-draw-theta--30circ-not-45circ">§11&lt;/a>). At that angle every segment has a different length, \(T\) and \(C\) are different points, and the dashed secant ray \(OT\) is visibly shorter than the solid cosecant ray \(OC\).&lt;/p>
+&lt;p>Reciprocal pairs (\(\cos/\sec\), \(\sin/\csc\), \(\tan/\cot\)) are &lt;strong>not&lt;/strong> mirror images on the diagram — see &lt;a href="#8-reciprocal-versus-inverse-do-not-mix-them-up">§8&lt;/a> and &lt;a href="#9-why-reciprocal-lengths-multiply-to-1">§9&lt;/a>.&lt;/p></description></item><item><title>The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained</title><link>https://dasarpai.github.io/dsblog/grammar-of-mathematics-operators-functions-relations-symbols/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/grammar-of-mathematics-operators-functions-relations-symbols/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6314-grammar-of-mathematics-operators-functions-relations-symbols.jpg" alt="The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained
+&lt;div id="the-grammar-of-mathematics-operators-functions-relations-and-symbols-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-grammar-of-mathematics-operators-functions-relations-and-symbols-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 14 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Mathematics often becomes difficult not because the ideas are difficult, but because the &lt;strong>language used to express those ideas is unfamiliar&lt;/strong>. A beginner may look at an expression such as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">sin(x) + 3 = y
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>and see only a collection of strange symbols.&lt;/p>
+&lt;p>But each part has a specific role.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">sin -&amp;gt; function
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">x -&amp;gt; variable / argument
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">+ -&amp;gt; operator
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3 -&amp;gt; constant value
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">= -&amp;gt; relation
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">y -&amp;gt; variable
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">( ) -&amp;gt; function notation / grouping
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once we learn to identify these roles, mathematical expressions become much easier to read. The same skill scales from elementary arithmetic through calculus, linear algebra, and quantum computing — context tells us which role each symbol plays.&lt;/p></description></item><item><title>Conic Sections and Their 3D Shapes — Circles, Ellipses, Parabolas, and Hyperbolas in Two and Three Dimensions</title><link>https://dasarpai.github.io/dsblog/conic-sections-and-their-3d-shapes/</link><pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/conic-sections-and-their-3d-shapes/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6312-conic-sections-and-3d-shapes.jpg" alt="Conic Sections and Their 3D Shapes" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Conic Sections and Their 3D Shapes
+&lt;div id="conic-sections-and-their-3d-shapes" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#conic-sections-and-their-3d-shapes" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Circles, ellipses, parabolas, and hyperbolas in two and three dimensions
+&lt;div id="circles-ellipses-parabolas-and-hyperbolas-in-two-and-three-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#circles-ellipses-parabolas-and-hyperbolas-in-two-and-three-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 12 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>A circle is not an isolated shape. It is the simplest member of a family: rotate it around an axis and you get a &lt;strong>sphere&lt;/strong>; slide the same cross-section along a straight line and you get a &lt;strong>cylinder&lt;/strong>. The same pattern repeats for &lt;strong>ellipses&lt;/strong>, &lt;strong>parabolas&lt;/strong>, and &lt;strong>hyperbolas&lt;/strong> — each 2D curve has a natural 3D &lt;strong>surface of revolution&lt;/strong> and a natural &lt;strong>cylindrical extrusion&lt;/strong>.&lt;/p>
+&lt;p>This article is a shape-and-formula guide. For each family you get:&lt;/p>
+&lt;ul>
+&lt;li>the standard equation in the plane,&lt;/li>
+&lt;li>the 3D surface you obtain by rotation,&lt;/li>
+&lt;li>the 3D surface you obtain by extrusion along the \(z\)-axis,&lt;/li>
+&lt;li>&lt;strong>everyday names&lt;/strong> so you can connect the formula to objects you already know,&lt;/li>
+&lt;li>a labeled illustration to fix the picture in memory.&lt;/li>
+&lt;/ul>
+&lt;p>We work in Cartesian coordinates \((x,y)\) in the plane and \((x,y,z)\) in space. Parameters \(a,b,c,p,r>0\) unless noted otherwise.&lt;/p></description></item><item><title>Matrices: A Complete Revision Guide</title><link>https://dasarpai.github.io/dsblog/matrices-a-complete-revision-guide/</link><pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/matrices-a-complete-revision-guide/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6310-matrices-a-complete-revision-guide.jpg" alt="Matrices: A Complete Revision Guide" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Matrices: A Complete Revision Guide
+&lt;div id="matrices-a-complete-revision-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#matrices-a-complete-revision-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 10 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>This is a revision map for matrices, not a first-learning course. If you already know the definitions and just need to refresh the row-by-column rule, a determinant shortcut, or when to reach for an SVD instead of an eigendecomposition, skim the section you need and move on. For a final rapid refresh, skim the lookup tables at the end.&lt;/p></description></item><item><title>From Eigenvalues to Singular Value Decomposition — How a Matrix Reveals Its Natural Directions, Strengths, and Hidden Simplicity</title><link>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/from-eigenvalues-to-singular-value-decomposition/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6308-from-eigenvalues-to-singular-value-decomposition.jpg" alt="From Eigenvalues to Singular Value Decomposition" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">From Eigenvalues to Singular Value Decomposition
+&lt;div id="from-eigenvalues-to-singular-value-decomposition" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#from-eigenvalues-to-singular-value-decomposition" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">How a matrix reveals its natural directions, strengths, and hidden simplicity
+&lt;div id="how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-a-matrix-reveals-its-natural-directions-strengths-and-hidden-simplicity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 9 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Suppose we are given a matrix:&lt;/p>
+\[
+M=
+\begin{bmatrix}
+4&amp;0\\
+3&amp;-5
+\end{bmatrix}.
+\]&lt;p>At first sight, it is only a rectangular arrangement of four numbers. But the matrix is not merely storing numbers. It represents a &lt;strong>linear transformation&lt;/strong>: it accepts a vector and produces another vector.&lt;/p></description></item><item><title>One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing</title><link>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-every-kind-of-product-linear-algebra-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6307-understanding-every-kind-of-product-linear-algebra-quantum-computing.jpg" alt="One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">One Word, Many Meanings: Understanding Every Kind of Product in Linear Algebra and Quantum Computing
+&lt;div id="one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#one-word-many-meanings-understanding-every-kind-of-product-in-linear-algebra-and-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 8 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong> Parts 1–7 explored foundations, measurement, philosophy, and fields; from here the series adds the mathematical vocabulary used in quantum computing.&lt;/p></description></item><item><title>Frequencies in Time and Space: Understanding Nyquist Theorem &amp; its Applications</title><link>https://dasarpai.github.io/dsblog/frequencies-in-time-and-space/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/frequencies-in-time-and-space/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Applications of Nyquists theorem
+&lt;div id="applications-of-nyquists-theorem" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#applications-of-nyquists-theorem" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Can &lt;strong>the Nyquist-Shannon sampling theorem applies to light signals&lt;/strong>
+&lt;div id="can-the-nyquist-shannon-sampling-theorem-applies-to-light-signals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#can-the-nyquist-shannon-sampling-theorem-applies-to-light-signals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">🌈 First: What Kind of &amp;ldquo;Light&amp;rdquo; Are We Talking About?
+&lt;div id="-first-what-kind-of-light-are-we-talking-about" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#-first-what-kind-of-light-are-we-talking-about" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>When we say &lt;strong>light&lt;/strong>, we could mean a few different things depending on the context:&lt;/p></description></item><item><title>Real-Life Applications of Mathematics</title><link>https://dasarpai.github.io/dsblog/real-life-applications-of-maths/</link><pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/real-life-applications-of-maths/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg" alt="Real-Life Applications of Mathematics" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Real-Life Applications of Mathematics&lt;/strong>
+&lt;div id="real-life-applications-of-mathematics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#real-life-applications-of-mathematics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Welcome to the fascinating world of mathematics! Math isn&amp;rsquo;t just about solving equations in a classroom—it is deeply woven into the fabric of our daily lives. From predicting natural disasters to optimizing business strategies, mathematics helps us make sense of the world.&lt;/p>
+&lt;p>In this thread, we’ll explore 16 key areas of mathematics and their surprising real-world applications. And mind it all this tip of iceberg. This article is specially for those who who studied maths in school and college and today they are completely in the different field and they find it difficult to understand the usecases of maths except counting numbers and money calculations. :)&lt;/p></description></item><item><title>Distances in Machine Learning</title><link>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</link><pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg" alt="Distances in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Distances in Machine Learning
+&lt;div id="distances-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#distances-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Every sample, record, word, sentence, object, image etc in the Machine learning language is called vector. If we want to measure the similarity or dissimilarity between two data points then we need distance function.&lt;/p>
+&lt;p>Distance metrics play a crucial role in various machine learning algorithms, including clustering, classification, and anomaly detection. Different distance measures capture different types of relationships between data points.&lt;/p></description></item><item><title>SQL and Relational Algebra</title><link>https://dasarpai.github.io/dsblog/relational-algebra/</link><pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/relational-algebra/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6084-Relational-Algebra.jpg" alt="Relational Algebra" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">SQL and Relational Algebra
+&lt;div id="sql-and-relational-algebra" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#sql-and-relational-algebra" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Relational algebra (RA) is considered as a procedural query language where the user tells the system to carry out a set of operations to obtain the desired results. i.e. The user tells what data should be retrieved from the database and how to retrieve it.&lt;/p>
+&lt;p>Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL, SQLite SQL, DB2 SQL, MariaDB SQL, FireBird SQL, PSQL, ANSI SQL commands in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.&lt;/p></description></item><item><title>Cost Functions and Optimizers in Machine Learning</title><link>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cost-functions-and-optimizers-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg" alt="Cost-Functions-and-Optimizers-in-Machine-Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cost-Functions-and-Optimizers-in-Machine-Learning
+&lt;div id="cost-functions-and-optimizers-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cost-functions-and-optimizers-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is machine learning?
+&lt;div id="what-is-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a subfield of artificial intelligence that focuses on the &lt;strong>development of algorithms and statistical models&lt;/strong> that enable computers to improve their performance on a specific task through experience.&lt;/p>
+&lt;p>In machine learning, the goal is to develop models that can &lt;strong>automatically learn patterns and relationships in data, and use that knowledge to make predictions or take actions&lt;/strong>. The models are trained on a large dataset, and the learning process involves &lt;strong>optimizing the parameters of the model to minimize the prediction error&lt;/strong>. For this purpose every algorithms uses some &lt;strong>cost function or loss function&lt;/strong>.&lt;/p></description></item><item><title>High School Maths for Data Science</title><link>https://dasarpai.github.io/dsblog/high-school-maths-for-ds/</link><pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/high-school-maths-for-ds/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg" alt="High School Maths for Data Science" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Mathematics for Data Scientist</title><link>https://dasarpai.github.io/dsblog/maths-for-ds/</link><pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/maths-for-ds/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg" alt="Mathematics for Data Scientist" />
+&lt;/figure>
+&lt;/p></description></item></channel></rss>

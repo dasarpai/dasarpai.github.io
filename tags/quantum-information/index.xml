@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Information on dasarpAI</title><link>https://dasarpai.github.io/tags/quantum-information/</link><description>Recent content in Quantum Information on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/quantum-information/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is Error in Quantum Computing?</title><link>https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/</link><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6324-what-is-error-in-quantum-computing.jpg" alt="What Is Error in Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Is Error in Quantum Computing?
+&lt;div id="what-is-error-in-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-error-in-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why qubits fail, what that failure means, and how we protect computation
+&lt;div id="why-qubits-fail-what-that-failure-means-and-how-we-protect-computation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-qubits-fail-what-that-failure-means-and-how-we-protect-computation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 23 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>In &lt;a href="https://dasarpai.github.io/dsblog/quantum-computing-careers">Quantum Computing Careers&lt;/a> the stack has a layer that is easy to treat as a slogan: &lt;strong>error correction&lt;/strong>. This article is the concept behind that layer.&lt;/p>
+&lt;p>The question is not &amp;ldquo;do quantum computers make mistakes?&amp;rdquo; Every computer does. The useful questions are:&lt;/p>
+&lt;blockquote>
+&lt;p>What, exactly, is being spoiled? Why does it spoil so easily? And what can we do about it without destroying the computation we were trying to run?&lt;/p>&lt;/blockquote></description></item></channel></rss>

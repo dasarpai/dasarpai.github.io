@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>Search Debug Tool</title>
+   <style>
+      body {
+         font-family: Arial, sans-serif;
+         padding: 20px;
+      }
+
+      .debug-section {
+         margin: 20px 0;
+         padding: 15px;
+         border: 1px solid #ccc;
+      }
+
+      .success {
+         color: green;
+      }
+
+      .error {
+         color: red;
+      }
+
+      .info {
+         color: blue;
+      }
+
+      pre {
+         background: #f5f5f5;
+         padding: 10px;
+         overflow-x: auto;
+      }
+   </style>
+</head>
+
+<body>
+   <h1>Search Debug Tool</h1>
+   <div id="results"></div>
+
+   <script>
+      const results = document.getElementById('results');
+
+      function log(message, type = 'info') {
+         const div = document.createElement('div');
+         div.className = `debug-section ${type}`;
+         div.innerHTML = `<strong>[${new Date().toLocaleTimeString()}]</strong> ${message}`;
+         results.appendChild(div);
+      }
+
+      function testURL(url, label) {
+         return new Promise((resolve) => {
+            log(`Testing ${label}: ${url}`, 'info');
+
+            const xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function () {
+               if (xhr.readyState === 4) {
+                  if (xhr.status === 200) {
+                     try {
+                        const data = JSON.parse(xhr.responseText);
+                        log(`✅ ${label} - SUCCESS: Found ${data.length} items`, 'success');
+                        log(`<pre>${JSON.stringify(data[0], null, 2)}</pre>`, 'success');
+                        resolve(true);
+                     } catch (e) {
+                        log(`❌ ${label} - JSON Parse Error: ${e.message}`, 'error');
+                        log(`<pre>Response: ${xhr.responseText.substring(0, 500)}...</pre>`, 'error');
+                        resolve(false);
+                     }
+                  } else {
+                     log(`❌ ${label} - HTTP Error: ${xhr.status} ${xhr.statusText}`, 'error');
+                     resolve(false);
+                  }
+               }
+            };
+
+            xhr.onerror = function () {
+               log(`❌ ${label} - Network Error`, 'error');
+               resolve(false);
+            };
+
+            xhr.open('GET', url);
+            xhr.send();
+         });
+      }
+
+      async function runTests() {
+         log('Starting search debug tests...', 'info');
+         log(`Current URL: ${window.location.href}`, 'info');
+         log(`Origin: ${window.location.origin}`, 'info');
+
+         const testURLs = [
+            { url: '/index.json', label: 'Root Relative' },
+            { url: window.location.origin + '/index.json', label: 'Absolute URL' },
+            { url: './index.json', label: 'Relative to Current' },
+            { url: '../index.json', label: 'Parent Directory' }
+         ];
+
+         for (const test of testURLs) {
+            await testURL(test.url, test.label);
+            await new Promise(resolve => setTimeout(resolve, 500)); // Small delay
+         }
+
+         log('Debug tests completed!', 'info');
+      }
+
+      // Start tests when page loads
+      runTests();
+   </script>
+</body>
+
+</html>

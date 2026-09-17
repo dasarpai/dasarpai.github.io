@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software Architecture on dasarpAI</title><link>https://dasarpai.github.io/categories/software-architecture/</link><description>Recent content in Software Architecture on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/software-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>Beyond AI Coding: How AI is Becoming a Knowledge Compiler for Software Engineering</title><link>https://dasarpai.github.io/dsblog/ai-knowledge-compiler-software-engineering/</link><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-knowledge-compiler-software-engineering/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6309-ai-knowledge-compiler-software-engineering.jpg" alt="Beyond AI Coding: How AI is Becoming a Knowledge Compiler for Software Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Beyond AI Coding: How AI is Becoming a Knowledge Compiler for Software Engineering
+&lt;div id="beyond-ai-coding-how-ai-is-becoming-a-knowledge-compiler-for-software-engineering" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#beyond-ai-coding-how-ai-is-becoming-a-knowledge-compiler-for-software-engineering" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>For the last few years, the software industry has been discussing Artificial Intelligence from two perspectives.&lt;/p>
+&lt;p>The first is &lt;strong>building software that uses AI&lt;/strong>. Chatbots, recommendation engines, fraud detection systems, document understanding platforms, autonomous agents, and countless other applications rely on machine learning or large language models to perform work during production.&lt;/p></description></item><item><title>Where Does Knowledge Live? Rules, Skills, Tools, and AI Employees — From the Dev Desk to the Operations Floor</title><link>https://dasarpai.github.io/dsblog/ai-knowledge-architecture-rules-skills-tools-agents/</link><pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-knowledge-architecture-rules-skills-tools-agents/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6306-ai-knowledge-architecture-rules-skills-tools-agents.jpg" alt="Where Does Knowledge Live?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Where Does Knowledge Live?
+&lt;div id="where-does-knowledge-live" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#where-does-knowledge-live" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>A Knowledge Architecture for AI Workers&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">The problem nobody talks about yet
+&lt;div id="the-problem-nobody-talks-about-yet" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-problem-nobody-talks-about-yet" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>You pair-program with an AI assistant for three hours. It finally understands your PST parsing quirks, your test conventions, and why Phase 1 must not touch Postgres yet. You close the laptop. Next morning, it has forgotten everything that lived only in chat.&lt;/p>
+&lt;p>Or worse: you &lt;em>did&lt;/em> write instructions—in a README, a Cursor Rule, a personal note, and a Skill—and now the assistant follows one on Monday and contradicts another on Tuesday.&lt;/p>
+&lt;p>This is not a model intelligence problem. It is a &lt;strong>knowledge architecture&lt;/strong> problem.&lt;/p>
+&lt;p>For decades, teams argued about where information should live: comments, wikis, Confluence, ADRs, runbooks, lint configs. AI coding assistants add a new layer—not because the &lt;em>knowledge&lt;/em> is new, but because the &lt;strong>retrieval model&lt;/strong> changed. The assistant does not browse your wiki. It receives a &lt;strong>composed context window&lt;/strong> every session: system instructions, project rules, open files, tool outputs, and whatever you explicitly attach.&lt;/p>
+&lt;p>If you are a solo developer learning tools like Cursor, Claude Code, or Copilot Workspace, you feel this immediately. If you are a &lt;strong>Knowledge Manager&lt;/strong>, &lt;strong>Quality Manager&lt;/strong>, &lt;strong>tech lead&lt;/strong>, or &lt;strong>CISO&lt;/strong> preparing for org-wide adoption, the same confusion appears at enterprise scale—except now it affects compliance, consistency, and audit trails.&lt;/p>
+&lt;p>This article gives you a practical taxonomy from &lt;strong>two angles&lt;/strong>:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>The development environment&lt;/strong> — how solo developers and engineering teams configure AI coding assistants (Cursor, Claude Code, Copilot, etc.)&lt;/li>
+&lt;li>&lt;strong>The operations environment&lt;/strong> — how organizations deploy AI for business efficiency using terms like &lt;strong>AI employee&lt;/strong>, &lt;strong>digital worker&lt;/strong>, &lt;strong>agent registry&lt;/strong>, &lt;strong>skills&lt;/strong>, &lt;strong>rules&lt;/strong>, and &lt;strong>tools&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>Same words. Related ideas. Different containers. Confusion starts when teams treat them as unrelated vocabularies instead of &lt;strong>one knowledge architecture seen from two seats&lt;/strong>.&lt;/p></description></item><item><title>Cursor Chat: Architecture, Data Flow &amp; Storage</title><link>https://dasarpai.github.io/dsblog/cursor-chat-architecture-data-flow-storage/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/cursor-chat-architecture-data-flow-storage/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6289-cursor-chat-architecture-data-flow-storage.jpg" alt="Cursor Chat: Architecture, Data Flow &amp;amp; Storage" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Cursor Chat: Architecture, Data Flow &amp;amp; Storage
+&lt;div id="cursor-chat-architecture-data-flow--storage" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#cursor-chat-architecture-data-flow--storage" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This document explains how Cursor chat works end-to-end: what happens when you type a message, where data is saved, whether embeddings are used, and how the codebase index fits in.&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">1. What Happens When You Type in the Chat Window
+&lt;div id="1-what-happens-when-you-type-in-the-chat-window" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#1-what-happens-when-you-type-in-the-chat-window" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When you send a message in Cursor’s chat (Ask, Agent, Composer, Cmd+K, etc.):&lt;/p></description></item><item><title>Dimensions of Software Architecture: Balancing Concerns</title><link>https://dasarpai.github.io/dsblog/dimensions-of-software-architecture/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dimensions-of-software-architecture/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6283-dimensions-of-software-architecture.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dimensions of Software Architecture
+&lt;div id="dimensions-of-software-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dimensions-of-software-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Call these &amp;ldquo;Architectural Concern Categories&amp;rdquo; or &amp;ldquo;Dimensions of Software Architecture&amp;rdquo; or &amp;ldquo;Axes of Architectural Design&amp;rdquo; or &amp;ldquo;Architectural Concepts&amp;rdquo; it is your choice. Here I am referring them as Dimensions of Software Architecture. They are extremely important for any software solution creator or software product maker. Any solution creator or product maker should be aware of these concepts/ dimensions and choose them carefully. In this article we are trying to understand these dimensions. Once you choose a particular architecture for some requirements there are multiple ways or algorithms or techniques or protocols to implement that. I am aware there is some overlapping between these terms.&lt;/p></description></item><item><title>Building AI-Powered Flutter Apps: Best Practices for Folder Structure</title><link>https://dasarpai.github.io/dsblog/building-ai-powered-flutter-apps/</link><pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/building-ai-powered-flutter-apps/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Building AI-Powered Flutter Apps: Best Practices for Folder Structure
+&lt;div id="building-ai-powered-flutter-apps-best-practices-for-folder-structure" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-ai-powered-flutter-apps-best-practices-for-folder-structure" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for you?
+&lt;div id="is-this-article-for-you" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-you" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>You want to create a Flutter application but are unsure of which folders should be part of your project.&lt;/li>
+&lt;li>You’ve recently joined a Flutter project team and are struggling to understand why there are so many folders and what they contain. If you create a file, you’re not sure where it should go.&lt;/li>
+&lt;li>Your customer wants to add AI features to an existing Flutter project, and you don’t know where to place the ML models.&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you want to add AI features to a Flutter app but don&amp;rsquo;t have an existing AI model, and your team or company is responsible for creating them, it&amp;rsquo;s recommended to keep AI model development separate from the Flutter project. Once the model is ready, you can either embed it within the Flutter app or consume it via an API.&lt;/p></description></item><item><title>Python Project Folders and Files</title><link>https://dasarpai.github.io/dsblog/python-project-folders-and-files/</link><pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/python-project-folders-and-files/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg" alt="Python Project Folders and Files" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Python Project Folder Structures: Essential Directories Explained
+&lt;div id="understanding-python-project-folder-structures-essential-directories-explained" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-python-project-folder-structures-essential-directories-explained" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Python projects, certain folders and files serve specific purposes to help with organizing code, managing dependencies, setting up environments, and handling version control. These important directories and files are often seen in most well-structured Python projects. Here are some of the most common ones:&lt;/p></description></item><item><title>LLM Architecture and Training</title><link>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/llm-architecture-and-training/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg" alt="LLM-Architecture-and-Training" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">&lt;strong>Understanding LLM Architectures and Model Training&lt;/strong>
+&lt;div id="understanding-llm-architectures-and-model-training" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-llm-architectures-and-model-training" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Large Language Models (LLMs) are transforming the field of artificial intelligence by enabling machines to understand and generate human language with unprecedented accuracy. This article delves into the architecture, training methods, and practical applications of LLMs. We’ll explore the core components that make these models so powerful and explain how they are trained and fine-tuned for real-world use cases.&lt;/p></description></item><item><title>What is GAN Architecture?</title><link>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</link><pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-gan-architecture/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg" alt="What is GAN Architecture?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What is GAN Architecture?
+&lt;div id="what-is-gan-architecture" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-gan-architecture" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. It is a type of artificial intelligence (AI) model that consists of two neural networks: a generator and a discriminator. GANs are used for generative tasks, such as creating realistic images, videos, or even audio.&lt;/p></description></item><item><title>Folder Structure for ML Project</title><link>https://dasarpai.github.io/dsblog/folder-structure-for-ml-project/</link><pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/folder-structure-for-ml-project/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg" alt="Configuration Management" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Directory Structure for ML Project&lt;/strong> is critical for any serious data science project. What we learn from a technology college and institution is useful in a real-world business, but the problem is that environment is completely different, and it takes proper guidance to adapt to a real business environment. Many times traveling on this path is full of frustration without any proper guidance. Sometimes guidance is there, but it is like blind is leading blind. One has already navigated a lot with struggle, so she/he is trying to guide a new person. Data-science education is not any different from this. From universities and institutions, we learn many concepts, algorithms, art, and science of developing models, etc. but when our customer or management tells us a problem with a simplistic dataset then we don’t know how to proceed. Although there are many templates and frameworks to approach, yet there is no simple cookie-cutter solution for all kinds of problems. Depending upon project duration, resources (human + machine + software), client, and his/her need, the technology available at hand we can choose different approaches.&lt;/p></description></item></channel></rss>
