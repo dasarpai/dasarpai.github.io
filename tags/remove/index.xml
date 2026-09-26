@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Remove on dasarpAI</title><link>https://dasarpai.github.io/tags/remove/</link><description>Recent content in Remove on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/remove/index.xml" rel="self" type="application/rss+xml"/><item><title>The Real Story of Nyquist, Shannon, and the Science of Sampling</title><link>https://dasarpai.github.io/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</link><pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/the-real-story-of-nyquist-shannon-and-the-science-of-sampling/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6264-nyquist-shannon-and-the-science-of-sampling.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Story of Nyquist, Shannon, and the Science of Sampling
+&lt;div id="the-story-of-nyquist-shannon-and-the-science-of-sampling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-story-of-nyquist-shannon-and-the-science-of-sampling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>In the early days of the 20th century, the world was just beginning to hum with the sounds of electric voices. Telephones crackled across cities, Morse code blinked from station to station, and engineers at &lt;strong>Bell Telephone Laboratories&lt;/strong> worked tirelessly to harness the invisible — the flow of information through wires.&lt;/p></description></item><item><title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title><link>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg" alt="BitNet b1.58-2B4T" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.12285" target="_blank">Archive Paper Link&lt;/a>&lt;/p>
+&lt;h1 class="relative group">BitNet b1.58-2B4T: The Future of Efficient AI Processing
+&lt;div id="bitnet-b158-2b4t-the-future-of-efficient-ai-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bitnet-b158-2b4t-the-future-of-efficient-ai-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">A History of 1 bit Transformer Model
+&lt;div id="a-history-of-1-bit-transformer-model" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-history-of-1-bit-transformer-model" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A paper &amp;ldquo;The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits&amp;rdquo; was published by Stanford University, ETH Zürich, and EPFL. It was published on October 2023 (published on arXiv on October 17, 2023). &lt;a href="https://arxiv.org/pdf/2310.11453" target="_blank">Standord Paper Link&lt;/a>. The core Concept of 1.58 bits per parameter, was introduced here. This demonstrated that LLMs could be effectively trained and operated with extremely low-bit representation while maintaining competitive performance&lt;/p></description></item><item><title>Bookmark Blog Articles from Browser</title><link>https://dasarpai.github.io/dsblog/mybookmark-blog-articles/</link><pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/mybookmark-blog-articles/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg" alt="" />
+&lt;/figure>
+&lt;/p></description></item><item><title>Visualizing Transformers and Attention</title><link>https://dasarpai.github.io/dsblog/visualizing-transformers-and-attention/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/visualizing-transformers-and-attention/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg" alt="Visualizing transformers and attention" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Visualizing Transformers and Attention
+&lt;div id="visualizing-transformers-and-attention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#visualizing-transformers-and-attention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href="https://dasarpai.github.io/dsblog/transformers-demystified-a-step-by-step-guide">here&lt;/a>&lt;/p>
+&lt;h2 class="relative group">&lt;strong>Transformers and Their Flexibility&lt;/strong>
+&lt;div id="transformers-and-their-flexibility" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#transformers-and-their-flexibility" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📜 &lt;strong>Origin:&lt;/strong> Introduced in 2017 in the &amp;ldquo;Attention is All You Need&amp;rdquo; paper, originally for machine translation.&lt;/li>
+&lt;li>🌍 &lt;strong>Applications Beyond Translation:&lt;/strong> Used in transcription (e.g., Whisper), text-to-speech, and even image classification.&lt;/li>
+&lt;li>🤖 &lt;strong>Chatbot Models:&lt;/strong> Focused on models trained to predict the next token in a sequence, generating text iteratively one token at a time.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Next Token Prediction and Creativity&lt;/strong>
+&lt;div id="next-token-prediction-and-creativity" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#next-token-prediction-and-creativity" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔮 &lt;strong>Prediction Process:&lt;/strong> Predicts probabilities for possible next tokens, selects one, and repeats the process.&lt;/li>
+&lt;li>🌡️ &lt;strong>Temperature Control:&lt;/strong> Adjusting randomness in token selection affects creativity vs. predictability in outputs.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Tokens and Tokenization&lt;/strong>
+&lt;div id="tokens-and-tokenization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tokens-and-tokenization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🧩 &lt;strong>What are Tokens?&lt;/strong> Subdivisions of input data (words, subwords, punctuation, or image patches).&lt;/li>
+&lt;li>🔡 &lt;strong>Why Not Characters?&lt;/strong> Using characters increases context size and computational complexity; tokens balance meaning and computational efficiency.&lt;/li>
+&lt;li>📖 &lt;strong>Byte Pair Encoding (BPE):&lt;/strong> A common method for tokenization.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Embedding Tokens into Vectors&lt;/strong>
+&lt;div id="embedding-tokens-into-vectors" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-tokens-into-vectors" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📏 &lt;strong>Embedding:&lt;/strong> Tokens are mapped to high-dimensional vectors representing their meaning.&lt;/li>
+&lt;li>🗺️ &lt;strong>Contextual Meaning:&lt;/strong> Vectors evolve through the network to capture context, disambiguate meaning, and encode relationships.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>The Attention Mechanism&lt;/strong>
+&lt;div id="the-attention-mechanism" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-attention-mechanism" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔍 &lt;strong>Purpose:&lt;/strong> Enables tokens to &amp;ldquo;attend&amp;rdquo; to others, updating their vectors based on relevance.&lt;/li>
+&lt;li>🔑 &lt;strong>Key Components:&lt;/strong>
+&lt;ul>
+&lt;li>Query Matrix: Encodes what a token is &amp;ldquo;looking for.&amp;rdquo;&lt;/li>
+&lt;li>Key Matrix: Encodes how a token responds to queries.&lt;/li>
+&lt;li>Value Matrix: Encodes information passed between tokens.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🧮 &lt;strong>Calculations:&lt;/strong>
+&lt;ul>
+&lt;li>Dot Product: Measures alignment between keys and queries.&lt;/li>
+&lt;li>Softmax: Converts dot products into normalized weights for updates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>⛓️ &lt;strong>Masked Attention:&lt;/strong> Ensures causality by blocking future tokens from influencing past ones.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Multi-Headed Attention&lt;/strong>
+&lt;div id="multi-headed-attention" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multi-headed-attention" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>💡 &lt;strong>Parallel Heads:&lt;/strong> Multiple attention heads allow different types of relationships (e.g., grammar, semantic context) to be processed simultaneously.&lt;/li>
+&lt;li>🚀 &lt;strong>Efficiency on GPUs:&lt;/strong> Designed to maximize parallelization for faster computation.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Multi-Layer Perceptrons (MLPs)&lt;/strong>
+&lt;div id="multi-layer-perceptrons-mlps" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#multi-layer-perceptrons-mlps" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🤔 &lt;strong>Role in Transformers:&lt;/strong>
+&lt;ul>
+&lt;li>Add capacity for general knowledge and non-contextual reasoning.&lt;/li>
+&lt;li>Store facts learned during training, e.g., associations like &amp;ldquo;Michael Jordan plays basketball.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🔢 &lt;strong>Parameters:&lt;/strong> MLPs hold the majority of the model’s parameters.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Training Transformers&lt;/strong>
+&lt;div id="training-transformers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#training-transformers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📚 &lt;strong>Learning Framework:&lt;/strong>
+&lt;ul>
+&lt;li>Models are trained on vast datasets using next-token prediction, requiring no manual labels.&lt;/li>
+&lt;li>&lt;strong>Cost Function:&lt;/strong> Measures prediction accuracy using negative log probabilities, guiding parameter updates.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>🏔️ &lt;strong>Optimization:&lt;/strong> Gradient descent navigates a high-dimensional cost surface to minimize error.&lt;/li>
+&lt;li>🌐 &lt;strong>Pretraining:&lt;/strong> Allows large-scale unsupervised learning before fine-tuning with human feedback.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Embedding Space and High Dimensions&lt;/strong>
+&lt;div id="embedding-space-and-high-dimensions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#embedding-space-and-high-dimensions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🔄 &lt;strong>Semantic Clusters:&lt;/strong> Similar words cluster together; directions in the space encode relationships (e.g., gender: King - Male + Female = Queen).&lt;/li>
+&lt;li>🌌 &lt;strong>High Dimensionality:&lt;/strong> Embedding spaces have thousands of dimensions, enabling distinct representations of complex concepts.&lt;/li>
+&lt;li>📈 &lt;strong>Scaling Efficiency:&lt;/strong> High-dimensional spaces allow exponentially more &amp;ldquo;almost orthogonal&amp;rdquo; directions for encoding meanings.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Practical Applications&lt;/strong>
+&lt;div id="practical-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#practical-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>✍️ &lt;strong>Language Models:&lt;/strong> Effective for chatbots, summarization, and more due to their generality and parallel processing.&lt;/li>
+&lt;li>🖼️ &lt;strong>Multimodal Models:&lt;/strong> Transformers can integrate text, images, and sound by treating all as tokens in a unified framework.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Challenges and Limitations&lt;/strong>
+&lt;div id="challenges-and-limitations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#challenges-and-limitations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📏 &lt;strong>Context Size Limitations:&lt;/strong> Attention grows quadratically with context size, requiring optimization for large contexts.&lt;/li>
+&lt;li>♻️ &lt;strong>Inference Redundancy:&lt;/strong> Token-by-token generation can involve redundant computations; caching mitigates this at inference time.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>Engineering and Design&lt;/strong>
+&lt;div id="engineering-and-design" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#engineering-and-design" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>🛠️ &lt;strong>Hardware Optimization:&lt;/strong> Transformers are designed to exploit GPUs&amp;rsquo; parallelism for efficient matrix multiplication.&lt;/li>
+&lt;li>🔗 &lt;strong>Residual Connections:&lt;/strong> Baked into the architecture to enhance stability and ease of training.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">&lt;strong>The Power of Scale&lt;/strong>
+&lt;div id="the-power-of-scale" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-power-of-scale" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>📈 &lt;strong>Scaling Laws:&lt;/strong> Larger models and more data improve performance, often qualitatively.&lt;/li>
+&lt;li>🔄 &lt;strong>Self-Supervised Pretraining:&lt;/strong> Enables training on vast unlabeled datasets before fine-tuning.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">&lt;strong>BPE (Byte Pair Encoding)&lt;/strong>
+&lt;div id="bpe-byte-pair-encoding" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bpe-byte-pair-encoding" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>BPE is a widely used tokenization method in natural language processing (NLP) and machine learning. It is designed to balance between breaking text into characters and full words by representing text as a sequence of subword units. This approach helps models handle rare and unseen words effectively while keeping the vocabulary size manageable.&lt;/p></description></item><item><title>My Daily Tools</title><link>https://dasarpai.github.io/dsblog/my-daily-tools/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/my-daily-tools/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr112-My-Daily-Tools.jpg" alt="My Daily Tools" />
+&lt;/figure>
+&lt;/p></description></item></channel></rss>

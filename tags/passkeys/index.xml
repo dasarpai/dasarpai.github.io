@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passkeys on dasarpAI</title><link>https://dasarpai.github.io/tags/passkeys/</link><description>Recent content in Passkeys on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/passkeys/index.xml" rel="self" type="application/rss+xml"/><item><title>From Passwords to Passkeys: Authentication, App Security and the Coming Quantum Era</title><link>https://dasarpai.github.io/dsblog/from-passwords-to-passkeys/</link><pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/from-passwords-to-passkeys/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6325-from-passwords-to-passkeys.jpg" alt="From Passwords to Passkeys: Authentication, App Security and the Coming Quantum Era" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">From Passwords to Passkeys: Authentication, App Security and the Coming Quantum Era
+&lt;div id="from-passwords-to-passkeys-authentication-app-security-and-the-coming-quantum-era" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#from-passwords-to-passkeys-authentication-app-security-and-the-coming-quantum-era" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Every few months, an app seems to ask us to enable one more security feature. First there was a password. Then came a PIN (personal identification number). Then an OTP (one-time password) on the mobile phone. Then two-factor authentication. Then authenticator apps. Then fingerprint and face recognition. Now we are hearing about passkeys, hardware security keys, adaptive authentication, behavioral biometrics and continuous authentication.&lt;/p>
+&lt;p>It can easily appear that these are simply different versions of the same thing. They are not. Behind modern authentication lies a surprisingly rich collection of ideas involving human memory, physical possession, biology, devices, networks, cryptography and increasingly even our behavior. And now another question has appeared:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>What happens to all these authentication systems when powerful quantum computers arrive?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;ul>
+&lt;li>Will a quantum computer simply discover our password?&lt;/li>
+&lt;li>Will fingerprint authentication remain safe?&lt;/li>
+&lt;li>What happens to passkeys?&lt;/li>
+&lt;li>What about banking OTPs?&lt;/li>
+&lt;/ul>
+&lt;p>To understand this properly, we first need to understand what authentication actually means.&lt;/p>
+&lt;hr></description></item></channel></rss>

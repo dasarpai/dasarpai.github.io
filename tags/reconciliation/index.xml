@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reconciliation on dasarpAI</title><link>https://dasarpai.github.io/tags/reconciliation/</link><description>Recent content in Reconciliation on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/reconciliation/index.xml" rel="self" type="application/rss+xml"/><item><title>Insurance Reconciliation</title><link>https://dasarpai.github.io/finblog/insurance-reconciliation/</link><pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/insurance-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8513-Insurance-Reconciliation.jpg" alt="Insurance Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 10 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>A family pays the annual premium for a life-insurance policy two days before its due date. The bank confirms receipt, but the policy-administration system still marks the premium as unpaid. A day later, an automated reminder tells the family that coverage may be affected.&lt;/p>
+&lt;p>The cash exists. The policy exists. The amount is correct. The problem is the payment reference: it contains an application number used before the policy was issued, while the administration system expects the final policy number.&lt;/p></description></item><item><title>Alternative Investment Reconciliation</title><link>https://dasarpai.github.io/finblog/alternative-investment-reconciliation/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/alternative-investment-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8512-Alternative-Investment-Reconciliation.jpg" alt="Alternative Investment Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 9 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>On Monday, a private-equity fund sends an investor a notice requesting USD 2 million. On Tuesday, the bank receives exactly USD 2 million. Yet the fund accountant opens a reconciliation break.&lt;/p>
+&lt;p>The amount is correct, but the payment reference points to the investor&amp;rsquo;s older vehicle. That vehicle has no current call. If operations applies the cash solely because the amount agrees, one partnership will show unpaid capital while another receives an unsupported contribution.&lt;/p></description></item><item><title>Asset Management Reconciliation</title><link>https://dasarpai.github.io/finblog/asset-management-reconciliation/</link><pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/asset-management-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8511-Asset-Management-Reconciliation.jpg" alt="Asset Management Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 8 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>At the end of a valuation day, an investment fund&amp;rsquo;s portfolio system and custodian agree that the fund owns 100,000 shares of a company. Operations celebrates a clean position reconciliation. Minutes later, the fund accountant reports that the fund&amp;rsquo;s net asset value is overstated.&lt;/p>
+&lt;p>The shares are correct. Their price is not.&lt;/p>
+&lt;p>The valuation system used yesterday&amp;rsquo;s closing price of USD 20.00 instead of today&amp;rsquo;s approved price of USD 19.50. The position is therefore overstated by USD 50,000:&lt;/p></description></item><item><title>Capital Markets Reconciliation</title><link>https://dasarpai.github.io/finblog/capital-markets-reconciliation/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/capital-markets-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8510-Capital-Markets-Reconciliation.jpg" alt="Capital Markets Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 7 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>Shortly after a portfolio manager buys 10,000 shares, the trading screen shows a completed order. The broker confirms the execution, and the portfolio system includes the shares in its expected position. Two days later, operations learns that 2,000 shares did not settle because the delivering party lacked sufficient securities.&lt;/p>
+&lt;p>Nothing in the original execution screen looked wrong. A trade had occurred, but part of the promised exchange of securities and cash had not been completed.&lt;/p></description></item><item><title>Lending Reconciliation</title><link>https://dasarpai.github.io/finblog/lending-reconciliation/</link><pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/lending-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8509-Lending-Reconciliation.jpg" alt="Lending Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 6 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>On the first business day of the month, a borrower sees a USD 1,250 debit labeled as a home-loan payment. The bank statement confirms that cash left the borrower&amp;rsquo;s account. The loan portal still shows the installment as unpaid. Collections has generated a reminder, while the lender&amp;rsquo;s general ledger records cash in a temporary account.&lt;/p>
+&lt;p>The borrower did pay, but the loan has not yet received the benefit.&lt;/p></description></item><item><title>Payment Reconciliation</title><link>https://dasarpai.github.io/finblog/payment-reconciliation/</link><pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/payment-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8508-Payment-Reconciliation.jpg" alt="Payment Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 5 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>A customer buys a USD 120 jacket from an online merchant. The checkout page says “payment successful.” The customer&amp;rsquo;s banking application shows a debit. The merchant order system marks the order paid. Yet the merchant&amp;rsquo;s bank account receives no USD 120 credit that day.&lt;/p>
+&lt;p>Nothing in that description proves money is missing.&lt;/p>
+&lt;p>The checkout message may represent successful authorization, not final settlement. The merchant may receive a later batch payout rather than an individual credit. Processing fees may be deducted. A refund or dispute may create a later movement. Different participants may use different references and business dates.&lt;/p></description></item><item><title>Banking Reconciliation</title><link>https://dasarpai.github.io/finblog/banking-reconciliation/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/banking-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8507-Banking-Reconciliation.jpg" alt="Banking Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 4 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>At 5:45 p.m., a branch manager begins the day-close process. The teller system reports USD 184,500 of physical cash. The vault and teller counts total USD 184,400. An automated teller machine (ATM) beside the branch reports USD 52,000 remaining in its cassettes, while the cash-loading record implies USD 52,100. The customer-account system shows all deposits and withdrawals processed, but one late cash deposit has not yet reached the general ledger.&lt;/p></description></item><item><title>The Language of Reconciliation</title><link>https://dasarpai.github.io/finblog/language-of-reconciliation/</link><pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/language-of-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8506-The-Language-of-Reconciliation.jpg" alt="The Language of Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 3 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>A payment analyst reports, “The transaction did not match.”&lt;/p>
+&lt;p>The engineer checks the system and replies, “It matched on the payment ID, but the amount comparison failed.”&lt;/p>
+&lt;p>The control owner adds, “The difference is within tolerance, so there should be no exception.”&lt;/p>
+&lt;p>All three people are discussing one payment, but they are using “match” to mean different things. The analyst means the overall reconciliation failed. The engineer means the system linked two records. The control owner means the linked values satisfy an approved condition.&lt;/p></description></item><item><title>The Universal Architecture Behind Every Reconciliation System</title><link>https://dasarpai.github.io/finblog/universal-architecture-behind-every-reconciliation-system/</link><pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/universal-architecture-behind-every-reconciliation-system/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8505-The-Universal-Architecture-Behind-Every-Reconciliation-System.jpg" alt="The Universal Architecture Behind Every Reconciliation System" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 2 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>At the start of a business day, an operations analyst opens a reconciliation dashboard. Yesterday&amp;rsquo;s internal payment file contains 48,012 records. The processor file contains 48,009. A green status beside both files says “loaded,” while three transactions appear in an exception queue.&lt;/p>
+&lt;p>It is tempting to conclude that the system compared two files and found three missing payments. That conclusion is premature.&lt;/p></description></item><item><title>Why Financial Systems Need Reconciliation</title><link>https://dasarpai.github.io/finblog/why-financial-systems-need-reconciliation/</link><pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/why-financial-systems-need-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8504-Why-Financial-Systems-Need-Reconciliation.jpg" alt="Why Financial Systems Need Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 1 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>At 5:30 p.m., a payment operations team receives two end-of-day files. The merchant platform says a customer paid USD 125. The payment processor says it accepted the transaction. The bank statement does not yet show the expected settlement, while the accounting ledger already includes a receivable for the merchant.&lt;/p>
+&lt;p>Which record is true?&lt;/p></description></item><item><title>Investment Industry Vocabulary: A Beginner's Guide for Investors and Professionals</title><link>https://dasarpai.github.io/finblog/investment-industry-vocabulary/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/investment-industry-vocabulary/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8503-Investment-Industry-Vocabulary.jpg" alt="Investment Industry Vocabulary" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Investment Industry Vocabulary: A Beginner&amp;rsquo;s Guide
+&lt;div id="investment-industry-vocabulary-a-beginners-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#investment-industry-vocabulary-a-beginners-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When someone enters the investment industry—as an investor or as a professional—the first difficulty is often not mathematics. It is language.&lt;/p>
+&lt;p>Words like &lt;strong>portfolio&lt;/strong>, &lt;strong>asset class&lt;/strong>, &lt;strong>scheme&lt;/strong>, &lt;strong>folio&lt;/strong>, &lt;strong>ledger&lt;/strong>, &lt;strong>transaction&lt;/strong>, &lt;strong>holding&lt;/strong>, and &lt;strong>reconciliation&lt;/strong> appear every day. They sound technical, but most are straightforward once you see where each term sits in the overall structure.&lt;/p>
+&lt;p>This guide defines &lt;strong>80 essential terms&lt;/strong> in plain language, with one-line definitions and practical examples (mostly in the Indian context, with concepts that apply broadly elsewhere). For how institutions and regulators fit together, see &lt;a href="https://dasarpai.github.io/finblog/understanding-financial-entity-types/">Understanding Financial Entity Types&lt;/a> and &lt;a href="https://dasarpai.github.io/finblog/core-entities-of-alternative-investment-banking/">Core Entities of Alternative Investment Banking&lt;/a>.&lt;/p>
+&lt;h3 class="relative group">Quick map of this guide
+&lt;div id="quick-map-of-this-guide" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quick-map-of-this-guide" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Section&lt;/th>
+&lt;th>What it covers&lt;/th>
+&lt;th>Term numbers&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Investment and portfolio terms&lt;/td>
+&lt;td>Investors, products, mutual funds, risk, and goals&lt;/td>
+&lt;td>1–50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Accounting and back-office terms&lt;/td>
+&lt;td>Journals, ledgers, reconciliation, settlement&lt;/td>
+&lt;td>51–80&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hierarchies and summary&lt;/td>
+&lt;td>How the layers connect&lt;/td>
+&lt;td>end&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

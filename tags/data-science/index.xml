@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Science on dasarpAI</title><link>https://dasarpai.github.io/tags/data-science/</link><description>Recent content in Data Science on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Start Here — Data Science &amp; AI on dasarpAI</title><link>https://dasarpai.github.io/dsblog/start-here/</link><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/start-here/</guid><description>&lt;p>Welcome to the Data Science &amp;amp; AI section of dasarpAI. Whether you are learning a new topic, preparing for interviews, or setting up tools on your machine, the paths below group related articles so you can &lt;strong>start with a clear goal&lt;/strong> rather than browsing the full archive.&lt;/p>
+&lt;p>&lt;em>Curated learning paths—updated periodically when we add a major hub, series, or tool track. New posts still appear in &lt;a href="https://dasarpai.github.io/dsblog/">All Data Science posts&lt;/a>, &lt;a href="https://dasarpai.github.io/dsblog/tags/">tags&lt;/a>, and &lt;a href="https://dasarpai.github.io/dsblog/categories/">categories&lt;/a>; this page highlights where to begin.&lt;/em>&lt;/p></description></item><item><title>Features ofShazam Econometrics Software</title><link>https://dasarpai.github.io/dsblog/shazam-features/</link><pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/shazam-features/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6186-Shazam-Features.jpg" alt="Shazam-Features" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Features of Shazam Econometrics Software
+&lt;div id="features-of-shazam-econometrics-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#features-of-shazam-econometrics-software" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A free, &lt;a href="https://www.econometrics.com/download/" target="_blank">downloadable Trial&lt;/a> Version of SHAZAM is available to try out.&lt;/p>
+&lt;p>All features are enabled although the amount of memory available for calculations (PAR) is limited to be sufficient to run all but a few of the largest included examples.&lt;/p>
+&lt;p>There is no time limit on the use of these Trial Versions.&lt;/p></description></item><item><title>Automated Machine Learning</title><link>https://dasarpai.github.io/dsblog/automl-tools/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/automl-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6150-AutoML-Tools.jpg" alt="What is AutoML" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Automated Machine Learning
+&lt;div id="automated-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#automated-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is article is for you, if you know&lt;/p>
+&lt;ul>
+&lt;li>About Machine learning, ML models building&lt;/li>
+&lt;li>That machines are capable of building these models themselves.&lt;/li>
+&lt;/ul>
+&lt;p>But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p></description></item><item><title>Dimensionality Reduction and Visualization</title><link>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg" alt="Dimensionality-Reduction-and-Visualization" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dimensionality Reduction and Visualization
+&lt;div id="dimensionality-reduction-and-visualization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dimensionality-reduction-and-visualization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the popular methods of dimensionality reduction?
+&lt;div id="what-are-the-popular-methods-of-dimensionality-reduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-popular-methods-of-dimensionality-reduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dimensionality reduction is a crucial step in data preprocessing, particularly when dealing with high-dimensional datasets. It helps in reducing the number of features while retaining the essential information, improving computational efficiency, and facilitating data visualization. Here are some popular methods of dimensionality reduction:&lt;/p></description></item><item><title>Data Science and Basics of Astrology</title><link>https://dasarpai.github.io/dsblog/basics-of-astrology/</link><pubDate>Wed, 27 Dec 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/basics-of-astrology/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6108-Basics-of-Astrology.jpg" alt="Basics of Astrology" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Basics of Jyotish
+&lt;div id="basics-of-jyotish" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#basics-of-jyotish" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In this article I am going to discuss the basics of astrology and the data science aspect of astrology. I am defending here a big case of model retraining and without retraining if we are doing prediction from the old model that won&amp;rsquo;t be effective. Although in today&amp;rsquo;s time of data privacy, secrecy, getting personal data to create a prediction model is very costly or impossible for any corporation. As of today whatever data corporations are using to create the model of health care or public good or promoting a product for that anonymized data can be used but to create astrology models we need actual data. Only the government can get this data but the public doesn&amp;rsquo;t trust the government to create this model for predicting their life. What will be the future of Astrology and Jyotish in the coming time depends upon many factors, one of which is trust between governments and the public. The government can creates astrology models for the well being of the society. Without this, whatever astrology or Jyotish we are doing today it is becoming less trustworthy everyday.&lt;/p></description></item><item><title>Machine Learning Metrics</title><link>https://dasarpai.github.io/dsblog/machine-learning-metrics/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/machine-learning-metrics/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg" alt="Comprehensive Glossary of LLM" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Machine Learning Metrics
+&lt;div id="machine-learning-metrics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#machine-learning-metrics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In Machine Learning projects whether classical machine learning, deep learning, computer vision, speech processing, NLP, or any other ML project we keep building different models with different datasets. But how to know that for a particular problem model X is the best one? For that, we need to evaluate these models against certain metrics. What metrics we pick, depends upon the problem statement, data imbalance, type of data, etc. In this article, we will explore an exhaustive list of ML Metrics.&lt;/p></description></item><item><title>All Resources to Learn Data Science</title><link>https://dasarpai.github.io/dsblog/all-resources-to-learn-data-science/</link><pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/all-resources-to-learn-data-science/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg" alt="All Resources to Learn Data Science" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">All Resources to Learn Data Science
+&lt;div id="all-resources-to-learn-data-science" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#all-resources-to-learn-data-science" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Welcome to the AI ML Resources category page, where you&amp;rsquo;ll find a wealth of knowledge on various topics related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Mathematics and statistics required to learn Data Science. Each of the pages mentioned below brings together a wide range of articles, tutorials, and guides that delve into the fascinating world of AI and ML. Whether you&amp;rsquo;re a beginner seeking foundational knowledge or an experienced practitioner looking to expand your skills, these resources offer valuable insights and practical guidance. You need to go through these links one at time. As a master page you can book mark this page.&lt;/p></description></item><item><title>The Interconnectedness of Life and Data</title><link>https://dasarpai.github.io/dsblog/file-formats-in-machine-learning/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/file-formats-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg" alt="The Interconnectedness of Life and Data" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">The Interconnectedness of Life and Data
+&lt;div id="the-interconnectedness-of-life-and-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-interconnectedness-of-life-and-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>While reading below keep your mind open. If you can keep your religious or even scientific information aside it would help you understand my thoughts. For many of you these may be hard ideas to digest, therefore reading multiple times and thinking over again and again will help.&lt;/p></description></item><item><title>Types of Machine Learning</title><link>https://dasarpai.github.io/dsblog/types-of-machine-learning/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg" alt="Types of Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Machine Learning
+&lt;div id="types-of-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.&lt;/p></description></item><item><title>GPU for Data Science Work</title><link>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</link><pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/gpu-for-data-science-work/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg" alt="GPU for Data Science Work" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">GPU for Data Science Work
+&lt;div id="gpu-for-data-science-work" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#gpu-for-data-science-work" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What is the difference between microprocessor (CPU) and GPU?
+&lt;div id="what-is-the-difference-between-microprocessor-cpu-and-gpu" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-the-difference-between-microprocessor-cpu-and-gpu" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.&lt;/p></description></item><item><title>Introduction to Neural Network</title><link>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/introduction-to-neural-network/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg" alt="Introduction to Neural Network" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Introduction to Neural Network
+&lt;div id="introduction-to-neural-network" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-neural-network" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction to a Perceptron
+&lt;div id="introduction-to-a-perceptron" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction-to-a-perceptron" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.&lt;/p></description></item><item><title>Timeseries Interview Questions</title><link>https://dasarpai.github.io/dsblog/timeseries-interview-questions/</link><pubDate>Sun, 08 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/timeseries-interview-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg" alt="Timeseries Interview Questions" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Timeseries Interview Questions
+&lt;div id="timeseries-interview-questions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#timeseries-interview-questions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the characterstics of time series data?
+&lt;div id="what-are-the-characterstics-of-time-series-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-characterstics-of-time-series-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Time series data is a series of data points collected over time. Some characteristics of time series data include:&lt;/p>
+&lt;ul>
+&lt;li>Time dependence: Time series data is typically collected at regular time intervals, and the values of the time series are often dependent on the time at which they were collected.&lt;/li>
+&lt;li>Equal duration gap between samples/ records&lt;/li>
+&lt;li>No missing record in between&lt;/li>
+&lt;li>Trend: Many time series exhibit a long-term trend, either upward or downward. This trend may be influenced by a variety of factors such as economic conditions, population growth, or technological changes.&lt;/li>
+&lt;li>Seasonality: Many time series exhibit regular fluctuations due to seasonal factors such as weather, holidays, or other events. For example, retail sales may be higher in the months leading up to Christmas due to holiday shopping.&lt;/li>
+&lt;li>Cyclicity: Time series may exhibit cyclical pattern. Like sales is highest in month start, body temprature is high at 6am, traffic is least on weekends etc.&lt;/li>
+&lt;li>Noise: Time series data may also be affected by random noise or error, which can make it difficult to accurately forecast future values.&lt;/li>
+&lt;li>Autocorrelation: Time series data may exhibit autocorrelation, which is the phenomenon of a value at a particular time being correlated with values at nearby times. This can make it challenging to model the time series, as the value at a given time may depend on the values at nearby times.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 class="relative group">Example of time series data
+&lt;div id="example-of-time-series-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#example-of-time-series-data" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Sales (y)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020-01-01&lt;/td>
+&lt;td>1000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-02-01&lt;/td>
+&lt;td>1100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-03-01&lt;/td>
+&lt;td>1200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-04-01&lt;/td>
+&lt;td>1100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-05-01&lt;/td>
+&lt;td>1000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-06-01&lt;/td>
+&lt;td>900&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-07-01&lt;/td>
+&lt;td>1200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-08-01&lt;/td>
+&lt;td>1400&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-09-01&lt;/td>
+&lt;td>1300&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020-10-01&lt;/td>
+&lt;td>1500&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>This first column can be date or date or datetime. Interval between two rows must be equal. The unit of date or time or datetime may be milliosecond, or second, or minute, or hour, or day, week, month, quarter, year or dacade. This should be continuous without any gap.&lt;/p></description></item><item><title>Linear Regression Interview Questions</title><link>https://dasarpai.github.io/dsblog/linear-regression-interview-questions/</link><pubDate>Sat, 07 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/linear-regression-interview-questions/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg" alt="Prompt Engineering for GPT4" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Linear Regression Interview Questions and Answers
+&lt;div id="linear-regression-interview-questions-and-answers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#linear-regression-interview-questions-and-answers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>In this question-answer article, I will try that the start of every answer from example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.&lt;/p>&lt;/blockquote>
+&lt;h2 class="relative group">Question 1: What is linear regression? What is the difference between simple linear regression and multiple linear regression?
+&lt;div id="question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-1-what-is-linear-regression-what-is-the-difference-between-simple-linear-regression-and-multiple-linear-regression" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Linear regression is a statistical method used to model the linear relationship between a dependent variable and one or more independent variables. It is used to predict the value of the dependent variable based on the values of the independent variables.&lt;/p></description></item><item><title>Statistics Interview Question for Data Scientist</title><link>https://dasarpai.github.io/dsblog/statistics-interview-question-for-data-scientist/</link><pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/statistics-interview-question-for-data-scientist/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg" alt="Statistics Interview Question for Data Scientist" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Statistics Interview Question for Data Scientist
+&lt;div id="statistics-interview-question-for-data-scientist" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#statistics-interview-question-for-data-scientist" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;blockquote>
+&lt;p>In this question-answer blog, I will try to answer that every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.&lt;/p></description></item><item><title>Data Science, AI, ML, eBooks, PDF Books</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-books/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-books/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg" alt="DS, AI, ML, Books Available" />
+&lt;/figure>
+&lt;/p></description></item><item><title>How Naive Bayes Classifier Works</title><link>https://dasarpai.github.io/dsblog/how-naive-bayes-classifier-works/</link><pubDate>Wed, 31 Mar 2021 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/how-naive-bayes-classifier-works/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg" alt="Naive Bayes" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">How Naive Bayes Classifier Works?
+&lt;div id="how-naive-bayes-classifier-works" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-naive-bayes-classifier-works" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Naive Bayes classifier example
+&lt;div id="naive-bayes-classifier-example" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#naive-bayes-classifier-example" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In this presentation, I am not going into the depth of the Naive Bayes algorithm. I am assuming you have heard this term many times but are not able to visualize it mentally or struggling to comprehend this. If that is the case, then you are on the right page.&lt;/p></description></item><item><title>DS, AI, ML Online Course, Tutorial, Videos</title><link>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-tutorial-video-resources/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg" alt="DS, AI, ML Online Course, Tutorial, Videos" />
+&lt;/figure>
+&lt;/p></description></item></channel></rss>

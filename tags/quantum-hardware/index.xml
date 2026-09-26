@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Hardware on dasarpAI</title><link>https://dasarpai.github.io/tags/quantum-hardware/</link><description>Recent content in Quantum Hardware on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/quantum-hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is Error in Quantum Computing?</title><link>https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/</link><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6324-what-is-error-in-quantum-computing.jpg" alt="What Is Error in Quantum Computing" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What Is Error in Quantum Computing?
+&lt;div id="what-is-error-in-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-error-in-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Why qubits fail, what that failure means, and how we protect computation
+&lt;div id="why-qubits-fail-what-that-failure-means-and-how-we-protect-computation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#why-qubits-fail-what-that-failure-means-and-how-we-protect-computation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 23 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>In &lt;a href="https://dasarpai.github.io/dsblog/quantum-computing-careers">Quantum Computing Careers&lt;/a> one layer of the stack is &lt;strong>error correction&lt;/strong>. This article explains that layer.&lt;/p>
+&lt;p>Every computer makes mistakes. The questions here are:&lt;/p>
+&lt;blockquote>
+&lt;p>What is damaged? Why so easily? What can we do without destroying the computation?&lt;/p>&lt;/blockquote></description></item><item><title>Quantum Computing Careers: Where Should a Software Professional Enter — Hardware, Systems, Algorithms, or Applications?</title><link>https://dasarpai.github.io/dsblog/quantum-computing-careers/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/quantum-computing-careers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6323-quantum-computing-careers.jpg" alt="Quantum Computing Careers" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Quantum Computing Careers: Where Should a Software Professional Enter — Hardware, Systems, Algorithms, or Applications?
+&lt;div id="quantum-computing-careers-where-should-a-software-professional-enter--hardware-systems-algorithms-or-applications" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quantum-computing-careers-where-should-a-software-professional-enter--hardware-systems-algorithms-or-applications" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">The useful question is not &amp;ldquo;Should I learn Qiskit?&amp;rdquo; It is &amp;ldquo;Where does my existing experience become hard to copy?&amp;rdquo;
+&lt;div id="the-useful-question-is-not-should-i-learn-qiskit-it-is-where-does-my-existing-experience-become-hard-to-copy" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-useful-question-is-not-should-i-learn-qiskit-it-is-where-does-my-existing-experience-become-hard-to-copy" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Part 22 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>When people think about a career in quantum computing, the first question is often:&lt;/p>
+&lt;blockquote>
+&lt;p>Should I learn quantum programming?&lt;/p>&lt;/blockquote>
+&lt;p>That may not be the best question.&lt;/p>
+&lt;p>A better question is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>At which layer of the quantum-computing stack should I position myself?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>And a still better career question is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>After 5, 15, or 25 years already spent in technology, where in the quantum stack can I add new knowledge so that my existing experience becomes an advantage a newcomer cannot quickly match?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>This distinction matters.&lt;/p>
+&lt;p>A software engineer with five years of experience, an architect with fifteen, and a technology professional with twenty-five should &lt;strong>not follow the same quantum-career roadmap&lt;/strong>.&lt;/p></description></item></channel></rss>
