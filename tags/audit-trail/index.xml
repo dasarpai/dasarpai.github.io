@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audit Trail on dasarpAI</title><link>https://dasarpai.github.io/tags/audit-trail/</link><description>Recent content in Audit Trail on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/audit-trail/index.xml" rel="self" type="application/rss+xml"/><item><title>The Language of Reconciliation</title><link>https://dasarpai.github.io/finblog/language-of-reconciliation/</link><pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/finblog/language-of-reconciliation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/finblog/8506-The-Language-of-Reconciliation.jpg" alt="The Language of Reconciliation" />
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Part 3 of the &lt;em>Complete Guide to Reconciliation Systems in BFSI&lt;/em>&lt;/strong>&lt;/p>
+&lt;p>A payment analyst reports, “The transaction did not match.”&lt;/p>
+&lt;p>The engineer checks the system and replies, “It matched on the payment ID, but the amount comparison failed.”&lt;/p>
+&lt;p>The control owner adds, “The difference is within tolerance, so there should be no exception.”&lt;/p>
+&lt;p>All three people are discussing one payment, but they are using “match” to mean different things. The analyst means the overall reconciliation failed. The engineer means the system linked two records. The control owner means the linked values satisfy an approved condition.&lt;/p></description></item></channel></rss>

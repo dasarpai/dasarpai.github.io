@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content Formats on dasarpAI</title><link>https://dasarpai.github.io/tags/content-formats/</link><description>Recent content in Content Formats on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/content-formats/index.xml" rel="self" type="application/rss+xml"/><item><title>Retrieval-Augmented Generation with Conflicting Evidence</title><link>https://dasarpai.github.io/dsblog/ps-retrieval-augmented-generation-with-conflicting-evidence/</link><pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ps-retrieval-augmented-generation-with-conflicting-evidence/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6261-Retrieval-Augmented-Generation-with-Conflicting-Evidence.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Paper Summary: Retrieval-Augmented Generation with Conflicting Evidence
+&lt;div id="paper-summary-retrieval-augmented-generation-with-conflicting-evidence" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-summary-retrieval-augmented-generation-with-conflicting-evidence" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.13079" target="_blank">arXiv Paper&lt;/a>&lt;/p>
+&lt;p>A retrieval system reads documents, then writes an answer. This paper studies what happens when those documents disagree.&lt;/p>
+&lt;div class="mermaid td-compact" align="center">
+&lt;pre>
+%%{init: {"flowchart": {"rankSpacing": 18, "wrappingWidth": 480}}}%%
+flowchart TD
+A["Retrieve documents"]
+B["They conflict"]
+C["Agents debate"]
+D["One answer"]
+A --> B --> C --> D
+&lt;/pre>
+&lt;/div>
+&lt;p>MADAM-RAG gives each retrieved document its own agent, lets those agents debate, and uses an aggregator to write one answer. RAMDocs is the test set that mixes an unclear question, wrong documents, and documents that do not help.&lt;/p></description></item><item><title>LLM Internal Encoding of Truthfulness and Hallucinations</title><link>https://dasarpai.github.io/dsblog/ps-llm-internal-encoding-of-truthfulness-and-hallucinations/</link><pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ps-llm-internal-encoding-of-truthfulness-and-hallucinations/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6260-LLM-Internal-Encoding-of-Truthfulness-and-Hallucinations.jpg" alt="LLM Internal Encoding of Truthfulness and Hallucinations" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Paper Summary: LLM Internal Encoding of Truthfulness and Hallucinations
+&lt;div id="paper-summary-llm-internal-encoding-of-truthfulness-and-hallucinations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#paper-summary-llm-internal-encoding-of-truthfulness-and-hallucinations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>The objective of this paper is to gain a deeper understanding of errors produced by large language models (LLMs) by examining their internal representations. The authors aim to reveal how information about the truthfulness of LLM outputs is encoded internally, going beyond extrinsic, behavioral analysis. They also seek to investigate the relationship between these internal representations and the external behavior of LLMs, including their tendency to produce inaccuracies or &amp;ldquo;hallucinations&amp;rdquo;. Furthermore, the paper intends to explore whether internal representations can be used to predict the types of errors LLMs make and to detect the correct answer even when the model generates an incorrect one.&lt;/p></description></item><item><title>Book Review - Data Science in Marketing Analysis</title><link>https://dasarpai.github.io/dsblog/bookreview-data-science-for-marketing-analytics/</link><pubDate>Wed, 26 Oct 2022 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bookreview-data-science-for-marketing-analytics/</guid><description>&lt;p>&lt;a href="https://dasarpai.github.io/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg">Book Review - Data Science in Marketing Analysis&lt;/a>&lt;/p>
+&lt;h1 class="relative group">BOOK REVIEW
+&lt;div id="book-review" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#book-review" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">TITLE OF THE BOOK: Data Science in Marketing Analysis
+&lt;div id="title-of-the-book-data-science-in-marketing-analysis" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#title-of-the-book-data-science-in-marketing-analysis" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">AUTHOR: Mirza Rahim Baig, Gururajan Govindan, and Vishwesh Ravi Shrimali
+&lt;div id="author-mirza-rahim-baig-gururajan-govindan-and-vishwesh-ravi-shrimali" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#author-mirza-rahim-baig-gururajan-govindan-and-vishwesh-ravi-shrimali" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">PUBLISHER: Packt Publishing
+&lt;div id="publisher-packt-publishing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#publisher-packt-publishing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">YEAR: 2021
+&lt;div id="year-2021" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#year-2021" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Reviewer: Hari Thapliyal, AI Educationist &amp;amp; Consultant, Founder, dasarpAI
+&lt;div id="reviewer-hari-thapliyal-ai-educationist--consultant-founder-dasarpai" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#reviewer-hari-thapliyal-ai-educationist--consultant-founder-dasarpai" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">INTRODUCTION
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Before writing this book, three authors of this books has written 3 books separately. Mirza Rahim Baig has authored “The Deep Learning Workshop”, Gururajan Govindan authored “The Data Analysis Workshop” and Vishwesh Ravi Shrimali has written a book “The Computer Vision Workshop”. The individual’s experience of writing book on Data Science has made this book easy understandable and lucid book. I am doing this review on the second edition of this book. The first edition was published in 2019 and the second edition is published in 2021. This book contains 637 pages, and it looks heavy on your table but most the content is code example and screenshots of graphs and data tables. This is normal for any good programming book, which wants their reader to understand what code was written and how the output looks like. This book is written in simple English. In the book, authors trying to explain how to work with python, pandas, seaborn and other important python libraries. This book goes beyond the title of this book. It is not only about marketing analysis but also how to develop model using scikit-learn and other machine learning libraries. Copyright of this book is with Packt Publishing.&lt;/p></description></item><item><title>Data Science, AI, ML, eBooks, PDF Books</title><link>https://dasarpai.github.io/dsblog/ds-ai-ml-books/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ds-ai-ml-books/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg" alt="DS, AI, ML, Books Available" />
+&lt;/figure>
+&lt;/p></description></item></channel></rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Number Theory on dasarpAI</title><link>https://dasarpai.github.io/tags/number-theory/</link><description>Recent content in Number Theory on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/number-theory/index.xml" rel="self" type="application/rss+xml"/><item><title>Kinds of Numbers: A Map from Natural to Complex</title><link>https://dasarpai.github.io/dsblog/kinds-of-numbers-number-systems-map/</link><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/kinds-of-numbers-number-systems-map/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6326-kinds-of-numbers-number-systems-map.jpg" alt="Kinds of Numbers: A Map from Natural to Complex" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Kinds of Numbers
+&lt;div id="kinds-of-numbers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#kinds-of-numbers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Nested sets from counting to the complex plane, plus bases and computer formats
+&lt;div id="nested-sets-from-counting-to-the-complex-plane-plus-bases-and-computer-formats" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#nested-sets-from-counting-to-the-complex-plane-plus-bases-and-computer-formats" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;strong>Natural → integer → rational → real → complex&lt;/strong> is the main ladder. Each step adds numbers the previous step could not hold.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Kind&lt;/th>
+&lt;th>Symbol (usual)&lt;/th>
+&lt;th>One-line idea&lt;/th>
+&lt;th>Example&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Natural&lt;/td>
+&lt;td>$\mathbb{N}$&lt;/td>
+&lt;td>Counting sizes&lt;/td>
+&lt;td>$1, 2, 3, \ldots$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Whole&lt;/td>
+&lt;td>—&lt;/td>
+&lt;td>Natural plus zero&lt;/td>
+&lt;td>$0, 1, 2, \ldots$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Integer&lt;/td>
+&lt;td>$\mathbb{Z}$&lt;/td>
+&lt;td>Whole numbers and negatives&lt;/td>
+&lt;td>$-3, 0, 7$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Rational&lt;/td>
+&lt;td>$\mathbb{Q}$&lt;/td>
+&lt;td>Ratio of two integers&lt;/td>
+&lt;td>$\tfrac{3}{4}$, $-2$, $0.125$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Irrational&lt;/td>
+&lt;td>(inside $\mathbb{R}$)&lt;/td>
+&lt;td>Real, not any exact fraction&lt;/td>
+&lt;td>$\sqrt{2}$, $\pi$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Real&lt;/td>
+&lt;td>$\mathbb{R}$&lt;/td>
+&lt;td>Points on the number line&lt;/td>
+&lt;td>$-1.5$, $e$, $\sqrt{5}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Imaginary&lt;/td>
+&lt;td>—&lt;/td>
+&lt;td>Real multiple of $i$&lt;/td>
+&lt;td>$3i$, $-i$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complex&lt;/td>
+&lt;td>$\mathbb{C}$&lt;/td>
+&lt;td>Real part plus imaginary part&lt;/td>
+&lt;td>$2 + 3i$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Two phrases sound alike but mean different things:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Kinds of numbers&lt;/strong> — which &lt;em>set&lt;/em> a value belongs to ($\mathbb{Q}$, $\mathbb{R}$, …).&lt;/li>
+&lt;li>&lt;strong>Positional number system&lt;/strong> — how you &lt;em>write&lt;/em> a value in a base (decimal, binary, hex).&lt;/li>
+&lt;/ul>
+&lt;p>This article maps the sets first, then points at bases and floating-point formats data work uses every day.&lt;/p>
+&lt;p>For symbols and operators used with these numbers, see &lt;a href="https://dasarpai.github.io/dsblog/grammar-of-mathematics-operators-functions-relations-symbols">Grammar of Mathematics: Operators, Functions, Relations, and Symbols&lt;/a>.&lt;/p></description></item></channel></rss>
