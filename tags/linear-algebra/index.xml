@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linear Algebra on dasarpAI</title><link>https://dasarpai.github.io/tags/linear-algebra/</link><description>Recent content in Linear Algebra on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml"/><item><title>Building a 20-Qubit Quantum System Using Photons</title><link>https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons/</link><pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6313-building-a-20-qubit-quantum-system-using-photons.jpg" alt="Building a 20-Qubit Quantum System Using Photons" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Building a 20-Qubit Quantum System Using Photons
+&lt;div id="building-a-20-qubit-quantum-system-using-photons" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-a-20-qubit-quantum-system-using-photons" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 13 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Quantum computing often becomes difficult to understand because we start directly with symbols such as:&lt;/p>
+&lt;p>&lt;code>|0&amp;gt;&lt;/code>, &lt;code>|1&amp;gt;&lt;/code>, superposition, entanglement, Hilbert space, and quantum gates.&lt;/p>
+&lt;p>A simpler approach is to start with the &lt;strong>physical system&lt;/strong> — the actual hardware — and only then attach the math.&lt;/p>
+&lt;p>Let us assume that we want to build a &lt;strong>20-qubit quantum system using photons&lt;/strong>.&lt;/p>
+&lt;p>The central idea is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>One photon can be used as one qubit if we choose one two-state property of that photon to represent &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code>.&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>For this article, we will use the polarization of a photon.&lt;/p>
+&lt;h2 class="relative group">If you write software
+&lt;div id="if-you-write-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#if-you-write-software" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you already think in &lt;strong>bits&lt;/strong>, &lt;strong>registers&lt;/strong>, and &lt;strong>logic gates&lt;/strong>, here is the mapping this article uses:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Classical computing&lt;/th>
+&lt;th>Photonic qubits (this article)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>One bit: &lt;code>0&lt;/code> or &lt;code>1&lt;/code>&lt;/td>
+&lt;td>One qubit: two basis states labeled &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20-bit register: one of 2^20 bit strings&lt;/td>
+&lt;td>20-qubit register: one &lt;strong>joint&lt;/strong> state in a 2^20-dimensional vector space&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AND / OR / NOT gates&lt;/td>
+&lt;td>Unitary transforms implemented with wave plates, beam splitters, and phase shifters&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Read register → get 20 bits&lt;/td>
+&lt;td>Measure 20 qubits → get &lt;strong>one&lt;/strong> 20-bit outcome per experimental run&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>The goal is not to memorize optics. It is to see &lt;strong>where the symbols in a quantum circuit come from physically&lt;/strong> — so notation like &lt;code>|0&amp;gt;&lt;/code>, &lt;code>|+&amp;gt;&lt;/code>, tensor products, and entanglement map to hardware you could, in principle, build in a lab.&lt;/p>
+&lt;p>Throughout, &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code> are &lt;strong>Dirac ket&lt;/strong> labels (basis state names), not ASCII angle brackets around integers.&lt;/p></description></item></channel></rss>

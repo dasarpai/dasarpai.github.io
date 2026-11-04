@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Platforms on dasarpAI</title><link>https://dasarpai.github.io/tags/ai-platforms/</link><description>Recent content in AI Platforms on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-platforms/index.xml" rel="self" type="application/rss+xml"/><item><title>A Deep Dive into AI Model Marketplaces for Business Managers</title><link>https://dasarpai.github.io/dsblog/a-deep-dive-into-ai-model-marketplaces-for-business-managers/</link><pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/a-deep-dive-into-ai-model-marketplaces-for-business-managers/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg" alt="AI Model Marketplaces" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">A Deep Dive into AI Model Marketplaces for Business Managers
+&lt;div id="a-deep-dive-into-ai-model-marketplaces-for-business-managers" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#a-deep-dive-into-ai-model-marketplaces-for-business-managers" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">&lt;strong>Introduction&lt;/strong>
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Artificial Intelligence (AI) is transforming industries, from customer service automation to data-driven decision-making. However, with hundreds of AI models available—ranging from OpenAI’s GPT-4 to Meta’s Llama 3—business leaders face a critical challenge: &lt;strong>Where should they source their AI models?&lt;/strong>&lt;/p></description></item><item><title>Exploring the Local Location of Ollama Models on WSL2</title><link>https://dasarpai.github.io/dsblog/exploring-ollama-models-location-on-wsl2/</link><pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-ollama-models-location-on-wsl2/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg" alt="Exploring the Location of Ollama Models on Local Machine" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring the Location of Ollama Models on Local Machine
+&lt;div id="exploring-the-location-of-ollama-models-on-local-machine" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-the-location-of-ollama-models-on-local-machine" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Ollama stores each model as files in a folder. On the Linux service in this article, that folder was &lt;code>/usr/share/ollama/.ollama/models&lt;/code>. A copy you install for your own user often uses the home folder instead.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">Linux and WSL, your user: ~/.ollama/models
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Linux service on this machine: /usr/share/ollama/.ollama/models
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Windows: C:\Users\&amp;lt;username&amp;gt;\.ollama\models
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>~&lt;/code> is your home directory. On this WSL machine that is &lt;code>/home/hari&lt;/code>.&lt;/p></description></item><item><title>Automated Machine Learning</title><link>https://dasarpai.github.io/dsblog/automl-tools/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/automl-tools/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6150-AutoML-Tools.jpg" alt="What is AutoML" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Automated Machine Learning
+&lt;div id="automated-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#automated-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is article is for you, if you know&lt;/p>
+&lt;ul>
+&lt;li>About Machine learning, ML models building&lt;/li>
+&lt;li>That machines are capable of building these models themselves.&lt;/li>
+&lt;/ul>
+&lt;p>But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p></description></item><item><title>Exploring Ollama &amp; LM Studio</title><link>https://dasarpai.github.io/dsblog/exploring-ollama/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-ollama/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6143-Exploring-Ollama.jpg" alt="Exploring Ollama &amp;amp; LM Studio" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring Ollama &amp;amp; LM Studio
+&lt;div id="exploring-ollama--lm-studio" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-ollama--lm-studio" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Is this article for me?
+&lt;div id="is-this-article-for-me" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#is-this-article-for-me" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you are looking answers to the following questions, then this article is for you:&lt;/p>
+&lt;p>&lt;strong>Part of the &lt;a href="https://dasarpai.github.io/dsblog/start-here/#if-you-want-to-run-llms-locally">Local LLM learning path&lt;/a>.&lt;/strong> Next: &lt;a href="https://dasarpai.github.io/dsblog/ollama-setup-and-running-models/">Ollama setup step-by-step&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>Question: What is Ollama? Is it like Docker?&lt;/li>
+&lt;li>Question: How is Ollama different from Docker?&lt;/li>
+&lt;li>Question: How to install ollama on my machine?&lt;/li>
+&lt;li>Question: How to create customized LLM Model (docker like image)?&lt;/li>
+&lt;li>Question: What are the LLM available on ollama?&lt;/li>
+&lt;li>Question: Can we integrate these hundreds with different UI like ChatGPT?&lt;/li>
+&lt;li>Question: If I want to use all these Ollama models via Jupyter Notebook then what to do?&lt;/li>
+&lt;li>Question: Does Ollama have plugins like github copilot? Can I use those from my visual code?&lt;/li>
+&lt;li>Question: What kind of software are LM Studio or Ollama?&lt;/li>
+&lt;li>Question: What is LM Studio and how different it is from Ollama?&lt;/li>
+&lt;li>Question: What are different formats to save model, specifically LLMs?&lt;/li>
+&lt;li>Question: What is gguf model extention?&lt;/li>
+&lt;li>Question: If I have finetuned my models using clouds like aws sagemaker, vertexai, azure and kept there then can I use them inside my ollama and LM Studio?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Question: What is Ollama? Is it like Docker?
+&lt;div id="question-what-is-ollama-is-it-like-docker" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#question-what-is-ollama-is-it-like-docker" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Ollama is a platform designed to make running and interacting with large language models (LLMs) easier. It abstracts away the complexities of managing LLM models, GPU resources, and related configurations by offering a simple CLI interface. With Ollama, you can run, manage, and deploy LLMs locally or in various cloud environments without having to worry about the intricate details of setting up environments, downloading models, or configuring them.&lt;/p></description></item><item><title>Variations of Language Model in Huggingface</title><link>https://dasarpai.github.io/dsblog/variations-of-language-model-in-huggingface/</link><pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/variations-of-language-model-in-huggingface/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg" alt="Variations-of-LanguageModel" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Variations of Language Model in Huggingface
+&lt;div id="variations-of-language-model-in-huggingface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#variations-of-language-model-in-huggingface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What the Model variable in Huggingface?
+&lt;div id="what-the-model-variable-in-huggingface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-the-model-variable-in-huggingface" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ml-model-repository-from-pinto0309/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">ML Model Repository from Pinto0309
+&lt;div id="ml-model-repository-from-pinto0309" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ml-model-repository-from-pinto0309" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What the PINTO model zoo holds
+&lt;div id="what-the-pinto-model-zoo-holds" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-the-pinto-model-zoo-holds" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/PINTO0309/PINTO_model_zoo" target="_blank">Katsuya Hyodo’s &lt;code>PINTO_model_zoo&lt;/code>&lt;/a> on GitHub is a free catalog of &lt;strong>pre-trained vision and audio models&lt;/strong> converted for edge deployment. Each model lives in its own numbered folder; you pick a task, open the folder, and download the weights in the format your runtime needs (often &lt;strong>ONNX&lt;/strong>).&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Piece&lt;/th>
+&lt;th>What you get&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Repository layout&lt;/strong>&lt;/td>
+&lt;td>One folder per model (&lt;code>192_open-closed-eye-0001&lt;/code>, &lt;code>059_yolov5&lt;/code>, …) with README, sample scripts, and export subfolders&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Model families&lt;/strong>&lt;/td>
+&lt;td>Classification, 2D/3D detection, face and hand detection, pose, depth, segmentation, OCR, action recognition, GANs, transformers, and more — indexed below in 19 sections&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>File formats&lt;/strong>&lt;/td>
+&lt;td>ONNX, TensorFlow Lite, OpenVINO IR, CoreML, FP32/FP16/INT8, plus optional TPU and TF-TRT builds (see the format key under &lt;a href="#supported-formats">Supported Formats&lt;/a>)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Typical download&lt;/strong>&lt;/td>
+&lt;td>Weight files (for example &lt;code>model_float32.onnx&lt;/code> or quantized variants), sometimes labels or demo Python — not a full training pipeline&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Run locally&lt;/strong>&lt;/td>
+&lt;td>Copy the ONNX (or TFLite) file into OpenCV DNN, ONNX Runtime, or your edge stack; the repo’s per-model README lists input size and preprocessing&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>The tables below are a &lt;strong>curated tour&lt;/strong> of that zoo, not a live mirror of every folder. For the latest list, use the &lt;a href="https://github.com/PINTO0309/PINTO_model_zoo" target="_blank">main repository&lt;/a>.&lt;/p></description></item></channel></rss>

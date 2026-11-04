@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Differential Equations on dasarpAI</title><link>https://dasarpai.github.io/tags/differential-equations/</link><description>Recent content in Differential Equations on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/differential-equations/index.xml" rel="self" type="application/rss+xml"/><item><title>Types of Equations: A Quick Map from Algebra to Calculus</title><link>https://dasarpai.github.io/dsblog/types-of-equations-quick-map/</link><pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/types-of-equations-quick-map/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6327-types-of-equations-quick-map.jpg" alt="Types of Equations: A Quick Map from Algebra to Calculus" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Types of Equations
+&lt;div id="types-of-equations" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#types-of-equations" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What you are solving for, and how the unknown appears
+&lt;div id="what-you-are-solving-for-and-how-the-unknown-appears" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-you-are-solving-for-and-how-the-unknown-appears" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>An &lt;strong>equation&lt;/strong> says two expressions have the &lt;strong>same value&lt;/strong>. You often solve for an unknown number, unknown function, or unknown vector.&lt;/p>
+&lt;p>Two labels help before the list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Conditional equation&lt;/strong> — true only for some values. Example: $2x + 3 = 7$ (solution: $x = 2$).&lt;/li>
+&lt;li>&lt;strong>Identity&lt;/strong> — true for every allowed value. Example: $(x + 1)^2 = x^2 + 2x + 1$.&lt;/li>
+&lt;/ul>
+&lt;p>The table below is a &lt;strong>family map&lt;/strong>, not a strict taxonomy. One expression can fit more than one row (a quadratic can also be transcendental if it uses $\sin x$).&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Family&lt;/th>
+&lt;th>You usually find&lt;/th>
+&lt;th>One example&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Algebraic&lt;/td>
+&lt;td>Numbers in powers and roots&lt;/td>
+&lt;td>$x^2 - 4 = 0$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Differential&lt;/td>
+&lt;td>Functions and their rates of change&lt;/td>
+&lt;td>$\frac{dy}{dx} = ky$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transcendental&lt;/td>
+&lt;td>Values inside exp, log, trig&lt;/td>
+&lt;td>$2^x = 8$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Functional&lt;/td>
+&lt;td>A whole function $f$&lt;/td>
+&lt;td>$f(x+y) = f(x) + f(y)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Integral&lt;/td>
+&lt;td>A function under an integral&lt;/td>
+&lt;td>$f(x) = g(x) + \int_a^b K(x,t)f(t),dt$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Parametric&lt;/td>
+&lt;td>A curve via a parameter $t$&lt;/td>
+&lt;td>$x = \cos t$, $y = \sin t$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Matrix / vector&lt;/td>
+&lt;td>A vector $x$ in $Ax = b$&lt;/td>
+&lt;td>$2x_1 + x_2 = 5$ and $x_1 + 3x_2 = 7$ (same system as §7)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For how symbols are read in any expression, see &lt;a href="https://dasarpai.github.io/dsblog/grammar-of-mathematics-operators-functions-relations-symbols">The Grammar of Mathematics: Operators, Functions, Relations, and Symbols Explained&lt;/a>. For the number sets those symbols use, see &lt;a href="https://dasarpai.github.io/dsblog/kinds-of-numbers-number-systems-map">Kinds of Numbers: A Map from Natural to Complex&lt;/a>.&lt;/p></description></item></channel></rss>
