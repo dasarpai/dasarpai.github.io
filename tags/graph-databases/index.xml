@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph Databases on dasarpAI</title><link>https://dasarpai.github.io/tags/graph-databases/</link><description>Recent content in Graph Databases on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/graph-databases/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring GraphDB and Neo4j - A Guide to Graph Databases</title><link>https://dasarpai.github.io/dsblog/exploring-graphdb-and-neo4j/</link><pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-graphdb-and-neo4j/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg" alt="Exploring GraphDB and Neo4j" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring GraphDB and Neo4j
+&lt;div id="exploring-graphdb-and-neo4j" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-graphdb-and-neo4j" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Table row vs graph — three contrasts
+&lt;div id="table-row-vs-graph--three-contrasts" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#table-row-vs-graph--three-contrasts" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A &lt;strong>relational row&lt;/strong> stores one record; you &lt;strong>join&lt;/strong> tables when a question crosses entities. A &lt;strong>graph&lt;/strong> stores &lt;strong>nodes&lt;/strong> (entities) and &lt;strong>relationships&lt;/strong> (edges) so a path query follows links directly.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>Relational table&lt;/th>
+&lt;th>Graph (Neo4j)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What you store&lt;/strong>&lt;/td>
+&lt;td>One row = one record with columns&lt;/td>
+&lt;td>One &lt;strong>node&lt;/strong> = entity with labels and properties&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>How links work&lt;/strong>&lt;/td>
+&lt;td>Foreign keys; the database &lt;strong>joins&lt;/strong> at query time&lt;/td>
+&lt;td>&lt;strong>Relationships&lt;/strong> are stored on the graph and traversed hop by hop&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Natural question&lt;/strong>&lt;/td>
+&lt;td>“All rows where &lt;code>country = 'IN'&lt;/code>”&lt;/td>
+&lt;td>“Who is two hops from Alice on &lt;code>:KNOWS&lt;/code>?”&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>One Cypher pattern&lt;/strong> that reads relationships (friends-of-friends):&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-cypher" data-lang="cypher">MATCH (alice:Person {name: &amp;#39;Alice&amp;#39;})-[:KNOWS*2]-&amp;gt;(fof:Person)
+RETURN DISTINCT fof.name
+&lt;/code>&lt;/pre>&lt;p>Neo4j is one graph database; &lt;strong>GraphDB&lt;/strong> (Ontotext) is another product with RDF/SPARQL — this article compares graph ideas to SQL and walks Neo4j Cypher in depth below.&lt;/p></description></item><item><title>Type of Databases</title><link>https://dasarpai.github.io/dsblog/type-of-databases/</link><pubDate>Wed, 25 Jan 2023 08:33:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/type-of-databases/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6041-Type-of-Databases.jpg" alt="Type of Databases" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">What are the various types of databases?
+&lt;div id="what-are-the-various-types-of-databases" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-various-types-of-databases" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. For how those database types fit into lakes, warehouses, lakehouses, and marts at enterprise scale, see &lt;a href="https://dasarpai.github.io/dsblog/datalake-vs-data-warehouse/">Data Lake vs Data Warehouse vs Data Mart vs Lakehouse&lt;/a>. Let&amp;rsquo;s look into these.&lt;/p></description></item></channel></rss>

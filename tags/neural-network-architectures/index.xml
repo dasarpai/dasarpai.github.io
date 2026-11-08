@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neural Network Architectures on dasarpAI</title><link>https://dasarpai.github.io/tags/neural-network-architectures/</link><description>Recent content in Neural Network Architectures on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/neural-network-architectures/index.xml" rel="self" type="application/rss+xml"/><item><title>BitNet b1.58-2B4T: Revolutionary Binary Neural Network for Efficient AI</title><link>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/bitnet-b1-58-2b4t-for-efficient-ai-processing/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6263-BitNet-b1.58-2B4T.jpg" alt="BitNet b1.58-2B4T" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">BitNet b1.58-2B4T: The Future of Efficient AI Processing
+&lt;div id="bitnet-b158-2b4t-the-future-of-efficient-ai-processing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#bitnet-b158-2b4t-the-future-of-efficient-ai-processing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Each weight in BitNet b1.58 2B4T is only -1, 0, or +1. The model has about 2 billion parameters. It was trained on 4 trillion tokens. &amp;ldquo;1.58-bit&amp;rdquo; is the name for those three choices: log2(3) is about 1.58.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Weight values&lt;/td>
+&lt;td>-1, 0, or +1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Parameters&lt;/td>
+&lt;td>2 billion&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Training tokens&lt;/td>
+&lt;td>4 trillion&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;a href="https://arxiv.org/pdf/2504.12285" target="_blank">BitNet b1.58 2B4T paper&lt;/a>&lt;/p></description></item></channel></rss>
