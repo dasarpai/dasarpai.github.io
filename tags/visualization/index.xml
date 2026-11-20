@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visualization on dasarpAI</title><link>https://dasarpai.github.io/tags/visualization/</link><description>Recent content in Visualization on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml"/><item><title>Seeing Three Dimensions: Colors, Planes, a Sphere and the Meaning of Rotation</title><link>https://dasarpai.github.io/dsblog/colors-planes-sphere-and-rotation/</link><pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/colors-planes-sphere-and-rotation/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6328-colors-planes-sphere-and-rotation.jpg" alt="Seeing Three Dimensions: Colors, Planes, a Sphere and the Meaning of Rotation" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Seeing Three Dimensions: Colors, Planes, a Sphere and the Meaning of Rotation
+&lt;div id="seeing-three-dimensions-colors-planes-a-sphere-and-the-meaning-of-rotation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#seeing-three-dimensions-colors-planes-a-sphere-and-the-meaning-of-rotation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 24 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>X, Y, and Z are easy to draw. They are harder to hold in mind together when a plane, a turn, and a qubit all refer to them.&lt;/p>
+&lt;p>This article gives each axis a color and passes three colored planes through a sphere. The colors keep the axes distinct. The sphere shows what a turn does. The same six directions then name the states of one qubit.&lt;/p></description></item></channel></rss>

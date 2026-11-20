@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pauli Matrices on dasarpAI</title><link>https://dasarpai.github.io/tags/pauli-matrices/</link><description>Recent content in Pauli Matrices on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/pauli-matrices/index.xml" rel="self" type="application/rss+xml"/><item><title>Operators in Quantum Mechanics</title><link>https://dasarpai.github.io/dsblog/operators-in-quantum-mechanics/</link><pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/operators-in-quantum-mechanics/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6334-operators-in-quantum-mechanics.jpg" alt="Operators in Quantum Mechanics" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Operators in Quantum Mechanics
+&lt;div id="operators-in-quantum-mechanics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#operators-in-quantum-mechanics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 27 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>An operator takes the column of a state and returns a new column. On one qubit the column has two entries, so the operator is a 2 by 2 matrix. Write the matrix on the left. Write the column on the right. Multiply.&lt;/p>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/from-geometry-to-quantum-mechanics">From Geometry to Quantum Mechanics&lt;/a> uses these names side by side with arrows in a plane. This article defines each operator, writes its matrix, and says what the matrix does.&lt;/p></description></item></channel></rss>

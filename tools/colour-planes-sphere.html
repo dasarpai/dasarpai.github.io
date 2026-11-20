@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Color planes and sphere | Dasarpai</title>
+<style>
+:root{color-scheme:light dark;--bg:light-dark(#fff,#15171b);--fg:light-dark(#20242b,#f1f3f6);--line:light-dark(#bdc3cc,#59616e)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}main{max-width:850px;margin:auto;padding:24px}h1{font-size:1.5rem;margin:0 0 8px}p{margin:8px 0 16px}.controls{display:flex;gap:12px 24px;flex-wrap:wrap;align-items:center}label{display:flex;align-items:center;gap:8px;min-height:44px}input{accent-color:#8367d4}input[type=range]{width:100%;min-width:100px}.slider{flex:1;min-width:180px;flex-wrap:wrap}.slider span{min-width:70px}button{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px 14px;min-height:44px;cursor:pointer}svg{display:block;width:100%;touch-action:pan-y;cursor:grab}svg.dragging{cursor:grabbing;touch-action:none}svg text{fill:var(--fg);font-size:14px;font-weight:600;paint-order:stroke;stroke:var(--bg);stroke-width:4px;stroke-linejoin:round}.note{font-size:.9rem}summary{cursor:pointer;min-height:44px}code{overflow-wrap:anywhere}noscript{display:block;padding:16px}
+</style></head><body>
+<!-- INTEGRATION: Copy this entire file into your site's public/static assets as
+ /tools/colour-planes-sphere.html. Link to it directly, or embed it:
+ <iframe src="/tools/colour-planes-sphere.html" title="Interactive colour planes and sphere"
+ style="width:100%;height:820px;border:0" loading="lazy"></iframe>
+ No Python, packages, CDN, API keys, tracking or server-side processing are needed.
+ If your site blocks inline scripts/styles using CSP, move these blocks into local
+ .js and .css files and reference them. Adapt the public asset folder to your site.
+-->
+<main id="sphere-app"><h1>Three color planes and a sphere</h1><p>X = Red · Y = Blue · Z = Green</p>
+<div class="controls" aria-label="Visible planes">
+<label><input type="checkbox" data-plane="0" checked>XY · Magenta</label><label><input type="checkbox" data-plane="1" checked>YZ · Cyan</label><label><input type="checkbox" data-plane="2" checked>ZX · Yellow</label></div>
+<svg role="img" aria-labelledby="sphere-title sphere-desc"><title id="sphere-title">Three perpendicular central planes</title><desc id="sphere-desc">A sphere with red X, blue Y, and green Z axes. Positive directions are solid and negative directions dashed. Use the turn and tilt sliders to rotate the view.</desc><g data-scene></g></svg>
+<div class="controls"><label class="slider"><span>Turn <output data-yaw-value>35°</output></span><input aria-label="Turn view" data-yaw type="range" min="-180" max="180" value="35"></label><label class="slider"><span>Tilt <output data-tilt-value>25°</output></span><input aria-label="Tilt view" data-tilt type="range" min="-80" max="80" value="25"></label><button type="button" data-reset>Reset view</button></div>
+<p class="note">Drag with a mouse to rotate, or use the sliders. Solid = positive direction; dashed = negative direction.</p>
+<details><summary>What am I seeing?</summary><p>Each colored disc is the part of an infinite coordinate plane inside the sphere. Its circular rim lies on the sphere. All three planes meet at the center, and each pair shares an axis.</p><p>The colors label the geometry: red + blue light gives magenta, blue + green gives cyan, and green + red gives yellow. Transparent overlaps here are illustrative, rather than a physical light-mixing simulation.</p><p>On a Bloch sphere these are coordinate planes for one qubit. They are not paths traveled by a photon, and the colors are not physical qubit properties.</p></details><noscript>Enable JavaScript to view and rotate the sphere.</noscript></main>
+<script>
+(()=>{'use strict';
+function siteIsDark(){try{if(window.parent&&window.parent!==window)return window.parent.document.documentElement.classList.contains('dark');}catch(e){}return window.matchMedia('(prefers-color-scheme: dark)').matches;}
+function applyTheme(){document.documentElement.style.colorScheme=siteIsDark()?'dark':'light';}
+applyTheme();
+try{if(window.parent&&window.parent!==window)new MutationObserver(applyTheme).observe(window.parent.document.documentElement,{attributes:true,attributeFilter:['class']});}catch(e){}
+const app=document.getElementById('sphere-app'),svg=app.querySelector('svg'),scene=app.querySelector('[data-scene]'),yaw=app.querySelector('[data-yaw]'),tilt=app.querySelector('[data-tilt]');
+const axisColours=['#e83748','#397cf0','#21a65d'],planeColours=['#dc36cb','#16b5c5','#cbaa00'];let width=600,height=440,radius=160;
+function add(tag,attrs){const el=document.createElementNS('http://www.w3.org/2000/svg',tag);Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));scene.appendChild(el);return el;}
+function project(p){const a=+yaw.value*Math.PI/180,b=+tilt.value*Math.PI/180,y=-p[1],u=Math.cos(a)*p[0]-Math.sin(a)*y,v=Math.sin(a)*p[0]+Math.cos(a)*y;return[width/2+radius*u,height/2-radius*(Math.cos(b)*p[2]-Math.sin(b)*v),Math.cos(b)*v+Math.sin(b)*p[2]];}
+function path(points,attrs){return add('path',{d:points.map((p,i)=>(i?'L':'M')+project(p).slice(0,2).join(',')).join(' '),...attrs});}
+function circle(k){return Array.from({length:97},(_,i)=>{const c=Math.cos(i*Math.PI/48),s=Math.sin(i*Math.PI/48);return k===0?[c,s,0]:k===1?[0,c,s]:[s,0,c];});}
+function draw(){width=Math.max(260,svg.clientWidth);height=Math.min(480,width*.85);radius=Math.min(width*.31,height*.35);svg.setAttribute('viewBox',`0 0 ${width} ${height}`);scene.replaceChildren();app.querySelector('[data-yaw-value]').value=yaw.value+'°';app.querySelector('[data-tilt-value]').value=tilt.value+'°';
+add('circle',{cx:width/2,cy:height/2,r:radius,fill:'none',stroke:'var(--line)','stroke-width':1.5});const faces=[];
+app.querySelectorAll('[data-plane]').forEach(box=>{if(!box.checked)return;const k=+box.dataset.plane,p=circle(k);for(let i=0;i<96;i++){const tri=[[0,0,0],p[i],p[i+1]];faces.push({tri,k,z:tri.reduce((s,v)=>s+project(v)[2],0)/3});}});
+faces.sort((a,b)=>a.z-b.z).forEach(f=>path([...f.tri,f.tri[0]],{fill:planeColours[f.k],'fill-opacity':.2,stroke:'none'}));
+app.querySelectorAll('[data-plane]').forEach(box=>{if(box.checked)path(circle(+box.dataset.plane),{fill:'none',stroke:planeColours[+box.dataset.plane],'stroke-width':2});});
+for(let k=0;k<3;k++){for(const sign of [-1,1]){const p=[0,0,0];p[k]=sign*1.17;path([[0,0,0],p],{fill:'none',stroke:axisColours[k],'stroke-width':sign>0?3:2,'stroke-dasharray':sign>0?'none':'5 4'});p[k]=sign*1.38;const q=project(p);add('text',{x:q[0],y:q[1],'text-anchor':'middle','dominant-baseline':'middle'}).textContent=(sign>0?'+':'−')+'XYZ'[k];}}
+add('circle',{cx:width/2,cy:height/2,r:3,fill:'var(--fg)'});
+}
+app.querySelectorAll('input').forEach(el=>el.addEventListener('input',draw));app.querySelector('[data-reset]').addEventListener('click',()=>{yaw.value=35;tilt.value=25;app.querySelectorAll('[data-plane]').forEach(el=>el.checked=true);draw();});
+let last=null;svg.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'||e.button!==0)return;last=[e.clientX,e.clientY];svg.setPointerCapture(e.pointerId);svg.classList.add('dragging');});svg.addEventListener('pointermove',e=>{if(!last)return;yaw.value=((+yaw.value+(e.clientX-last[0])*.5+540)%360)-180;tilt.value=Math.max(-80,Math.min(80,+tilt.value+(e.clientY-last[1])*.5));last=[e.clientX,e.clientY];draw();});const release=()=>{last=null;svg.classList.remove('dragging');};['pointerup','pointercancel','lostpointercapture'].forEach(event=>svg.addEventListener(event,release));new ResizeObserver(draw).observe(svg);draw();
+})();
+</script></body></html>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" role="img" aria-labelledby="ganTitle ganDesc">
+  <title id="ganTitle">GAN diagram: generator and discriminator</title>
+  <desc id="ganDesc">Random noise goes into the generator. The generator sends a fake sample to the discriminator. Real data also goes to the discriminator. The discriminator scores real or fake.</desc>
+  <rect width="760" height="400" fill="#f7f4ef"/>
+  <text x="380" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1a1a1a">GAN diagram</text>
+  <text x="380" y="58" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5a4a42">Generator vs discriminator</text>
+
+  <rect x="40" y="110" width="160" height="56" rx="8" fill="#ffffff" stroke="#a82413" stroke-width="1.5"/>
+  <text x="120" y="144" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#1a1a1a">Random noise</text>
+
+  <rect x="280" y="110" width="160" height="56" rx="8" fill="#ffffff" stroke="#a82413" stroke-width="2"/>
+  <text x="360" y="144" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#1a1a1a">Generator</text>
+
+  <rect x="520" y="170" width="180" height="56" rx="8" fill="#ffffff" stroke="#a82413" stroke-width="2"/>
+  <text x="610" y="204" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#1a1a1a">Discriminator</text>
+
+  <rect x="280" y="270" width="160" height="56" rx="8" fill="#ffffff" stroke="#6b5a52" stroke-width="1.5"/>
+  <text x="360" y="304" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#1a1a1a">Real data</text>
+
+  <line x1="200" y1="138" x2="276" y2="138" stroke="#1a1a1a" stroke-width="1.5"/>
+  <polygon points="276,133 288,138 276,143" fill="#1a1a1a"/>
+  <text x="230" y="128" font-family="system-ui, sans-serif" font-size="11" fill="#5a4a42">input</text>
+
+  <line x1="440" y1="138" x2="520" y2="188" stroke="#1a1a1a" stroke-width="1.5"/>
+  <polygon points="512,180 522,190 508,192" fill="#1a1a1a"/>
+  <text x="448" y="158" font-family="system-ui, sans-serif" font-size="11" fill="#5a4a42">fake sample</text>
+
+  <line x1="440" y1="298" x2="520" y2="216" stroke="#1a1a1a" stroke-width="1.5"/>
+  <polygon points="510,224 522,214 516,228" fill="#1a1a1a"/>
+  <text x="448" y="270" font-family="system-ui, sans-serif" font-size="11" fill="#5a4a42">real sample</text>
+
+  <text x="610" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a42">score: real or fake</text>
+  <text x="380" y="380" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5a4a42">Both networks train on that score until the fake sample looks real.</text>
+</svg>

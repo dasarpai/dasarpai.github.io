@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Knowledge Management on dasarpAI</title><link>https://dasarpai.github.io/tags/knowledge-management/</link><description>Recent content in Knowledge Management on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/knowledge-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Beyond AI Coding: How AI is Becoming a Knowledge Compiler for Software Engineering</title><link>https://dasarpai.github.io/dsblog/ai-knowledge-compiler-software-engineering/</link><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-knowledge-compiler-software-engineering/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6309-ai-knowledge-compiler-software-engineering.jpg" alt="Beyond AI Coding: How AI is Becoming a Knowledge Compiler for Software Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Beyond AI Coding: How AI is Becoming a Knowledge Compiler for Software Engineering
+&lt;div id="beyond-ai-coding-how-ai-is-becoming-a-knowledge-compiler-for-software-engineering" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#beyond-ai-coding-how-ai-is-becoming-a-knowledge-compiler-for-software-engineering" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>For the last few years, the software industry has been discussing Artificial Intelligence from two perspectives.&lt;/p>
+&lt;p>The first is &lt;strong>building software that uses AI&lt;/strong>. Chatbots, recommendation engines, fraud detection systems, document understanding platforms, autonomous agents, and countless other applications rely on machine learning or large language models to perform work during production.&lt;/p></description></item><item><title>Where Does Knowledge Live? Rules, Skills, Tools, and AI Employees — From the Dev Desk to the Operations Floor</title><link>https://dasarpai.github.io/dsblog/ai-knowledge-architecture-rules-skills-tools-agents/</link><pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-knowledge-architecture-rules-skills-tools-agents/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6306-ai-knowledge-architecture-rules-skills-tools-agents.jpg" alt="Where Does Knowledge Live?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Where Does Knowledge Live?
+&lt;div id="where-does-knowledge-live" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#where-does-knowledge-live" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>A Knowledge Architecture for AI Workers&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 class="relative group">The problem nobody talks about yet
+&lt;div id="the-problem-nobody-talks-about-yet" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#the-problem-nobody-talks-about-yet" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>You pair-program with an AI assistant for three hours. It finally understands your PST parsing quirks, your test conventions, and why Phase 1 must not touch Postgres yet. You close the laptop. Next morning, it has forgotten everything that lived only in chat.&lt;/p>
+&lt;p>Or worse: you &lt;em>did&lt;/em> write instructions—in a README, a Cursor Rule, a personal note, and a Skill—and now the assistant follows one on Monday and contradicts another on Tuesday.&lt;/p>
+&lt;p>This is not a model intelligence problem. It is a &lt;strong>knowledge architecture&lt;/strong> problem.&lt;/p>
+&lt;p>For decades, teams argued about where information should live: comments, wikis, Confluence, ADRs, runbooks, lint configs. AI coding assistants add a new layer—not because the &lt;em>knowledge&lt;/em> is new, but because the &lt;strong>retrieval model&lt;/strong> changed. The assistant does not browse your wiki. It receives a &lt;strong>composed context window&lt;/strong> every session: system instructions, project rules, open files, tool outputs, and whatever you explicitly attach.&lt;/p>
+&lt;p>If you are a solo developer learning tools like Cursor, Claude Code, or Copilot Workspace, you feel this immediately. If you are a &lt;strong>Knowledge Manager&lt;/strong>, &lt;strong>Quality Manager&lt;/strong>, &lt;strong>tech lead&lt;/strong>, or &lt;strong>CISO&lt;/strong> preparing for org-wide adoption, the same confusion appears at enterprise scale—except now it affects compliance, consistency, and audit trails.&lt;/p>
+&lt;p>This article gives you a practical taxonomy from &lt;strong>two angles&lt;/strong>:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>The development environment&lt;/strong> — how solo developers and engineering teams configure AI coding assistants (Cursor, Claude Code, Copilot, etc.)&lt;/li>
+&lt;li>&lt;strong>The operations environment&lt;/strong> — how organizations deploy AI for business efficiency using terms like &lt;strong>AI employee&lt;/strong>, &lt;strong>digital worker&lt;/strong>, &lt;strong>agent registry&lt;/strong>, &lt;strong>skills&lt;/strong>, &lt;strong>rules&lt;/strong>, and &lt;strong>tools&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>Same words. Related ideas. Different containers. Confusion starts when teams treat them as unrelated vocabularies instead of &lt;strong>one knowledge architecture seen from two seats&lt;/strong>.&lt;/p></description></item></channel></rss>
