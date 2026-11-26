@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analysis &amp; Visualization on dasarpAI</title><link>https://dasarpai.github.io/categories/data-analysis--visualization/</link><description>Recent content in Data Analysis &amp; Visualization on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/categories/data-analysis--visualization/index.xml" rel="self" type="application/rss+xml"/><item><title>Frequencies in Time and Space: Understanding Nyquist Theorem &amp; its Applications</title><link>https://dasarpai.github.io/dsblog/frequencies-in-time-and-space/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/frequencies-in-time-and-space/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6265-frequencies-in-time-and-space.jpg" alt="" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Applications of Nyquists theorem
+&lt;div id="applications-of-nyquists-theorem" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#applications-of-nyquists-theorem" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Can &lt;strong>the Nyquist-Shannon sampling theorem applies to light signals&lt;/strong>
+&lt;div id="can-the-nyquist-shannon-sampling-theorem-applies-to-light-signals" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#can-the-nyquist-shannon-sampling-theorem-applies-to-light-signals" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">🌈 First: What Kind of &amp;ldquo;Light&amp;rdquo; Are We Talking About?
+&lt;div id="-first-what-kind-of-light-are-we-talking-about" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#-first-what-kind-of-light-are-we-talking-about" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>When we say &lt;strong>light&lt;/strong>, we could mean a few different things depending on the context:&lt;/p></description></item><item><title>Dimensionality Reduction and Visualization</title><link>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/dimensionality-reduction-and-visualization/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg" alt="Dimensionality-Reduction-and-Visualization" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Dimensionality Reduction and Visualization
+&lt;div id="dimensionality-reduction-and-visualization" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#dimensionality-reduction-and-visualization" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">What are the popular methods of dimensionality reduction?
+&lt;div id="what-are-the-popular-methods-of-dimensionality-reduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-are-the-popular-methods-of-dimensionality-reduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dimensionality reduction is a crucial step in data preprocessing, particularly when dealing with high-dimensional datasets. It helps in reducing the number of features while retaining the essential information, improving computational efficiency, and facilitating data visualization. Here are some popular methods of dimensionality reduction:&lt;/p></description></item><item><title>Topic Modeling with BERT</title><link>https://dasarpai.github.io/dsblog/topic-modeling-with-bert/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/topic-modeling-with-bert/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg" alt="Topic Modeling with BERT" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Topic Modeling with BERT
+&lt;div id="topic-modeling-with-bert" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#topic-modeling-with-bert" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Key steps in BERTopic modelling are as following.&lt;/p>
+&lt;ul>
+&lt;li>Use &amp;ldquo;Sentence Embedding&amp;rdquo; models to embed the sentences of the article&lt;/li>
+&lt;li>Reduce the dimensionality of embedding using UMAP&lt;/li>
+&lt;li>Cluster these documents (reduced dimensions) using HDBSAN&lt;/li>
+&lt;li>Use c-TF-IDF extract keywords, their frequency and IDF for each cluster.&lt;/li>
+&lt;li>MMR: Maximize Candidate Relevance. How many words in a topic can represent the topic?&lt;/li>
+&lt;li>Intertopic Distance Map&lt;/li>
+&lt;li>Use similarity matrix (heatmap), dandogram (hierarchical map), to visualize the topics and key_words.&lt;/li>
+&lt;li>Traction of topic over time period. Some may be irrelevant and for other traction may be increasing or decreasing.&lt;/li>
+&lt;/ul>
+&lt;h1 class="relative group">Installation
+&lt;div id="installation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#installation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Installation, with sentence-transformers, can be done using pypi:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pip&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">bertopic&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># If you want to install BERTopic with other embedding models, you can choose one of the following:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Choose an embedding backend&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pip&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">bertopic&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">flair&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">gensim&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">spacy&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">use&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Topic modeling with images&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pip&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">bertopic&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">vision&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h1 class="relative group">Supported Topic Modelling Techniques
+&lt;div id="supported-topic-modelling-techniques" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#supported-topic-modelling-techniques" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>BERTopic supports all kinds of topic modeling techniques as below.&lt;/p></description></item><item><title>Distances in Machine Learning</title><link>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</link><pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/distances-in-machine-learning/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg" alt="Distances in Machine Learning" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Distances in Machine Learning
+&lt;div id="distances-in-machine-learning" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#distances-in-machine-learning" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Every sample, record, word, sentence, object, image etc in the Machine learning language is called vector. If we want to measure the similarity or dissimilarity between two data points then we need distance function.&lt;/p>
+&lt;p>Distance metrics play a crucial role in various machine learning algorithms, including clustering, classification, and anomaly detection. Different distance measures capture different types of relationships between data points.&lt;/p></description></item><item><title>Data Science Cheatsheets</title><link>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">&lt;path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Resource hubs:&lt;/strong> &lt;a href="https://dasarpai.github.io/dsblog/start-here/">Start Here&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ai-resources/">AI Tools&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/ds-ai-ml-books/">800+ Books&lt;/a> · &lt;a href="https://dasarpai.github.io/dsblog/data-science-cheatsheets/">Cheatsheets&lt;/a>&lt;/span>
+&lt;/div>
+&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg" alt="Data Science Cheatsheets" />
+&lt;/figure>
+&lt;/p></description></item><item><title>EDA &amp; Feature Engineering 101</title><link>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</link><pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/eda-feature-engineering-101/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6008-EDA101.jpg" alt="EDA &amp;amp; Feature Engineering" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">What is EDA?
+&lt;div id="what-is-eda" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#what-is-eda" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p>
+&lt;ul>
+&lt;li>What kind of data is this? (file format, volume of data, number of columns, metadata data of image/video/audio or some feedback in English or other languages, or tabular data, etc)&lt;/li>
+&lt;li>How complex is this data? (How many files are there? primary key? how these files are connected to each other? is nested data in some files? is some field having nested data, etc.)&lt;/li>
+&lt;li>Is this data sufficient for meeting our ultimate goal, i.e. Model building?&lt;/li>
+&lt;li>Is there any missing data? Data needed but not given by the business or not available at all or costly to get that data etc.&lt;/li>
+&lt;li>Are there any missing values? In the given dataset do we have complete information or some values are missing for some records or some columns?&lt;/li>
+&lt;li>What are different independent and dependent fields?&lt;/li>
+&lt;li>Is there any relationship between different independent variables of the dataset? If yes then how strong is that relationship?&lt;/li>
+&lt;li>Are observations independent or tightly coupled like we see in time-series data?&lt;/li>
+&lt;/ul>
+&lt;p>In the data scient project lifecycle, EDA is not a sequential, one-time, isolated process. Till the time data is not ready for modeling we keep doing EDA and cleaning the data. So, EDA is followed by a list of decisions taken to clean the dataset, and finally, data cleaning steps are implemented. If the dataset is not in the good shape after the first iteration of EDA we continue EDA in the next cycle. In this article, I am not referring to EDA as just visualizing and understanding the dataset but all the steps required till the dataset is not ready for modeling.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Learning Path on dasarpAI</title><link>https://dasarpai.github.io/tags/learning-path/</link><description>Recent content in Learning Path on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/learning-path/index.xml" rel="self" type="application/rss+xml"/><item><title>Start Here — Data Science &amp; AI on dasarpAI</title><link>https://dasarpai.github.io/dsblog/start-here/</link><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/start-here/</guid><description>&lt;p>This page is the map for the data science and quantum computing articles. Pick one goal below. The full archive stays at &lt;a href="https://dasarpai.github.io/dsblog/">All Data Science posts&lt;/a>.&lt;/p>
+&lt;h2 class="relative group">If you are learning quantum computing
+&lt;div id="if-you-are-learning-quantum-computing" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#if-you-are-learning-quantum-computing" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Start with the word, then the hardware, then a career map.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://dasarpai.github.io/dsblog/mental-map-of-quantum-mechanics-vocabulary/">A Mental Map of Quantum Mechanics Vocabulary&lt;/a> — system, state, observable, operator, measurement&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/dsblog/what-is-error-in-quantum-computing/">What Is Error in Quantum Computing?&lt;/a> — damage to the state, mitigation, and error correction&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/dsblog/quantum-hardware-is-not-a-smaller-or-stranger-classical-computer/">Quantum Hardware Is Not a Smaller Classical Computer&lt;/a> — why a qubit is not a transistor&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/dsblog/quantum-computing-careers/">Quantum Computing Careers&lt;/a> — where a software professional should enter&lt;/li>
+&lt;li>&lt;a href="https://dasarpai.github.io/series/learning-quantum-physics/">Learning Quantum Physics series&lt;/a> — math and the rest, in order&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">If you want to run LLMs locally
+&lt;div id="if-you-want-to-run-llms-locally" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#if-you-want-to-run-llms-locally" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A practical sequence: install Ollama, then optional setup on WSL2 or Docker.&lt;/p></description></item></channel></rss>

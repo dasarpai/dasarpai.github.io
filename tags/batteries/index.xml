@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Batteries on dasarpAI</title><link>https://dasarpai.github.io/tags/batteries/</link><description>Recent content in Batteries on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/batteries/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Batteries: Sizes, Chemistry, Voltage, Capacity and Lifespan</title><link>https://dasarpai.github.io/dsblog/understanding-batteries/</link><pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-batteries/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6335-understanding-batteries.jpg" alt="Understanding Batteries: Sizes, Chemistry, Voltage, Capacity and Lifespan" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Batteries: Sizes, Chemistry, Voltage, Capacity and Lifespan
+&lt;div id="understanding-batteries-sizes-chemistry-voltage-capacity-and-lifespan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-batteries-sizes-chemistry-voltage-capacity-and-lifespan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Energy is a current topic, and I wanted to understand batteries. The subject grew as I read, so I wrote a full article. Most of my articles are about data science, quantum computing and advait vedanta. Batteries are a different subject. They are still worth knowing in this much detail.&lt;/p>
+&lt;p>A battery stores energy chemically and turns it into electrical energy. Labels such as &lt;strong>AA&lt;/strong>, &lt;strong>1.5 V&lt;/strong>, &lt;strong>2500 mAh&lt;/strong>, &lt;strong>lithium-ion&lt;/strong>, and &lt;strong>rechargeable&lt;/strong> do not describe the same thing. AA names the size. 1.5 V names the voltage. 2500 mAh names the charge capacity. Lithium-ion names a family of chemistry. Rechargeable means the reaction can run backward in normal use.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Core idea:&lt;/strong> A battery is not described by one number. Its suitability depends on physical fit, chemistry, voltage, energy, current capability, charging method, life, safety, and cost.&lt;/p>&lt;/blockquote></description></item></channel></rss>

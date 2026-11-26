@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Energy on dasarpAI</title><link>https://dasarpai.github.io/tags/energy/</link><description>Recent content in Energy on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/energy/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Batteries: Sizes, Chemistry, Voltage, Capacity and Lifespan</title><link>https://dasarpai.github.io/dsblog/understanding-batteries/</link><pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/understanding-batteries/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6335-understanding-batteries.jpg" alt="Understanding Batteries: Sizes, Chemistry, Voltage, Capacity and Lifespan" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Understanding Batteries: Sizes, Chemistry, Voltage, Capacity and Lifespan
+&lt;div id="understanding-batteries-sizes-chemistry-voltage-capacity-and-lifespan" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#understanding-batteries-sizes-chemistry-voltage-capacity-and-lifespan" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>Energy is a current topic, and I wanted to understand batteries. The subject grew as I read, so I wrote a full article. Most of my articles are about data science, quantum computing and advait vedanta. Batteries are a different subject. They are still worth knowing in this much detail.&lt;/p>
+&lt;p>A battery stores energy chemically and turns it into electrical energy. Labels such as &lt;strong>AA&lt;/strong>, &lt;strong>1.5 V&lt;/strong>, &lt;strong>2500 mAh&lt;/strong>, &lt;strong>lithium-ion&lt;/strong>, and &lt;strong>rechargeable&lt;/strong> do not describe the same thing. AA names the size. 1.5 V names the voltage. 2500 mAh names the charge capacity. Lithium-ion names a family of chemistry. Rechargeable means the reaction can run backward in normal use.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Core idea:&lt;/strong> A battery is not described by one number. Its suitability depends on physical fit, chemistry, voltage, energy, current capability, charging method, life, safety, and cost.&lt;/p>&lt;/blockquote></description></item><item><title>Exploring the Energy Demand and Supply of India</title><link>https://dasarpai.github.io/dsblog/exploring-the-energy-demand-and-supply-of-india/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/exploring-the-energy-demand-and-supply-of-india/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg" alt="Exploring the Energy Demand and Supply of India" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Exploring the Energy Demand and Supply of India
+&lt;div id="exploring-the-energy-demand-and-supply-of-india" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exploring-the-energy-demand-and-supply-of-india" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>When India talks about becoming a &lt;em>Vishwa Guru&lt;/em> (World Leader), &lt;em>Vishwa Mitra&lt;/em> (Friend of the World), the &lt;em>Leader of the South&lt;/em>, or an &lt;em>AI Superpower&lt;/em>, we must first understand our own electricity demand and supply. Without this understanding, these grand aspirations will remain mere words in the 21st century.&lt;/p></description></item><item><title>AI in Energy Management</title><link>https://dasarpai.github.io/dsblog/ai-in-energy-management/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/ai-in-energy-management/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg" alt="AI in Energy Management" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">AI in Energy Management
+&lt;div id="ai-in-energy-management" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ai-in-energy-management" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h3 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>The application of AI in energy management is aimed at optimizing energy consumption and reducing waste in the energy sector. AI can help in Energy Demand management, Energy Optimization, Energy Equipment Maintenance and Repair, Renewable energy integration and smart grid management. Some of the specific usecases in Energy sector can be as following.&lt;/p></description></item><item><title>Human Peace</title><link>https://dasarpai.github.io/wiaposts/human-peace/</link><pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/wiaposts/human-peace/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/wiapost/5164-Human-Peace.jpg" alt="Human Peace" />
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">Human Peace
+&lt;div id="human-peace" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#human-peace" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Information has become abundant&lt;br>
+and it is free through search engines like Google, bing, yahoo etc.&lt;/p>
+&lt;p>Knowledge has become abundant&lt;br>
+and free through Wikipedia, quora etc.&lt;/p>
+&lt;p>Energy is becoming abundant through nuclear, wind, solar, etc.&lt;/p>
+&lt;p>Communication has become abundant&lt;br>
+through new mobile communication technologies.&lt;/p>
+&lt;p>Entertainment has become abundant through YouTube, netflix, imdb, etc.&lt;/p></description></item><item><title>Managing Source Of Energy</title><link>https://dasarpai.github.io/wiaposts/managing-source-of-energy/</link><pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/wiaposts/managing-source-of-energy/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg" alt="Managing Source Of Energy" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Managing Source Of Energy
+&lt;div id="managing-source-of-energy" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#managing-source-of-energy" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>If we group people based on&lt;br>
+their energy characteristics&lt;br>
+then groups will look like this.Volcano, Pressure cooker on burning heat stove,&lt;br>
+explosive bomb, LED bulb, Small led light,&lt;br>
+Halogen bulb in the street, Hot black color plate&lt;br>
+which cannot be seen as hot,&lt;br>
+hot coffee, a cube of ice, and a mountain of snow.Every energy body around us has&lt;br>
+their relevance and purpose,&lt;br>
+Living in happiness with that energy source&lt;br>
+depends upon who is handling and&lt;br>
+how that energy source is handled.In business, social, or family life&lt;br>
+we suffer because we don’t know&lt;br>
+how to handle an energy body&lt;br>
+which is close to me in terms of&lt;br>
+relationship or business. All are not expert in handling&lt;br>
+all kinds of energy sources and&lt;br>
+it is not possible also.&lt;/p></description></item></channel></rss>

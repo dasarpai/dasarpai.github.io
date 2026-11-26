@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Algebra on dasarpAI</title><link>https://dasarpai.github.io/tags/algebra/</link><description>Recent content in Algebra on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/algebra/index.xml" rel="self" type="application/rss+xml"/><item><title>Opening a Power: Where the Coefficients Come From</title><link>https://dasarpai.github.io/dsblog/opening-a-power-binomial-coefficients/</link><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/opening-a-power-binomial-coefficients/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6330-opening-a-power-binomial-coefficients.jpg" alt="Opening a Power: Where the Coefficients Come From" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Opening a Power: Where the Coefficients Come From
+&lt;div id="opening-a-power-where-the-coefficients-come-from" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#opening-a-power-where-the-coefficients-come-from" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A power such as $(x+y)^{55}$ is 55 factors of $(x+y)$. Each factor contributes an $x$ or a $y$. A finished term is one pattern of those choices. The two powers in the term always add to 55. The number in front of the term counts how many patterns give that same pair of powers.&lt;/p>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/equations-and-their-shapes">Functions, Equations, and Their Shapes&lt;/a> asks what a polynomial looks like as a graph. This article asks where the numbers in front of the terms come from.&lt;/p></description></item></channel></rss>

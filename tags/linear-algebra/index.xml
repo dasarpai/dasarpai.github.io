@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linear Algebra on dasarpAI</title><link>https://dasarpai.github.io/tags/linear-algebra/</link><description>Recent content in Linear Algebra on dasarpAI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hari@dasarpai.com (Dr. Hari Thapliyaal)</managingEditor><webMaster>hari@dasarpai.com (Dr. Hari Thapliyaal)</webMaster><copyright>© 2026 Dr. Hari Thapliyaal</copyright><lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml"/><item><title>Quantum Gates: Matrices, Mirrors, and Beam Splitters</title><link>https://dasarpai.github.io/dsblog/quantum-gates/</link><pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/quantum-gates/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6337-quantum-gates.jpg" alt="Quantum Gates: Matrices, Mirrors, and Beam Splitters" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Quantum Gates: Matrices, Mirrors, and Beam Splitters
+&lt;div id="quantum-gates-matrices-mirrors-and-beam-splitters" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#quantum-gates-matrices-mirrors-and-beam-splitters" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 28 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>A quantum gate is a matrix multiplied by the qubit column. On one photon that matrix is a mirror, a glass plate, a wave plate, or a beam splitter.&lt;/p>
+&lt;p>On one photon, the same rule is a piece of hardware. A mirror can swap two paths. A glass plate can change the phase of one path. A beam splitter can mix the two paths. A wave plate does the matching job when the qubit is the direction of the light wave.&lt;/p>
+&lt;p>This article gives each standard gate three things: the matrix, one use, and the piece of glass. &lt;a href="https://dasarpai.github.io/dsblog/operators-in-quantum-mechanics">Operators in Quantum Mechanics&lt;/a> sorts a matrix into a gate, a measurement instruction, or a projector. &lt;a href="https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons">Building a 20-Qubit Quantum System Using Photons&lt;/a> builds a larger optical machine. Start here when the word gate is new.&lt;/p></description></item><item><title>From Geometry to Quantum Mechanics</title><link>https://dasarpai.github.io/dsblog/from-geometry-to-quantum-mechanics/</link><pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/from-geometry-to-quantum-mechanics/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6333-from-geometry-to-quantum-mechanics.jpg" alt="From Geometry to Quantum Mechanics" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">From Geometry to Quantum Mechanics
+&lt;div id="from-geometry-to-quantum-mechanics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#from-geometry-to-quantum-mechanics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 26 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>See the same mathematical idea in four spaces: (1) a 2D plane, (2) 3D space, (3) one qubit, and (4) three qubits. Move the slider to change the example in all four columns. Read the formula under each picture. The &lt;a href="#3-geometry-vs-quantum-mechanics-concept-and-terminology-mapping">terminology table&lt;/a> lists every paired term, and the search box filters that list.&lt;/p></description></item><item><title>Operators in Quantum Mechanics</title><link>https://dasarpai.github.io/dsblog/operators-in-quantum-mechanics/</link><pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/operators-in-quantum-mechanics/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6334-operators-in-quantum-mechanics.jpg" alt="Operators in Quantum Mechanics" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Operators in Quantum Mechanics
+&lt;div id="operators-in-quantum-mechanics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#operators-in-quantum-mechanics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 27 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>An operator takes the column of a state and returns a new column. On one qubit the column has two entries, so the operator is a 2 by 2 matrix. Write the matrix on the left. Write the column on the right. Multiply.&lt;/p>
+&lt;p>&lt;a href="https://dasarpai.github.io/dsblog/from-geometry-to-quantum-mechanics">From Geometry to Quantum Mechanics&lt;/a> uses these names side by side with arrows in a plane. This article defines each operator, writes its matrix, and says what the matrix does.&lt;/p></description></item><item><title>How Many Numbers Does a Qubit Need?</title><link>https://dasarpai.github.io/dsblog/how-many-numbers-does-a-qubit-need/</link><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/how-many-numbers-does-a-qubit-need/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6332-how-many-numbers-does-a-qubit-need.jpg" alt="How Many Numbers Does a Qubit Need?" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">How Many Numbers Does a Qubit Need?
+&lt;div id="how-many-numbers-does-a-qubit-need" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#how-many-numbers-does-a-qubit-need" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>You already know how to place a point. On a plane you need two numbers. In a room you need three. This article uses that skill for a qubit.&lt;/p>
+&lt;p>A qubit is the smallest piece of quantum information. One pure qubit is a point on a sphere. The sphere is the surface of an ordinary ball, so the point has coordinates \(x\), \(y\), and \(z\). Those coordinates obey \(x^{2} + y^{2} + z^{2} = 1\), so two of the three coordinates are free.&lt;/p>
+&lt;p>The path there starts with an arrow.&lt;/p></description></item><item><title>Building a 20-Qubit Quantum System Using Photons</title><link>https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons/</link><pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate><author>hari@dasarpai.com (Dr. Hari Thapliyaal)</author><guid>https://dasarpai.github.io/dsblog/building-a-20-qubit-quantum-system-using-photons/</guid><description>&lt;p>
+&lt;figure>
+&lt;img class="my-0 rounded-md" loading="lazy" src="https://dasarpai.github.io/assets/images/dspost/dsp6313-building-a-20-qubit-quantum-system-using-photons.jpg" alt="Building a 20-Qubit Quantum System Using Photons" />
+&lt;/figure>
+&lt;/p>
+&lt;h1 class="relative group">Building a 20-Qubit Quantum System Using Photons
+&lt;div id="building-a-20-qubit-quantum-system-using-photons" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#building-a-20-qubit-quantum-system-using-photons" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Part 13 of the &lt;em>Learning Quantum Physics&lt;/em> series.&lt;/strong>&lt;/p>
+&lt;p>Quantum computing often becomes difficult to understand because we start directly with symbols such as:&lt;/p>
+&lt;p>&lt;code>|0&amp;gt;&lt;/code>, &lt;code>|1&amp;gt;&lt;/code>, superposition, entanglement, Hilbert space, and quantum gates.&lt;/p>
+&lt;p>A simpler approach is to start with the &lt;strong>physical system&lt;/strong> — the actual hardware — and only then attach the math.&lt;/p>
+&lt;p>Let us assume that we want to build a &lt;strong>20-qubit quantum system using photons&lt;/strong>.&lt;/p>
+&lt;p>The central idea is:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>One photon can be used as one qubit if we choose one two-state property of that photon to represent &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code>.&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>For this article, we will use the polarization of a photon.&lt;/p>
+&lt;h2 class="relative group">If you write software
+&lt;div id="if-you-write-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#if-you-write-software" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you already think in &lt;strong>bits&lt;/strong>, &lt;strong>registers&lt;/strong>, and &lt;strong>logic gates&lt;/strong>, here is the mapping this article uses:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Classical computing&lt;/th>
+&lt;th>Photonic qubits (this article)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>One bit: &lt;code>0&lt;/code> or &lt;code>1&lt;/code>&lt;/td>
+&lt;td>One qubit: two basis states labeled &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20-bit register: one of 2^20 bit strings&lt;/td>
+&lt;td>20-qubit register: one &lt;strong>joint&lt;/strong> state in a 2^20-dimensional vector space&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AND / OR / NOT gates&lt;/td>
+&lt;td>Unitary transforms implemented with wave plates, beam splitters, and phase shifters&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Read register → get 20 bits&lt;/td>
+&lt;td>Measure 20 qubits → get &lt;strong>one&lt;/strong> 20-bit outcome per experimental run&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>The goal is not to memorize optics. It is to see &lt;strong>where the symbols in a quantum circuit come from physically&lt;/strong> — so notation like &lt;code>|0&amp;gt;&lt;/code>, &lt;code>|+&amp;gt;&lt;/code>, tensor products, and entanglement map to hardware you could, in principle, build in a lab.&lt;/p>
+&lt;p>Throughout, &lt;code>|0&amp;gt;&lt;/code> and &lt;code>|1&amp;gt;&lt;/code> are &lt;strong>Dirac ket&lt;/strong> labels (basis state names), not ASCII angle brackets around integers.&lt;/p></description></item></channel></rss>
